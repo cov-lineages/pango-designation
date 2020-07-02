@@ -12,6 +12,141 @@ A.7	Indian lineage, previously A.p7. Some in A.p7, including Saudi Arabian & Tur
 A.8	Indian lineage with good support and despite small numbers shows internal diversity, previously A.p7 (BS=83)
 A.9 Indian lineage, previously A.p7 (BS=85)
 B	Base of this lineage also lies in China, with many global exports, two distinct SNPs `8782TC` and `28144CT` define this lineage
+B.1	A large European lineage that corresponds to the Italian outbreak.
+B.1.2	USA, split up a bit this week, refined it
+B.1.3	USA 
+B.1.5	European lineage/ lots of Spanish sequences towards the basal end of the subtree and exports around the globe. Low support at parent node now, potentially as a result of homoplasies 
+B.1.5.2	Netherlands 
+B.1.5.3	English lineage (now containing an Australian & Swedish seqeuence)
+*B.1.5.4	Reassigned to B.1.5 as B.1.5 now seems to be European/ Spanish, so B.1.5.4 not a new introduction
+B.1.5.5	English lineage
+B.1.5.6	Scottish lineage
+B.1.5.8	US lineage
+B.1.5.9 Welsh lineage 
+B.1.5.10	UK lineage
+B.1.6	Belgian lineage 
+B.1.8	Netherlands/ Europe
+B.1.8.1	South African lineage
+B.1.9	Netherlands/ Belgium/ Turkey/ DRC 
+B.1.11	UK lineage but low support and splitting up, pruned down quite a lot, but may need to be removed next time (BS=31)
+B.1.12	BeNeLux 
+B.1.13	UK lineage
+*B.1.p16	Belgium lineage, reassigned to B.1
+B.1.19	USA 
+B.1.21	Washington (USA) 
+B.1.22	Netherlands lineage, now with some European sequences and some Australian sequences (BS=100)
+B.1.23	Australian lineage 
+B.1.25	Australian lineage
+B.1.26	New Zealand/ USA lineage 
+B.1.29	USA 
+B.1.30	England 
+B.1.31	Australia 
+B.1.32	Swedish lineage 
+B.1.33	Australian/ New Zealand lineage 
+B.1.34	England lineage 
+B.1.35	UK lineage
+B.1.36	Global lineage- Turkey, Saudi Arabia, India, UK
+B.1.37	USA lineage 
+B.1.38	USA 
+B.1.39	Denmark 
+B.1.40	Scotland 
+B.1.41	USA lineage 
+B.1.42	Sweden/ Denmark lineage
+B.1.43	USA lineage 
+B.1.44	Wales
+B.1.66	English lineage 
+B.1.67	Wales lineage 
+B.1.68	USA lineage (UT) 
+B.1.69	Scottish lineage 
+B.1.70	Scottish lineage
+B.1.71	UK lineage
+B.1.72	UK lineage (BRIS)
+B.1.73	Scottish lineage
+B.1.74	Spanish lineage, with sequences from Portugal too.
+B.1.75	English lineage
+B.1.76	English lineage
+B.1.77	UK lineage
+B.1.78	Netherlands lineage
+B.1.79	English lineage
+B.1.80	Indian lineage, with a couple of Luxembourg sequences
+B.1.81	English lineage
+B.1.82	English lineage
+B.1.83	Belgian lineage
+B.1.84	DRC lineage
+B.1.85	USA lineage
+B.1.86	English lineage
+B.1.87	Indian lineage, with some Chinese and South African sequences
+B.1.87.1	South African lineage
+B.1.88	UK lineage, previously some of these seqeunces had been assigned B.1.11, but this clade has split in the tree. Now reassigned a new lineage.
+B.1.89	Scottish lineage
+B.1.90	Scottish lineage, previously part of B.1.11, but now reassigned
+B.1.91	Portuguese lineage
+B.1.93	UK lineage, majoritively Scottish sequences
+B.1.94	Luxembourg lineage
+B.1.95	Indian lineage
+B.1.96	Netherlands lineage
+B.1.97	English lineage
+B.1.98	UK lineage
+B.1.99	Previously part of B.1.5, English lineage
+B.1.100	Previously B.1.5.5, Scottish lineage
+B.1.101	Scottish lineage
+B.1.102	Icelandic lineage, previously assigned B.1.5.1
+B.1.103	US lineage
+B.1.104	English lineage
+B.1.105	English lineage
+B.1.106	South African lineage
+B.1.106.1	USA lineage
+B.1.107	Danish lineage
+B.1.108	US lineage
+B.1.109	Luxembourg lineage
+B.1.110	Chilean/ US lineage
+B.1.111	South American lineage
+B.1.112	US lineage
+B.1.113	Indian lineage
+B.1.114	Canadian lineage
+B.1.115	Israel lineage
+B.1.116	US lineage
+B.1.117	UK lineage
+B.1.118	Danish lineage
+B.1.119	US lineage
+B.1.120	Wales lineage
+B.1.121	Australian lineage
+B.1.122	Welsh lineage
+B.1.123	Washington lineage, previously part of B.1.21, but split off in this phylogeny
+B.1.1	European lineage that's been assigned due to high support and 3 clear SNPs `28881GA`,`28882GA`,`28883GC`
+B.1.1.1	UK/ Europe (BS=13)
+B.1.1.2	Welsh lineage (BS=59)
+B.1.1.3	English lineage (BS=92)
+B.1.1.4	UK lineage (BS=76)
+B.1.1.5	Iceland/ Belgium/ UK (BS=85)
+B.1.1.6	Austrian lineage (BS=13)
+B.1.1.7	UK/ Australia/ Iceland (BS=100)
+B.1.1.8	Formerly UK/ USA/ Australia lineage. With new data, now refined to just include the Indian sequences. Indian lineage (BS=62)
+*B.1.1.9	Reassigned B.1.1, split into three this week, unstable lineage
+B.1.1.10	FormerlyUK/ Iceland (BS=13), a lot of diversity in this lineage, now has a Turkish sequence. 
+*B.1.1.p11	Reassigned B.1.1, previously Portugal/ Wales/ England/ Ecuador (BS=13 this week)
+B.1.1.12	Scottish lineage (BS=14)
+B.1.1.13	UK lineage (BS=73)
+B.1.1.14	Scottish lineage (BS=79)
+B.1.1.15	Luxembourg lineage (BS=16, but internal nodes all 100)
+B.1.1.16	Wales lineage (BS=96)
+B.1.1.17	Iceland lineage (BS=100)
+B.1.1.18	Austrian lineage (BS=100)
+B.1.1.19	Australian lineage (BS=24)
+B.1.1.20	Scottish lineage (BS=74)
+B.1.1.21	Australian lineage (BS=100)
+B.1.1.22	South African lineage (BS=35)
+B.1.1.23	Bangladesh lineage (BS=13)
+B.1.1.24	Portuguese lineage (BS=87)
+B.1.1.25	Bangladesh/Australian lineage (BS=13)
+B.1.1.26	US lineage (BS=79)
+B.1.1.27	Lineage in Oman (BS=100)
+B.1.1.28	Fujian/ Brazil lineage (BS=18, but distinct epi data)
+B.1.1.29	Wales lineage (BS=100)
+B.1.1.30	Wales lineage (BS=91)
+B.1.1.31	Netherlands lineage (BS=35)
+B.1.1.32	Indian lineage (BS=56)
+B.1.1.33	Majoritively South American lineage, lots of Brazil sequences represented (BS=71)
 B.2	A large lineage that now includes B.7 as a sublineage within it. Diversity within Hong Kong and Europe (BS=20)
 B.2.1	Large lineage with representation from UK, Europe, Jordan, Australia, USA, India, Ghana (BS=21) 
 B.2.2	UK/ USA/ Australia (BS=30)
