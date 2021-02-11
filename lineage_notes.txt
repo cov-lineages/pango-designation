@@ -393,7 +393,7 @@ B.1.23	Australian/ New Zealand lineage
 *B.1.34	English lineage, reassigned B.1
 B.1.35	UK lineage
 B.1.36	Saudi Arabia base, then into UK and Denmark, Australia
-*B.1.36.1 	UK lineage
+B.1.36.1	Swiss/ UK lineage
 *B.1.36.3	Danish lineage
 B.1.36.4	Netherlands lineage
 *B.1.36.5	Saudi Arabia lineage, reassigned to parent lineage B.1.36
