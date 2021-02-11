@@ -1,5 +1,5 @@
-# assignment
+# Pango designation
 
-Repository for suggesting new lineages that should be added to the current lineage scheme
+The latest maintained Pango-lineage designations.
 
-This repository contains a nested structure of lineage assignments. Novel lineages or lineage refinements can be suggested via pull request to the repository. 
+Novel lineages or lineage refinements can be suggested by filing an issue with the respective sequence names, as found on GISAID, and any supporting information such as a phylogenetic tree for the putative lineage. 
