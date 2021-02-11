@@ -925,7 +925,7 @@ B.1.523	Reassigned from B.1.160, which split in the tree. Turkey, Saudi_Arabia a
 B.1.524	Malaysian lineage
 B.1.525	Nigerian, Ghanaian and international lineage with E484K, del69-70 among other defining mutations.
 B.1.526	A lineage predominantly circulating in New York but with a few exports to other countries. Characterised by spike mutations T95I and D253G, plus others.
-The most frequent spike mutation pattern is L5F T95I D253G E484K D614G A701V, with a smaller fraction having S477N instead of E484K
+The most frequent spike mutation pattern is L5F T95I D253G E484K D614G A701V, with a smaller fraction having S477N instead of E484K. Spike mutation E484K is present in about half of this lineage (as of 2021-02-10)
 *B.2.1	Reassigned to B.40
 *B.2.6	Reassigned to B.35
 *B.2.10	Reassigned to B.41
