@@ -784,6 +784,7 @@ B.1.381	South African lineage reassigned from B.1.5.19
 B.1.382	US lineage, reassigned from B.1.5
 B.1.383	Wales lineage
 B.1.384	US lineage
+B.1.385	US lineage
 *B.1.386	Reassigned in the current tree. US lineage
 B.1.387	French lineage
 B.1.388	Cote d'Ivoire lineage
@@ -924,8 +925,7 @@ B.1.521	USA lineage (TX)
 B.1.523	Reassigned from B.1.160, which split in the tree. Turkey, Saudi_Arabia and European lineage.
 B.1.524	Malaysian lineage
 B.1.525	Nigerian, Ghanaian and international lineage with E484K, del69-70 among other defining mutations.
-B.1.526	A lineage predominantly circulating in New York but with a few exports to other countries. Characterised by spike mutations T95I and D253G, plus others.
-The most frequent spike mutation pattern is L5F T95I D253G E484K D614G A701V, with a smaller fraction having S477N instead of E484K. Spike mutation E484K is present in about half of this lineage (as of 2021-02-10)
+B.1.526	A lineage predominantly circulating in New York but with a few exports to other countries. Characterised by spike mutations T95I and D253G, plus others. The most frequent spike mutation pattern is L5F T95I D253G E484K D614G A701V, with a smaller fraction having S477N instead of E484K. Spike mutation E484K is present in about half of this lineage (as of 2021-02-10)
 *B.2.1	Reassigned to B.40
 *B.2.6	Reassigned to B.35
 *B.2.10	Reassigned to B.41
@@ -986,6 +986,7 @@ B.52	UK lineage
 B.53	Lithuanian lineage
 B.54	UK lineage
 C.1	Alias of B.1.1.1.1, South African lineage
+C.1.1	Alias of B.1.1.1.1.1, Mozambique lineage
 C.2	Alias of B.1.1.1.2, South African lineage
 C.3	Alias of B.1.1.1.3, English lineage
 C.4	Alias of B.1.1.1.4, Peru lineage
