@@ -31,6 +31,8 @@ A.23.1	International lineage with a number of variants of potential biological c
 A.24	South Korean lineage
 A.25	Ugandan lineage
 A.26	UK lineage
+A.27	Mayotte cluster with 18 changes in the long branch leading to this cluster, including 7 NS changes in the spike (L18F, L452R, N501Y, A653V, H655Y, D796Y, G1219V), on a 614D background. pango-designation issue #11.
+A.28	This lineage has 9 changes on its basal branch, including the 69-70del, N501T (not Y) and H655Y. (This variant is picked up by the qPCR S drop). pango-designation issue #12
 B	Base of this lineage also lies in China, with many global exports, two distinct SNPs `8782TC` and `28144CT` define this lineage
 B.1	A large European lineage that corresponds to the Italian outbreak.
 *B.1.1	Reassigned in the current tree. European lineage with 3 clear SNPs `28881GA`,`28882GA`,`28883GC`
