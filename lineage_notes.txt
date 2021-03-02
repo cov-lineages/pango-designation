@@ -590,6 +590,8 @@ B.1.211	Luxembourg lineage
 B.1.212	Brazil lineage
 B.1.213	Polish lineage
 B.1.214	DRC lineage
+B.1.214.1	Congo/ France lineage
+B.1.214.2	European lineage with sequences from Belgium, Denmark, Switzerland and Mayotte. It has a number of key spike mutations and a 9bp spike insertion.
 B.1.215	Scottish lineage, previously some of B.1.77
 B.1.216	USA lineage
 *B.1.217	Reassigned in the current tree. Indian lineage Reassigned from B.1.80, split this assignment
