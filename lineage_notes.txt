@@ -1025,5 +1025,6 @@ N.3	Alias of B.1.1.33.3, Argentinian lineage
 N.4	Alias of B.1.1.33.4, Chilean lineage
 P.1	Alias of B.1.1.28.1, Brazilian lineage with a number of spike mutaions with likely functional significance E484K, K417T, and N501Y. Described in https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586.
 P.2	Alias of B.1.1.28.2, Brazilian lineage
+P.3	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2
 R.1	Alias of B.1.1.316.1. Sublineage of B.1.1.316 with 3 additional spike mutations, circulating in a number of countries. pango-designation issue #17
 R.2	Alias of B.1.1.316.2. Sublineage of B.1.1.316 with E484K. pango-designation issue #18
