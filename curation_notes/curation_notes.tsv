@@ -1,0 +1,1294 @@
+Lineage	Rough number of SNPs	Example sequence	Active/ Unobserved/ Inactive	Designator	Size (roughly)	Description
+A	0	Wuhan/WH04/2020	Active	Áine	4403	Root of the pandemic lies within lineage A. Many sequences originating from China and many global exports; including to South East Asia Japan South Korea Australia the USA and Europe represented in this lineage
+A.1	2	USA/WA-UW-1702/2020		Áine	1297	USA lineage
+A.2	2	Spain/MD-HLP-R10-33/2020		Áine	1010	Mostly Spanish lineage now includes South and Central American sequences, other European countries and Kazakhstan.
+*A.2.1				Áine	0	No longer present Panama lineage
+A.2.2		Australia/SAP254/2020		Áine	100	Australian lineage
+A.2.3		Scotland/CVR2262/2020		Áine	200	Scottish lineage
+A.2.4	10	Panama/333400/2020		Áine	200	Panama lineage
+A.2.5	10	Ecuador/USFQ-556/2020	Active	Áine	100	Central American/ USA lineage
+A.3	1	USA/IL2/2020		Áine	400	USA lineage
+A.4	1	USA/IL-NM073/2020		Áine	100	USA lineage
+A.5	1	Mexico/QUE-InDRE-04/2020		Áine	267	A lineage with a lot of representation from Spanish-speaking countries. A Spanish/ South-American lineage, but now with sequences from an outbreak in Scotland. Also now includes what was previously A.10.
+A.6	1	Thailand/SI200468-NT/2020		Áine	40	Thai lineage
+A.7	2	India/OR-RMRC158/2020		Áine	20	Indian lineage
+*A.8				Áine	0	Indian lineage
+A.9	1	India/WB-S51/2020		Áine	20	Indian lineage
+*A.10				Áine	0	Spanish lineage reassigned to A.5
+A.11	1	Senegal/620/2020		Áine	11	Ghana/ Senegal lineage
+A.12	3	Sierra_Leone/KGH-G-8669/2020		Áine	6	Sierra Leone lineage
+*A.13					0	Cote d'Ivoire
+*A.14					0	Cote d'Ivoire
+A.15	1	Denmark/DCGC-6742/2020		Áine	20	Sweden/ Denmark lineage
+A.16	1	Japan/NGY-NNH-002/2020		Áine	15	Japanese lineage
+A.17	1	France/ARA-SC346/2020		Áine	8	French lineage
+A.18	1	Burkina_Faso/583/2020		Áine	10	Cote d'Ivoire/ Burkina Faso lineage
+A.19	2	Cote_dIvoire/BKE0172/2020		Áine	40	Cote d'Ivoire/ Burkina Faso lineage
+*A.20				Áine	0	UAE lineage, lost any resolution in the current tree
+A.21	1	Mali/M002826/2020		Áine	40	Mali/ Burkina Faso lineage
+A.22	1	United_Arab_Emirates/L920667218/2020		Áine	10	UAE lineage
+A.23	4	Uganda/UG072/2020		Áine	30	Ugandan lineage
+A.23.1	1	Uganda/UG209/2020		Áine	300	International lineage with a number of variants of potential biological concern, including 681R
+A.24	1	South_Korea/KCDC2711/2020		Áine	8	South Korean lineage
+A.25	1	Uganda/UG058/2020		Áine	30	Ugandan lineage
+A.26	1	England/LEED-2A89EF/2020		Áine	20	UK lineage
+A.27	18	Belgium/Jessa_55-2102-000125b/2021		Áine	20	Mayotte/ European cluster with 18 changes in the long branch leading to this cluster, including 7 NS changes in the spike (L18F, L452R, N501Y, A653V, H655Y, D796Y, G1219V), on a 614D background. pango-designation issue #11.
+A.28	9	Egypt/CCHE57357-A-48/2020		Áine	40	This lineage has 9 changes on its basal branch, including the 69-70del, N501T (not Y) and H655Y. (This variant is picked up by the qPCR S drop). pango-designation issue #12
+B	2	Hong_Kong/VB20026565-2/2020	Active	Andrew	not too bad	Second major haplotype (and first to be discovered)
+B.1	2					A large European lineage the origin of which roughly corresponds to the Northern Italian outbreak early in 2020.
+B.1.1	3				60000	European lineage with 3 clear SNPs `28881GA`,`28882GA`,`28883GC`
+B.1.1.1	1			Danny	3793	England
+*B.1.1.2				Stephen		
+B.1.1.3	1	England/NORW-EF007/2020		Áine	150	England Lineage
+B.1.1.4	2	England/BRIS-128CB2/2020		Áine	100	English lineage
+B.1.1.5	1	England/SHEF-CC000/2020	Inactive	Áine	60	European lineage
+B.1.1.7				Áine	100000	UK lineage of concern, associated with the N501Y mutation. More information can be found at cov-lineages.org/global_report.html
+B.1.1.8	1	England/PORT-2D1E2A/2020	Dormant	Danny		England
+B.1.1.10	1	Wales/PHWC-34795/2020		Áine	680	European lineage
+B.1.1.12	1			Verity	50	England
+B.1.1.13	1	England/LOND-126027C/2020	Inactive	JT	15	UK
+B.1.1.14	1	Scotland/EDB2281/2020		Verity	25	Scotland
+B.1.1.15	1	England/EKHU-260F490/2020		Áine	40	UK/ Luxembourg lineage
+B.1.1.16	1			Verity		Wales with European base
+B.1.1.17	1	Iceland/56/2020	Dormant	Verity	8	Icelandic
+B.1.1.25	1	Bangladesh/BCSIR-NILMRC-180/2020	Active	Stephen	>1000	Bangladesh Lineage
+B.1.1.26	1	USA/WA-S623/2020		Danny	93	Bangladesh Lineage
+B.1.1.27	1	Oman/RESP-20-4810/2020	Active	Áine	70	Oman Lineage, some UAE
+B.1.1.28	1	Brazil/SP-751/2020		Verity	200+	Brazil mostly, absorbed B.1.1.94 and B.1.1.143
+B.1.1.29				Nathan	30	UK
+B.1.1.30	2	Lithuania/C20-05-R7/2020		Danny	8	Lithuanian
+B.1.1.31	3	Russia/OMS-ORINFI-5350S/2020	Dormant	Chris	15	Russian lineage
+*B.1.1.32				Verity		Withdrawn, absorbed into B.1.1.306
+B.1.1.33	1	Brazil/RJ-0267/2020	Active	JT	200+	Brazillian
+B.1.1.34	1	South_Africa/NHLS-UCT-GS-2980/2020		Áine	100	South African lineage
+B.1.1.37	1	England/SHEF-D2A54/2020		Áine	3174	UK lineage
+B.1.1.38	1	Wales/PHWC-1668D2/2020		JT	20	Wales
+B.1.1.39	2	Switzerland/ZH-ETHZ-240071/2020	Active	Chris	561	Mostly Switzerland with lots of other countries
+B.1.1.40	1	South_Africa/NHLS-UCT-GP-5231/2020		Áine	20	South African lineage
+B.1.1.41	1	England/LIVE-A7F3B/2020		Áine	136	Engligh lineage
+B.1.1.43	1	Scotland/CVR2306/2020	Extinct	Chris	52	Scottish lineage
+B.1.1.44	1	Wales/PHWC-28F41/2020		Verity		Pan-European, big scottish section
+B.1.1.45	1	England/ALDP-49F3BE/2020		Verity	20	UK
+B.1.1.46	2	India/KA-IB48/2020	Dormant	Verity	50	Mostly India
+B.1.1.47	1	England/PHEC-212A9/2020		Verity		Switzerland and other Northern Europe
+B.1.1.48	1	Japan/PG-0427/2020		Verity	10	Japan
+B.1.1.49	1	Wales/PHWC-165E68/2020		Verity	50	Wales
+B.1.1.50	1	Israel/2113174/2020		Verity	200+	Israel and Palestine
+B.1.1.51	1	England/LEED-2AA3C1/2020		Verity	100+	UK
+B.1.1.52	1	South_Africa/LR00121/2020		Verity	20	South Africa
+B.1.1.53	2	South_Africa/R10852/2020		Verity	25	South Africa
+B.1.1.54	2	South_Africa/KRISP-CH01110237/2020	Active	Danny	178	South African Lineage
+B.1.1.55	1	England/NOTT-111539/2020		Áine	100	English lineage
+B.1.1.56	1	South_Africa/KRISP-0143/2020		Áine	20	South African lineage
+B.1.1.57	1	South_Africa/NHLS-UCT-GS-3097/2020		Áine	100	South African lineage, a few English sequences, one Zimbabwe
+B.1.1.58	1	Slovenia/V0-17285/2020		JT	50	Eruopean lineage
+B.1.1.59	1	Wales/PHWC-166E67/2020	Unobserved	JT	50	UK lineage
+B.1.1.61	1	USA/GA_2742/2020		Áine	50	USA lineage
+B.1.1.62	1	South_Africa/NHLS-UCT-GS-0277/2020		JT	30	South African lineage
+B.1.1.63	1	Hong_Kong/HKU-200723-108/2020		Áine	70	Hong Kong lineage
+B.1.1.67	1	South_Africa/KRISP-K003501/2020		Verity	100	England and South Africa
+B.1.1.70	2	Italy/UMB-ISS-3867/2020	Active	Áine	>2000	European Lineage 
+B.1.1.71		Netherlands/ZuidHolland_102/2020		Verity		Dutch, Central Europe
+B.1.1.72	2	USA/MI-UM-10035869177/2020	Active	JT	10	US lineage
+B.1.1.74	1	Northern_Ireland/NIRE-FF374/2020	Active	Áine	100	NI & Ireland Lineage
+B.1.1.75	1	England/CAMB-7D9B8/2020	Inactive 	Áine	20	Belgian lineage
+*B.1.1.76				Áine	0	Reassigned B.1.1
+B.1.1.77	1	USA/MI-MDHHS-SC21181/2020	Unobserved	Áine	15	US Lineage
+*B.1.1.80				Áine	0	Reassigned B.1.1.25 as now merged in tree
+B.1.1.82	1	Wales/PHWC-163E4C/2020		Áine	15	Wales lineage
+B.1.1.83	1	Northern_Ireland/NIRE-FF7E1/2020		Áine	150	Northern Irish lineage
+B.1.1.84	2	South_Africa/KRISP-0380/2020		Verity	5	South African
+*B.1.1.85				Áine		Reassigned B.1.1.316
+B.1.1.86	4	England/ALDP-9544AE/2020	Extinct	Chris	23	UK lineage
+B.1.1.87	2	Hungary/MH-732/2020	Dormant	Chris	7	Hungarian lineage
+B.1.1.88	1	Portugal/PT0517/2020		JT		Portugal lineage
+B.1.1.89	1	England/LOND-12613A5/2020		Danny	92	England
+B.1.1.90	1	Sweden/20-21497/2020	Dormant	Chris	8	Sweden and Denmark lineage
+B.1.1.91	2	Sweden/20-14090/2020		Verity	5	Sweden
+B.1.1.92	1	England/ALDP-5A2A49/2020	Dormant	Chris	14	English lineage
+B.1.1.93	1	USA/CA-ALSR-2366/2020	Unobserved	Stephen	30	US Lineage
+*B.1.1.94				Verity		Withdrawn, now B.1.1.28
+B.1.1.95	1	Wales/PHWC-165BAD/2020		Áine	40	English lineage
+B.1.1.97	2	England/ALDP-9EE272/2020		Verity	15	England
+B.1.1.98	1	USA/AZ-TG670175/2020		JT	10	US lineage
+B.1.1.99	1	South_Africa/KRISP-K002706/2020	Dormant	Chris	19	Mostly South Africa
+B.1.1.100	4	Denmark/DCGC-5715/2020		JT	6	Denmark lineage
+B.1.1.101	1	India/MH-ACTREC-058/2020		Áine	40	Indian lineage
+*B.1.1.103				Áine	0	Reassigned part of B.1.1.25
+B.1.1.107	1	England/ALDP-956451/2020		Verity	20	England
+B.1.1.101	1	India/MH-ACTREC-415/2020	Unobserved	Stephen	35	Indian lineage (two US)
+*B.1.1.103				Áine	0	Reassigned B.1.1.25 as now merged in tree
+B.1.1.109	2	England/ALDP-95C4C4/2020	Dormant	Chris	20	UK lineage
+B.1.1.110	1	Peru/LIM-INS-120/2020		Áine	10	Peru lineage
+B.1.1.111	2	Zimbabwe/ZW-6983/2020	Dormant	Chris	25	African lineage (Zambia, Zimbabwe)
+B.1.1.112	1	Netherlands/NH-EMC-41/2020		Verity	10	Netherlands
+B.1.1.113	1	USA/CA-CZB-1443/2020		Verity	20	Western USA
+B.1.1.114	1	Wales/PHWC-29E8F/2020		Verity	15	Wales
+B.1.1.115	1	England/ALDP-951FCE/2020	Dormant	Chris	70	UK lineage, now contains former B.1.1.235
+B.1.1.116	1	USA/WA-S2573/2020	Active	JT		USA lineage
+B.1.1.117	1	South_Africa/KRISP-0149/2020	Dormant	Verity	60	South African some Argentina, now contains B.1.1.252
+B.1.1.118	1	USA/TX-HMH-MCoV-9373/2020		JT	31	US Lineage (TX)
+B.1.1.119	1	Northern_Ireland/NIRE-FF417/2020		Áine	30	Northen Ireland lineage
+B.1.1.120	4	England/ALDP-52AB46/2020	Dormant	Chris	22	UK lineage
+B.1.1.121	2	Canada/Qc-L00275652/2020		JT	30	Canadian lineage
+B.1.1.122	1	Netherlands/OV-EMC-81/2020		Danny	11	Netherlands
+B.1.1.123	2	England/ALDP-524A8B/2020	Dormant	Chris	40	UK lineage
+B.1.1.125	1	England/ALDP-94B905/2020	Dormant	Chris	68	UK lineage
+B.1.1.127	1	Russia/StPetersburg-RII7520S/2020	Dormant	Verity	10	Russian lineage
+B.1.1.128	2	USA/UT-UPHL-2012990874/2020	Unobserved	Stephen	65	US lineage 
+B.1.1.129	3	Russia/MUR-RII-MH6271S/2020	Active	Danny	30ish	Russian lineage
+B.1.1.130	2	England/LIVE-AA949/2020		Verity	20ish	England
+B.1.1.132	1	USA/CA-ALSR-0642-SAN/2020		JT	30	US Lineage
+B.1.1.133	1	Germany/HH-hpi-p2435/2020		Áine	40	UAE/ European lineage
+B.1.1.134	1	Wales/PHWC-33040/2020		Verity	50	UK
+B.1.1.135	1	Sweden/20-50299/2020	Active	JT	75	US
+B.1.1.136	1	Australia/VIC2020/2020		JT	15	Australian lineage
+B.1.1.137	1	England/CAMB-81C4F/2020	Extinct	Chris	50	UK lineage
+B.1.1.138	4	England/MILK-978A75/2020	Active	Chris	128	UK lineage
+B.1.1.139	1	USA/CA-CZB-13120/2020		Verity	15	USA
+B.1.1.141	2	Sweden/20-53168/2020		Verity	50i	Russian, Latvian, Netherlands
+B.1.1.142	2	Austria/CeMM0391/2020		Verity	10	Australian lineage
+*B.1.1.143				Verity		Withdrawn, now B.1.1.28
+B.1.1.144	2	Switzerland/BE-ETHZ-300455/2020		JT	20	Swiss lineage
+B.1.1.145	1	England/ALDP-94DDCB/2020	Dormant	Chris	16	UK lineage
+B.1.1.147	2	England/PHEC-212C7/2020		Verity	10	England
+B.1.1.148	1	USA/TX-HMH-6374/2020		JT	46	US lineage
+B.1.1.149	3	England/NOTT-111D31/2020		Danny	33	English Lineage
+*B.1.1.151	0.5					Withdrawn, just a bunch of sequences on a polytomy now
+B.1.1.152	1	Russia/SPE-RII-MH971S/2020		Verity	25	Russian
+B.1.1.153	1	Denmark/DCGC-3206/2020	Active	JT	200	Northern European Lineage
+B.1.1.154	1	England/SHEF-D1CE6/2020	Dormant	Chris	24	UK lineage
+B.1.1.155	2	England/ALDP-955829/2020		Verity	10	English
+B.1.1.157	2	Canada/Qc-CHUM-2016601956A/2020	Dormant	Chris	93	Canadian lineage
+B.1.1.158	1	USA/OR-OHSU-0667/2020		Áine	100	USA lineage
+B.1.1.159	3	Denmark/DCGC-9535/2020	Dormant	Chris	51	European lineage
+B.1.1.160	1	Northern_Ireland/NIRE-1001A2/2020		Áine	6	Northern Ireland lineage
+B.1.1.161	1	SaudiArabia/KAUST-JEDDAH1009/2020	Dormant	Danny	30ish	Saudi lineage
+B.1.1.162	1	England/LEED-2A8E0E/2020		Verity		England, Russia, Latvia
+B.1.1.163	2	Russia/StPetersburg-RII17940S/2020	Active	Chris	51	Russian lineage
+B.1.1.164	1	England/BRIS-130C6C/2020		Verity	100	UK
+B.1.1.165	1	England/ALDP-9B57EE/2020		Verity	50	England
+B.1.1.166	1	England/CAMB-7781B/2020	Unobserved	JT	~20	UK lineage
+B.1.1.168	1	England/NORT-29E3B1/2020		Áine	50	UK lineage
+B.1.1.169	1	USA/TX-HMH-2063/2020	Dormant	Chris	20	USA lineage
+B.1.1.170	2	Denmark/DCGC-2601/2020	Active	JT	100	UK/Denmark lineage
+B.1.1.171	1	England/BRIS-12282D/2020		JT	100	UK lineage
+B.1.1.172	1	USA/CA-CZB-1899/2020		Verity	20	USA
+B.1.1.174	2	USA/CA-CZB-6993/2020	Active	Danny	100+	USA lineage
+B.1.1.175	2		Dormant	Verity	7	Bangladesh
+B.1.1.176	2	Canada/QC-LSPQ-L00235424/2020		JT	88	Canadian lineage
+B.1.1.177	2	USA/TX-HMH-MCoV-10337/2020		Verity	15	Texas
+B.1.1.178	2	England/CAMB-1AA438/2020		Verity	25	England
+B.1.1.180	1	USA/FL-BPHL-0838/2020	Dormant	Chris	40	USA lineage
+B.1.1.181	1	Canada/ON-S782/2020		Verity	35	Used to be just Turkey, now lots of Canadian
+B.1.1.182	2	United_Arab_Emirates/skmc-3607928/2020		Verity	10	USA 
+B.1.1.184	1	Russia/OMS-ORINFI-5710S/2020		Verity	15	Russia, some B.1.1.129
+B.1.1.185	1	Netherlands/NA_312/2020		Áine	7	Netherlands lineage
+B.1.1.186	2	USA/WI-UW-1202/2020		Verity	40	Southern USA
+B.1.1.187	1	Italy/CAM-TIGEM-421/2020		Verity	30	UK and italy
+B.1.1.189	1	Turkey/IST-GLAB-A6/2020		JT	216	European lineage
+B.1.1.190	2	Wales/PHWC-26C1F/2020	Inactive	JT	10	Wales lineage
+B.1.1.191	1	Denmark/DCGC-2033/2020		Verity	40	Denmark
+B.1.1.192	1	USA/FL-BPHL-1469/2020		Danny	108	USA
+B.1.1.193	5	England/MILK-A23401/2020		Verity	10	England
+B.1.1.194	1	England/OXON-AEC5B/2020		Verity	60	England
+B.1.1.196	3	Northern_Ireland/NIRE-108BAC/2020	Dormant	Chris	126	UK lineage
+B.1.1.197	1	England/CAMB-1ADAF7/2020		Áine		UK lineage
+B.1.1.198	1	Luxembourg/LNS1995247/2020		Áine	200	UK/ Luxembourg lineage
+B.1.1.200	1	England/ALDP-9510BC/2020		Verity	100+	UK
+B.1.1.201	1	India/TN-CCMB-C7/2020		Verity	10	India and Singapore and Texas
+B.1.1.202	3	Italy/LAZ-INMI-73/2020		Danny	6	Italy
+B.1.1.203	1	England/NORW-E9D33/2020		Verity	20	England and Ecuador
+B.1.1.204	1	Scotland/EDB731/2020		Áine	75	UK lineage
+B.1.1.205	3	USA/CA-CZB-10245/2020		Áine	30	USA lineage
+B.1.1.207	2	USA/VA-QDX-4476/2020		Verity	100+	USA
+B.1.1.208	1	England/CAMB-1B05D2/2020		JT	50	UK 
+B.1.1.209	1	Netherlands/NH-EMC-43/2020		Verity		Netherlands
+B.1.1.210	1	USA/TX-HMH-1187/2020		Verity		USA (TX)
+*B.1.1.212				Verity		Withdrawn, absorbed into B.1.1.306
+B.1.1.213	1	England/PHEC-18AE9/2020		Verity		England
+B.1.1.214	1	Japan/Donner84/2020|B.1.1.214		Verity	50	Japan
+B.1.1.216	1	India/HR-NIBG-TF85/2020		Chris		Predominantly Indian lineage with exports elsewhere
+B.1.1.217	3	England/LCST-24DBA8E/2020		Áine	300	UK lineage
+B.1.1.218	2	Switzerland/VD-ETHZ-210061/2020		Áine	100	European lineage
+B.1.1.219	4	Norway/3104/2020		Áine	100	Northern Europe (UK, Denmark, Norway, Sweden)
+B.1.1.220	1	England/PORT-2D118B/2020		Áine	200	UK lineage
+B.1.1.221	1	Belgium/VHEJ-0329357/2020		Áine	50	Belgian lineage
+B.1.1.222	1	USA/CA-ALSR-1274/2020		Áine	1000	USA/Mexico 
+B.1.1.224	5	Denmark/DCGC-5371/2020		Áine	15	Denmark (some German)
+B.1.1.225	1	USA/FL-BPHL-0761/2020		JT	100	USA
+B.1.1.226	1	USA/TX-HMH-1956/2020		Áine	40	USA lineage
+B.1.1.227	2	England/ALDP-91F6F4/2020	Dormant	Chris	125	England
+B.1.1.231	1	USA/PA-MGEL-00733/2020	Active	Chris	105	USA lineage
+B.1.1.232	1	Germany/NW-HHU-211/2020	Inactive	JT	50	Northern Europe (UK, Germany, Denmark, Belgium, NL)
+B.1.1.234	3	France/IDF_PSL_328/2020	Dormant	Verity	50	England, Ireland, Northern Ireland, Northern Europe
+B.1.1.235				Chris		Withdrawn, merged with B.1.1.115
+B.1.1.236	2	England/ALDP-9BEB43/2020		Verity	50	UK
+B.1.1.237	2	Wales/PHWC-160E8B/2020		Verity	60	Wales
+B.1.1.239	1	USA/CA-CHLA-PLM61652845/2020		Áine	30	USA lineage
+B.1.1.241	2	Switzerland/BE-ETHZ-250136/2020		JT	200	European lineage
+B.1.1.240	3	England/ALDP-9B6756/2020	Active	Chris	153	UK lineage
+B.1.1.242	2	Gambia/GC19-3099/2020		Verity	10	Gambia and Switzerland
+B.1.1.243	1	Ukraine/203100361/2020		Verity	60	Eastern Europe, Central Europe, UK
+B.1.1.244	1	USA/FL-BPHL-0900/2020	Dormant	Chris	18	USA lineage
+B.1.1.249	2	Wales/PHWC-15C462/2020		JT	20	Welsh Lineage
+*B.1.1.250				Chris	0	Withdrawn as no longer looks likes a lineage
+B.1.1.251	2	USA/ND-NDDH-0001/2020	Active	Verity	30ish	UK and US
+*B.1.1.252				Verity	0	Withdrawn, now part of B.1.1.117
+B.1.1.253				Verity		UK
+B.1.1.254	1	South_Africa/KRISP-K002816/2020	Dormant	Chris	46	Mostly South Africa
+B.1.1.255	2	England/ALDP-98CDFD/2020	Active	Chris	229	UK lineage
+B.1.1.256	2	England/ALDP-8C4C1B/2020	Extinct	Chris	56	UK lineage
+B.1.1.258	1	USA/TX-HMH-MCoV-12992/2020	Dormant	Chris	105	USA (TX)
+B.1.1.261	1	Sweden/20-52117/2020	Dormant	Chris	67	Swedish/ Danish/ Faroe Islands lineage
+B.1.1.257	1	England/CAMB-84A15/2020	Dormant	Verity	40ish	Mostly UK lineage with other northern european plus one singapore
+B.1.1.262	2	England/BIRM-5FE9F/2020	Unobserved	JT	30	UK lineage
+B.1.1.263	2	United_Arab_Emirates/0106/2020	Active	Stephen	220	UAE lineage (~95%)
+B.1.1.265	1	USA/NY-Wadsworth-281319-01/2020	Active	Chris	87	USA lineage
+B.1.1.266	2	Czech_Republic/NRL-6833/2020	Dormant	Chris	62	Czech lineage
+B.1.1.267	2	Ireland/D-NVRL-AIIDV0080v1/2020	Inactive	JT	20	Irish lineage
+B.1.1.268	1	USA/TX-HMH-MCoV-9450/2020		Áine	30	USA lineage
+B.1.1.269	3	Portugal/IGC2980/2020		JT	262	European lineage
+B.1.1.270	2	England/LIVE-9BD6D/2020	Dormant	Chris	86	UK lineage
+B.1.1.271	3	Germany/HH-hpi-p1525/2020		JT	10	Germain and Austrian lineage
+B.1.1.272	2	Denmark/DCGC-2885/2020		Verity	25	Denmark
+B.1.1.273	1	South_Africa/KRISP-K002749/2020	Dormant	Chris	114	South african lineage, previously part of B.1.1.56
+B.1.1.274	1	England/PHEC-20A48/2020		Verity	100	England, Thailand, Russia, USA
+B.1.1.275	2	DRC/6386/2020	Dormant	Verity	20ish	DRC with some UAE and England
+B.1.1.277	1	Denmark/ALAB-SSI-899/2020		Áine	100	European lineage
+B.1.1.279	1	England/PHEC-210BE/2020		Danny	589	English Lineage
+B.1.1.280	3	Lithuania/ID2490/2020	Active	Chris	103	Lithuanian lineage
+*B.1.1.281				Verity		Withdrawn - absorbed into B.1.1.306
+B.1.1.282	1	Netherlands/NA_613/2020		Áine	20	Netherlands lineage
+B.1.1.283	1	Japan/PG-0189/2020		Verity	7	Japan
+B.1.1.284	2	Japan/Donner41/2020		Verity	50	Japan
+B.1.1.285	1	Japan/PG-0371/2020		Áine	40	Japan/ USA lineage
+B.1.1.286	1	England/ALDP-910E46/2020		Verity	100+	UK
+B.1.1.288	3	Turkey/GUMV_36208/2020		Áine	120	Danish Lineage
+B.1.1.289	2	Wales/PHWC-2C7BE/2020		Áine	200	UK lineage
+B.1.1.290	1	USA/WA-S1240/2020		Áine	40	USA lineage
+B.1.1.291	1	USA/WA-S904/2020	Unobserved	Áine	200	USA Lineage
+B.1.1.294	1	Russia/OMS-ORINFI-1296S/2020		JT	300	Russian and UK lineage
+B.1.1.296	1	England/PORT-2D3A7F/2020	Extinct	Chris	44	UK lineage
+B.1.1.297	1	Belgium/rega-0916974/2020	Active	Chris	117	Central Europe lineage
+B.1.1.298	2	Denmark/DCGC-7699/2020	Unobserved	Stephen	900	Denmark Lineage
+B.1.1.299	1	England/ALDP-4A29A7/2020		Áine	40	UK lineage
+B.1.1.300	1	England/ALDP-94C4A9/2020		Áine	60	UK lineage
+B.1.1.301	1	England/MILK-4B27B9/2020		Áine	200	UK lineage
+B.1.1.302	3	Sweden/20-52386/2020		Áine	100	Swedish lineage
+B.1.1.303	2	England/MILK-9578EB/2020		Verity	500	UK
+B.1.1.304	1	USA/NC-UNC-LCCC0065/2020		Áine	100	UK/USA lineage
+B.1.1.305	1	England/ALDP-9E8CA7/2020		Verity	200	Pan European
+B.1.1.306	1	India/MH-NIV-10380/2020		Verity	1000	Big indian lineage, exports to Zambia, Bahrain and Canada
+B.1.1.307	3	England/QEUH-9C9750/2020		Áine	1000	UK lineage
+B.1.1.308	1	England/ALDP-9CDBC9/2020		Verity	50	UK
+B.1.1.309	1	England/ALDP-AA3B7D/2020		Verity	60	Now all England, was US, so probably split from something
+B.1.1.310	1	England/CAMC-945051/2020		Verity	40	Northern Irish with English root
+B.1.1.311	1	England/QEUH-9613CF/2020		Verity	200+	Huge UK lineage
+B.1.1.312	4	Jordan/AM-ALSR-4090/2020	Active	Chris	284	Jordan lineage
+B.1.1.315	1	United_Arab_Emirates/2890/2020	Active	Chris	64	Previously D.1, UK/ UAE lineage
+B.1.1.316	1	USA/AZ-ASPHL-3216/2020		Áine	100	International lineage with E484K mutation
+B.1.1.317	1	Vietnam/VNHN_3085/2020		Áine	300	Russian lineage
+B.1.1.318	5	England/CAMC-128E16C/2021		Verity	11	Lineage circulating in multiple countries with a number of variants of concern (Spike D614G, Spike D796H, Spike E484K, Spike P681H, Spike T95I, Spike Y144del). pango-designation issue #15
+B.1.1.319	2	Serbia/NS838-04/2020		Danny	8	Russian/Serbian Lineage
+B.1.1.320	1	USA/TX-HMH-MCoV-11968/2020	Active	JT		USA lineage
+*B.1.1.321	1	Austria/CeMM0538/2020	Dormant	Verity		Austria, Germany
+B.1.1.322	1	Mexico/CMX-INMEGEN-22/2020	Active	JT		Mexico/Southwest USA
+B.1.1.323	1	Netherlands/NA_9/2020	Dormant	Verity		Northern Europe, split from B.1.1.257
+B.1.1.324	1	Chile/RM-146538/2020	Dormant	JT		Chilean Lineage
+B.1.1.325	1	Belgium/ULG-11923/2020	Active	Verity		Eastern Europe plus Belgium and Denmark
+B.1.1.326	2	India/TG-CCMB-OM15/2020	Active	Danny	323	Indian Lineage
+B.1.1.327	3	Switzerland/ZH-ETHZ-380368/2020	Active	JT		Swiss Lineage
+B.1.1.328	1	Costa_Rica/INC-0056/2020	Active	Verity	10	Costa Rica and Florida
+B.1.1.329	1	USA/TX-HMH-MCoV-11667/2020	Active	Verity	65	Pan-US
+B.1.1.330	5	Hebei/IVDC-01-01/2021	Active	JT		Chinese Lineage
+B.1.1.331	1	Austria/CeMM0003/2020	Inactive	JT		Austrian lineage
+B.1.1.332	4	Brazil/RS-37683/2020		Danny	7	Brazillian Lineage
+B.1.1.333	5	Norway/6572/2020		Danny	60	Norwegian Lineage
+B.1.1.334	1	Mexico/BCS-InDRE-25/2020		Verity	6	USA and Mexico
+B.1.1.335	2	USA/TX-HMH-MCoV-13512/2020		Verity	15	USA and Canada
+B.1.1.336	1	Russia/AMU-RII-MH10219S/2020	Active	Chris	15	Russian lineage
+B.1.1.337	2	USA/WA-UW-23597/2020		Verity	60	US
+B.1.1.338	4	Germany/BW-FR0430/2020	Active	Chris	13	German lineage
+B.1.1.339	1	United_Arab_Emirates/0117/2020		Verity		UAE and England
+B.1.1.340	1	India/OR-ILSCV32656/2020		Danny	20	Indian Lineage
+B.1.1.341	2	England/ALDP-A51604/2020	Dormant	Chris	14	UK lineage
+B.1.1.342	1	USA/TX-HMH-MCoV-8560/2020		Verity	15	USA
+B.1.1.343	6	Canada/ON-PPS-00167/2020		Danny	6	Canadian lineage
+B.1.1.344	1	Mexico/NLE-UANL-2098/2020		Verity	20	Mexico, Texas
+B.1.1.345	3	USA/NY-Wadsworth-21016154-01/2021	Active	Chris	7	USA lineage
+B.1.1.346	3	Denmark/DCGC-7699/2020	Dormant	Chris	8	Denmark lineage
+B.1.1.347	3	Romania/RO_IOCN38/2020		Verity		Central Europe
+B.1.1.348	3	Colombia/GUR-06579/2020		Danny	45	South America & USA
+B.1.1.349	2	Russia/CRIE7158368/2020		Verity	30	Russia, one "Congo" 
+B.1.1.350	1	Latvia/015/2020	Dormant	Chris	7	Latvian lineage
+B.1.1.351	4	Finland/HEL-12-56/2021		Verity	40	USA, England, Finland, Denmark
+B.1.1.352	3	USA/IL-IDPH-I-000802/2021	Active	Chris	5	USA lineage
+B.1.1.353	1	Australia/NSW1127/2020		Verity	15	UAE, Israel, Australia
+B.1.1.354	1	India/MH-NCCS-NR-12620/2020		Verity		Singapore, malaysia, India, UAE, England
+B.1.1.355	2	Germany/BB-ChVir-D1985-4492/2020		Verity	40	England, Northern Europe
+B.1.1.356	1	USA/TX-HMH-MCoV-8626/2020		Verity	20	Texas
+B.1.1.357	2	USA/TX-HMH-MCoV-10653/2020	Dormant	Chris	6	USA lineage
+B.1.1.358	3	USA/TX-HMH-MCoV-12313/2020		Verity	8	USA
+B.1.1.359	1	Ghana/WACCBIP-GS11/2020		Verity	7	Ghana and Denmark
+B.1.1.360	1	Wales/PHWC-15E04E/2020		Danny	30	Wales
+B.1.1.361	4	England/MILK-562E76/2020		Danny	14	England
+B.1.1.362	2	USA/TX-DSHS-2474/2020		Verity	30	USA
+B.1.1.363	1	Wales/PHWC-2764D/2020		Danny	139	Wales
+B.1.1.364	2	Russia/AST-RII-MH4442S/2020		Verity	15	Russia, S Korea, England
+B.1.1.365	1	England/ALDP-9547D2/2020		Danny	99	England
+B.1.1.366	2	United_Arab_Emirates/0288/2020		Danny	42	UAE
+B.1.1.367	2			Danny	8	USA
+B.1.1.368	3	USA/AZ-ASPHL-2992/2020		Danny	47	USA and Canada
+B.1.1.369	1	England/LIVE-AA6D9/2020		Danny	1631	England
+B.1.1.370	1	England/ALDP-9562DF/2020		Verity		England, USA, Russia, Germany
+B.1.1.371	1	SaudiArabia/KAUST-JEDDAH998/2020		Verity		Saudi Arabia to Romania to Western Europe, contains B.1.1.161 at the base
+B.1.1.372	1	England/ALDP-71CF0D/2020		Danny	941	England
+B.1.1.373	1	Russia/SPE-RII-MH1512S/2020		Verity	15	Russia, split from B.1.1.31
+B.1.1.374	3	Latvia/262/2021		Verity	15	Balkans, Finland
+B.1.1.375	2	Mozambique/INS-K007929/2020		Verity	30	Mozambique, was C.1.1
+B.1.1.376	1	USA/CA-IGI-0737/2020		Verity	40	USA (California)
+B.1.1.377	2	Denmark/DCGC-7925/2020		Verity	60	Denmark
+B.1.1.378	1	England/PHEC-1EC1A/2020		Verity	25	UK and Brazil
+B.1.1.379	2	Wales/PHWC-166016/2020		Danny	32	Wales
+B.1.1.380	1	USA/CA-IGI-0829/2020		Verity		USA
+B.1.1.381	1	Peru/LIM-INS-117/2020		Verity		Peruvian
+B.1.1.382	1	South_Africa/NHLS-UCT-GS-4129/2020		Áine	30	South African lineage
+B.1.1.383	1	South_Africa/KRISP-0125/2020		Verity		South African
+B.1.1.384	8	Switzerland/ZH-ETHZ-440549/2021		Áine	30	Swiss Lineage
+B.1.1.385	8	Germany/NW-HHU-268/2020		Áine	30	German Lineage
+B.1.1.386	1	South_Africa/LR00074/2020		Áine	30	South African lineage
+B.1.1.387	3	Russia/SVE-RII-MH195S/2020		Áine	30	South African lineage
+B.1.1.388	2	Colombia/GUR-06580/2020		Áine	5	Columbian lineage
+B.1.1.389	5	Costa_Rica/INC-0059/2020		Áine	50	Costa Rica lineage
+B.1.1.391	1	United_Arab_Emirates/1871/2020		Áine	70	UAE lineage
+B.1.1.392	1	USA/TX-HMH-MCoV-12121/2020		Áine	20	USA lineage
+B.1.1.393	3	Brazil/RJ-00433/2020	Active	Chris	15	Brazilian lineage
+B.1.1.394	4	Portugal/PT1550/2020	Dormant	Chris	15	Portugal lineage
+B.1.1.395	5	England/NORT-29D516/2020		Áine	20	UK lineage, previously part of B.1.1.279
+B.1.1.396	1	Russia/IVA-RII-MH9268S/2020	Dormant	Chris	6	Russian lineage, some previously B.1.1.184
+B.1.1.397	1	Russia/KYA-RII-MH10349S/2020		Chris	82	Predominantly Russia, includes some previous B.1.1.67 and H.1 sequences
+B.1.1.398	1	Indonesia/JK-NIHRD-PME1264/2020		Áine	100	USA/ Indonesian lineage
+B.1.1.399	1	Ireland/LH-NVRL-MPZ41611/2020		Áine	10	Irish lineage
+B.1.1.400	2	Spain/AN-IBV-004002/2020	Extinct	Chris	9	Spain lineage
+B.1.1.401	2	Portugal/IGC4466/2020	Dormant	Chris	8	Portugal lineage
+B.1.1.402	1	USA/TX-HMH-2115/2020	Dormant	Chris	25	USA (Texas), split from B.1.1.177
+B.1.1.403	3	USA/CA-ALSR-5912/2020	Active	Chris	6	USA
+B.1.1.404	1	Ghana/84182_S43/2020		Verity	10	Ghana, Burkina Faso, Luxembourg, Germany
+B.1.1.405	4	Germany/SH-Cento-37955598/2020	Dormant	Chris	7	Germany lineage
+B.1.1.406	1	Spain/CT-HUVH-94017/2020		Verity	40	Spain, UK, Italy
+B.1.1.407	1	Russia/SPE-RII-MH1609S/2020	Active	Chris	13	Mostly Russia
+B.1.1.408	2	England/QEUH-7D9C41/2020	Dormant	Chris	23	UK lineage
+B.1.1.409	1	SaudiArabia/KAUST-JEDDAH1057/2020		Verity	25	UAE, Israel, Saudi Arabia
+B.1.1.410	1	Portugal/PT1602/2020	Dormant	Chris	13	Portugal lineage
+B.1.1.411	1	Ecuador/178635/2021		Verity	15	Ecuador and US
+B.1.1.412	1	South_Africa/KRISP-K001035/2020		Áine	50	South African lineage
+B.1.1.413	3	England/ALDP-CB679F/2020		Verity	25	Europe, Turkey, Iran
+B.1.1.414	4	India/MH-ACTREC-522/2020		Áine	10	Indian lineage
+B.1.1.415	2	Austria/CeMM1772/2020		Verity	10	Austrian lineage
+B.1.1.416	1	USA/CA-UCLA-26/2020		Áine	200	USA lineage
+B.1.1.417	3	Canada/ON-S1589/2020	Dormant	Chris	42	Canada lineage
+B.1.1.418	9	USA/CA-CZB-13702/2020		Áine	20	USA lineage
+B.1.1.419	1	England/NORT-294E8D/2020	Dormant	Chris	69	UK lineage, includes some formally B.1.1.193 sequences
+B.1.1.420	3	England/MILK-ACDA52/2020		Verity	40	Western Europe, USA
+B.1.1.421	3	Portugal/IGC4096/2020		Áine	30	Portuguese lineage
+B.1.1.422	4	Lithuania/ID3848/2020	Active	Chris	7	Lithuanian lineage
+B.1.1.423	1	USA/CA-IGI-0467/2020	Dormant	Chris	10	USA lineage
+B.1.1.424	2	Russia/AST-RII-MH11691S/2020	Active	Chris	11	Russia lineage, contains some formally B.1.1.167 sequences
+B.1.1.425	3	England/MILK-999F24/2020		Verity	15	England and Denmark
+B.1.1.426	1	USA/TX-HMH-5758/2020	Active	Chris	12	USA lineage
+B.1.1.427		Russia/SVE-RII-MH9209S/2020	Unobserved	JT	6	Russian Lineage
+B.1.1.428	2	Switzerland/BL-ETHZ-431136/2020		Verity	20	Switzerland and North Macedonia
+B.1.1.429	2	Latvia/156/2020		Verity		Latvia and Finland
+B.1.1.430	1	North_Macedonia/3122/2020		Verity	10	North Macedonia
+B.1.1.431	2	Australia/VIC2653/2020|B.1.1.162		Verity	20	Australia and Canada
+B.1.1.432	4	USA/AZ-TG379817/2020	Active	JT	100	US and Mexico
+B.1.1.433	2			Verity		Denmark and Switzerland, some B.1.1.281
+B.1.1.434	2	USA/TX-HMH-MCoV-11133/2020	Active	JT	200	Mostly US lineage with some UK and Canada (was B.1.1.304)
+B.1.1.435	3	Russia/ARK-CRIE-7602087559/2020	Active	JT	10	Russian
+B.1.1.436	1	Belgium/ULG-10045/2020	Extinct	Chris	14	Belgium lineage
+B.1.1.437	3	USA/OH-ODH-SC51933/2020	Dormant	Chris	21	USA lineage
+B.1.1.438	1	Sweden/20-22286/2020		JT		Swedish lineage
+B.1.1.439	4	Wales/PHWC-164B80/2020	Dormant	Chris	116	Wales lineage, contains former B.1.1.29 sequences
+B.1.1.440	1	USA/TX-DSHS-1979/2020		JT	20	US and Mexico
+B.1.1.441	1	USA/UN-CDC-7653/2020	Dormant	Chris	12	USA lineage
+B.1.1.442	1	Argentina/PAIS-F0002/2020		JT	20	Argentinian
+B.1.1.444	3	South_Africa/KRISP-K003323/2020		Jt	5	South African (was B.1.1.117)
+B.1.1.445	4	Switzerland/un-ETHZ-420047/2020	Active	Chris	9	Switzerland lineage
+B.1.1.446	2	Sweden/20-53258/2020	Active	Chris	5	Sweden lineage
+B.1.1.447	1	USA/VA-DCLS-1203/2020	Dormant	Chris	11	USA lineage
+B.1.1.448	1	South_Africa/KRISP-0134/2020		JT	265	South African (was B.1.1.54)
+B.1.1.449	2	Russia/SPE-RII-MH1007S/2020	Dormant	Chris	7	Russia lineage
+B.1.1.450	3	USA/CA-CZB-15265/2020	Active	Chris	8	USA lineage
+B.1.1.451	2	Norway/0157/2021	Active	Chris	6	Norway lineage
+B.1.1.452	1	Russia/PER-RII-MH1647S/2020	Dormant	Chris	6	Russia lineage
+B.1.1.453	1	USA/CA-CDPH090/2020	Active	JT	30	US
+B.1.1.456	1	South_Africa/KRISP-0368/2020		JT		South African
+B.1.1.458	1	Sweden/20-51755/2020		JT	10	Swedish lineage
+B.1.1.459	1	South_Africa/NHLS-UCT-GS-2391/2020		JT	50	South African lineage (some were part of Belgian lineage B.1.1.75
+B.1.1.461	4	USA/ME-HETL-J0228/2020		JT	20	US TX lineage
+B.1.1.462	1	United_Arab_Emirates/0967/2020		JT	50	United Arab Emirates
+B.1.1.463	1	USA/CA-CZB-3273/2020		JT	10	US CA lineage
+B.1.1.464	1	Switzerland/ZH-ETHZ-140028/2020		JT	5	Swiss Lineage
+B.1.1.464	1	USA/WI-UW-461/2020		JT	300	US lineage 
+B.1.1.464	3	Canada/BC-BCCDC-5890/2020		JT	50	Canadian lineage 
+B.1.1.465	1	Japan/NGS-CD-235/2020		JT	5	Japanese lineage
+B.1.1.466	1	Gambia/S-280/2020		JT	30	Gambian lineage
+B.1.1.467	4	USA/NY-NYCPHL-001079/2020		JT	10	US lineage (NY)
+B.1.1.480	2	USA/AZ-TG640791/2020		JT	15	US Lineage
+B.1.1.481	1	Russia/LEN-RII-MH3121S/2020		JT	5	Russian Lineage
+B.1.1.482	1	USA/FL-BPHL-1035/2020		JT	12	US Lineage
+B.1.1.483	5	Belgium/UGent-389/2020		JT	11	Belgian lineage
+B.1.1.484	2	Nigeria/NI-CV237/2020		JT	6	Nigerian Lineage
+B.1.1.485	1	Ghana/WACCBIP-GS33/2020		JT	20	Ghanan Lineage
+B.1.1.486	2	USA/NY-MSHSPSP-PV16551/2020		JT	130	US Lineage
+B.1.1.487	1	Scotland/CVR861/2020		JT	64	UK and Nigerian Lineage
+B.1.1.500	1	United_Arab_Emirates/3943/2020	Active	Stephen	25	UAE lineage
+B.1.1.506	1	Russia/KO-RII-MH2080S/2020	Unobserved	Stephen	25	Mainly Russian
+B.1.1.507	1	South_Africa/NHLS-UCT-GS-3492/2020	Unobserved	Stephen	12	South African Lineage (was B.1.1.254)
+B.1.1.512	1	USA/CA-CZB-15587/2020	Unobserved	Áine	13	US/Mexico
+B.1.1.513	1	USA/NY-Wadsworth-22513-01/2020		Áine	40	US lineage (NY)
+B.1.1.514	1	USA/CA-CZB-6122/2020		Áine	20	US lineage
+B.1.1.515	1	Germany/BY-MVP-0064/2020		Áine	20	German lineage
+B.1.1.516	3	Costa_Rica/INC-0053/2020		Áine	10	Costa Rica lineage
+B.1.1.517	3	USA/CA-RD-RA01331/2020		Áine	30	USA lineage
+B.1.1.518	2	Mexico/CMX-INER-0155/2020		Áine	50	USA/ Mexico lineage
+B.1.1.519	2	Mexico/MEX-InDRE_167/2020		Áine	200	USA/ Mexico lineage
+B.1.1.521	3	Turkey/30_Ankara_GUMV_50581/2020		Áine	150	European lineage
+B.1.2	1	USA/TX-HMH-MCoV-16306/2020		Áine	15000	USA
+B.1.3	1	USA/IL-IDPH-S-000381/2020	Active	Louis	134	USA lineage
+B.1.6	1	Belgium/ULG-10062/2020		Áine	30	Belgian lineage
+B.1.8	1	Netherlands/ZuidHolland_66/2020	inactive	Ben	100	Netherland, South Africa, Denmark, USA
+B.1.12	1	Luxembourg/LNS4134806/2020	Unobserved	Louis	71	Luxembourg lineage (also England, Belgium etc.)
+B.1.13	1	Wales/PHWC-2C0B3/2020		Áine	200	UK lineage
+B.1.14	1	USA/CA-CZB-1000/2020		Áine	20	USA lineage (CA)
+B.1.22	1	Netherlands/ZH-EMC-358/2020		Danny	300	Netherlands lineage
+B.1.22.1	2	Curacao/CW-RIVM-21722/2020		Danny	22	Curacao
+B.1.23	1	New_Zealand/20VR2022/2020	inactive	Ben	40	New Zealand / Australia
+B.1.35	1	Wales/PHWC-3457D/2020		Danny	123	Wales lineage
+B.1.36	2		Active		5804	Global many subliniages (see below)
+B.1.36.1	2	Denmark/DCGC-3607/2020	Active	Nathan	100	European/Denmark
+B.1.36.2	12	England/NORW-F0883/2020	Active	Nathan	50	UK
+*B.1.36.4	2	Netherlands/UT-EMC-119/2020	Dormant	Nathan	10	Just now part of B.1.36
+B.1.36.7	2	England/ALDP-B7540F/2020	Active	Nathan	40	UK (reasigned from Oman lineage)
+B.1.36.8	4	India/GJ-GBRC323a/2020	Active	Nathan	200	Prodominantly Indian lineage with global records (inc. Canada)
+B.1.36.9	8	England/NOTT-113889/2020	Active	Nathan	100	UK
+B.1.36.10	2	Jordan/AM-ALSR-5313/2020	Active	Nathan	60	Jordan/Saudi Arbia (single recent record from USA)
+B.1.36.12	2	England/MILK-99CC84/2020	Dormant	Nathan	50	England
+B.1.36.16	2	Bangladesh/G-156/2020	Active	Nathan	80	SE Asia
+B.1.36.17	5	England/CAMC-B08D33/2020	Active	Nathan	1000	UK lineage
+B.1.36.18	12	Canada/ON-S1991/2020	Active	Nathan	202	Canadian lineage
+B.1.36.19	8	Indonesia/JI-ITDua-36824NT/2021	Active	Nathan	25	Oceana
+B.1.36.20	6	Scotland/QEUH-998D67/2020	Dormant	Nathan	20	Mainly Scotland
+B.1.36.21	12	Norway/4810/2020	Active	Áine	35	Norway lineage 
+B.1.36.23	2	Finland/S10E4/2020	Active 	Nathan	50	Ireland/Finald (inc. now reassigned B.1.36.13)
+B.1.36.23	20	England/MILK-977F0E/2020	Dormant	Nathan	38	UK
+B.1.36.24	4	England/MILK-EC16A1/2021	Active	Nathan	60	England with Global records
+B.1.36.25	12	Denmark/DCGC-9536/2020	Active	Nathan	50	Denmark
+B.1.36.26	5	Canada/ON-PPS-00146/2020	Active	Nathan	30	Canda/USA
+B.1.36.28	8	England/PHEC-1492C8/2020	Active	Nathan	40	UK
+B.1.36.29	8	India/AP-CS0343/2020	Active	Nathan	100	India
+B.1.36.31	12	England/QEUH-C01328/2020	Active	Nathan	35	UK/Global 
+B.1.36.33	2	Denmark/DCGC-8049/2020	Active	Nathan	25	Demark
+B.1.36.34	4	England/ALDP-BC89B3/2020	Dormant	Nathan	20	UK
+B.1.36.35	2	Switzerland/BE-ETHZ-451387/2021	Active	Nathan	40	European/Switzerland
+B.1.36.36	6	Canada/BC-BCCDC-8108/2020	Dormant	Nathan	60	Canada 
+B.1.36.37	2	Canada/BC-BCCDC-10137/2020	Dormant	Nathan	20	Canada
+B.1.36.38	2	Canada/BC-BCCDC-4120/2020	Active	Nathan	60	Canada/UK
+B.1.36.39	2	England/PHEC-14FBD6/2020	Active 	Nathan	120	UK
+B.1.37	1	USA/VA-DCLS-0529/2020		Áine	30	USA lineage
+B.1.38	2	USA/WA-UW389/2020		Verity	15	USA
+B.1.39	2	Denmark/DCGC-3768/2020		Verity	100	Denmark
+B.1.40	1	Scotland/EDB1701/2020	Inactive	Louis	39	Scotland lineage
+B.1.44	1	Wales/PHWC-2AECA/2020	Inactive	Louis	108	Wales lineage
+B.1.67	1	Wales/PHWC-252B4/2020		Áine	20	Wales lineage
+B.1.69	2	Scotland/CVR108/2020		Danny	20	Scotland
+B.1.70	2	Scotland/CVR165/2020		Danny	25	Scotland
+B.1.76	1	England/CAMB-7908A/2020		Áine	80	English Lineage
+B.1.77	3	England/MILK-95D821/2020		Danny	15	English lineage
+B.1.78	1	Netherlands/NH-RIVM-10208/2020	Inactive	Ben	30	Netherlands lineage
+B.1.81	1	England/BRIS-130798/2020	Inactive	Ben	25	UK lineage
+B.1.83	1	Belgium/GM-0323139/2020		Áine	30	Belgian lineage
+B.1.84	2	DRC/10242/2020		Áine	30	DRC lineage
+B.1.91	1	Portugal/PT0013/2020		Áine	200	Portuguese lineage
+B.1.93	1	England/NORT-28ABDE/2020	Inactive	Ben	200	UK lineage
+B.1.94	1	Luxembourg/LNS6854244/2020	Unobserved	Ben	10	Luxembourg
+B.1.96	1	Netherlands/Gelderland_39/2020		Danny	18	Netherlands lineage
+B.1.97	1	England/CAMB-1AE08B/2020		Danny		England
+B.1.103	3	USA/MI-MDHHS-SC20892/2020		Danny	19	USA
+B.1.104	1	England/CAMB-79433/2020		Danny	156	England
+B.1.105	1	England/CAMB-7B7FC/2020		Danny	83	England
+B.1.106	2	USA/UT-UPHL-2012129901/2020		Danny	17	USA
+B.1.108	1	USA/NY-Wadsworth-20843-01/2020	Unobserved	Louis	58	USA
+B.1.110	1	Chile/AR-ISPCH-9/2020		Áine	300	Chilean/ US and Australia lineage
+B.1.110.1	1	Chile/Santiago-PUC_MVL_0011/2020		Áine	10	Chilean/ US lineage
+B.1.110.2	1	England/LEED-2A87C7/2020		Áine	10	UK lineage
+B.1.110.3	1	USA/FL-BPHL-0553/2020		Áine	100	USA lineage
+B.1.111	2	Colombia/BOG-INS-VG-264/2021	Active	Nathan	100	South/ Central American lineage (mostly Trinidad and Colombia, an a small cluster from Norwich)
+B.1.112	2	USA/UT-02577/2020	Dormant	Nathan	30	USA/UT
+B.1.113	1	India/GJ-GBRC298a/2020		Áine	70	Indian lineage
+B.1.115	1	Israel/990059231/2020		Verity	25	Israel and UK
+B.1.116	1	USA/MN-MDH-2053/2020		Áine	30	USA lineage
+B.1.117	1	England/BRIS-12B04A/2020	Inactive	Louis	51	UK lineage
+B.1.118	1	Denmark/DCGC-1099/2020		Verity		Danish
+B.1.119	1	USA/MI-UM-2006S000956/2020	Unobserved	Louis	23	USA lineage
+B.1.120	1	Wales/PHWC-16335C/2020	Unobserved	Chris	123	Wales lineage
+B.1.124	2	USA/WA-S1149/2020	Dormant	Nathan	25	USA/WA
+B.1.126	2	USA/AZ-TG569525/2020		Áine	100	USA (MN) lineage
+B.1.127	8	Denmark/DCGC-12727/2020		Danny	178	Denmark
+B.1.128	1	Canada/BC-BCCDC-6710/2020		Rachel	400	Canda, Switzerland and DRC
+B.1.131	6	England/MILK-A7B0BB/2020		Danny	51	European lineage
+B.1.134	1	USA/OR-OHSU-0058/2020		Áine	40	USA lineage
+B.1.137	3	USA/UT-01979/2020	Inactive	Ben	30	USA lineage
+B.1.139	1	USA/WI-GMF-10366/2020		Danny	300	USA lineage
+B.1.140	2	South_Africa/KRISP-0384/2020	Inactive	Ben	25	South African lineage
+B.1.142	1	Wales/PHWC-27D0C/2020	Inactive	Ben	120	Wales lineage
+B.1.143	1	India/GJ-GBRC113/2020		Áine	30	Indian lineage
+B.1.145	3	India/MP-DRDE-3302/2020		Danny	15	Indian lineage
+B.1.146	3	Switzerland/BE-ETHZ-170023/2020		Áine	60	Swiss lineage
+B.1.147	1	Canada/QC_AB3/2020		Áine	150	Canadian lineage 
+B.1.149	1	DRC/1516/2020		Áine	100	DRC lineage
+B.1.151	2	Scotland/CVR2623/2020		Áine	50	UK lineage
+B.1.153	1	England/EXET-135CEF/2020	Inactive	Ben	25	English lineage with some Australian, New Zealand and European sequences
+B.1.157	1	Spain/MD-H12-LP23-5852/2020		Áine	100	UK/ Spanish lineage
+B.1.158	1	Finland/13M33/2020		Áine	10	Finland lineage
+B.1.159	1	France/IDF-220-95/2020		Áine	30	French lineage
+B.1.160	many	Denmark/DCGC-16572/2020	Active	Ben	100+	Large European lineage, sequences from BeNeLuX, Denmark, Switzerland, Hungary and UK.
+B.1.160.7	3	England/QEUH-A9FA68/2020	Active	Rachel	329	English Lineage
+B.1.160.8	3	Denmark/DCGC-7076/2020	Active	Rachel	139	Denmark
+B.1.160.9	4	Portugal/PT1983/2020	Active	Rachel	55	Switzerland
+B.1.160.10	4	Switzerland/VS-ETHZ-350007/2020	Active	Rachel	36	Switzerland
+B.1.160.11	1	Switzerland/BS-42487902/2020	Active	Rachel	44	Switzerland
+B.1.160.12	1	Switzerland/NE-PMI-2042-4747/2020	Active	Rachel	51	Switzerland
+B.1.160.13	1	Netherlands/ZH-EMC-597/2020	Active	Rachel	15	Netherlands lineage
+B.1.160.14	2	Switzerland/VD-SNRCI-6/2020	Active	Rachel	129	Switzerland
+B.1.160.15	2	Switzerland/BE-ETHZ-340157/2020	Active	Rachel	62	Mostly Switzerland
+B.1.160.16	2	Switzerland/SO-ETHZ-470557/2021	Active	Rachel	318	Mostly Switzerland
+B.1.160.17	3	Denmark/DCGC-9875/2020	Active	Rachel	128	Denmark
+B.1.160.18	2	Mayotte/IPP02413/2021	Active	Rachel	36	Mayotte
+B.1.160.19	4	Switzerland/BS-ETHZ-440934/2021	Active	Rachel	11	Switzerland
+B.1.160.20	6	Switzerland/BS-UHB-42496942/2020	Active	Rachel	17	Switzerland
+B.1.160.21	5	Luxembourg/LNS0333768/2020	Active	Rachel	11	Luxembourg
+B.1.160.22	2	Germany/BW-FR0129/2020	Active	Rachel	50	Switzerland, Germany, Austria
+B.1.160.23	2	England/QEUH-9F9326/2020	Active	Rachel	153	England
+B.1.160.24	3	Denmark/DCGC-14903/2020	Active	Rachel	40	Denmark
+B.1.160.25	4	French_Guiana/IPP00596/2021	Active	Rachel	45	French Guiana
+B.1.160.26	3	Switzerland/BE-ETHZ-410902/2020	Active	Rachel	127	Mostly Switzerland, a little Europe
+B.1.160.27	3	Mayotte/IPP00614/2021	Active	Rachel	26	Mayotte
+B.1.160.28	2	Belgium/ULG-10490/2020	Active	Rachel	98	Belgium and Luxembourg
+B.1.160.29	3	Switzerland/NE-ETHZ-420673/2020	Active	Rachel	63	Switzerland
+B.1.160.30	3	Switzerland/BL-ETHZ-430900/2020	Active	Rachel	30	Switzerland
+B.1.160.31	3	Switzerland/BE-ETHZ-321493/2020	Active	Rachel	36	Switzerland
+B.1.160.32	3	Switzerland/BL-ETHZ-360008/2020	Active	Rachel	48	Switzerland
+B.1.160.33	4	England/CAMB-1BB05E/2020		Rachel	139	Was part of B.1.160.7 but this is now split on tree. English lineage last seen 2020-11-18 in uk, but long branch to a recent French sample sticking out
+B.1.161	2	USA/OR-OHSU-0043/2020	Dormant	Nathan	25	USA
+B.1.162	3	USA/IL-NM-1138/2020	Dormant	Nathan	50	USA lineage
+B.1.163	2	USA/CA-CZB-1536/2020	Dormant	Nathan	20	USA
+B.1.164	3	Latvia/079/2020	Dormant	Nathan	20	Eastern Europe
+B.1.165	1	England/BRIS-12B0B3/2020		Verity	30	England
+B.1.166	1	USA/CA-SR0386/2020	Dormant	Chris	51	USA lineage
+B.1.167	1	Canada/ON-S773/2020	Inactive	Louis	16	Canada, England
+B.1.168	1	Scotland/EDB6209/2020	Inactive	Chris	24	Scottish lineage
+B.1.169	2	USA/WA-UW-4582/2020		Áine	50	USA, some previously B.1.333.1
+B.1.170	2	N/A	Active	Nathan	20	Egypt UAE
+B.1.173	1	England/ALDP-95C87D/2020		Danny	20	England
+B.1.177		Spain/VC-IBV-98006461/2020		Verity	60000 ish	Major mostly European lineage, result of opening borders summer 2020
+B.1.177.2	1	England/ALDP-A92E3C/2020	unobserved	Ben	70	English lineage
+B.1.177.3	1	Wales/PHWC-16D659/2020	unobserved	Ben	40	Welsh and English lineage
+B.1.177.4	2	England/CAMB-1B6369/2020	Active	Ben	>1000	UK lineage
+B.1.177.5	2	Scotland/QEUH-A1F5F6/2020		Verity	500	UK, mostly Scotland
+B.1.177.6	1	Wales/PHWC-4A52F4/2020		Áine	800	Wales lineage
+B.1.177.7	2	Wales/MILK-9D55DF/2020		Áine	3500	Wales lineage
+B.1.177.8	1	Scotland/CVR4690/2020		Áine	3000	Wales lineage
+B.1.177.9	1	Wales/CAMC-9C0786/2020		Áine	300	UK lineage
+B.1.177.10	2	England/QEUH-BA2375/2020		Verity	100	England
+B.1.177.11	1	Scotland/QEUH-A4C46C/2020		Verity	100	Scotland mostly, some England
+B.1.177.12	1			Verity	>1000	Danish
+B.1.177.13						Withdrawn, now part of B.1.177.17
+B.1.177.14	1	Norway/3142/2020		Áine	30	Danish/ Norway lineage
+B.1.177.15	4	Wales/PHWC-48ADB8/2020		Ben	>1000	English Welsh lineage
+B.1.177.16	1	England/ALDP-A52876/2020		Áine	200	UK lineage
+B.1.177.17	1	England/MILK-A194D1/2020		Verity	200	UK, merged with B.1.177.13
+B.1.177.18	2	England/MILK-9F1898/2020		Verity	200	England, some Wales, parent is mainland Europe
+B.1.177.19	1	England/MILK-A7BE66/2020		Verity	200	England, some Wales
+B.1.177.20	1	England/WSFT-25C61BD/2020		Verity	200	England
+B.1.177.21	1	Denmark/DCGC-8042/2020	Active	Ben	>1000	Denmark
+*B.1.177.22						Withdrawn, scattered across B.1.177
+B.1.177.23	2	Switzerland/ZH-ETHZ-270146/2020		Áine	200	Swiss lineage 
+B.1.177.24	1	Denmark/DCGC-4535/2020	Active	Ben	100	Danish lineage, contains some previous B.1.177.1
+B.1.177.25	6	Gibraltar/204421228/2020	Unobserved	Ben	6	Gibralter lineage
+B.1.177.26	5	England/NORW-F013D/2020	Unobserved	Ben	60	UK lineage
+B.1.177.27	6	Denmark/DCGC-8019/2020		Verity	20	Danish
+B.1.177.28	2	Switzerland/BL-UHB-42499519/2020		Verity	30	Swiss lineage 
+B.1.177.29	4	Spain/CT-IBV-99012709/2020		Verity	10	Spain
+B.1.177.30	3	England/EXET-139331/2020		Verity	100	England 
+B.1.177.31	2	Switzerland/VD-ETHZ-300248/2020		Verity	30	Swiss lineage 
+B.1.177.32	1	Spain/PV-IBV-98008273/2020		Verity	80	Swiss and Portugese mostly
+B.1.177.33	2	Italy/CAM-TIGEM-127/2020		Verity	200	Mostly italian, some swiss, some english
+B.1.177.34	2	Netherlands/ZH-RIVM-12165/2021		Verity	10	Dutch
+B.1.177.35	1	Denmark/DCGC-13945/2020		Verity	100	Danish, some Israel more recently
+B.1.177.36	1	Netherlands/NB-EMC-365/2020		Verity	30	Dutch
+B.1.177.37	3	Belgium/ULG-10821/2020		Verity	15	Belgian
+B.1.177.38	3	Netherlands/OV-EMC-91/2020		Verity	35	Dutch
+B.1.177.39	1	Ireland/MH-NVRL-76IRL26088/2020		Verity	30	Ireland andNorthern Ireland
+B.1.177.40	2	Netherlands/ZH-EMC-1073/2020		Verity	80	Dutch
+B.1.177.41	3	Sweden/20-53007/2020		Verity	50	Danish and swedish
+B.1.177.42	1	Denmark/DCGC-12765/2020		Verity	100	Danish
+B.1.177.43	1	Switzerland/ZH-ETHZ-440821/2021		Verity	200	Swiss, then into Germany and Austria
+B.1.177.44	1	Switzerland/AG-ETHZ-440040/2021		Verity	200	Swiss mostly
+B.1.177.45	2	Iceland/4252/2020	Unobserved	Ben	250	Iceland
+B.1.177.46	3	Sweden/21-20555/2021	Active	Ben	20	Sweden and Denmark
+B.1.177.47	3	England/EXET-143AE4/2021	Active	Ben	30	England
+B.1.177.48	1	England/ALDP-110AE9F/2021	Active	Ben	100	UK lineage
+B.1.177.49	3	Spain/CB-ISCIII-210099/2020	Active	Ben	12	Spanish lineage
+B.1.177.50	1	Netherlands/NH-RIVM-20016/2020	Active	Ben	40	Netherlands / Germany
+B.1.177.51	1	Switzerland/VS-33142349/2021 	Active	Ben	50	European lineage
+B.1.177.52	2	Netherlands/ZH-EMC-685/2020	Active	Ben	300	European lineage
+B.1.177.53	2	England/MILK-9701D2/2020		Ben	>1000	UK lineage
+B.1.177.54	2	England/CAMC-C442B3/2020	Active	Ben	>1000	UK lineage
+B.1.177.55	2	England/ALDP-9B661D/2020	Active	Ben	250	England and Ireland
+B.1.177.56	2	Northern_Ireland/NIRE-1096AA/2020	Mostly unobserved	Ben	950	UK lineage
+B.1.177.57	2	England/NORW-FA3F1/2020	Mostly unobserved	Ben	>1000	UK lineage
+B.1.177.58	3	England/LOND-1287C17/2020		Verity	200	UK
+B.1.177.59	2	Ireland/D-NVRL-73IRL37632/2020		Verity	20	Ireland
+B.1.177.60	1	Lithuania/MR-LUHS-Eilnr476/2020		Verity	500	Northern Europe, mostly Lithuania
+B.1.177.61	4	Spain/IB-IBV-99011522/2020		Verity	10	Spain
+B.1.177.62	3	Switzerland/SZ-ETHZ-430301/2020		Verity	50	Germany, Switzerland, Netherlands
+B.1.177.63	1	Wales/PHWC-499CC8/2020		Verity	100	Wales
+B.1.177.64	4	Ireland/LH-NVRL-82IRL76270/2021		Verity	6	Ireland
+B.1.177.65	1	Wales/PHWC-47EF39/2020		Áine	400	Wales
+B.1.177.66	5	Ireland/D-NVRL-AIIDV1268v1/2020		Áine	30	Irish lineage
+B.1.177.67	2	Ireland/LK-NVRL-20ILR10653/2020		Áine	50	Irish lineage
+B.1.177.68	1	Ireland/CE-NVRL-84IRL00723/2021	Active	Chris	13	Irish lineage
+B.1.177.69	1	England/ALDP-9CC1B9/2020		Áine	200	UK lineage
+B.1.177.70	2	Denmark/DCGC-9843/2020		Áine	30	Danish lineage
+B.1.177.71	1	Switzerland/BL-UHB-42498846/2020		Áine	50	Swiss lineage 
+B.1.177.72	1	Portugal/PT1972/2020		Áine	100	Portuguese lineage
+B.1.177.73	1	Netherlands/ZH-EMC-833/2020		Áine	200	Netherlands lineage
+B.1.177.74	2	Netherlands/NB-RIVM-11232/2021	Active	Ben	15	Netherlands, Spain, UK
+B.1.177.75	1	Italy/CAM-TIGEM-350/2020		Áine	100	Italian lineage
+B.1.177.76	4	Denmark/DCGC-28549/2021	Active	Ben	25	Danish
+B.1.177.77	1	Belgium/rega-2838/2021	Active	Ben	200	Benelux + Denmark
+B.1.177.78	6	France/IDF_PSL_722/2020		Áine	30	French lineage
+B.1.177.79	4	Latvia/274/2021	Active	Ben	20	Latvian lineage
+B.1.177.80	3	Sweden/21-20022/2021	Active	Ben	20	Scandinavian lineage
+B.1.177.81	2	Switzerland/ZH-ETHZ-480260/2021	Active	Ben	>1000	Large European lineage
+B.1.177.82	1	Norway/4333/2020		Áine	400	Scandinavian lineage
+B.1.177.83	1	Italy/APU-IZSPB_326PT/2020		Áine	200	Italian lineage
+B.1.177.84	1	England/ALDP-A52050/2020		Áine	100	UK lineage
+B.1.177.85	3	Portugal/PT1889/2020	Active	Ben	45	Portuguese lineage
+B.1.177.86	4	Germany/SH-ChVir21771/2020	Active	Ben	500	German and Danish lineage
+B.1.177.87	1	England/MILK-99A7FE/2020		Áine	500	UK lineage
+B.1.178	1	DRC/KN-0054/2020		Áine	20	DRC lineage
+B.1.179	1	Denmark/ALAB-SSI-783/2020	Inactive	Ben	50	Denmark
+B.1.180	1	Romania/ROSV_8990/2020		Áine	30	Romanian lineage
+B.1.181	1	USA/OR-PROV-091/2020		Áine	30	USA lineage
+B.1.182	1	USA/FL-BPHL-0666/2020		Áine	30	Spanish lineage
+B.1.184	6	India/GJ-GBRC-402b/2020	Dormant	Nathan	14	India
+B.1.187	1	Poland/PL_MCB_75/2020		Áine	12	Polish lineage
+B.1.188	5	USA/OR-OHSU-1447/2020		Áine	30	USA (OR) lineage
+B.1.189	3	USA/TX-HHD-2102046921/2021	Active	Ben	50	USA/Mexico
+B.1.190	2	Netherlands/ZuidHolland_82/2020	Inactive	Ben	30	
+B.1.192	1	Equatorial_Guinea/17354/2020	Inactive	Ben	50	Equatorial Guinea
+B.1.194	1	USA/TX-HMH-2967/2020		Danny	15	USA
+B.1.195	2	United_Arab_Emirates/0985/2020	Inactive	Ben	5	UAE
+B.1.198	1	England/BRIS-122BAC/2020	Inactive	Ben	10	UK lineage
+B.1.199	1	USA/AR-QDX-537/2020	Unobserved	Ben	50	USA
+B.1.201	1	England/NORW-E82AE/2020	Inactive	Ben	80	UK lineage
+B.1.203	2	Costa_Rica/INC-0080/2020	Active	Ben	8	Panama/Costa Rica
+B.1.206	1	USA/TX-HMH-MCoV-10483/2020		Danny	400	USA
+B.1.205	2	Peru/JUN-INS-047/2020		Danny	15	Peruvian
+B.1.208	1	France/ARA-09434/2020		Áine	20	French lineage
+B.1.210	1	India/MP-DRDE4001/2020		Áine	200	Indian lineage
+B.1.211	1	France/ARA-532/2020		Áine	20	Belgium/ Luxembourg lineage
+B.1.212	1	Brazil/SE-6607/2020		Áine	30	South American lineage
+B.1.213	2	Poland/PL_MCB_61/2020		Áine	40	Polish lineage
+B.1.214	1	DRC/11079/2020		Áine	100	DRC/ Congo lineage
+*B.1.214.2				Áine	0	
+B.1.215	1	Scotland/GCVR-173CB8/2020	Inactive	Ben	50	Scottish lineage
+B.1.218	5	Switzerland/AG-ETHZ-240009/2020		Áine	200	Swiss lineage
+B.1.219	1	Netherlands/NA_347/2020		Áine	50	Suriname lineage
+B.1.220	1	Netherlands/ZuidHolland_55/2020		Áine	100	European lineage
+B.1.221	2	Switzerland/AG-ETHZ-430176/2020		Áine	3600	European lineage
+B.1.221.1	1	Wales/MILK-9715E4/2020		Áine	200	UK lineage
+B.1.221.2	3	Germany/SL-SU-20241112/2020		Áine	30	German lineage
+B.1.221.3	1	Denmark/DCGC-5323/2020		Áine	30	Danish lineage
+B.1.221.4	3	Luxembourg/LNS1553454/2020		Áine	50	Belgium/ Luxembourg lineage
+B.1.222	1	Scotland/GCVR-172F74/2020		Áine	1000	Scottish lineage
+B.1.223	1	England/PHEC-1FCCE/2020		Áine	50	UK lineage
+B.1.224	1	Austria/CeMM0436/2020		Áine	30	Austrian lineage
+B.1.225	1	England/CAMB-1AFAE6/2020		Áine	20	UK lineage
+B.1.227	4	Sweden/20-23088/2020		Danny	14	Sweden
+B.1.229	1	England/QEUH-548B8E/2020		Áine	40	UK lineage
+B.1.321	1	England/OXON-AC7C5/2020		Áine	30	UK lineage
+B.1.232	2	USA/CA-CZB-16803/2020		Áine	300	USA/ Scottish lineage
+B.1.233	1	USA/OR-OHSU-0879/2020		Áine	30	USA lineage
+B.1.234	2	USA/TX-HMH-MCoV-13988/2020	Active	Chris	1159	USA lineage
+B.1.235	1	England/QEUH-79ED27/2020	inactive	Ben	200	UK
+B.1.236	2	Switzerland/ZH-ETHZ-190005/2020		Áine	200	Swiss lineage
+B.1.237	4	South_Africa/KRISP-0144/2020		Áine	100	South african lineage
+B.1.238	2	England/QEUH-544733/2020		Áine	100	UK lineage
+B.1.239	1	USA/CA-ALSR-1898/2020		Áine	200	USA lineage
+B.1.240	2	USA/NY-PV09200/2020		Danny	1000	USA
+B.1.240.1	5	Curacao/CW-RIVM-21726/2020		Danny	16	Curacao and Aruba
+B.1.240.2	9	England/SHEF-CAEEA/2020		Danny	27	England
+B.1.241	2	USA/CA-ALSR-1918/2020		Áine	200	USA lineage
+B.1.243	1	USA/TX-HMH-MCoV-18678/2020		Áine	2583	USA lineage
+B.1.242	1	Norway/2801/2020		Áine	30	Norway lineage
+B.1.245	2	USA/CA-ALSR-2183/2020	Dormant	Nathan	15	USA/CA
+B.1.247	1	India/GJ-GBRC210b/2020		Áine	40	Indian lineage, some previously B.1.36
+B.1.247	1	India/GJ-GBRC245/2020	Dormant	Nathan	15	India
+B.1.249	1	England/MILK-958149/2020		Danny	15	England
+B.1.248	1	Scotland/GCVR-17176E/2020		Danny	28	Scotland
+B.1.250	1	England/SHEF-C80C8/2020		Danny	68	England
+B.1.251	1	England/ALDP-9555E6/2020		Danny	37	England
+B.1.252	1	Wales/PHWC-363EA/2020		Danny	148	Wales
+B.1.254	2	Scotland/EDB1629/2020		Danny	29	Scotland
+B.1.256	2	Scotland/GCVR-171959/2020		Áine	30	Scottish lineage
+B.1.258	1	England/LEED-2A8A64/2020		Áine	6600	UK lineage
+B.1.258.2	1	Ireland/LS-NVRL-71IRL96375/2020		Áine	100	Irish lineage (has sub-lineage G.1)
+B.1.258.3	1	England/QEUH-963442/2020		Áine	400	UK lineage
+B.1.258.4	1	England/ALDP-A6D984/2020		Áine	100	UK lineage
+B.1.258.5	1	England/QEUH-AAC664/2020		Áine	100	UK lineage
+B.1.258.6	1	England/CAMC-9DF696/2020		Áine	30	UK lineage
+B.1.258.7	1	Wales/CAMC-9D735B/2020		Áine	30	UK lineage
+B.1.258.9	2	Denmark/DCGC-5252/2020		Áine	40	Danish lineage
+B.1.258.10	1	Scotland/QEUH-A7932D/2020		Áine	50	Scottish lineage
+B.1.258.11	1	Denmark/DCGC-5281/2020		Áine	300	Danish lineage
+B.1.258.12	2	England/LOND-12D4D54/2020		Áine	200	UK lineage
+B.1.258.14	1	Italy/CAM-TIGEM-4/2020		Áine	50	Italian lineage
+B.1.258.15	1	Denmark/DCGC-14159/2020		Áine	20	Danish lineage
+B.1.258.16	1	Switzerland/ZH-ETHZ-390157/2020		Áine	200	Swiss/ Danish lineage
+B.1.258.17	1	Netherlands/ZH-EMC-690/2020		Áine	200	European lineage
+B.1.258.18	1	Netherlands/UT-RIVM-21518/2020		Áine	20	Netherlands lineage
+B.1.258.19	1	Denmark/DCGC-14190/2020		Áine	30	Danish lineage
+B.1.258.20	2	Luxembourg/LNS8120658/2020		Áine	20	Luxembourg lineage
+B.1.258.21	1	Netherlands/UT-EMC-200/2020		Áine	40	Netherlands lineage
+B.1.258.22	3	Sweden/21-50211/2021		Áine	100	Swedish lineage
+B.1.258.23	3	USA/UT-UPHL-2101361183/2020		Áine	30	USA (UT) lineage
+B.1.258.24	3	Italy/FVG-ASUGI-152122/2020		Áine	40	Italian lineage
+B.1.260	3	Saudi_Arabia/KAUST-Makkah230/2020	Active	Nathan	20	Saudi Arabia with activity in Switzerland as of 2021
+B.1.260	1	Saudi_Arabia/KAUST-Madinah41/2020		Áine	100	Saudi Arabian lineage
+B.1.263	1	Denmark/ALAB-SSI-652/2020		Verity	10	Danish
+B.1.264	1	USA/MO-QDX-675/2020		Verity	20	USA (UT)
+B.1.264.1	3	Austria/CeMM2635/2020		Verity	15	Russia, Germany, Switzerland, Austria. Was B.1.412
+B.1.265	1	USA/MN-QDX-981/2020		Áine	300	USA lineage
+B.1.267	1	USA/CA-SR0372/2020		Verity		USA (CA)
+B.1.268	1	USA/TX_GCID_192000003/2020		Verity	20	USA
+B.1.270	1	Canada/ON_MU-S63/2020		Áine	20	Canadian lineage 
+B.1.273	1	Congo/UKT-005/2020		Áine	10	French lineage
+B.1.274	2	USA/UT-UPHL-201130464/2020		Áine	30	Utah lineage
+*B.1.275				Áine	0	Previously a french lineage
+B.1.276	1	USA/TX-HMH0153/2020		Áine	30	USA lineage
+B.1.277	1	France/HDF-2948/2020		Áine	30	European lineage
+B.1.279	3	Canada/AB-46854/2020		Áine	300	Canadian lineage 
+B.1.280	6	USA/FL-BPHL-1208/2020		Danny	231	USA
+B.1.281	1	Bahrein/BAH-22/2020		Áine	40	Bahrain lineage
+B.1.282	2	England/ALDP-8EF658/2020		Áine	100	UK lineage
+B.1.284	1	USA/LA-GBCL-26791715/2020		Verity	30	USA - Texas
+B.1.285	1	USA/TX-HMH-7098/2020		Danny	11	USA - Texas
+B.1.287	1	USA/TX-DSHS-0577/2020	Unobserved	Louis	15	USA lineage
+B.1.289	1	USA/AZ-TG274756/2020	Dormant	Chris	111	USA - Arizona
+B.1.291	2	USA/TX-DSHS-1220/2020		Verity	40	Costa Rica
+B.1.292	1	Gambia/NPHL-1258/2020	Unobserved	Louis	9	Gambia
+B.1.293	1	USA/MI-MDHHS-SC21637/2020		Verity	30	USA
+B.1.294	2	USA/WI-UW-1119/2020		Verity	15	USA -  WI and MN
+B.1.298	2	USA/NY-Wadsworth-79894-01/2020		Verity	100	USA (north east)
+B.1.301	1	USA/WY-WYPHL-20007007/2020		Verity	50	USA , some B.1.2 merged in
+B.1.302	1	USA/CT-Yale-086/2020		Verity	20	USA, New England
+B.1.304	2	USA/WI-UW-522/2020	Unobserved	Louis	21	USA
+B.1.305	1	USA/TX-DSHS-1105/2020		Verity		USA, mostly TX
+B.1.306	1	USA/FL-BPHL-1630/2020	Active	Chris	54	USA lineage
+B.1.308	1	Canada/AB-35896/2020		Verity	15	Northern USA and Canada
+B.1.309	3	USA/CA-CZB-10010/2020	Unobseved	Louis	15	USA lineage
+B.1.310	1	Netherlands/NH-RIVM-10231/2020		Verity	15	Netherlands
+B.1.311	2	USA/MI-MDHHS-SC21506/2020	Active	Louis	508	USA lineage
+B.1.313	1	USA/AZ-TG654719/2020		Verity	50	USA (removed the polytomy at the base of the lineage)
+B.1.314	1	USA/NY-PV08125/2020	Unobserved	Louis	42	North American lineage
+B.1.315	1	USA/NE-11845/2020	Unobserved	Chris	22	USA lineage
+B.1.316	3	Canada/ON-S1274/2020		Verity	6	Canada lineage
+B.1.318	4	USA/FL-BPHL-0842/2020	Unobserved	Louis	13	USA (FL)
+B.1.319	1	USA/NY-PV09427/2020		Verity	100	USA and Australia
+B.1.320	1	Australia/VIC357/2020		Verity	200+	USA
+B.1.321	1	Belgium/LT-030956/2020	Inactive	Louis	18	Belgium, England
+B.1.323	1	USA/NY-QDX-2732/2020	Inactive	Louis	16	USA (NY)
+B.1.324	1	USA/TX-HMH-4090/2020		Verity	100	USA
+B.1.325	1	USA/TX-HMH-3438/2020		Verity	40	USA (TX)
+B.1.326	2	USA/TX-HMH-1113/2020		Verity	30	USA (TX)
+B.1.328	1	USA/MD-MDH-0052/2020	Unobserved	Louis	10	USA
+B.1.329	1	Germany/NW-MPP-1/2020		Verity	60	German
+B.1.330	3	USA/MN-MDH-1293/2020		Verity	10	USA (MN)
+B.1.332	1	USA/NY-NYUMC18/2020		Verity	100	USA
+B.1.333	2	Australia/VIC960/2020		Áine	40	USA lineage WA
+B.1.334	2	USA/NY-NYCPHL-000766/2020		Áine	30	USA lineage
+B.1.335	1	USA/TX-HMH-3309/2020	Unobserved	Louis	43	USA lineage
+B.1.336	1	USA/CA-QDX-110/2020		Áine	200	USA lineage
+B.1.337	2	USA/WI-GMF-19443/2020	Active	Louis	45	USA lineage
+B.1.338	1	Australia/VIC857/2020	Inactive	Louis	24	Australia
+B.1.340	2	USA/AL-CDC-0731/2020	Active	Louis	65	USA lineage
+B.1.341	1	USA/WA-UW-8165/2020	Inactive	Louis	23	USA lineage
+B.1.342	3	Sweden/20-51774/2020		Verity	10	Sweden
+B.1.344	1	USA/CO-CSU-D0459-3/2020		Verity	20	USA (CO)
+B.1.346	3	USA/MD-HP01232/2021	Active	Chris	96	USA lineage
+B.1.348	3	USA/CA-UCSF-UC708/2020	Active	Chris	23	USA lineage
+B.1.349	1	USA/NC-UNC-LCCC0125/2020	Active	Chris	297	USA lineage
+B.1.350	1	Canada/ON_QGLO-02/2020	Unobserved	Louis	70	Canada
+B.1.350.1	4	England/MILK-957450/2020	Unobserved	Louis	7	England
+B.1.351	3	South_Africa/Tygerberg-409/2020		Áine	1288	Lineage of concern detected in South Africa
+B.1.351.1	4	Botswana/CV1507413/2021		Áine	20	Sublineage of B.1.351 circulating in Botswana
+B.1.351.2	1	Mayotte/IPP03068/2021		Áine	200	Sublineage of B.1.351 circulating in Mayotte
+B.1.254	1	Denmark/ALAB-HH-246/2020		Verity	10	Denmark
+B.1.343	1	Denmark/ALAB-SSI160/2020		Verity	25	Denmark
+B.1.355	2	USA/TX-HMH-MCoV-8179/2020		Áine	20	USA lineage
+B.1.356	1	Canada/NL_84/2020		Verity	100+	European, mostly dutch and spanish, some north american
+B.1.357	2	USA/OR-OHSU-0682/2020		Verity		USA (OR,WA,HI)
+B.1.358	1	Denmark/ALAB-SSI-1046/2020	Inactive	Louis	10	Danish lineage
+B.1.359	1	USA/NY-PV09492/2020	Unobserved	Louis	19	USA lineage
+B.1.360	1	USA/MI-MDHHS-SC20121/2020		Verity	40	USA
+B.1.361	2	USA/MI-UM-10036802251/2020		Verity	240	USA lineage (split from whatever Chris reassigns B.1.361 to)
+B.1.362	2	Israel/CVL-n17112/2020	Active	Chris	153	Israel lineage
+B.1.362.1	3	England/MILK-AC850B/2020	Dormant	Chris	13	UK lineage
+B.1.362.2	2	England/MILK-B3AD65/2020	Active	Chris	165	UK lineage
+B.1.363	1	USA/AZ-TG394340/2020		Áine	10	USA lineage
+B.1.366	1	USA/TX-QDX-188/2020	Active	Louis	94	USA lineage
+B.1.367	4	France/PAC-IHU-1206/2020	Active	Louis	418	European lineage (mostly France and England)
+B.1.369	1	USA/MI-UM-10036898484/2020	Active	Chris	993	USA/ New Zealand lineage
+B.1.369.1	4	Canada/NB-NML-5583/2021	Active	Chris	9	Canada lineage
+B.1.370	1	USA/NY-NYCPHL-000868/2020	Unobserved	Chris	43	USA lineage, cleaned up a lot in release 2021-01-20
+B.1.371	1	USA/WA-UW-5812/2020	Unobserved	Louis	267	Danish/ USA lineage, previously part of B.1.21
+B.1.372	1	Denmark/DCGC-2701/2020	Unobserved	Louis	28	Danish lineage
+B.1.375	2	USA/MA-MGH-02728/2020		Verity	353	USA lineage (circulating in Connecticut with the 69-70del, which leads to SGTF. However, they express 484E and 501N in their spike proteins.) 
+B.1.377	2	USA/KS-KHEL-0116/2020		Danny	46	USA and England
+B.1.378	1	USA/IL-NM-0332/2020	Inactive	Ben	20	USA
+B.1.379	1	England/BRIS-121CC8/2020	Inactive	Ben	40	UK
+B.1.380	2	Uganda/UG113/2020	Unobserved	Ben	70	Rwanda / Uganda
+B.1.381	1	South_Africa/NHLS-UCT-GP-5226/2020	Unobserved	Ben	35	South Africa
+B.1.382	1	USA/UT-UPHL-2012183575/2020	Inactive	Áine	30	USA
+B.1.383	1	Wales/PHWC-162FFF/2020	Inactive	Ben	80	Wales
+B.1.384	2	USA/TX-DSHS-1374/2020	Inactive	Ben	60	USA lineage
+B.1.385	8	USA/MA-MGH-03162/2020	Active	Nathan	20	USA
+B.1.387	1	France/ARA-06531/2020		Áine	10	French lineage
+B.1.388	1	Cote_dIvoire/BKE0256/2020		Áine	6	Cote d'Ivoire lineage
+B.1.389	2	England/QEUH-963521/2020		Danny	600	England + Europe
+B.1.390	1	USA/MA-MGH-01206/2020	Inactive	Ben	35	USA
+B.1.391	1	England/NOTT-11137B/2020		Danny	630	UK
+B.1.393	3		Active	Ben	10	Uganda
+B.1.395	1	Wales/PHWC-2F0CF/2020		Danny	90	Wales
+B.1.396	2	USA/TX-HMH-MCoV-14304/2020		Áine	200	USA lineage
+B.1.397	1	USA/CA-ALSR-4791/2020		Áine	100	USA lineage
+B.1.398	1	SaudiArabia/KAUST-JEDDAH755/2020		Áine	200	European lineage
+B.1.399	1	USA/CA-ALSR-0570-IPL/2020		Áine	100	USA
+B.1.400	1	USA/CA-ALSR-2597/2020		Áine	300	USA lineage
+B.1.401	1	USA/AZ-TG517442/2020		Áine	50	USA lineage
+B.1.402	1	USA/CA-CZB-13517/2020		Áine	40	USA lineage
+B.1.403	1	USA/CA-CDC-4704/2020		Áine	40	USA lineage
+B.1.404	1	USA/AZ-TG513270/2020		Áine	150	USA lineage
+B.1.405	1	USA/CA-ALSR-0653-IPL/2020		Áine	50	USA lineage
+B.1.406	2	Germany/BE-ChVir-W1645-6781/2020		Áine	100	Germany/ UK lineage
+B.1.407	4	England/MILK-9586FF/2020		Áine	30	UK lineage
+B.1.408	1	Romania/283584/2020		Áine	50	UK/ Romanian lineage
+B.1.409	4	USA/NY-MSHSPSP-PV19598/2020		Áine	100	USA lineage
+B.1.411	4	Sri_Lanka/BIN33/2020		Áine	100	Sri Lankan lineage
+B.1.413	1	USA/NY-NYUMC183/2020		Verity	100	USA
+B.1.415	2	USA/CA-ALSR-4799/2020	Inactive	Ben	25	USA
+B.1.416		Gambia/GC19-3411/2020	Active	Ben	100	Senegal/ Gambian lineage, reassigned from B.1.5.12
+B.1.416.1		France/IDF-9150/2020	Active	Ben	100	European lineage within diversity of B.1.416. Previously assigned E.1
+B.1.417	1	South_Africa/KRISP-K000640/2020		Áine	30	South African lineage
+B.1.418	1	Scotland/EDB3907/2020		Áine	40	Scottish lineage
+B.1.420	1	Colombia/CUN-GUR-0458/2020		Áine	40	Colombian lineage
+B.1.421	4	USA/CA-CHLA-PLM56822120/2020		Áine	50	USA lineage
+B.1.422	1	USA/PA-MGEL73/2020		Verity	100+	Canada mostly
+B.1.423	4	USA/IL-UW-1064/2020		Áine	30	USA lineage
+B.1.424	1	USA/LA-GBCL-26684513/2020		Áine	50	USA lineage
+B.1.425	1	USA/LA-GBCL-26684513/2020		Áine	50	USA lineage
+B.1.426	1	USA/UT-UPHL-2008777/2020		Áine	200	USA (UT) lineage
+B.1.427	2	USA/CA-CDPH-UC564/2020	Active	Chris	745	USA lineage (CA)
+B.1.428	1	Denmark/DCGC-755/2020	Unobserved	Louis	139	Danish lineage (amalgam of Danish sequences from B.1.358, B.1.288, B.1.262)
+B.1.428.1	2	Iraq/USAFSAM-S062/2020	Unobserved	Louis	11	Iraq
+B.1.428.2	6	Tunisia/55006/2020	Unobserved	Louis	10	Tunisia, England, France
+B.1.428.3	4	Jordan/SEARCH-5487/2020	Unobserved	Louis	6	UAE, Jordan
+B.1.429	2	USA/CA-UCSF-UC689/2020	Active	Chris	2292	A lineage predominantly circulating in California but with exports to other countries. Characterised by the spike L452R mutation but also has spike:W152C orf1ab:D5584Y and N:T205I.
+B.1.431	2	Scotland/EDB2976/2020	Inactive	Louis	17	Scotland
+B.1.432	1	USA/TX-HMH-2633/2020	Unobserved	Louis	25	USA lineage
+B.1.433	2	USA/MA-MGH-02769/2020	Active	Louis	63	USA lineage
+B.1.434	1	Australia/VIC1858/2020	Inactive	Louis	16	Australian lineage (previously a couple part of B.1.25, B.1.295)
+B.1.435	1	USA/AZ-TG648768/2020		Verity	30	USA - UT
+B.1.436	4	USA/NY-PRL-2021_0205_03B05/2021	Active	Nathan	30	USA liniage reassigned from previous tree 
+B.1.437	1	USA/FL-BPHL-0986/2020		Verity	20	USA - FL
+B.1.439	2	USA/VA-DCLS-0297/2020	Dormant	Nathan	35	USA
+B.1.441	5	England/CAMC-990F5A/2020	Active	Nathan	30	Global lineage (inc. merge of B.1.274)
+B.1.442	2	USA/VA-DCLS-0226/2020	Dormant	Nathan	15	USA
+B.1.443	2	USA/TX-HMH-MCoV-14744/2020		Áine	40	USA lineage
+B.1.444	4	USA/UT-UPHL-04478/2020		Áine	30	USA Utah lineage
+B.1.445	1	USA/AZ-TG666142/2020		Verity		USA (AZ)
+B.1.446	2	Scotland/EDB2456/2020		Verity	40	USA, some B.1.333
+B.1.448	1	USA/UT-UPHL-2012736957/2020	Active	Chris	58	USA lineage
+B.1.450	1	USA/CT-QDX-2695/2020		Verity	40	USA (TX)
+B.1.451	1	USA/VA-DCLS-1209/2020	Unobserved	Louis	40	USA lineage (VA), previously B.1.328 and B.1.317
+B.1.452	1	USA/CA-CZB-2190/2020		Verity	40	USA (CA)
+B.1.453	1	USA/WA-UW-4620/2020		Verity		USA (CA and TX)
+B.1.456	2	Indonesia/JB-EIJK145/2021	Active	Nathan	20	SE Asian (reasigned)
+B.1.458	16	India/TG-CCMB-L1451/2020	Dormant	Nathan	9	India
+B.1.459	8	Indonesia/JT-UNS-18_39701/2020	Active	Nathan	50	Indonesia 
+B.1.460	8	England/CAMC-B371E4/2020	Dormant	Nathan	30	UK lineage
+B.1.462	6	Nigeria/AK-CV271/2020	Active	Nathan	20	UK/Nigera
+B.1.463	20	Finland/9LS11AH3/2020	Dormant	Nathan	20	Finland 
+B.1.465	6	England/ALDP-95C127/2020	Dormant	Nathan	60	UK, contains B.1.466 which is reassigned (see below)
+B.1.466	6	Egypt/MASRI-014/2020	Active	Nathan	65	Global lineage containing two new sublineages (see below)
+B.1.466.1	8	USA/ME-CDC-STM-A100246/2021	Active	Nathan	20	USA/UAE 
+B.1.466.2	4	Indonesia/BT-EIJK135/2021	Active	Nathan	25	Indonesia
+B.1.467	10	Switzerland/TI-ETHZ-321395/2020	Dormant	Nathan	20	Nigeria/Switzerland 
+B.1.468	6	N/A (Indonesia)	Active	Nathan	25	Indonesia/Sinagpore. Seq names missassigned in original file
+B.1.469	12	England/BHRT-24B847A/2020	Active	Nathan	50	European (Turkey, Denmark, UK)
+B.1.470	6	Indonesia/JI-ITDua-36471NT/2021	Active	Nathan	50	Indonesia/Singapore
+B.1.471	2	England/ALDP-A50799/2020	Active	Nathan	100	UK with global representaion
+B.1.473	1	USA/NM-UNM-00519/2020		Áine	30	USA lineage
+B.1.474	3	Luxembourg/LNS9235719/2021		Áine	100	Denmark/ Luxemboug lineage
+B.1.475	2	Germany/BE-ChVir-W1532-5774/2020		Áine	10	German lineage
+B.1.476	3	Nigeria/OS060-CV9/2020		Áine	10	West African lineage
+B.1.478	2	USA/GA-CDC-LC00001194/2020		Áine	20	USA lineage
+B.1.479	1	USA/MA-MGH-00136/2020		Áine	10	USA lineage
+B.1.480	2	England/MILK-99194C/2020		Áine	40	England, Australia, Sweden, Norway
+*B.1.481				Áine	0	
+B.1.482	1	France/ARA-SC110/2020		Áine	6	France/ West African lineage
+B.1.483	1	USA/WI-UW-158/2020		Áine	10	USA lineage
+B.1.485	1	USA/TX-HMH-2135/2020	Inactive	Louis	9	USA lineage
+B.1.486	2	USA/MA-JLL-D18/2020		Verity	6	USA (MA)
+B.1.487	1	USA/TX-HMH-MCoV-10519/2020		Verity	20	USA - TX
+B.1.488	4	Sweden/20-08938/2020	Unobserved	Louis	5	Denmark and Sweden
+B.1.489	1	Wales/PHWC-2822A/2020	Inactive	Louis	26	Wales and Norway
+B.1.490	1	Finland/21A16S11/2020	Inactive	Louis	7	Finland.  
+B.1.491	1	England/CAMB-83FBD/2020	Inactive	Louis	18	England
+B.1.492	2	USA/CO-CDPHE-2004220748/2020		Verity	30	USA - Colorado
+B.1.493	1	USA/FL-BPHL-0322/2020	Unobserved	Louis	11	USA (FL)
+B.1.494	1	USA/CA-ALSR-0615-SAN/2020	Inactive	Louis	14	USA (Split from B.1.3)
+B.1.495	1	USA/OR-PROV-098/2020	Unobserved	Louis	26	USA (Split from B.1.3)
+B.1.496	2	USA/IL-NM054/2020	Inactive	Louis	4	USA (could be dissolved - sequences jumped out, previously split from B.1.3)
+B.1.497	3	South_Korea/KCDC2573/2020	Active	Louis	681	South Korea (was B.1.3.1)
+B.1.498	1	USA/SC-DHEC-0589/2020	Unobserved	Louis	27	USA (Split from B.1.3)
+B.1.499	1	Argentina/argenTAG-12CF5045/2020	Unobserved	Louis	165	Mostly Argentina, some Spain, NL, Hong Kong (was B.1.3.2)
+B.1.499.1	>5	USA/NY-NYULH10/2020	Unobserved	Louis	5	USA lineage
+B.1.500	1	USA/WA-UW-27038/2020	Unobserved	Louis	7	USA (split from B.1.3)
+B.1.501	2	USA/NC-QDX-174/2020	Unobserved	Louis	56	USA (Split from B.1.3)
+B.1.502	2	USA/TX-HMH-4183/2020	Unobserved	Louis	16	USA (Split from B.1.3)
+B.1.503	1	USA/CA-CZB-1113/2020	Unobserved	Louis	108	USA (Split from B.1.3)
+B.1.504	1	Israel/CVL-n-11470/2020	Active	Louis	24	Israel and England (was B.1.3.3)
+B.1.505	1	Israel/2099159/2020	Unobserved	Louis	40	Israel and england (was B.1.3.4)
+B.1.506	1	USA/NY-Wadsworth-57118-01/2020	Unobserved	Louis	21	USA (NY, split from B.1.3)
+B.1.507	1	USA/NY-WCMP11B03P/2020	Unobserved	Louis	42	USA (MI, NY, split from B.1.3)
+B.1.508	1	USA/CA-CZB-2111/2020	Unobserved	Louis	17	USA (NY, AZ, split from B.1.3)
+B.1.509	2	USA/FL-BPHL-1986/2020	Active	Louis	368	USA (split from B.1.3, mostly FL)
+B.1.510	1	Sweden/20-08152/2020		Verity	15	Iceland, Sweden, North America (could be dissolved)
+B.1.511	1	USA/TX-HMH-5607/2020	Unobserved	Louis	18	USA lineage
+B.1.513	1	Denmark/ALAB-HH-115/2020	Inactive	Louis	22	Northern Europe
+*B.1.514				Áine		Reassigned as part of B.1.336
+B.1.515	1	USA/UT-UPHL-201022808/2020		Verity	20	USA (Utah)
+B.1.516	1			Verity	100	USA (AZ and NM)
+B.1.517	2	USA/NY-MSHSPSP-PV19363/2020	Active	Louis	298	USA (mostly AZ)
+B.1.517.1	4	Australia/NSW1227/2020	Unobserved	Louis	46	Australia
+B.1.518	1	USA/MI-MDHHS-SC21380/2020		Verity	10	USA
+*B.1.519				Louis		Reassigned as part of B.1.117
+B.1.520	1	USA/NY-MSHSPSP-PV13738/2020	Unobserved	Louis	10	USA, Canada, England, Germany etc. (could be dissolved / reassigned to B.1)
+B.1.521	2	USA/TX-HMH-MCoV-12681/2020		Áine	500	USA lineage
+B.1.523	7	England/ALDP-97CBAB/2020	Active	Nathan	60	UK/Australia
+B.1.524	3	Malaysia/UNIMAS-15694/2020		Áine	100	Malaysian lineage
+B.1.525	10	Spain/CT-HUVH-23956/2021	Active	Ben	100	International lineage with E484K, del69-70 among other defining mutations.
+B.1.526	>5	USA/NY-Wadsworth-21000327-01/2020	Active	Louis	160	A lineage predominantly circulating in New York but with a few exports to other countries. Characterised by spike mutations T95I and D253G, plus others. The most frequent spike mutation pattern is L5F T95I D253G E484K D614G A701V, with a smaller fraction having S477N instead of E484K. Spike mutation E484K is present in about half of this lineage (as of 2021-02-10) - Very possible not all new additions carry T95I and D253G (someone should check this, e.g. for USA/NY-Wadsworth-21008455-01/2021 and Aruba/AW-RIVM-11403/2021)
+B.1.526.1	>5	USA/NY-Wadsworth-21005003-01/2020	Active	Louis	46	New York. Sublineage of B.1.526 (with spike mutations T95I and D253G) that appears to have several more unique mutations.
+B.1.526.2	>5	USA/NY-PRL-2021_0210_07C05/2021	Active	Louis	37	New York. Sublineage of B.1.526 (with spike mutations T95I and D253G) that appears to have several more unique mutations.
+B.1.527	1	Czech_Republic/IAB20-016-001/2020		Áine	40	Czech Republic/ Ukraine lineage
+B.1.528	1	Morocco/ouar231/2020		Áine	30	Moroccan lineage
+B.1.529	3	France/OCC-SC545/2020		Áine	20	French lineage
+B.1.530	10	Kenya/C80960/2021		Danny	21	Kenya
+B.1.531	10	England/MILK-A69E4D/2020		Danny	12	England
+B.1.532	6	England/MILK-628BB0/2020		Danny	111	England
+B.1.533	2	SaudiArabia/KAUST-JEDDAH546/2020		Danny	12	Saudi Arabia
+B.1.534	9	Denmark/DCGC-19472/2020		Danny	20	Denmark
+B.1.535	3	Australia/WA15/2020		Danny	18	Australia
+B.1.536	8	Denmark/DCGC-16127/2020		Danny	24	Denmark
+B.1.537	3	India/TG-CCMB-M58/2020		Danny	20	India
+B.1.538	1	India/MP-DRDE-4022/2020		Danny	21	India
+B.1.539	6	USA/TX-HMH-MCoV-19460/2020	Active	Ben	10	USA
+B.1.540	2	India/OR-ILSCV15917/2020		Danny	32	India
+B.1.541	1	USA/AL-Calhoun-JDZE/2020		Áine	50	USA lineage
+B.1.542	2	Spain/PV-IBV-000868/2020		Danny	11	Spain
+B.1.543	2	USA/DE-DHSS-F995962/2020	Active	Ben	20	USA
+B.1.544	1	Congo/UKT-014/2020		Áine	50	Congo/ Cameroon/ USA lineage
+B.1.545	3	New_Zealand/20CV0292/2020		Danny	9	New Zealand
+B.1.546	2	USA/TX-HMH-5106/2020		Danny	80	USA
+B.1.547	1	Canada/QC-JUS-V5231436/2020		Danny	7	Canada
+B.1.548	3	India/TG-CCMB-L1965/2020		Danny	20	India
+B.1.549	4	Kenya/C34459/2020	Unobserved	Ben	30	Kenya + England
+B.1.550	3	USA/CA-CZB-19306/2020		Áine	40	USA lineage
+B.1.551	2	USA/AZ-TG710934/2021		Áine	100	USA lineage
+B.1.552	3	Canada/NS-NML-1277/2020		Danny	27	North American
+B.1.553	5	England/QEUH-9D01B2/2020		Danny	23	UK
+B.1.554	2	USA/UT-UPHL-03046/2020		Áine	40	USA (UT) lineage
+B.1.555	2	Sweden/20-22106/2020		Danny	24	Sweden
+B.1.556	2	USA/CA-ALSR-3841/2020		Áine	60	USA lineage
+B.1.557	2	Northern_Ireland/NIRE-106C05/2020		Danny	15	Northern Ireland
+B.1.558	2	USA/CA-ALSR-2089/2020		Áine	50	USA/ Mexico lineage
+B.1.559	1	Scotland/CVR2649/2020		Danny	35	Scotland
+B.1.560	1	India/KA-NIMH-SEQ-158/2021	Active	Ben	35	India
+B.1.561	6	USA/CA-ALSR-6249/2021	Active	Ben	15-	USA - contains previous B.1.404
+B.1.562	1	Ireland/D-NVRL-20IRL15270/2020		Verity	15	England base, to Ireland
+B.1.563	6	England/ALDP-C244B3/2020	Active	Chris	16	UK lineage
+B.1.564	1	USA/TX-HMH-MCoV-13526/2020	Active	Chris	548	USA lineage, split out from B.1.369
+B.1.564.1	1	Canada/ON-PPS-00224/2020	Active	Chris	86	Canada lineage
+B.1.565	4	USA/IA-GMF-13859/2020	Active	Ben	150	USA - contains previous B.1.139
+B.1.566	1	USA/MN-MDH-1283/2020		Verity	25	USA - Arizona and Texas
+B.1.567	1	USA/NY-Wadsworth-42494-01/2020	Active	Chris	76	USA lineage, formally part of B.1.2
+B.1.568	3	USA/TN-CDC-2-3693460/2020	Active	Chris	86	USA lineage, split out from B.1.361
+B.1.569	1	USA/TX-HMH-MCoV-14391/2020		Verity	30	USA (CA and TX)
+B.1.570	3	USA/CO-CDPHE-2007251462/2020		Verity	30	USA (CO)
+B.1.571	1	USA/TX-HMH-MCoV-11952/2020	Dormant	Chris	26	USA lineage, split out from B.1.369
+B.1.572	1	USA/TX-HMH0348/2020		Verity	30	USA, split from B.1.325
+B.1.573	2	Canada/BC-BCCDC-3571/2020		Verity	30	Canada (BC)
+B.1.574	1	USA/TX-HMH-5549/2020	Active	Chris	84	USA lineage, split out from B.1.363
+B.1.575	4	USA/PA-CDC-STM-000004340/2021		Verity		USA and Aruba
+B.1.575.1	2	Spain/MD-IBV-99015964/2021		Verity	20	Spain
+B.1.576	1	USA/LA-EVTL312/2020	Active	Chris	253	USA lineage, formally part of B.1.363
+B.1.577	1	USA/TX-HMH-MCoV-18205/2020	Active	Chris	237	USA lineage, formally part of B.1.2
+B.1.578	1	USA/CA-QDX-1984/2020		Verity	20	USA, formally part of B.1.313
+B.1.579	2	USA/AZ-TG384442/2020		Verity		USA (AZ) formally part of B.1.516
+B.1.580	1	USA/TX-HMH-MCoV-14174/2020		Verity	40	USA Southern (some B.1.361)
+B.1.581	1	USA/TX-HMH-MCoV-14589/2020		Verity		USA (TX)
+B.1.582	1	USA/TX-HMH-6198/2020		Verity	300	USA (TX some B.1.361)
+B.1.585	2	USA/NY-NYCPHL-001414/2020	Active	Louis	6	USA lineage
+B.1.586	1	USA/NV-NSPHL-A0007/2020	Inactive	Louis	43	USA lineage (previously part of B.1.320 that jumped to a new part of the tree)
+B.1.587	3	USA/OR-OHSU-2843/2020		Áine	50	USA (OR) lineage
+B.1.588	3	USA/PR-CDC-S127/2020		Áine	50	USA (NY/PR) lineage
+B.1.588.1	2	Romania/USAFSAM-S543/2020		Áine	15	Romanian lineage
+B.1.589	2	USA/MN-QDX-1320/2020		Áine	50	USA  lineage
+B.1.590	1	USA/TX-HMH-MCoV-18528/2020		Áine	50	USA  lineage
+B.1.591	4	USA/VA-DCLS-2037/2020		Áine	30	USA  lineage
+B.1.592	1	Canada/Qc-JEW-Q9062614/2020		Áine	20	Canadian  lineage
+B.1.593	3	USA/MI-UM-10036006517/2020		Áine	30	USA lineage
+B.1.594	2	USA/WA-UW-2816/2020		Áine	30	USA lineage
+B.1.595	1	USA/TX-HMH-MCoV-13683/2020		Verity	500	USA (was B.1.2)
+B.1.595.1	3	USA/FL-BPHL-0746/2020		Verity	60	USA (FL into Lousiana)
+B.1.595.2	1	USA/AZ-TG389574/2020		Verity	25	USA (AZ) 
+B.1.595.3	4	USA/NC-UNC-LCCC0069/2020		Verity	25	USA (up the east coast)
+B.1.595.4	1	USA/MN-MDH-1589/2020		Verity	40	USA (MN)
+B.1.596	1	USA/TX-HMH-MCoV-15651/2020		Áine	500	USA lineage
+B.1.596.1	1	Kenya/C67558/2020		Áine	10	Kenyan lineage
+B.1.597	1	France/PAC-IHU-0965/2020	Unobserved	Louis	30	France, Algeria (previously part of B.1.367 that jumped to a new part of the tree)
+B.1.598	1	Canada/Qc-JEW-Q8291074/2020	Inactive	Louis	15	Canada (from NY)
+B.1.599	1	USA/TX-DSHS-0912/2020	Active	Louis	44	USA, Canada (previously part of B.1.311 that jumped to a new part of the tree)
+B.1.600	1	Bolivia/26952/2020		Áine	50	Bolivia/ Spain lineage
+B.1.601	5	USA/NY-Wadsworth-21001283-01/2020	Active	Louis	10	USA lineage
+B.1.602	1	USA/TX-HMH-MCoV-11128/2020		Áine	40	USA lineage
+B.1.603	>5	USA/NY-NYCPHL-001318/2020	Active	Louis	13	USA lineage
+B.1.604	4	USA/NY-AECOM_109/2020	Active	Louis	6	USA lineage
+B.1.605	4	USA/VA-DCLS-0904/2020	Active	Louis	30	USA lineage
+B.1.606	2	USA/TX-HMH-6862/2020	Unobserved	Louis	50	USA lineage (previously part of B.1.325 that jumped to a new part of the tree)
+B.1.607	1	England/SHEF-C9DFD/2020	Inactive	Louis	18	England (previously part of B.1.369 that jumped to a new part of the tree - could also be withdrawn).
+B.1.608	2	USA/TX-HMH-MCoV-10301/2020	Unobserved	Louis	40	USA (TX)
+B.1.609	1	USA/NM-QDX-211/2020		Áine	400	USA/ Mexico lineage
+B.1.610	3	England/ALDP-952EA2/2020		Áine	300	UK lineage, previously part of B.1.235
+B.1.611	3	Canada/Qc-CHUM-2016103625A/2020	Unobserved	Louis	15	Canada lineage
+B.1.612	1	USA/TX-HMH-7670/2020	Active	Chris	108	USA lineage, split out from B.1.361
+B.1.613	1	Denmark/DCGC-1875/2020	Inactive	Chris	15	Danish lineage (amalgam of Danish sequences from B.1.358, B.1.288, B.1.262), split out from B.1.428
+B.1.614	5	Sweden/20-52077/2020	Unobserved	Louis	7	Sweden
+B.1.615	>5	Canada/Qc-JUS-V927155399/2020	Unobserved	Louis	9	Canada
+B.1.9	6	Netherlands/NA_400/2020	Dormant	Nathan	150	European wide lineage with active sublineages
+B.1.9.1	4	Scotland/EDB6430/2020	Dormant	Nathan	25	Scottish Lineage
+B.1.9.2	8	USA/VA-DCLS-0398/2020	Dormant	Nathan	10	USA
+B.1.9.3	4	Belgium/ULG-10229/2020	Dormant	Nathan	10	Belgium
+B.1.9.4	4	Switzerland/ZH-ETHZ-200027/2020	Active	Nathan	15	European wide lineage with active cases with activity in Switzerland 
+B.1.9.5	4	Turkey/IST-GLAB-193/2020	Dormant	Nathan	40	European sublinage highly represented in Turkey
+*B.2.1					0	Reassigned to B.40
+*B.2.6					0	Reassigned to B.35
+*B.2.10					0	Reassigned to B.41
+*B.2.11					0	Reassigned to B.36
+*B.2.12					0	Reassigned to B.30
+B.3		Germany/NW-UKB-06174/2020		Andrew		A European lineage - Germany & UK predominantly
+B.3.1		Wales/PHWC-240F7/2020		Andrew		Welsh lineage
+B.4		Wuhan/HB-WHCM-107/2020		Andrew		Iranian lineage and global exports
+B.4.1	3	Kazakhstan/26501/2020		Andrew		Lineage from Kazakhstan within the B.4 diversity
+B.4.2		United_Arab_Emirates/L4682/2020		Andrew		Bahrein lineage
+B.4.4	2	USA/WY-WYPHL-00091/2020		Andrew		USA lineage
+B.4.5		Australia/VIC66/2020		Andrew		Australian lineage
+B.4.6	1	Australia/NSW07/2020		Andrew		Australian lineage
+B.4.7	1	Uganda/UG039/2020		Andrew		Africa and UAE
+B.4.8	8	Iran/Cento-37431805/2020		Andrew		Cryptic lineage in Iran? Occasional international appearances,  most recently Nov 2020
+B.5		Japan/TK-20-31-3/2020		Andrew		Japanese lineage
+B.6		India/MP-DRDE08/2020		Andrew		Indian lineage
+B.6.1	1	Malaysia/3499/2020		Andrew		Malaysian lineage
+B.6.2	5	Malaysia/IMR_WC80031/2020		Andrew		Malaysian lineage
+B.6.3		Canada/MB_2/2020		Andrew		Singapore lineage
+B.6.4		Singapore/84/2020|B.6.4|B.6.4|2020-04-18		Andrew		Singapore lineage
+B.6.5		Australia/NSW2168/20201		Andrew		Australian lineage
+B.6.6		India/TG-CCMB-J321/2020		Andrew		Singapore lineage
+B.6.7		USA/TX-HMH-MCoV-8515/2020		Andrew		USA/Texas
+B.6.8		Papua_New_Guinea/6/2020		Andrew		Papua New Guinea 
+B.10	1	England/LIVE-A87D8/2020		Andrew		Northern Irish lineage
+B.11		USA/MN2-MDH2/2020		Andrew		European lineage with sequences from the Netherlands, UK, Austria, Slovakia
+B.12	1	Japan/PG-0033/2020		Andrew		Japanese lineage
+B.13		USA/WI-UW-278/2020		Andrew		USA lineage
+*B.14			Missing	Andrew		Withdrawn
+B.15	1	England/SHEF-C036D/2020		Andrew		UK lineage
+B.18	2	Iceland/220/2020		Andrew		European lineage (Iceland and England)
+B.19		USA/CA-CZB-1032/2020		Andrew		USA lineage
+B.20		USA/CA-CZB-1065/2020		Andrew		USA lineage
+B.23		Iceland/338/2020		Andrew		Lineage with representation from mainly UK sequences, but also sequences from Portugal, Iceland and Brazil
+B.26		Scotland/CVR172/2020		Andrew		Scottish lineage
+B.27	1	Scotland/CVR06/2020		Andrew		UK lineage, Curacao, Switzerland
+B.28	1	Scotland/GCVR-170152/2020		Andrew		UK lineage
+B.29	1	Spain/AN-ISCIII-201272/2020		Andrew		Spanish/UK/ Australian lineage
+B.30	2	USA/ID-UW-3892/2020		Andrew		Reassigned from B.2.12, USA lineage
+B.31		Chile/RM-CMM-0023C/2020		Andrew		Reassigned from B.2.5, UK/ Australia/ New Zealand lineage
+B.32	 	Scotland/CVR47/2020		Andrew		Scottish lineage
+B.33	1	England/CAMB-77D2B/2020		Andrew		UK lineage
+B.34		Scotland/GCVR-170D21/2020		Andrew		Scottish lineage
+B.35	3	England/PHEC-190F5/2020		Andrew		Previously B.2.6, USA lineage
+B.36	1	Israel/CVL-n-7224/2020		Andrew		Previously B.2.11, Israel lineage
+B.37		USA/NY-NYUMC210/2020		Andrew		USA lineage
+B.38	1	Belgium/DME-0324135/2020		Andrew		Belgium lineage
+B.39		England/PHEC-10A2D/2020		Andrew		Previously B.2.2, USA/ UK/ Australian lineage
+B.40		England/PHEC-1965D/2020		Andrew		Previously B.2.1. Large lineage majoritively from UK and Australia with representation from Europe, Jordan, USA, India, Ghana, South Korea
+B.41		South_Korea/KCDC2016/2020		Andrew		Previously B.2.10, South Korean lineage
+B.42		Hong_Kong/VB20024950-2/2020		Andrew		Hong Kong lineage
+B.43		Hong_Kong/HKPU65-1202/2020		Andrew		Hong Kong lineage
+B.44		Portugal/PT0040/2020		Andrew		Portugal lineage
+B.45		Scotland/CVR33/2020		Andrew		Scottish lineage
+B.46		USA/CA-SCCPHD-UC180/2020		Andrew		USA lineage
+B.47		England/LIVE-A4F3E/2020		Andrew		English lineage
+B.48				Andrew		Reassigned to B.23
+B.49		Denmark/ALAB-SSI-794/2020		Andrew		Danish lineage
+B.50		Indonesia/KI-NIHRDC004160/2020		Andrew		Indonesian lineage
+B.51		USA/WI-UW-177/2020		Andrew		USA lineage
+B.52		England/LEED-2A8D89/2020		Andrew		UK lineage
+B.53		Lithuania/KU-LUHS-Eilnr10/2020		Andrew		Lithuanian lineage
+B.54				Andrew		Revoked (distributed amongst other lineages)
+B.55	1	Scotland/CVR02/2020		Andrew		Redesignated from B.11 (split), UK/Danish
+B.56	1	Singapore/134/2020		Andrew		Singapore/Malaysia/Indonesia
+B.57	1	England/NORT-2A6222/2020		Andrew		Largely Scottish
+B.58	1	England/CAMB-84B8B/2020		Andrew		Largely English, UK/Canada/Australia
+B.59	1	Latvia/06/2020		Andrew		Latvian & Ireland
+B.60	3	England/PHEC-1C0E3/2020		Andrew		England
+B.61	1	England/CAMB-774DB/2020		Andrew		Redesignated from B.40 (split), UK
+C.1	3	South_Africa/R12583-20/2020		Danny	228	Alias of B.1.1.1.1, South Africa
+C.1.1	7	Mozambique/INS-K007921/2020		Danny	Alias of B.1.1.1.1.1, 10	Mozambique
+C.2	2	South_Africa/LR00078/2020		Danny	25	Alias of B.1.1.1.2, South Africa and some European
+C.2.1	2	Curacao/CW-RIVM-21733/2020		Danny	26	Alias of B.1.1.1.2.1, Aruba and Curacao
+C.3	2	England/ALDP-909FE3/2020		Danny	88	Alias of B.1.1.1.3, England
+C.4	1	Peru/LIM-UPCH-0318/2020		Danny	23	Alias of B.1.1.1.4, Peruvian
+C.5	5	Switzerland/VD-ETHZ-310500/2020		Danny	8	Alias of B.1.1.1.5, Switzerland and Luxembourg
+C.6	2	South_Africa/KRISP-0393/2020		Danny	4	Alias of B.1.1.1.6, previously assigned	South Africa
+C.7	12-31	Denmark/DCGC-1088/2020		Danny	14	Alias of B.1.1.1.7, Denmark
+C.8	2	Canada/MB-NML-1016/2020		Danny	54	Alias of B.1.1.1.8, Canada and DRC
+C.9	2	South_Africa/KRISP-K004284/2020		Danny	26	Alias of B.1.1.1.9, South Africa
+C.10	2	Poland/Pom5/2020		Danny	4 - Alias of B.1.1.1.10, previously assigned	Poland
+C.11	1	Chile/RM-ISPCH-54/2020		Danny	45	Alias of B.1.1.1.11
+C.12	1	New_Zealand/20CV0124/2020		Danny	35	Alias of B.1.1.1.12, New Zealand
+C.13	1	Peru/LIM-UPCH-0073/2020		Danny	18	Alias of B.1.1.1.13, Peruvian
+C.14	2	Peru/ICA-INS-040/2020		Danny	60	Alias of B.1.1.1.14, Peruvian
+*C.15				Danny		Denmark, now C.30.1
+C.16	5	Portugal/PT2364/2021		Danny	187	Alias of B.1.1.1.16, Portugal originally, now pan-european
+C.17	2	Egypt/CUNCI-HGC12I032/2021		Danny	5	Alias of B.1.1.1.17, Egypt
+C.18	2	Italy/CAM-CRGS-231/2020		Danny	90	Alias of B.1.1.1.18, Italy
+C.19	5	Denmark/DCGC-21861/2020		Danny	7	Alias of B.1.1.1.19, Denmark
+C.20	3	Switzerland/FL-ETHZ-431157/2020		Danny	8	Alias of B.1.1.1.20, Switzerland
+C.21	1	Spain/ML-ISCIII-202059850/2020		Danny	6	Alias of B.1.1.1.21, Spain
+C.22	1	Argentina/PAIS-A0017/2020		Danny	10	Alias of B.1.1.1.22, Argentina
+C.23	2	USA/TX-HMH-6796/2020		Danny	47	Alias of B.1.1.1.23, Mainly USA
+C.25	1	Peru/CAJ-INS-057/2020		Danny	8	Alias of B.1.1.1.25, Peru
+C.26	2	Chile/Santiago-PUC_MVL_0414/2020		Danny	54	Alias of B.1.1.1.26, Chile
+C.27	3	England/CAMB-1AC0E7/2020		Danny	39	Alias of B.1.1.1.27, England
+C.28	3	USA/CA-UCLA-17/2020		Danny	11	Alias of B.1.1.1.28, USA
+C.29	2	Chile/RM-110525/2020		Danny	5	Alias of B.1.1.1.29, Chile
+C.30	5	England/MILK-BAB5EF/2020		Danny	400	Alias of B.1.1.1.30, England
+C.30.1	1	Denmark/DCGC-7809/2020		Danny	55	Alias of B.1.1.1.30.1, Denmark
+C.31	8	USA/WI-GMF-37626/2020		Danny	16	Alias of B.1.1.1.31, USA
+C.32	1	Peru/LIM-INS-099/2020		Danny	13	Alias of B.1.1.1.32, Peru
+C.33	2	Peru/LIM-UPCH-0346/2020		Danny	7	Alias of B.1.1.1.33, Peru
+C.34	3	Canada/BC-BCCDC-6242/2020		Danny	9	Alias of B.1.1.1.34, Canada
+C.35	1	Switzerland/BL-ETHZ-200059/2020		Danny	330	Alias of B.1.1.1.35, Central Europe, England
+C.36	6	Egypt/CCHE57357-A-34/2020		Danny	29	Alias of B.1.1.1.36, Egypt mainly and other countries
+C.36.1	6	Canada/ON-S2037/2020		Danny	13	Alias of B.1.1.1.36.1, Canada
+C.36.2	5	Switzerland/SH-ETHZ-430985/2020		Danny	16	Alias of B.1.1.1.36.2, Switzerland
+D.2	3	Australia/VIC11123/2020		Stephen	>10000	Alias of B.1.1.25.2, Australia
+D.3	3	Australia/VIC12012/2020	Inactive	Stephen	30	Alias of B.1.1.25.3, Australia
+D.4	4	Northern_Ireland/QEUH-96DA55/2020		Áine	10	Alias of B.1.1.25.4, Irish/ Northern Irish lineage
+D.5	3	Sweden/20-53327/2020		Áine	50	Alias of B.1.1.25.5, Swedish/ Denmark lineage
+*E.1				Áine		Reassigned B.1.416.1. French lineage within the diversity of a Senegal/ Gambia lineage
+G.1	3	England/MILK-9EF97C/2020		Áine	20	Alias of B.1.258.2.1, UK lineage
+*I.1				Áine	0	Reassigned S.1
+*J.1						Withdrawn lineage
+K.1	1	South_Korea/KCDC2777/2020		Áine	20	Alias of B.1.1.277.1, South Korean lineage
+K.2	4	Russia/PRI-RII-MH744S/2020		Áine	20	Alias of B.1.1.277.2, Russian lineage
+K.3	1	Norway/3408/2020		Áine	20	Alias of B.1.1.277.3, Norway lineage
+L.1	1	Canada/NS-NML-1281/2020		Áine	50	Alias of B.1.1.10.1, Canadian lineage
+L.2	1	Netherlands/Utrecht_10020/2020		Áine	30	Alias of B.1.1.10.2, Netherlands lineage
+L.3	4	Nigeria/FC-CV363/2020		Áine	100	Alias of B.1.1.10.3, Nigerian/ European lineage with long branch from B.1.1.10
+L.4	4	USA/CA-ALSR-2730/2020		Áine	20	USA lineage, alias of B.1.1.10.4
+M.1	2	Israel/CVL-58-ngs/2020		JT	10	Alias of B.1.1.294.1, Israel
+M.2	2	Switzerland/ZH-ETHZ-400334/2020		JT	10	Alias of B.1.1.294.2, Swiss Lineage
+M.3	1	England/MILK-9A9C2A/2020		JT	10	Alias of B.1.1.294.3, English Lineage
+N.1	1	USA/MA-MGH-00611/2020		JT	10	Alias of B.1.1.33.1, US
+N.2	1	France/PAC-IHU-0955/2020		JT	8	Alias of B.1.1.33.2, European lineage
+N.3	1	Argentina/PAIS-A0023/2020		JT	50	Alias of B.1.1.33.3, Argentinian 
+N.4	1	Argentina/PAIS-A0023/2020		JT	50	Alias of B.1.1.33.4, Chilean
+N.5	2	Argentina/PAIS-A0314/2020	Active	JT	50	Alias of B.1.1.33.5, Argentinian 
+N.6	2	Chile/Santiago-PUC_MVL_0502/2020	Unobserved	JT	50	Alias of B.1.1.33.6, Chilean
+N.7	3	Uruguay/TYT-M70/2020		JT	10	Alias of B.1.1.33.7, Uruguay
+N.8	1	Kenya/C37981/2020		JT	10	Alias of B.1.1.33.8, Kenyan
+N.9	2			Áine		Alias of B.1.1.33.9, Brazilian lineage
+P.1		Brazil/AM-L70-CD1721/2020		Verity		Alias of B.1.1.28.1, Brazilian lineage with a number of spike mutaions with likely functional significance E484K, K417T, and N501Y. Described in https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586.
+P.2		Brazil/RJ-00552/2020		Verity		Alias of B.1.1.28.2, Brazilian lineage
+P.3				Áine		Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2
+R.1		USA/MD-CDC-LC0003984/2021		Áine	80	Alias of B.1.1.316.1, Sublineage of B.1.1.316 with 3 additional spike mutations, circulating in a number of countries. pango-designation issue #17
+R.2				Áine	10	Alias of B.1.1.316.2, Sublineage of B.1.1.316 with E484K. pango-designation issue #18
+S.1	1	Latvia/133/2020		Áine	30	Alias of B.1.1.217.1, Latvian lineage, previously I.1
+U.1	1	England/ALDP-D45C0E/2020		Verity	50	Alias of B.1.177.60.1, England
+U.2	1	Denmark/DCGC-18801/2020		Verity	30	Alias of B.1.177.60.2, Denmark
+U.3	3	Norway/1292/2021		Verity	10	Alias of B.1.177.60.3, Norway and Latvia
+V.1	2	Northern_Ireland/NIRE-234818/2020	Active	Ben	25	Alias of B.1.177.54.1, Northern Irish and Irish lineage
+V.2	2	Northern_Ireland/NIRE-235677/2020	Active	Ben	25	Alias of B.1.177.54.2, Northern Irish lineage
+W.1	3	France/OCC-168/2020	Active	Ben	35	Alias of B.1.177.53.1, French and US lineage
+W.2	2	Netherlands/GE-EMC-403/2020	Active	Ben	30	Alias of B.1.177.53.2, Dutch lineage
+W.3	2	England/ALDP-A67A2D/2020	Active	Ben	100	Alias of B.1.177.53.3, UK lineage
+W.4	2	Scotland/QEUH-A4AA6C/2020	Active	Ben	250	Alias of B.1.177.53.4, UK lineage
+Y.1	3	Portugal/PT1683/2020	Active	Ben	50	Alias of B.1.177.52.1, Portuguese lineage
+Z.1	3	Wales/PHWC-48CD2F/2020	Active	Ben	60	Alias of B.1.177.50.1, UK lineage
+AA.1	1	Spain/CT-ISCIII-2016665/2020	Active	Ben	20	Alias of B.1.177.15.1, European Lineage
+AA.2	2	Wales/PHWC-48D32C/2020	Active	Ben	100	Alias of B.1.177.15.2, Welsh Lineage
+AA.3	1	Wales/PHWC-48C949/2020	Active	Ben	25	Alias of B.1.177.15.3, Welsh Lineage
+AA.4	2	Wales/PHWC-49B3D0/2020	Active	Ben	20	Alias of B.1.177.15.4, Welsh Lineage
+AA.5	3	Wales/PHWC-4B2EF0/2021	Active	Ben	25	Alias of B.1.177.15.5, Welsh Lineage
+AA.6	1	Wales/PHWC-4A9F80/2020	Active	Ben	30	Alias of B.1.177.15.6, Welsh Lineage
+AA.7	2	Wales/PHWC-4BFA59/2021	Active	Ben	50	Alias of B.1.177.15.7, Welsh Lineage
+AA.8	2	Wales/PHWC-4AE440/2020	Active	Ben	25	Alias of B.1.177.15.8, Welsh Lineage
+AB.1	3	Denmark/DCGC-19364/2020	Active	Rachel	22	Alias of B.1.160.16.1, Denmark, grown out of big swiss cluster
+AC.1	1	England/MILK-AC8B90/2020	Active	Chris	18	Alias of B.1.1.405.1, UK lineage
+AD.1	1	Denmark/DCGC-15662/2020	Active	Chris	57	Alias of B.1.1.315.1, Denmark lineage
+AD.2	1	England/QEUH-A9D165/2020	Active	Chris	2850	Alias of B.1.1.315.2, UK lineage
+AD.2.1	1	Lithuania/ID3779/2020	Active	Chris	5	Alias of B.1.1.315.2.1, Lithuanian lineage
+AE.1	1	Zambia/ZMB-24737/2020		Verity	40	Alias of B.1.1.306.1, Zambian
+AE.2	2	Bahrain/02/2020		Verity	10	Alias of B.1.1.306.2, Bahrain
+AE.3	1	Zambia/ZMB-24445/2020		Verity	10	Alias of B.1.1.306.3, Zambia and Rwanda
+AE.4	1	Bahrain/340854790/2020		Verity	10	Alias of B.1.1.306.4, Bahrain
+AE.5	1	Zambia/ZMB-37043/2020		Verity	15	Alias of B.1.1.306.5, Zambia
+AE.6	2	Bahrain/920457147/2020		Verity	20	Alias of B.1.1.306.6, Bahrain
+AE.7	2	Bahrain/920457147/2020		Verity	15	Alias of B.1.1.306.7, Bahrain
+AE.8	2	Canada/BC-BCCDC-4222/2020		Verity	200	Alias of B.1.1.306.8, Canada lineage
+AF.1	3	Switzerland/LU-ETHZ-420034/2020		Verity	20	Alias of B.1.1.305.1, Switzerland
+AG.1	1	Netherlands/UT-RIVM-21440/2020	Active	Chris	9	Alias of B.1.1.297.1, Netherlands lineage
+AH.1	4	Switzerland/LU-ETHZ-480913/2021		JT	5	Alias of B.1.1.241.1, Swiss Lineage
+AH.2	1	France/PAC-IHU-1270/2020		JT		Alias of B.1.1.241.2, French Lineage
+AH.3	3	Finland/31J4DF5_S150/2020		JT	50	Alias of B.1.1.241.3, Finnish Lineage
+AJ.1	4	Portugal/PT1795/2020	Active	Chris	10	Alias of B.1.1.240.1, Portugal lineage
+AK.1	3	England/QEUH-997D1D/2020	Active	JT	30	Alias of B.1.1.232.1, UK lineage
+AK.2	1	Germany/NW-HHU-248/2020	Active	JT	10	Alias of B.1.1.232.2, German lineage
+AL.1	2	Canada/ON-SLB3266/2021	Active	Chris	13	Alias of B.1.1.231.1, Canada lineage
+AM.1	2	Portugal/PT1799/2020	Active	Chris	6	Alias of B.1.1.216.1, Portugal lineage
+AM.2	4	Canada/ON-PPS-00270/2020	Dormant	Chris	5	Alias of B.1.1.216.2, Canadian lineage
+AM.3	9	England/LOND-12521AD/2020	Active	Chris	7	Alias of B.1.1.216.3, UK lineage
+AM.4	8	Canada/ON-PPS-00126/2020	Active	Chris	28	Alias of B.1.1.216.4, Canadian lineage
+AN.1	1	Sweden/20-52355/2020		Verity	20	Alias of B.1.1.200.1, Sweden and Netherlands, from B.1.1.130
+AP.1	1	Wales/PHWC-483F9B/2020		Áine	300	Alias of B.1.1.70.1, Wales lineage
+AQ.1	2	Finland/30J1DE4_S127/2020	Active	Chris	8	Alias of B.1.1.39.1, Finland lineage
+AQ.2	3	Denmark/DCGC-3173/2020	Dormant	Chris	5	Alias of B.1.1.39.2, Denmark lineage
+AS.1	2	England/MILK-B04E43/2020		Áine	50	Alias of B.1.1.317.1, UK lineage
+AS.2	2	England/QEUH-AD5F2B/2020		Áine	50	Alias of B.1.1.317.2, UK lineage
