@@ -681,6 +681,8 @@ B.1.211	Belgium/ Luxembourg lineage
 B.1.212	South American lineage
 B.1.213	Polish lineage
 B.1.214	DRC/ Congo lineage
+B.1.214.1	Congo/ France lineage
+B.1.214.2	European lineage with sequences from Belgium, Denmark, Switzerland and Mayotte. It has a number of key spike mutations and a 9bp spike insertion.
 B.1.215	Scottish lineage
 B.1.218	Swiss lineage
 B.1.219	Suriname lineage
@@ -1416,8 +1418,6 @@ AS.2	Alias of B.1.1.317.2, UK lineage
 *B.1.204	Withdrawn: Reassigned in the current tree. USA lineage
 *B.1.207	Withdrawn: USA lineage (TX)
 *B.1.209	Withdrawn: Small Scottish lineage
-*B.1.214.1	Withdrawn: Congo/ France lineage
-*B.1.214.2	Withdrawn: European lineage with sequences from Belgium, Denmark, Switzerland and Mayotte. It has a number of key spike mutations and a 9bp spike insertion.
 *B.1.216	Withdrawn: USA lineage
 *B.1.217	Withdrawn: Reassigned in the current tree. Indian lineage Reassigned from B.1.80, split this assignment
 *B.1.226	Withdrawn: Reassigned in the current tree. Equatorial Guinea lineage
