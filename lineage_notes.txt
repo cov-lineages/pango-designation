@@ -1065,6 +1065,7 @@ B.1.612	USA lineage, split out from B.1.361
 B.1.613	Danish lineage (amalgam of Danish sequences from B.1.358, B.1.288, B.1.262), split out from B.1.428
 B.1.614	Sweden
 B.1.615	Canada
+B.1.616	France lineage, pango-designation issue #31
 B.1.9	European wide lineage with active sublineages
 B.1.9.1	Scottish Lineage
 B.1.9.2	USA
