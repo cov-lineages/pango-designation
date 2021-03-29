@@ -465,6 +465,7 @@ B.1.36.24	England with Global records
 B.1.36.25	Denmark
 B.1.36.26	Canda/USA
 B.1.36.28	UK
+B.1.36.27	Hong Kong lineage, initially associated with travellers from Nepal. Epidemiologically and phylogenetically supported.
 B.1.36.29	India
 B.1.36.31	UK/Global 
 B.1.36.33	Demark
@@ -1374,7 +1375,6 @@ AS.2	Alias of B.1.1.317.2, UK lineage
 *B.1.36.14	Withdrawn: Danish lineage
 *B.1.36.15	Withdrawn: Saudi Arabia lineage
 *B.1.36.17.1	Withdrawn: Alias F.1 New Zealand lineage
-*B.1.36.27	Withdrawn: Hong Kong lineage
 *B.1.74	Withdrawn: Spanish lineage
 *B.1.75	Withdrawn: Reassigned in the current tree. English lineage
 *B.1.79	Withdrawn: UK lineage, some now reassigned to B.1.5
