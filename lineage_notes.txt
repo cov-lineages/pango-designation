@@ -713,6 +713,7 @@ B.1.240.1	Curacao and Aruba
 B.1.240.2	England
 B.1.241	USA lineage
 B.1.243	USA lineage
+B.1.243.1	Emergent lineage in Arizona with a number of defining amino acid mutations, including S:E484K and S:V213G. Described in Skidmore et al 2021. https://www.medrxiv.org/content/10.1101/2021.03.26.21254367v1.full.pdf.
 B.1.242	Norway lineage
 B.1.245	USA/CA
 B.1.247	Indian lineage, some previously B.1.36
