@@ -1292,7 +1292,7 @@ AS.2	Alias of B.1.1.317.2, UK lineage
 *B.1.1.126	Withdrawn: USA lineage
 *B.1.1.131	Withdrawn: UK lineage
 *B.1.1.140	Withdrawn: Russian lineage
-*B.1.1.143	Withdrawn: Brazilian lineage, previously B.1.1.28
+*B.1.1.143	Withdrawn: Brazilian lineage, merged into lineage B.1.1.28
 *B.1.1.146	Withdrawn: UK lineage
 *B.1.1.150	Withdrawn: UK lineage
 *B.1.1.151	Withdrawn: UK lineage
