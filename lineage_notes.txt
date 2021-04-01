@@ -683,7 +683,9 @@ B.1.212	South American lineage
 B.1.213	Polish lineage
 B.1.214	DRC/ Congo lineage
 B.1.214.1	Congo/ France lineage
-B.1.214.2	European lineage with sequences from Belgium, Denmark, Switzerland and Mayotte. It has a number of key spike mutations and a 9bp spike insertion.
+B.1.214.2	Lineage from Belgium with a number of key spike mutations and a 9bp spike insertion.
+B.1.214.3	France, Belgium and Mayotte lineage.
+B.1.214.4	Danish lineage. 
 B.1.215	Scottish lineage
 B.1.218	Swiss lineage
 B.1.219	Suriname lineage
