@@ -889,6 +889,7 @@ B.1.428.1	Iraq
 B.1.428.2	Tunisia, England, France
 B.1.428.3	UAE, Jordan
 B.1.429	A lineage predominantly circulating in California but with exports to other countries. Characterised by the spike L452R mutation but also has spike:W152C orf1ab:D5584Y and N:T205I.
+B.1.429.1	Colorado lineage from pango-designation issue #37
 B.1.431	Scotland
 B.1.432	USA lineage
 B.1.433	USA lineage
