@@ -48,7 +48,7 @@ B.1.1.25	Bangladesh Lineage
 B.1.1.26	Bangladesh Lineage
 B.1.1.27	Oman Lineage, some UAE
 B.1.1.28	Brazil mostly, absorbed B.1.1.94 and B.1.1.143
-B.1.1.29	UK
+B.1.1.29	Wales lineage, formally B.1.1.439
 B.1.1.30	Lithuanian
 B.1.1.31	Russian lineage
 B.1.1.33	Brazillian
@@ -388,7 +388,6 @@ B.1.1.435	Russian
 B.1.1.436	Belgium lineage
 B.1.1.437	USA lineage
 B.1.1.438	Swedish lineage
-B.1.1.439	Wales lineage, contains former B.1.1.29 sequences
 B.1.1.440	US and Mexico
 B.1.1.441	USA lineage
 B.1.1.442	Argentinian
@@ -1334,6 +1333,7 @@ AS.2	Alias of B.1.1.317.2, UK lineage
 *B.1.1.295	Withdrawn: UK/Australia lineage
 *B.1.1.313	Withdrawn: English lineage
 *B.1.1.314	Withdrawn: Brazilian lineage, previously part of B.1.1.33
+*B.1.1.439	Withdrawn: Wales lineage, reassigned to B.1.1.29
 *B.1.3.1	Withdrawn: South Korean lineage
 *B.1.3.2	Withdrawn: Argentinian lineage
 *B.1.3.3	Withdrawn: Israel lineage
