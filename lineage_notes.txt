@@ -6,6 +6,8 @@ A.2.2	Australian lineage
 A.2.3	Scottish lineage
 A.2.4	Panama lineage
 A.2.5	Central American/ USA lineage
+A.2.5.1	Costa Rica lineage from pango-designation issue #33
+A.2.5.2	Predominantly Italy lineage
 A.3	USA lineage
 A.4	USA lineage
 A.5	A lineage with a lot of representation from Spanish-speaking countries. A Spanish/ South-American lineage, but now with sequences from an outbreak in Scotland. Also now includes what was previously A.10.
