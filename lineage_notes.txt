@@ -207,7 +207,6 @@ B.1.1.227	England
 B.1.1.231	USA lineage
 B.1.1.232	Northern Europe (UK, Germany, Denmark, Belgium, NL)
 B.1.1.234	England, Ireland, Northern Ireland, Northern Europe
-B.1.1.235	Withdrawn, merged with B.1.1.115
 B.1.1.236	UK
 B.1.1.237	Wales
 B.1.1.239	USA lineage
@@ -584,7 +583,6 @@ B.1.177.9	UK lineage
 B.1.177.10	England
 B.1.177.11	Scotland mostly, some England
 B.1.177.12	Danish
-B.1.177.13	Withdrawn, now part of B.1.177.17
 B.1.177.14	Danish/ Norway lineage
 B.1.177.15	English Welsh lineage
 B.1.177.16	UK lineage
@@ -1132,13 +1130,11 @@ B.44	Portugal lineage
 B.45	Scottish lineage
 B.46	USA lineage
 B.47	English lineage
-B.48	Reassigned to B.23
 B.49	Danish lineage
 B.50	Indonesian lineage
 B.51	USA lineage
 B.52	UK lineage
 B.53	Lithuanian lineage
-B.54	Revoked (distributed amongst other lineages)
 B.55	Redesignated from B.11 (split), UK/Danish
 B.56	Singapore/Malaysia/Indonesia
 B.57	Largely Scottish
@@ -1320,6 +1316,7 @@ AS.2	Alias of B.1.1.317.2, UK lineage
 *B.1.1.215	Withdrawn: England with a spanish base
 *B.1.1.223	Withdrawn: USA, NZ, England, one Russia
 *B.1.1.233	Withdrawn: USA (WA)
+*B.1.1.235	Withdrawn, merged with B.1.1.115
 *B.1.1.238	Withdrawn: UK and New Zealand (split from B.1.1.7)
 *B.1.1.245	Withdrawn: Northern Ireland lineage, previously B.1.1.60 (split)
 *B.1.1.246	Withdrawn: Russia
@@ -1417,6 +1414,7 @@ AS.2	Alias of B.1.1.317.2, UK lineage
 *B.1.160.5	Withdrawn: Danish lineage
 *B.1.160.6	Withdrawn: Danish lineage, reassigned B.1.160 lack of resolution in current tree
 *B.1.177.1	Withdrawn: Denmark
+*B.1.177.13	Withdrawn, now part of B.1.177.17
 *B.1.177.22	Withdrawn: UK lineage
 *B.1.183	Withdrawn: Reassigned in the current tree. Canadian lineage
 *B.1.185	Withdrawn: Reassigned in the current tree. USA lineage (previously B.1.5.15)
@@ -1511,6 +1509,8 @@ AS.2	Alias of B.1.1.317.2, UK lineage
 *B.2.11	Withdrawn: Reassigned to B.36
 *B.2.12	Withdrawn: Reassigned to B.30
 *B.14	Withdrawn: USA lineage
+*B.48	Withdrawn: Reassigned to B.23
+*B.54	Withdrawn: Distributed amongst other lineages
 *C.15	Withdrawn: Alias of B.1.1.1.15, Denmark lineage
 *E.1	Withdrawn: Reassigned B.1.416.1. French lineage within the diversity of a Senegal/ Gambia lineage
 *F.1	Withdrawn: Alias of B.1.36.17.1, New Zealand lineage
