@@ -47,7 +47,7 @@ B.1.1.15	UK/ Luxembourg lineage
 B.1.1.16	Wales with European base
 B.1.1.17	Icelandic
 B.1.1.25	Bangladesh Lineage
-B.1.1.26	Bangladesh Lineage
+B.1.1.26	USA Lineage
 B.1.1.27	Oman Lineage, some UAE
 B.1.1.28	Brazil mostly, absorbed B.1.1.94 and B.1.1.143
 B.1.1.29	Wales lineage, formally B.1.1.439
