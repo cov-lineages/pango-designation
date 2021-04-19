@@ -1266,6 +1266,7 @@ AQ.1	Alias of B.1.1.39.1, Finland lineage
 AQ.2	Alias of B.1.1.39.2, Denmark lineage
 AS.1	Alias of B.1.1.317.1, UK lineage
 AS.2	Alias of B.1.1.317.2, UK lineage
+AT.1	Alias of B.1.1.370.1, Russia and Finland lineage from pango-designation issue #47
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
