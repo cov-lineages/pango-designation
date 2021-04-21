@@ -898,6 +898,11 @@ B.1.434	Australian lineage (previously a couple part of B.1.25, B.1.295)
 B.1.435	USA - UT
 B.1.436	USA liniage reassigned from previous tree 
 B.1.437	USA - FL
+B.1.438	Lineage circulating in multiple countries
+B.1.438.1	Canada lineage
+B.1.438.2	Mayotte and Reunion lineage
+B.1.438.3	USA lineage
+B.1.438.4	USA lineage
 B.1.439	USA
 B.1.441	Global lineage (inc. merge of B.1.274)
 B.1.442	USA
