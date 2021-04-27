@@ -1085,6 +1085,8 @@ B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
 B.1.620	Lineage in multiple countries, potentially originated in Cameroon and spread within Europe post-introduction, pango-designation issue #54
+B.1.621	Lineage predominantly in Colombia with several spike mutations, pango-designation issue #57
+B.1.622	Reunion lineage, pango-designation issue #58
 B.1.9	European wide lineage with active sublineages
 B.1.9.1	Scottish Lineage
 B.1.9.2	USA
@@ -1193,6 +1195,7 @@ C.35	Alias of B.1.1.1.35, Central Europe, England
 C.36	Alias of B.1.1.1.36, Egypt mainly and other countries
 C.36.1	Alias of B.1.1.1.36.1, Canada
 C.36.2	Alias of B.1.1.1.36.2, Switzerland
+C.37	Alias of B.1.1.1.37, lineage in Peru, Chile, USA and Germany, from pango-designation issue #52
 D.2	Alias of B.1.1.25.2, Australia
 D.3	Alias of B.1.1.25.3, Australia
 D.4	Alias of B.1.1.25.4, Irish/ Northern Irish lineage
@@ -1220,6 +1223,7 @@ N.9	Alias of B.1.1.33.9, Brazilian lineage
 N.10	Alias of B.1.1.33.10, Brazilian lineage described in https://virological.org/t/identification-of-a-new-b-1-1-33-sars-cov-2-variant-of-interest-voi-circulating-in-brazil-with-mutation-e484k-and-multiple-deletions-in-the-amino-n-terminal-domain-of-the-spike-protein/675
 P.1	Alias of B.1.1.28.1, Brazilian lineage with a number of spike mutaions with likely functional significance E484K, K417T, and N501Y. Described in https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586.
 P.1.1	Alias of B.1.1.28.1.1, European lineage in Italy and Germany
+P.1.2	Alias of B.1.1.28.1.2, Netherlands/Brazil lineage. Imported into Netherlands, likely with local transmission here and continued circulation within and/or reintroduction into Brazil, pango-designation issue #56
 P.2	Alias of B.1.1.28.2, Brazilian lineage
 P.3	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2
 R.1	Alias of B.1.1.316.1, Sublineage of B.1.1.316 with 3 additional spike mutations, circulating in a number of countries. pango-designation issue #17
