@@ -1031,8 +1031,8 @@ B.1.571	USA lineage, split out from B.1.369
 B.1.572	USA, split from B.1.325
 B.1.573	Canada (BC)
 B.1.574	USA lineage, split out from B.1.363
-B.1.575	USA and Aruba
-B.1.575.1	Spain
+B.1.575	USA and Aruba lineage with spike mutations "S:P681H","S:S494P" and "S:T716I". 
+B.1.575.1	Spainish sub lineage of B.1.575 with spike mutations "S:P681H","S:S494P" and "S:T716I".
 B.1.576	USA lineage, formally part of B.1.363
 B.1.577	USA lineage, formally part of B.1.2
 B.1.578	USA, formally part of B.1.313
