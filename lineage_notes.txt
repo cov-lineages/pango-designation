@@ -434,6 +434,7 @@ B.1.1.517	USA lineage
 B.1.1.518	USA/ Mexico lineage
 B.1.1.519	USA/ Mexico lineage
 B.1.1.521	European lineage
+B.1.1.522	Belgium lineage
 B.1.2	USA
 B.1.3	USA lineage
 B.1.6	Belgian lineage
@@ -1281,6 +1282,9 @@ AQ.2	Alias of B.1.1.39.2, Denmark lineage
 AS.1	Alias of B.1.1.317.1, UK lineage
 AS.2	Alias of B.1.1.317.2, UK lineage
 AT.1	Alias of B.1.1.370.1, Russia and Finland lineage from pango-designation issue #47
+AU.1	Alias of B.1.466.2.1, predominantly Papua New Guinea with some Australia sequences
+AU.2	Alias of B.1.466.2.2, Malaysia lineage
+AU.3	Alias of B.1.466.2.3, predominantly Australia with some Papua New Guinea and Singapore sequences
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
