@@ -268,7 +268,7 @@ B.1.1.310	Northern Irish with English root
 B.1.1.311	Huge UK lineage
 B.1.1.312	Jordan lineage
 B.1.1.315	Previously D.1, UK/ UAE lineage
-B.1.1.316	International lineage with E484K mutation
+B.1.1.316	International lineage with spike mutation Q677H, parent of lineage R.1 and R.2 which have additional mutations including E484K mutation
 B.1.1.317	Russian lineage
 B.1.1.318	Lineage circulating in multiple countries with a number of variants of concern (Spike D614G, Spike D796H, Spike E484K, Spike P681H, Spike T95I, Spike Y144del). pango-designation issue #15
 B.1.1.319	Russian/Serbian Lineage
