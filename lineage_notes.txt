@@ -1010,7 +1010,6 @@ B.1.549	Kenya + England
 B.1.550	USA lineage
 B.1.551	USA lineage
 B.1.552	North American
-B.1.553	UK
 B.1.554	USA (UT) lineage
 B.1.555	Sweden
 B.1.556	USA lineage
