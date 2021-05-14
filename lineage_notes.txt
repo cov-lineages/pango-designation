@@ -1071,7 +1071,6 @@ B.1.604	USA lineage
 B.1.605	USA lineage
 B.1.606	USA lineage (previously part of B.1.325 that jumped to a new part of the tree)
 B.1.607	England (previously part of B.1.369 that jumped to a new part of the tree - could also be withdrawn).
-B.1.608	USA (TX)
 B.1.609	USA/ Mexico lineage
 B.1.610	UK lineage, previously part of B.1.235
 B.1.611	Canada lineage
