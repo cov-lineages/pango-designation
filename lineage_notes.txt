@@ -435,6 +435,7 @@ B.1.1.518	USA/ Mexico lineage
 B.1.1.519	USA/ Mexico lineage
 B.1.1.521	European lineage
 B.1.1.522	Belgium lineage
+B.1.1.523	Lineage in multiple countries, predominantly Russia, from pango-designation issue #69
 B.1.2	USA
 B.1.3	USA lineage
 B.1.6	Belgian lineage
