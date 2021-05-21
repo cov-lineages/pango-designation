@@ -30,6 +30,7 @@ A.25	Ugandan lineage
 A.26	UK lineage
 A.27	Mayotte/ European cluster with 18 changes in the long branch leading to this cluster, including 7 NS changes in the spike (L18F, L452R, N501Y, A653V, H655Y, D796Y, G1219V), on a 614D background. pango-designation issue #11.
 A.28	This lineage has 9 changes on its basal branch, including the 69-70del, N501T (not Y) and H655Y. (This variant is picked up by the qPCR S drop). pango-designation issue #12
+A.29	Lineage circulating in multiple countries from pango-designation issue #78
 B	Second major haplotype (and first to be discovered)
 B.1	A large European lineage the origin of which roughly corresponds to the Northern Italian outbreak early in 2020.
 B.1.1	European lineage with 3 clear SNPs `28881GA`,`28882GA`,`28883GC`
