@@ -409,9 +409,7 @@ B.1.1.459	South African lineage (some were part of Belgian lineage B.1.1.75
 B.1.1.461	US TX lineage
 B.1.1.462	United Arab Emirates
 B.1.1.463	US CA lineage
-B.1.1.464	Swiss Lineage
 B.1.1.464	US lineage 
-B.1.1.464	Canadian lineage 
 B.1.1.465	Japanese lineage
 B.1.1.466	Gambian lineage
 B.1.1.467	US lineage (NY)
@@ -1291,6 +1289,7 @@ AU.1	Alias of B.1.466.2.1, predominantly Papua New Guinea with some Australia se
 AU.2	Alias of B.1.466.2.2, Malaysia lineage
 AU.3	Alias of B.1.466.2.3, predominantly Australia with some Papua New Guinea and Singapore sequences
 AV.1	Alias of B.1.1.482.1, UK and France lineage with several VOC/VUI-like mutations, from pango-designation issue #73
+AW.1	Alias of B.1.1.464.1, Canadian lineage 
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
