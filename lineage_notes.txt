@@ -106,7 +106,6 @@ B.1.1.99	Mostly South Africa
 B.1.1.100	Denmark lineage
 B.1.1.101	Indian lineage
 B.1.1.107	England
-B.1.1.101	Indian lineage (two US)
 B.1.1.109	UK lineage
 B.1.1.110	Peru lineage
 B.1.1.111	African lineage (Zambia, Zimbabwe)
@@ -460,7 +459,6 @@ B.1.36.18	Canadian lineage
 B.1.36.19	Oceana
 B.1.36.20	Mainly Scotland
 B.1.36.21	Norway lineage 
-B.1.36.23	Ireland/Finald (inc. now reassigned B.1.36.13)
 B.1.36.23	UK
 B.1.36.24	England with Global records
 B.1.36.25	Denmark
@@ -703,7 +701,7 @@ B.1.224	Austrian lineage
 B.1.225	UK lineage
 B.1.227	Sweden
 B.1.229	UK lineage
-B.1.321	UK lineage
+B.1.231	UK lineage
 B.1.232	USA/ Scottish lineage
 B.1.233	USA lineage
 B.1.234	USA lineage
@@ -720,7 +718,6 @@ B.1.243	USA lineage
 B.1.243.1	Emergent lineage in Arizona with a number of defining amino acid mutations, including S:E484K and S:V213G. Described in Skidmore et al 2021. https://www.medrxiv.org/content/10.1101/2021.03.26.21254367v1.full.pdf.
 B.1.242	Norway lineage
 B.1.245	USA/CA
-B.1.247	Indian lineage, some previously B.1.36
 B.1.247	India
 B.1.249	England
 B.1.248	Scotland
@@ -751,7 +748,6 @@ B.1.258.21	Netherlands lineage
 B.1.258.22	Swedish lineage
 B.1.258.23	USA (UT) lineage
 B.1.258.24	Italian lineage
-B.1.260	Saudi Arabia with activity in Switzerland as of 2021
 B.1.260	Saudi Arabian lineage
 B.1.263	Danish
 B.1.264	USA (UT)
@@ -821,8 +817,8 @@ B.1.351	Lineage of concern detected in South Africa
 B.1.351.1	Sublineage of B.1.351 circulating in Botswana
 B.1.351.2	Sublineage of B.1.351 circulating in Mayotte
 B.1.351.3	Sublineage of B.1.351 predominantly in Bangladesh and Singapore with exports elsewhere
-B.1.254	Denmark
 B.1.343	Denmark
+B.1.354	Denmark
 B.1.355	USA lineage
 B.1.356	European, mostly dutch and spanish, some north american
 B.1.357	USA (OR,WA,HI)
