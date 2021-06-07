@@ -458,7 +458,8 @@ B.1.36.17	UK lineage
 B.1.36.18	Canadian lineage
 B.1.36.19	Oceana
 B.1.36.20	Mainly Scotland
-B.1.36.21	Norway lineage 
+B.1.36.21	Norway lineage
+B.1.36.22	Lineage with sequences majoritively from Finland
 B.1.36.23	UK
 B.1.36.24	England with Global records
 B.1.36.25	Denmark
