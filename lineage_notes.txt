@@ -1287,6 +1287,7 @@ AU.2	Alias of B.1.466.2.2, Malaysia lineage
 AU.3	Alias of B.1.466.2.3, predominantly Australia with some Papua New Guinea and Singapore sequences
 AV.1	Alias of B.1.1.482.1, UK and France lineage with several VOC/VUI-like mutations, from pango-designation issue #73
 AW.1	Alias of B.1.1.464.1, Canadian lineage 
+AY.1	Alias of B.1.617.2.1, in several European countries, from pango-designation issue #95
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
