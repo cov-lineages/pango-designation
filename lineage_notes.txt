@@ -1109,7 +1109,6 @@ B.6.3	Singapore lineage
 B.6.4	Singapore lineage
 B.6.5	Australian lineage
 B.6.6	Singapore lineage
-B.6.7	USA/Texas
 B.6.8	Papua New Guinea 
 B.10	Northern Irish lineage
 B.11	European lineage with sequences from the Netherlands, UK, Austria, Slovakia
@@ -1533,6 +1532,7 @@ XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *B.2.10	Withdrawn: Reassigned to B.41
 *B.2.11	Withdrawn: Reassigned to B.36
 *B.2.12	Withdrawn: Reassigned to B.30
+*B.6.7	Withdrawn: USA/Texas
 *B.14	Withdrawn: USA lineage
 *B.48	Withdrawn: Reassigned to B.23
 *B.54	Withdrawn: Distributed amongst other lineages
