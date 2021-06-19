@@ -1225,6 +1225,7 @@ P.1.2	Alias of B.1.1.28.1.2, Netherlands/Brazil lineage. Imported into Netherlan
 P.2	Alias of B.1.1.28.2, Brazilian lineage
 P.3	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2
 P.4	Alias of B.1.1.28.4, Brazil lineage, pango-designation issue #68
+P.5	Alias of B.1.1.28.5, Brazil lineage, pango-designation issue #86
 R.1	Alias of B.1.1.316.1, Sublineage of B.1.1.316 with 3 additional spike mutations, circulating in a number of countries. pango-designation issue #17
 R.2	Alias of B.1.1.316.2, Sublineage of B.1.1.316 with E484K. pango-designation issue #18
 S.1	Alias of B.1.1.217.1, Latvian lineage, previously I.1
