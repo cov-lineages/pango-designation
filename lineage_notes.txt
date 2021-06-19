@@ -1085,6 +1085,7 @@ B.1.621	Lineage predominantly in Colombia with several spike mutations, pango-de
 B.1.622	Reunion lineage, pango-designation issue #58
 B.1.623	Predominantly USA lineage with mutations of interest, from pango-designation issue #25
 B.1.624	India lineage, from pango-designation issue #91
+B.1.625	Predominantly Colombia and USA lineage, from pango-designation issue #93
 B.1.9	European wide lineage with active sublineages
 B.1.9.1	Scottish Lineage
 B.1.9.2	USA
