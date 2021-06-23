@@ -862,6 +862,7 @@ B.1.397	USA lineage
 B.1.398	European lineage
 B.1.399	USA
 B.1.400	USA lineage
+B.1.400.1	USA lineage, from pango-designation issue #94
 B.1.401	USA lineage
 B.1.402	USA lineage
 B.1.403	USA lineage
