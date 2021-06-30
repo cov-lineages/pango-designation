@@ -1085,6 +1085,7 @@ B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
 B.1.620	Lineage in multiple countries, potentially originated in Cameroon and spread within Europe post-introduction, pango-designation issue #54
 B.1.621	Lineage predominantly in Colombia with several spike mutations, pango-designation issue #57
+B.1.621.1       Lineage in multiple countries, pango-designation issue #115
 B.1.622	Reunion lineage, pango-designation issue #58
 B.1.623	Predominantly USA lineage with mutations of interest, from pango-designation issue #25
 B.1.625	Predominantly Colombia and USA lineage, from pango-designation issue #93
