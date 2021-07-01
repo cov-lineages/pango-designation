@@ -1091,7 +1091,8 @@ B.1.623	Predominantly USA lineage with mutations of interest, from pango-designa
 B.1.625	Predominantly Colombia and USA lineage, from pango-designation issue #93
 B.1.626	Europe and USA lineage, from pango-designation issue #118
 B.1.627	USA, Mexico and Honduras lineage, from pango-designation issue #130
-B.1.628	USA, Mexico and Honduras lineage, from pango-designation issue #131
+B.1.628	USA, Mexico and Honduras lineage, from pango-designation issue #130
+B.1.629	Lineage circulating in several countries, from pango-designation issue #132
 B.1.9	European wide lineage with active sublineages
 B.1.9.1	Scottish Lineage
 B.1.9.2	USA
