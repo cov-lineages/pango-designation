@@ -434,6 +434,9 @@ B.1.1.519	USA/ Mexico lineage
 B.1.1.521	European lineage
 B.1.1.522	Belgium lineage
 B.1.1.523	Lineage in multiple countries, predominantly Russia, from pango-designation issue #69
+B.1.1.524	Predominantly Russia lineage, from pango-designation issue #85
+B.1.1.525	Predominantly Russia lineage, from pango-designation issue #85
+B.1.1.526	India lineage, from pango-designation issue #91, previously designated B.1.624
 B.1.2	USA
 B.1.3	USA lineage
 B.1.6	Belgian lineage
@@ -860,6 +863,7 @@ B.1.397	USA lineage
 B.1.398	European lineage
 B.1.399	USA
 B.1.400	USA lineage
+B.1.400.1	USA lineage, from pango-designation issue #94
 B.1.401	USA lineage
 B.1.402	USA lineage
 B.1.403	USA lineage
@@ -1028,6 +1032,7 @@ B.1.573	Canada (BC)
 B.1.574	USA lineage, split out from B.1.363
 B.1.575	USA and Aruba lineage with spike mutations "S:P681H","S:S494P" and "S:T716I". 
 B.1.575.1	Spainish sub lineage of B.1.575 with spike mutations "S:P681H","S:S494P" and "S:T716I".
+B.1.575.2	Spain lineage, from pango-designation issue #116
 B.1.576	USA lineage, formally part of B.1.363
 B.1.577	USA lineage, formally part of B.1.2
 B.1.578	USA, formally part of B.1.313
@@ -1080,8 +1085,14 @@ B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
 B.1.620	Lineage in multiple countries, potentially originated in Cameroon and spread within Europe post-introduction, pango-designation issue #54
 B.1.621	Lineage predominantly in Colombia with several spike mutations, pango-designation issue #57
+B.1.621.1       Lineage in multiple countries, pango-designation issue #115
 B.1.622	Reunion lineage, pango-designation issue #58
 B.1.623	Predominantly USA lineage with mutations of interest, from pango-designation issue #25
+B.1.625	Predominantly Colombia and USA lineage, from pango-designation issue #93
+B.1.626	Europe and USA lineage, from pango-designation issue #118
+B.1.627	USA, Mexico and Honduras lineage, from pango-designation issue #130
+B.1.628	USA, Mexico and Honduras lineage, from pango-designation issue #130
+B.1.629	Lineage circulating in several countries, from pango-designation issue #132
 B.1.9	European wide lineage with active sublineages
 B.1.9.1	Scottish Lineage
 B.1.9.2	USA
@@ -1223,6 +1234,7 @@ P.1.2	Alias of B.1.1.28.1.2, Netherlands/Brazil lineage. Imported into Netherlan
 P.2	Alias of B.1.1.28.2, Brazilian lineage
 P.3	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2
 P.4	Alias of B.1.1.28.4, Brazil lineage, pango-designation issue #68
+P.5	Alias of B.1.1.28.5, Brazil lineage, pango-designation issue #86
 R.1	Alias of B.1.1.316.1, Sublineage of B.1.1.316 with 3 additional spike mutations, circulating in a number of countries. pango-designation issue #17
 R.2	Alias of B.1.1.316.2, Sublineage of B.1.1.316 with E484K. pango-designation issue #18
 S.1	Alias of B.1.1.217.1, Latvian lineage, previously I.1
@@ -1285,6 +1297,7 @@ AV.1	Alias of B.1.1.482.1, UK and France lineage with several VOC/VUI-like mutat
 AW.1	Alias of B.1.1.464.1, Canadian lineage 
 AY.1	Alias of B.1.617.2.1, in several European countries, from pango-designation issue #95
 AY.2	Alias of B.1.617.2.2, in USA with K417N, from pango-designation issue #107
+AY.3	Alias of B.1.617.2.3, USA lineage, from pango-designation issue #121
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
@@ -1528,6 +1541,7 @@ XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *B.1.526.1	Withdrawn: Issue 45. New York. Sublineage of B.1.526 (with spike mutations T95I and D253G) that appears to have several more unique mutations.
 *B.1.526.2	Withdrawn: Issue 45. New York. Sublineage of B.1.526 (with spike mutations T95I and D253G) that appears to have several more unique mutations.
 *B.1.526.3	Withdrawn: Issue 45. Belgium and Luxembourg lineage
+*B.1.624	Withdrawn: India lineage, from pango-designation issue #91. Redesignated as B.1.1.526
 *B.2.1	Withdrawn: Reassigned to B.40
 *B.2.6	Withdrawn: Reassigned to B.35
 *B.2.10	Withdrawn: Reassigned to B.41
