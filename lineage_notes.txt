@@ -822,6 +822,7 @@ B.1.351	Lineage of concern detected in South Africa
 B.1.351.1	Sublineage of B.1.351 circulating in Botswana
 B.1.351.2	Sublineage of B.1.351 circulating in Mayotte
 B.1.351.3	Sublineage of B.1.351 predominantly in Bangladesh and Singapore with exports elsewhere
+B.1.351.4	Sublineage of B.1.351 in Botswana, does not have E484K or N501Y but has L452R and T478K, from pango-designation issue #134
 B.1.343	Denmark
 B.1.354	Denmark
 B.1.355	USA lineage
