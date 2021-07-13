@@ -1095,6 +1095,7 @@ B.1.626	Europe and USA lineage, from pango-designation issue #118
 B.1.627	USA, Mexico and Honduras lineage, from pango-designation issue #130
 B.1.628	USA, Mexico and Honduras lineage, from pango-designation issue #130
 B.1.629	Lineage circulating in several countries, from pango-designation issue #132
+B.1.630	Lineage in several countries, from pango-designation issue #137
 B.1.9	European wide lineage with active sublineages
 B.1.9.1	Scottish Lineage
 B.1.9.2	USA
