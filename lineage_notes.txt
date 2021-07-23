@@ -1306,6 +1306,7 @@ AW.1	Alias of B.1.1.464.1, Canadian lineage
 AY.1	Alias of B.1.617.2.1, in several European countries, from pango-designation issue #95
 AY.2	Alias of B.1.617.2.2, in USA with K417N, from pango-designation issue #107
 AY.3	Alias of B.1.617.2.3, USA lineage, from pango-designation issue #121
+AY.3.1	Alias of B.1.617.2.3.1, USA lineage, from pango-designation issue #147
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
