@@ -438,6 +438,7 @@ B.1.1.523	Lineage in multiple countries, predominantly Russia, from pango-design
 B.1.1.524	Predominantly Russia lineage, from pango-designation issue #85
 B.1.1.525	Predominantly Russia lineage, from pango-designation issue #85
 B.1.1.526	India lineage, from pango-designation issue #91, previously designated B.1.624
+B.1.1.527	Lineage in multiple countries, from pango-designation issue #150
 B.1.2	USA
 B.1.3	USA lineage
 B.1.6	Belgian lineage
