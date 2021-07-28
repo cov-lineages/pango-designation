@@ -438,7 +438,6 @@ B.1.1.523	Lineage in multiple countries, predominantly Russia, from pango-design
 B.1.1.524	Predominantly Russia lineage, from pango-designation issue #85
 B.1.1.525	Predominantly Russia lineage, from pango-designation issue #85
 B.1.1.526	India lineage, from pango-designation issue #91, previously designated B.1.624
-B.1.1.527	Lineage in multiple countries, from pango-designation issue #150
 B.1.2	USA
 B.1.3	USA lineage
 B.1.6	Belgian lineage
@@ -1209,6 +1208,7 @@ C.36.2	Alias of B.1.1.1.36.2, Switzerland
 C.36.3	Alias of B.1.1.1.36.3, Europe and USA lineage, from pango-designation issue #80
 C.36.3.1	Alias of B.1.1.1.36.3.1, Europe and USA lineage, from pango-designation issue #80
 C.37	Alias of B.1.1.1.37, lineage in Peru, Chile, USA and Germany, from pango-designation issue #52
+C.38	Alias of B.1.1.1.38, lineage in multiple countries, from pango-designation issue #150, formally B.1.1.527
 D.2	Alias of B.1.1.25.2, Australia
 D.3	Alias of B.1.1.25.3, Australia
 D.4	Alias of B.1.1.25.4, Irish/ Northern Irish lineage
@@ -1385,6 +1385,7 @@ XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *B.1.1.313	Withdrawn: English lineage
 *B.1.1.314	Withdrawn: Brazilian lineage, previously part of B.1.1.33
 *B.1.1.439	Withdrawn: Wales lineage, reassigned to B.1.1.29
+*B.1.1.527	Withdrawn: Lineage in multiple countries, from pango-designation issue #150, reassigned to C.38
 *B.1.3.1	Withdrawn: South Korean lineage
 *B.1.3.2	Withdrawn: Argentinian lineage
 *B.1.3.3	Withdrawn: Israel lineage
