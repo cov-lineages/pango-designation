@@ -1253,6 +1253,7 @@ P.3	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mut
 P.4	Alias of B.1.1.28.4, Brazil lineage, pango-designation issue #68
 P.5	Alias of B.1.1.28.5, Brazil lineage, pango-designation issue #86
 P.6	Alias of B.1.1.28.6, Uruguay lineage, from pango-designation issue #148
+P.7	Alias of B.1.1.28.7, Brazil lineage, from pango-designation issue #29
 R.1	Alias of B.1.1.316.1, Sublineage of B.1.1.316 with 3 additional spike mutations, circulating in a number of countries. pango-designation issue #17
 R.2	Alias of B.1.1.316.2, Sublineage of B.1.1.316 with E484K. pango-designation issue #18
 S.1	Alias of B.1.1.217.1, Latvian lineage, previously I.1
