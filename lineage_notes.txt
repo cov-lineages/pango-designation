@@ -1101,6 +1101,7 @@ B.1.631	USA and Mexico lineage, from pango-designation issue #146
 B.1.632	Predominantly Mexico lineage, from pango-designation issue #156
 B.1.633	India lineage, from pango-designation issue #155
 B.1.634	Mexico and USA lineage, from pango-designation issue #159
+B.1.635	Mexico and USA lineage, from pango-designation issue #159
 B.1.9	European wide lineage with active sublineages
 B.1.9.1	Scottish Lineage
 B.1.9.2	USA
