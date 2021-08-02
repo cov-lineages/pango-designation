@@ -41,6 +41,7 @@ B.1.1.4	English lineage
 B.1.1.5	European lineage
 B.1.1.7	UK lineage of concern, associated with the N501Y mutation. More information can be found at cov-lineages.org/global_report.html
 Q.1	Alias of B.1.1.7.1, predominantly Lithuania lineage, from pango-designation issue #39
+Q.2	Alias of B.1.1.7.2, Italy lineage, from pango-designation issue #79
 B.1.1.8	England
 B.1.1.10	European lineage
 B.1.1.12	England
