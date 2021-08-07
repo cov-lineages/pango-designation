@@ -276,6 +276,13 @@ B.1.1.315	Previously D.1, UK/ UAE lineage
 B.1.1.316	International lineage with spike mutation Q677H, parent of lineage R.1 and R.2 which have additional mutations including E484K mutation
 B.1.1.317	Russian lineage
 B.1.1.318	Lineage circulating in multiple countries with a number of variants of concern (Spike D614G, Spike D796H, Spike E484K, Spike P681H, Spike T95I, Spike Y144del). pango-designation issue #15
+AZ.1	Alias of B.1.1.318.1, Canada lineage, from pango-designation issue #171
+AZ.2	Alias of B.1.1.318.2, predominantly Greece lineage, from pango-designation issue #171
+AZ.2.1	Alias of B.1.1.318.2.1, Switzerland lineage, from pango-designation issue #171
+AZ.3	Alias of B.1.1.318.3, USA lineage, from pango-designation issue #171
+AZ.4	Alias of B.1.1.318.4, Ireland lineage, from pango-designation issue #171
+AZ.5	Alias of B.1.1.318.5, Mauritius lineage, from pango-designation issue #171
+AZ.6	Alias of B.1.1.318.6, Canada lineage, from pango-designation issue #171
 B.1.1.319	Russian/Serbian Lineage
 B.1.1.320	USA lineage
 B.1.1.322	Mexico/Southwest USA
