@@ -1262,6 +1262,7 @@ P.1.5	Alias of B.1.1.28.1.5, Brazil lineage, from pango-designation issue #141
 P.1.6	Alias of B.1.1.28.1.6, Brazil lineage, from pango-designation issue #141
 P.1.7	Alias of B.1.1.28.1.7, Brazil lineage, from pango-designation issue #141
 P.1.8	Alias of B.1.1.28.1.8, Brazil lineage, from pango-designation issue #164
+P.1.9	Alias of B.1.1.28.1.9, Brazil lineage, from pango-designation issue #174
 P.2	Alias of B.1.1.28.2, Brazilian lineage
 P.3	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2
 P.4	Alias of B.1.1.28.4, Brazil lineage, pango-designation issue #68
