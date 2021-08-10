@@ -44,6 +44,7 @@ B.1.1.7	UK lineage of concern, associated with the N501Y mutation. More informat
 Q.1	Alias of B.1.1.7.1, predominantly Lithuania lineage, from pango-designation issue #39
 Q.2	Alias of B.1.1.7.2, Italy lineage, from pango-designation issue #79
 Q.3	Alias of B.1.1.7.3, USA lineage, from pango-designation issue #92
+Q.4	Alias of B.1.1.7.4, lineage in multiple countries with spike H681R, from pango-designation issue #176
 B.1.1.8	England
 B.1.1.10	European lineage
 B.1.1.12	England
