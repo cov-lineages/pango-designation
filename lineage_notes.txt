@@ -1336,13 +1336,15 @@ AY.1	Alias of B.1.617.2.1, in several European countries, from pango-designation
 AY.2	Alias of B.1.617.2.2, in USA with K417N, from pango-designation issue #107
 AY.3	Alias of B.1.617.2.3, USA lineage, from pango-designation issue #121
 AY.3.1	Alias of B.1.617.2.3.1, USA lineage, from pango-designation issue #147
-AY.4	Alias of B.1.617.2.4, UK lineage
-AY.5	Alias of B.1.617.2.5, UK lineage
-AY.6	Alias of B.1.617.2.6, UK lineage
-AY.7	Alias of B.1.617.2.7, UK lineage
-AY.8	Alias of B.1.617.2.8, UK lineage
-AY.9	Alias of B.1.617.2.9, UK lineage
-AY.10	Alias of B.1.617.2.10, UK lineage
+AY.4	Alias of B.1.617.2.4, UK lineage, from pango-designation issue #180
+AY.5	Alias of B.1.617.2.5, UK lineage, from pango-designation issue #180
+AY.6	Alias of B.1.617.2.6, UK lineage, from pango-designation issue #180
+AY.7	Alias of B.1.617.2.7, UK lineage, from pango-designation issue #180
+AY.7.1	Alias of B.1.617.2.7.1, Denmark lineage
+AY.7.2	Alias of B.1.617.2.7.2, predominantly Italy lineage in multiple other European countries
+AY.8	Alias of B.1.617.2.8, UK lineage, from pango-designation issue #180
+AY.9	Alias of B.1.617.2.9, UK lineage, from pango-designation issue #180
+AY.10	Alias of B.1.617.2.10, UK lineage, from pango-designation issue #180
 AY.11	Alias of B.1.617.2.11, UK lineage, from pango-designation issue #142
 AY.12	Alias of B.1.617.2.12, Israel lineage, from pango-designation issue #170
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
