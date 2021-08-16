@@ -1347,6 +1347,7 @@ AY.9	Alias of B.1.617.2.9, UK lineage, from pango-designation issue #180
 AY.10	Alias of B.1.617.2.10, UK lineage, from pango-designation issue #180
 AY.11	Alias of B.1.617.2.11, UK lineage, from pango-designation issue #142
 AY.12	Alias of B.1.617.2.12, Israel lineage, from pango-designation issue #170
+AY.15	Alias of B.1.617.2.15, Canada lineage
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
