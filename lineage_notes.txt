@@ -1351,6 +1351,7 @@ AY.13	Alias of B.1.617.2.13, USA lineage
 AY.14	Alias of B.1.617.2.14, USA lineage
 AY.15	Alias of B.1.617.2.15, Canada lineage
 AY.16	Alias of B.1.617.2.16, lineage in Kenya and multiple other countries
+AY.17	Alias of B.1.617.2.17, Ireland and Northern Ireland lineage
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
