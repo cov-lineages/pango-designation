@@ -1357,6 +1357,7 @@ AY.17	Alias of B.1.617.2.17, Ireland and Northern Ireland lineage
 AY.18	Alias of B.1.617.2.18, Canada lineage
 AY.19	Alias of B.1.617.2.19, South Africa lineage
 AY.20	Alias of B.1.617.2.20, USA and Mexico lineage
+AY.21	Alias of B.1.617.2.21, lineage predominantly in Italy and Switzerland
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
