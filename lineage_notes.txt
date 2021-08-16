@@ -1338,6 +1338,7 @@ AY.3	Alias of B.1.617.2.3, USA lineage, from pango-designation issue #121
 AY.3.1	Alias of B.1.617.2.3.1, USA lineage, from pango-designation issue #147
 AY.4	Alias of B.1.617.2.4, UK lineage, from pango-designation issue #180
 AY.5	Alias of B.1.617.2.5, UK lineage, from pango-designation issue #180
+AY.5.1	Alias of B.1.617.2.5.1, Portugal lineage
 AY.6	Alias of B.1.617.2.6, UK lineage, from pango-designation issue #180
 AY.7	Alias of B.1.617.2.7, UK lineage, from pango-designation issue #180
 AY.7.1	Alias of B.1.617.2.7.1, Denmark lineage
