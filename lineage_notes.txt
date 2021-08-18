@@ -1228,6 +1228,7 @@ C.36.3.1	Alias of B.1.1.1.36.3.1, Europe and USA lineage, from pango-designation
 C.37	Alias of B.1.1.1.37, lineage in Peru, Chile, USA and Germany, from pango-designation issue #52
 C.37.1	Alias of B.1.1.1.37.1, lineage outside of South America, from pango-designation issue #158
 C.38	Alias of B.1.1.1.38, lineage in multiple countries, from pango-designation issue #150, formally B.1.1.527
+C.39	Alias of B.1.1.1.39, Chile and Peru lineage
 D.2	Alias of B.1.1.25.2, Australia
 D.3	Alias of B.1.1.25.3, Australia
 D.4	Alias of B.1.1.25.4, Irish/ Northern Irish lineage
