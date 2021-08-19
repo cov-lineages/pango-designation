@@ -1115,6 +1115,7 @@ B.1.633	India lineage, from pango-designation issue #155
 B.1.634	Mexico and USA lineage, from pango-designation issue #159
 B.1.635	Mexico and USA lineage, from pango-designation issue #159
 B.1.636	USA, Mexico and Honduras lineage, from pango-designation issue #173
+B.1.637	Added as B.1.526.1 15 Mar 2021, but turned out not to be a descendant of B.1.526; was folded into B.1.526 from 14 Jun - 18 Aug 2021; now a separate lineage to leave B.1.526 more congruent with Iota (Nextstrain 21F / original B.1.526); pango-designation issue #154
 B.1.9	European wide lineage with active sublineages
 B.1.9.1	Scottish Lineage
 B.1.9.2	USA
