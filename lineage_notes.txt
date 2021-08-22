@@ -47,6 +47,7 @@ Q.3	Alias of B.1.1.7.3, USA lineage, from pango-designation issue #92
 Q.4	Alias of B.1.1.7.4, lineage in multiple countries with spike H681R, from pango-designation issue #176
 Q.5	Alias of B.1.1.7.5, Israel lineage, from pango-designation issue #165
 Q.6	Alias of B.1.1.7.6, France lineage, from pango-designation issue #183
+Q.7	Alias of B.1.1.7.7, predominantly France lineage, from pango-designation issue #183
 B.1.1.8	England
 B.1.1.10	European lineage
 B.1.1.12	England
