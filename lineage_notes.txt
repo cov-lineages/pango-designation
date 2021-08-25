@@ -1187,7 +1187,6 @@ B.55	Redesignated from B.11 (split), UK/Danish
 B.56	Singapore/Malaysia/Indonesia
 B.57	Largely Scottish
 B.58	Largely English, UK/Canada/Australia
-B.59	Latvian & Ireland
 B.60	England
 B.61	Redesignated from B.40 (split), UK
 C.1	Alias of B.1.1.1.1, South Africa
@@ -1629,6 +1628,7 @@ XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *B.14	Withdrawn: USA lineage
 *B.48	Withdrawn: Reassigned to B.23
 *B.54	Withdrawn: Distributed amongst other lineages
+*B.59	Withdrawn: Originally Latvian & Ireland, no longer monophyletic
 *C.15	Withdrawn: Alias of B.1.1.1.15, Denmark lineage
 *E.1	Withdrawn: Reassigned B.1.416.1. French lineage within the diversity of a Senegal/ Gambia lineage
 *F.1	Withdrawn: Alias of B.1.36.17.1, New Zealand lineage
