@@ -1371,6 +1371,7 @@ AY.22	Alias of B.1.617.2.22, predominantly Portugal lineage
 AY.23	Alias of B.1.617.2.23, predominantly Singapore and Indonesia lineage, from pango-designation issue #175
 AY.24	Alias of B.1.617.2.24, predominantly Indonesia lineage, from pango-designation issue #175
 AY.25	Alias of B.1.617.2.25, USA lineage, from pango-designation issue #181
+AY.26	Alias of B.1.617.2.26, USA and Mexico lineage, from pango-designation issue #188
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
