@@ -1376,6 +1376,7 @@ AY.26	Alias of B.1.617.2.26, USA and Mexico lineage, from pango-designation issu
 AY.27	Alias of B.1.617.2.27, Canada lineage, from pango-designation issue #196
 AY.28	Alias of B.1.617.2.28, Sri Lanka lineage, from pango-designation issue #199
 AY.29	Alias of B.1.617.2.29, Japan lineage, from pango-designation issue #208
+AY.30	Alias of B.1.617.2.30, Thailand and Cambodia lineage, from pango-designation issue #207
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
