@@ -840,6 +840,7 @@ B.1.351	Lineage of concern detected in South Africa
 B.1.351.1	Sublineage of B.1.351 circulating in Botswana
 B.1.351.2	Sublineage of B.1.351 circulating in Mayotte
 B.1.351.3	Sublineage of B.1.351 predominantly in Bangladesh and Singapore with exports elsewhere
+B.1.351.5	Sublineage of B.1.351 in Spain, from pango-designation issue #211
 B.1.343	Denmark
 B.1.354	Denmark
 B.1.355	USA lineage
