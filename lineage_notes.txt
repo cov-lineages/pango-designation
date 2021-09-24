@@ -1349,6 +1349,7 @@ AY.2	Alias of B.1.617.2.2, in USA with K417N, from pango-designation issue #107
 AY.3	Alias of B.1.617.2.3, USA lineage, from pango-designation issue #121
 AY.3.1	Alias of B.1.617.2.3.1, USA lineage, from pango-designation issue #147
 AY.4	Alias of B.1.617.2.4, UK lineage, from pango-designation issue #180
+AY.4.1	Alias of B.1.617.2.4.1, UK lineage, from pango-designation issue #214
 AY.5	Alias of B.1.617.2.5, UK lineage, from pango-designation issue #180
 AY.5.1	Alias of B.1.617.2.5.1, Portugal lineage
 AY.5.2	Alias of B.1.617.2.5.2, Portugal lineage
@@ -1382,6 +1383,7 @@ AY.30	Alias of B.1.617.2.30, Thailand and Cambodia lineage, from pango-designati
 AY.31	Alias of B.1.617.2.31, lineage associated with Myanmar. At the time of designation, almost all sequences in this lineage were from Myanmar or had travel history from Myanmar, from pango-designation issue #206
 AY.32	Alias of B.1.617.2.32, South Africa lineage, from pango-designation issue #209
 AY.33	Alias of B.1.617.2.33, Lineage with 4 new spike mutations circulating mostly in Belgium, Denmark, France, Netherlands, Germany, from pango-designation issue #215
+AY.34	Alias of B.1.617.2.34, lineage predominantly in Germany and Denmark with potential Orf7a deletion, from pango-designation issue #216
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
