@@ -37,6 +37,53 @@ B	Second major haplotype (and first to be discovered)
 B.1	A large European lineage the origin of which roughly corresponds to the Northern Italian outbreak early in 2020.
 B.1.1	European lineage with 3 clear SNPs `28881GA`,`28882GA`,`28883GC`
 B.1.1.1	England
+C.1	Alias of B.1.1.1.1, South Africa
+C.1.1	Alias of B.1.1.1.1.1, Mozambique
+C.1.2	Alias of B.1.1.1.1.2, mostly South Africa, from pango-designation issue #139
+C.2	Alias of B.1.1.1.2, South Africa and some European
+C.2.1	Alias of B.1.1.1.2.1, Aruba and Curacao
+C.3	Alias of B.1.1.1.3, England
+C.4	Alias of B.1.1.1.4, Peruvian
+C.5	Alias of B.1.1.1.5, Switzerland and Luxembourg
+C.6	South Africa
+C.7	Alias of B.1.1.1.7, Denmark
+C.8	Alias of B.1.1.1.8, Canada and DRC
+C.9	Alias of B.1.1.1.9, South Africa
+C.10	Poland
+C.11	Alias of B.1.1.1.11
+C.12	Alias of B.1.1.1.12, New Zealand
+C.13	Alias of B.1.1.1.13, Peruvian
+C.14	Alias of B.1.1.1.14, Peruvian
+C.16	Alias of B.1.1.1.16, Portugal originally, now pan-european
+C.17	Alias of B.1.1.1.17, Egypt
+C.18	Alias of B.1.1.1.18, Italy
+C.19	Alias of B.1.1.1.19, Denmark
+C.20	Alias of B.1.1.1.20, Switzerland
+C.21	Alias of B.1.1.1.21, Spain
+C.22	Alias of B.1.1.1.22, Argentina
+C.23	Alias of B.1.1.1.23, Mainly USA
+C.25	Alias of B.1.1.1.25, Peru
+C.26	Alias of B.1.1.1.26, Chile
+C.27	Alias of B.1.1.1.27, England
+C.28	Alias of B.1.1.1.28, USA
+C.29	Alias of B.1.1.1.29, Chile
+C.30	Alias of B.1.1.1.30, England
+C.30.1	Alias of B.1.1.1.30.1, Denmark
+C.31	Alias of B.1.1.1.31, USA
+C.32	Alias of B.1.1.1.32, Peru
+C.33	Alias of B.1.1.1.33, Peru
+C.34	Alias of B.1.1.1.34, Canada
+C.35	Alias of B.1.1.1.35, Central Europe, England
+C.36	Alias of B.1.1.1.36, Egypt mainly and other countries
+C.36.1	Alias of B.1.1.1.36.1, Canada
+C.36.2	Alias of B.1.1.1.36.2, Switzerland
+C.36.3	Alias of B.1.1.1.36.3, Europe and USA lineage, from pango-designation issue #80
+C.36.3.1	Alias of B.1.1.1.36.3.1, Europe and USA lineage, from pango-designation issue #80
+C.37	Alias of B.1.1.1.37, lineage in Peru, Chile, USA and Germany, from pango-designation issue #52
+C.37.1	Alias of B.1.1.1.37.1, lineage outside of South America, from pango-designation issue #158
+C.38	Alias of B.1.1.1.38, lineage in multiple countries, from pango-designation issue #150, formally B.1.1.527
+C.39	Alias of B.1.1.1.39, Chile and Peru lineage
+C.40	Alias of B.1.1.1.40, Peru lineage, from pango-designation issue #203
 B.1.1.3	England Lineage
 B.1.1.4	English lineage
 B.1.1.5	European lineage
@@ -51,6 +98,10 @@ Q.7	Alias of B.1.1.7.7, predominantly France lineage, from pango-designation iss
 Q.8	Alias of B.1.1.7.8, Sri Lanka lineage, from pango-designation issue #197
 B.1.1.8	England
 B.1.1.10	European lineage
+L.1	Alias of B.1.1.10.1, Canadian lineage
+L.2	Alias of B.1.1.10.2, Netherlands lineage
+L.3	Alias of B.1.1.10.3, Nigerian/ European lineage with long branch from B.1.1.10
+L.4	USA lineage, alias of B.1.1.10.4
 B.1.1.12	England
 B.1.1.13	UK
 B.1.1.14	Scotland
@@ -58,17 +109,60 @@ B.1.1.15	UK/ Luxembourg lineage
 B.1.1.16	Wales with European base
 B.1.1.17	Icelandic
 B.1.1.25	Bangladesh Lineage
+D.2	Alias of B.1.1.25.2, Australia
+D.3	Alias of B.1.1.25.3, Australia
+D.4	Alias of B.1.1.25.4, Irish/ Northern Irish lineage
+D.5	Alias of B.1.1.25.5, Swedish/ Denmark lineage
 B.1.1.26	USA Lineage
 B.1.1.27	Oman Lineage, some UAE
 B.1.1.28	Brazil mostly, absorbed B.1.1.94 and B.1.1.143
+P.1	Alias of B.1.1.28.1, Brazilian lineage with a number of spike mutaions with likely functional significance E484K, K417T, and N501Y. Described in https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586.
+P.1.1	Alias of B.1.1.28.1.1, European lineage in Italy and Germany
+P.1.2	Alias of B.1.1.28.1.2, Netherlands/Brazil lineage. Imported into Netherlands, likely with local transmission here and continued circulation within and/or reintroduction into Brazil, pango-designation issue #56
+P.1.3	Alias of B.1.1.28.1.3, Brazil lineage, from pango-designation issue #141
+P.1.4	Alias of B.1.1.28.1.4, Brazil lineage, from pango-designation issue #141
+P.1.5	Alias of B.1.1.28.1.5, Brazil lineage, from pango-designation issue #141
+P.1.6	Alias of B.1.1.28.1.6, Brazil lineage, from pango-designation issue #141
+P.1.7	Alias of B.1.1.28.1.7, Brazil lineage, from pango-designation issue #141
+P.1.8	Alias of B.1.1.28.1.8, Brazil lineage, from pango-designation issue #164
+P.1.9	Alias of B.1.1.28.1.9, Brazil lineage, from pango-designation issue #174
+P.1.10	Alias of B.1.1.28.1.10, predominantly USA lineage, from pango-designation issue #179
+P.1.10.1	Alias of B.1.1.28.1.10.1, Aruba lineage, from pango-designation issue #179
+P.1.10.2	Alias of B.1.1.28.1.10.2, Mexico lineage, from pango-designation issue #179
+P.1.11	Alias of B.1.1.28.1.11, Brazil lineage, from pango-designation issue #164
+P.1.12	Alias of B.1.1.28.1.12, predominantly Peru lineage, from pango-designation issue #212
+P.1.13	Alias of B.1.1.28.1.13, USA lineage, from pango-designation issue #231
+P.1.14	Alias of B.1.1.28.1.14, predominantly Canada lineage, from pango-designation issue #231
+P.1.15	Alias of B.1.1.28.1.15, predominantly Chile lineage, from pango-designation issue #231
+P.1.16	Alias of B.1.1.28.1.16, predominantly Belgium lineage also in other countries in Europe, from pango-designation issue #231
+P.1.17	Alias of B.1.1.28.1.17, predominantly USA and Mexico lineage, from pango-designation issue #231
+P.1.17.1	Alias of B.1.1.28.1.17.1, predominantly in Luxembourg, from pango-designation issue #231
+P.2	Alias of B.1.1.28.2, Brazilian lineage
+P.3	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2
+P.4	Alias of B.1.1.28.4, Brazil lineage, pango-designation issue #68
+P.5	Alias of B.1.1.28.5, Brazil lineage, pango-designation issue #86
+P.6	Alias of B.1.1.28.6, Uruguay lineage, from pango-designation issue #148
+P.7	Alias of B.1.1.28.7, Brazil lineage, from pango-designation issue #29
 B.1.1.29	Wales lineage, formerly temporarily assigned B.1.1.439 due to an error (see designation issue 50)
 B.1.1.30	Lithuanian
 B.1.1.31	Russian lineage
 B.1.1.33	Brazillian
+N.1	Alias of B.1.1.33.1, US
+N.2	Alias of B.1.1.33.2, European lineage
+N.3	Alias of B.1.1.33.3, Argentinian 
+N.4	Alias of B.1.1.33.4, Chilean
+N.5	Alias of B.1.1.33.5, Argentinian 
+N.6	Alias of B.1.1.33.6, Chilean
+N.7	Alias of B.1.1.33.7, Uruguay
+N.8	Alias of B.1.1.33.8, Kenyan
+N.9	Alias of B.1.1.33.9, Brazilian lineage
+N.10	Alias of B.1.1.33.10, Brazilian lineage described in https://virological.org/t/identification-of-a-new-b-1-1-33-sars-cov-2-variant-of-interest-voi-circulating-in-brazil-with-mutation-e484k-and-multiple-deletions-in-the-amino-n-terminal-domain-of-the-spike-protein/675
 B.1.1.34	South African lineage
 B.1.1.37	UK lineage
 B.1.1.38	Wales
 B.1.1.39	Mostly Switzerland with lots of other countries
+AQ.1	Alias of B.1.1.39.1, Finland lineage
+AQ.2	Alias of B.1.1.39.2, Denmark lineage
 B.1.1.40	South African lineage
 B.1.1.41	Engligh lineage
 B.1.1.43	Scottish lineage
@@ -93,6 +187,7 @@ B.1.1.62	South African lineage
 B.1.1.63	Hong Kong lineage
 B.1.1.67	England and South Africa
 B.1.1.70	European Lineage 
+AP.1	Alias of B.1.1.70.1, Wales lineage
 B.1.1.71	Dutch, Central Europe
 B.1.1.72	US lineage
 B.1.1.74	NI & Ireland Lineage
@@ -192,6 +287,7 @@ B.1.1.196	UK lineage
 B.1.1.197	UK lineage
 B.1.1.198	UK/ Luxembourg lineage
 B.1.1.200	UK
+AN.1	Alias of B.1.1.200.1, Sweden and Netherlands, from B.1.1.130
 B.1.1.201	India and Singapore and Texas
 B.1.1.202	Italy
 B.1.1.203	England and Ecuador
@@ -204,7 +300,12 @@ B.1.1.210	USA (TX)
 B.1.1.213	England
 B.1.1.214	Japan
 B.1.1.216	Predominantly Indian lineage with exports elsewhere
+AM.1	Alias of B.1.1.216.1, Portugal lineage
+AM.2	Alias of B.1.1.216.2, Canadian lineage
+AM.3	Alias of B.1.1.216.3, UK lineage
+AM.4	Alias of B.1.1.216.4, Canadian lineage
 B.1.1.217	UK lineage
+S.1	Alias of B.1.1.217.1, Latvian lineage, previously I.1
 B.1.1.218	European lineage
 B.1.1.219	Northern Europe (UK, Denmark, Norway, Sweden)
 B.1.1.220	UK lineage
@@ -215,13 +316,20 @@ B.1.1.225	USA
 B.1.1.226	USA lineage
 B.1.1.227	England
 B.1.1.231	USA lineage
+AL.1	Alias of B.1.1.231.1, Canada lineage
 B.1.1.232	Northern Europe (UK, Germany, Denmark, Belgium, NL)
+AK.1	Alias of B.1.1.232.1, UK lineage
+AK.2	Alias of B.1.1.232.2, German lineage
 B.1.1.234	England, Ireland, Northern Ireland, Northern Europe
 B.1.1.236	UK
 B.1.1.237	Wales
 B.1.1.239	USA lineage
 B.1.1.241	European lineage
+AH.1	Alias of B.1.1.241.1, Swiss Lineage
+AH.2	Alias of B.1.1.241.2, French Lineage
+AH.3	Alias of B.1.1.241.3, Finnish Lineage
 B.1.1.240	UK lineage
+AJ.1	Alias of B.1.1.240.1, Portugal lineage
 B.1.1.242	Gambia and Switzerland
 B.1.1.243	Eastern Europe, Central Europe, UK
 B.1.1.244	USA lineage
@@ -248,6 +356,9 @@ B.1.1.273	South african lineage, previously part of B.1.1.56
 B.1.1.274	England, Thailand, Russia, USA
 B.1.1.275	DRC with some UAE and England
 B.1.1.277	European lineage
+K.1	Alias of B.1.1.277.1, South Korean lineage
+K.2	Alias of B.1.1.277.2, Russian lineage
+K.3	Alias of B.1.1.277.3, Norway lineage
 B.1.1.279	English Lineage
 B.1.1.280	Lithuanian lineage
 B.1.1.282	Netherlands lineage
@@ -260,8 +371,12 @@ B.1.1.289	UK lineage
 B.1.1.290	USA lineage
 B.1.1.291	USA Lineage
 B.1.1.294	Russian and UK lineage
+M.1	Alias of B.1.1.294.1, Israel
+M.2	Alias of B.1.1.294.2, Swiss Lineage
+M.3	Alias of B.1.1.294.3, English Lineage
 B.1.1.296	UK lineage
 B.1.1.297	Central Europe lineage
+AG.1	Alias of B.1.1.297.1, Netherlands lineage
 B.1.1.298	Denmark Lineage
 B.1.1.299	UK lineage
 B.1.1.300	UK lineage
@@ -270,7 +385,16 @@ B.1.1.302	Swedish lineage
 B.1.1.303	UK
 B.1.1.304	UK/USA lineage
 B.1.1.305	Pan European
+AF.1	Alias of B.1.1.305.1, Switzerland
 B.1.1.306	Big indian lineage, exports to Zambia, Bahrain and Canada
+AE.1	Alias of B.1.1.306.1, Zambian
+AE.2	Alias of B.1.1.306.2, Bahrain
+AE.3	Alias of B.1.1.306.3, Zambia and Rwanda
+AE.4	Alias of B.1.1.306.4, Bahrain
+AE.5	Alias of B.1.1.306.5, Zambia
+AE.6	Alias of B.1.1.306.6, Bahrain
+AE.7	Alias of B.1.1.306.7, Bahrain
+AE.8	Alias of B.1.1.306.8, Canada lineage
 B.1.1.307	UK lineage
 B.1.1.308	UK
 B.1.1.309	Now all England, was US, so probably split from something
@@ -278,8 +402,15 @@ B.1.1.310	Northern Irish with English root
 B.1.1.311	Huge UK lineage
 B.1.1.312	Jordan lineage
 B.1.1.315	Previously D.1, UK/ UAE lineage
+AD.1	Alias of B.1.1.315.1, Denmark lineage
+AD.2	Alias of B.1.1.315.2, UK lineage
+AD.2.1	Alias of B.1.1.315.2.1, Lithuanian lineage
 B.1.1.316	International lineage with spike mutation Q677H, parent of lineage R.1 and R.2 which have additional mutations including E484K mutation
+R.1	Alias of B.1.1.316.1, Sublineage of B.1.1.316 with 3 additional spike mutations, circulating in a number of countries. pango-designation issue #17
+R.2	Alias of B.1.1.316.2, Sublineage of B.1.1.316 with E484K. pango-designation issue #18
 B.1.1.317	Russian lineage
+AS.1	Alias of B.1.1.317.1, UK lineage
+AS.2	Alias of B.1.1.317.2, UK lineage
 B.1.1.318	Lineage circulating in multiple countries with a number of variants of concern (Spike D614G, Spike D796H, Spike E484K, Spike P681H, Spike T95I, Spike Y144del). pango-designation issue #15
 AZ.1	Alias of B.1.1.318.1, Canada lineage, from pango-designation issue #171
 AZ.2	Alias of B.1.1.318.2, predominantly Greece lineage, from pango-designation issue #171
@@ -339,6 +470,7 @@ B.1.1.367	USA
 B.1.1.368	USA and Canada
 B.1.1.369	England
 B.1.1.370	England, USA, Russia, Germany
+AT.1	Alias of B.1.1.370.1, Russia and Finland lineage from pango-designation issue #47
 B.1.1.371	Saudi Arabia to Romania to Western Europe, contains B.1.1.161 at the base
 B.1.1.372	England
 B.1.1.373	Russia, split from B.1.1.31
@@ -373,6 +505,7 @@ B.1.1.402	USA (Texas), split from B.1.1.177
 B.1.1.403	USA
 B.1.1.404	Ghana, Burkina Faso, Luxembourg, Germany
 B.1.1.405	Germany lineage
+AC.1	Alias of B.1.1.405.1, UK lineage
 B.1.1.406	Spain, UK, Italy
 B.1.1.407	Mostly Russia
 B.1.1.408	UK lineage
@@ -426,12 +559,14 @@ B.1.1.461	US TX lineage
 B.1.1.462	United Arab Emirates
 B.1.1.463	US CA lineage
 B.1.1.464	US lineage 
+AW.1	Alias of B.1.1.464.1, Canadian lineage 
 B.1.1.465	Japanese lineage
 B.1.1.466	Gambian lineage
 B.1.1.467	US lineage (NY)
 B.1.1.480	US Lineage
 B.1.1.481	Russian Lineage
 B.1.1.482	US Lineage
+AV.1	Alias of B.1.1.482.1, UK and France lineage with several VOC/VUI-like mutations, from pango-designation issue #73
 B.1.1.483	Belgian lineage
 B.1.1.484	Nigerian Lineage
 B.1.1.485	Ghanan Lineage
@@ -564,6 +699,7 @@ B.1.160.13	Netherlands lineage
 B.1.160.14	Switzerland
 B.1.160.15	Mostly Switzerland
 B.1.160.16	Mostly Switzerland
+AB.1	Alias of B.1.160.16.1, Denmark, grown out of big swiss cluster
 B.1.160.17	Denmark
 B.1.160.18	Mayotte
 B.1.160.19	Switzerland
@@ -606,6 +742,14 @@ B.1.177.11	Scotland mostly, some England
 B.1.177.12	Danish
 B.1.177.14	Danish/ Norway lineage
 B.1.177.15	English Welsh lineage
+AA.1	Alias of B.1.177.15.1, European Lineage
+AA.2	Alias of B.1.177.15.2, Welsh Lineage
+AA.3	Alias of B.1.177.15.3, Welsh Lineage
+AA.4	Alias of B.1.177.15.4, Welsh Lineage
+AA.5	Alias of B.1.177.15.5, Welsh Lineage
+AA.6	Alias of B.1.177.15.6, Welsh Lineage
+AA.7	Alias of B.1.177.15.7, Welsh Lineage
+AA.8	Alias of B.1.177.15.8, Welsh Lineage
 B.1.177.16	UK lineage
 B.1.177.17	UK, merged with B.1.177.13
 B.1.177.18	England, some Wales, parent is mainland Europe
@@ -640,16 +784,27 @@ B.1.177.47	England
 B.1.177.48	UK lineage
 B.1.177.49	Spanish lineage
 B.1.177.50	Netherlands / Germany
+Z.1	Alias of B.1.177.50.1, UK lineage
 B.1.177.51	European lineage
 B.1.177.52	European lineage
+Y.1	Alias of B.1.177.52.1, Portuguese lineage
 B.1.177.53	UK lineage
+W.1	Alias of B.1.177.53.1, French and US lineage
+W.2	Alias of B.1.177.53.2, Dutch lineage
+W.3	Alias of B.1.177.53.3, UK lineage
+W.4	Alias of B.1.177.53.4, UK lineage
 B.1.177.54	UK lineage
+V.1	Alias of B.1.177.54.1, Northern Irish and Irish lineage
+V.2	Alias of B.1.177.54.2, Northern Irish lineage
 B.1.177.55	England and Ireland
 B.1.177.56	UK lineage
 B.1.177.57	UK lineage
 B.1.177.58	UK
 B.1.177.59	Ireland
 B.1.177.60	Northern Europe, mostly Lithuania
+U.1	Alias of B.1.177.60.1, England
+U.2	Alias of B.1.177.60.2, Denmark
+U.3	Alias of B.1.177.60.3, Norway and Latvia
 B.1.177.61	Spain
 B.1.177.62	Germany, Switzerland, Netherlands
 B.1.177.63	Wales
@@ -751,6 +906,7 @@ B.1.254	Scotland
 B.1.256	Scottish lineage
 B.1.258	UK lineage
 B.1.258.2	Irish lineage (has sub-lineage G.1)
+G.1	Alias of B.1.258.2.1, UK lineage
 B.1.258.3	UK lineage
 B.1.258.4	UK lineage
 B.1.258.5	UK lineage
@@ -949,6 +1105,9 @@ B.1.465	UK, contains B.1.466 which is reassigned (see below)
 B.1.466	Global lineage containing two new sublineages (see below)
 B.1.466.1	USA/UAE 
 B.1.466.2	Indonesia
+AU.1	Alias of B.1.466.2.1, predominantly Papua New Guinea with some Australia sequences
+AU.2	Alias of B.1.466.2.2, Malaysia lineage
+AU.3	Alias of B.1.466.2.3, predominantly Australia with some Papua New Guinea and Singapore sequences
 B.1.467	Nigeria/Switzerland 
 B.1.468	Indonesia/Sinagpore. Seq names missassigned in original file
 B.1.469	European (Turkey, Denmark, UK)
@@ -1101,6 +1260,51 @@ B.1.616	France lineage, pango-designation issue #31
 B.1.617	Predominantly India lineage with several spike mutations, pango-designation issue #38
 B.1.617.1	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.617.2	Predominantly India lineage with several spike mutations, pango-designation issue #49
+AY.1	Alias of B.1.617.2.1, in several European countries, from pango-designation issue #95
+AY.2	Alias of B.1.617.2.2, in USA with K417N, from pango-designation issue #107
+AY.3	Alias of B.1.617.2.3, USA lineage, from pango-designation issue #121
+AY.3.1	Alias of B.1.617.2.3.1, USA lineage, from pango-designation issue #147
+AY.4	Alias of B.1.617.2.4, UK lineage, from pango-designation issue #180
+AY.4.1	Alias of B.1.617.2.4.1, UK lineage, from pango-designation issue #214
+AY.4.2	Alias of B.1.617.2.4.2, predominantly UK lineage, from pango-designation issue #223
+AY.5	Alias of B.1.617.2.5, UK lineage, from pango-designation issue #180
+AY.5.1	Alias of B.1.617.2.5.1, Portugal lineage
+AY.5.2	Alias of B.1.617.2.5.2, Portugal lineage
+AY.6	Alias of B.1.617.2.6, UK lineage, from pango-designation issue #180
+AY.7	Alias of B.1.617.2.7, UK lineage, from pango-designation issue #180
+AY.7.1	Alias of B.1.617.2.7.1, Denmark lineage
+AY.7.2	Alias of B.1.617.2.7.2, predominantly Italy lineage in multiple other European countries
+AY.8	Alias of B.1.617.2.8, UK lineage, from pango-designation issue #180
+AY.9	Alias of B.1.617.2.9, UK lineage, from pango-designation issue #180
+AY.10	Alias of B.1.617.2.10, UK lineage, from pango-designation issue #180
+AY.11	Alias of B.1.617.2.11, UK lineage, from pango-designation issue #142
+AY.12	Alias of B.1.617.2.12, Israel lineage, from pango-designation issue #170
+AY.13	Alias of B.1.617.2.13, USA lineage
+AY.14	Alias of B.1.617.2.14, USA lineage
+AY.15	Alias of B.1.617.2.15, Canada lineage
+AY.16	Alias of B.1.617.2.16, lineage in Kenya and multiple other countries
+AY.17	Alias of B.1.617.2.17, Ireland and Northern Ireland lineage
+AY.18	Alias of B.1.617.2.18, Canada lineage
+AY.19	Alias of B.1.617.2.19, South Africa lineage
+AY.20	Alias of B.1.617.2.20, USA and Mexico lineage
+AY.21	Alias of B.1.617.2.21, lineage predominantly in Italy and Switzerland
+AY.22	Alias of B.1.617.2.22, predominantly Portugal lineage
+AY.23	Alias of B.1.617.2.23, predominantly Singapore and Indonesia lineage, from pango-designation issue #175
+AY.24	Alias of B.1.617.2.24, predominantly Indonesia lineage, from pango-designation issue #175
+AY.25	Alias of B.1.617.2.25, USA lineage, from pango-designation issue #181
+AY.26	Alias of B.1.617.2.26, USA and Mexico lineage, from pango-designation issue #188
+AY.27	Alias of B.1.617.2.27, Canada lineage, from pango-designation issue #196
+AY.28	Alias of B.1.617.2.28, Sri Lanka lineage, from pango-designation issue #199
+AY.29	Alias of B.1.617.2.29, Japan lineage, from pango-designation issue #208
+AY.30	Alias of B.1.617.2.30, Thailand and Cambodia lineage, from pango-designation issue #207
+AY.31	Alias of B.1.617.2.31, lineage associated with Myanmar. At the time of designation, almost all sequences in this lineage were from Myanmar or had travel history from Myanmar, from pango-designation issue #206
+AY.32	Alias of B.1.617.2.32, South Africa lineage, from pango-designation issue #209
+AY.33	Alias of B.1.617.2.33, Lineage circulating mostly in Belgium, Denmark, France, Netherlands, Germany, from pango-designation issues #215 and #219
+AY.34	Alias of B.1.617.2.34, lineage with spike Q677H circulating in multiple countries, from pango-designation issue #217
+AY.35	Alias of B.1.617.2.35, lineage with spike E484Q circulating in USA, from pango-designation issue #217
+AY.36	Alias of B.1.617.2.36, lineage predominantly in Nigeria, UK and USA, from pango-designation issue #225
+AY.37	Alias of B.1.617.2.37, lineage predominantly in Liberia, USA and France, from pango-designation issue #228
+AY.38	Alias of B.1.617.2.38, lineage predominantly in South Africa, from pango-designation issue #229
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
@@ -1191,210 +1395,6 @@ B.57	Largely Scottish
 B.58	Largely English, UK/Canada/Australia
 B.60	England
 B.61	Redesignated from B.40 (split), UK
-C.1	Alias of B.1.1.1.1, South Africa
-C.1.1	Alias of B.1.1.1.1.1, Mozambique
-C.1.2	Alias of B.1.1.1.1.2, mostly South Africa, from pango-designation issue #139
-C.2	Alias of B.1.1.1.2, South Africa and some European
-C.2.1	Alias of B.1.1.1.2.1, Aruba and Curacao
-C.3	Alias of B.1.1.1.3, England
-C.4	Alias of B.1.1.1.4, Peruvian
-C.5	Alias of B.1.1.1.5, Switzerland and Luxembourg
-C.6	South Africa
-C.7	Alias of B.1.1.1.7, Denmark
-C.8	Alias of B.1.1.1.8, Canada and DRC
-C.9	Alias of B.1.1.1.9, South Africa
-C.10	Poland
-C.11	Alias of B.1.1.1.11
-C.12	Alias of B.1.1.1.12, New Zealand
-C.13	Alias of B.1.1.1.13, Peruvian
-C.14	Alias of B.1.1.1.14, Peruvian
-C.16	Alias of B.1.1.1.16, Portugal originally, now pan-european
-C.17	Alias of B.1.1.1.17, Egypt
-C.18	Alias of B.1.1.1.18, Italy
-C.19	Alias of B.1.1.1.19, Denmark
-C.20	Alias of B.1.1.1.20, Switzerland
-C.21	Alias of B.1.1.1.21, Spain
-C.22	Alias of B.1.1.1.22, Argentina
-C.23	Alias of B.1.1.1.23, Mainly USA
-C.25	Alias of B.1.1.1.25, Peru
-C.26	Alias of B.1.1.1.26, Chile
-C.27	Alias of B.1.1.1.27, England
-C.28	Alias of B.1.1.1.28, USA
-C.29	Alias of B.1.1.1.29, Chile
-C.30	Alias of B.1.1.1.30, England
-C.30.1	Alias of B.1.1.1.30.1, Denmark
-C.31	Alias of B.1.1.1.31, USA
-C.32	Alias of B.1.1.1.32, Peru
-C.33	Alias of B.1.1.1.33, Peru
-C.34	Alias of B.1.1.1.34, Canada
-C.35	Alias of B.1.1.1.35, Central Europe, England
-C.36	Alias of B.1.1.1.36, Egypt mainly and other countries
-C.36.1	Alias of B.1.1.1.36.1, Canada
-C.36.2	Alias of B.1.1.1.36.2, Switzerland
-C.36.3	Alias of B.1.1.1.36.3, Europe and USA lineage, from pango-designation issue #80
-C.36.3.1	Alias of B.1.1.1.36.3.1, Europe and USA lineage, from pango-designation issue #80
-C.37	Alias of B.1.1.1.37, lineage in Peru, Chile, USA and Germany, from pango-designation issue #52
-C.37.1	Alias of B.1.1.1.37.1, lineage outside of South America, from pango-designation issue #158
-C.38	Alias of B.1.1.1.38, lineage in multiple countries, from pango-designation issue #150, formally B.1.1.527
-C.39	Alias of B.1.1.1.39, Chile and Peru lineage
-C.40	Alias of B.1.1.1.40, Peru lineage, from pango-designation issue #203
-D.2	Alias of B.1.1.25.2, Australia
-D.3	Alias of B.1.1.25.3, Australia
-D.4	Alias of B.1.1.25.4, Irish/ Northern Irish lineage
-D.5	Alias of B.1.1.25.5, Swedish/ Denmark lineage
-G.1	Alias of B.1.258.2.1, UK lineage
-K.1	Alias of B.1.1.277.1, South Korean lineage
-K.2	Alias of B.1.1.277.2, Russian lineage
-K.3	Alias of B.1.1.277.3, Norway lineage
-L.1	Alias of B.1.1.10.1, Canadian lineage
-L.2	Alias of B.1.1.10.2, Netherlands lineage
-L.3	Alias of B.1.1.10.3, Nigerian/ European lineage with long branch from B.1.1.10
-L.4	USA lineage, alias of B.1.1.10.4
-M.1	Alias of B.1.1.294.1, Israel
-M.2	Alias of B.1.1.294.2, Swiss Lineage
-M.3	Alias of B.1.1.294.3, English Lineage
-N.1	Alias of B.1.1.33.1, US
-N.2	Alias of B.1.1.33.2, European lineage
-N.3	Alias of B.1.1.33.3, Argentinian 
-N.4	Alias of B.1.1.33.4, Chilean
-N.5	Alias of B.1.1.33.5, Argentinian 
-N.6	Alias of B.1.1.33.6, Chilean
-N.7	Alias of B.1.1.33.7, Uruguay
-N.8	Alias of B.1.1.33.8, Kenyan
-N.9	Alias of B.1.1.33.9, Brazilian lineage
-N.10	Alias of B.1.1.33.10, Brazilian lineage described in https://virological.org/t/identification-of-a-new-b-1-1-33-sars-cov-2-variant-of-interest-voi-circulating-in-brazil-with-mutation-e484k-and-multiple-deletions-in-the-amino-n-terminal-domain-of-the-spike-protein/675
-P.1	Alias of B.1.1.28.1, Brazilian lineage with a number of spike mutaions with likely functional significance E484K, K417T, and N501Y. Described in https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586.
-P.1.1	Alias of B.1.1.28.1.1, European lineage in Italy and Germany
-P.1.2	Alias of B.1.1.28.1.2, Netherlands/Brazil lineage. Imported into Netherlands, likely with local transmission here and continued circulation within and/or reintroduction into Brazil, pango-designation issue #56
-P.1.3	Alias of B.1.1.28.1.3, Brazil lineage, from pango-designation issue #141
-P.1.4	Alias of B.1.1.28.1.4, Brazil lineage, from pango-designation issue #141
-P.1.5	Alias of B.1.1.28.1.5, Brazil lineage, from pango-designation issue #141
-P.1.6	Alias of B.1.1.28.1.6, Brazil lineage, from pango-designation issue #141
-P.1.7	Alias of B.1.1.28.1.7, Brazil lineage, from pango-designation issue #141
-P.1.8	Alias of B.1.1.28.1.8, Brazil lineage, from pango-designation issue #164
-P.1.9	Alias of B.1.1.28.1.9, Brazil lineage, from pango-designation issue #174
-P.1.10	Alias of B.1.1.28.1.10, predominantly USA lineage, from pango-designation issue #179
-P.1.10.1	Alias of B.1.1.28.1.10.1, Aruba lineage, from pango-designation issue #179
-P.1.10.2	Alias of B.1.1.28.1.10.2, Mexico lineage, from pango-designation issue #179
-P.1.11	Alias of B.1.1.28.1.11, Brazil lineage, from pango-designation issue #164
-P.1.12	Alias of B.1.1.28.1.12, predominantly Peru lineage, from pango-designation issue #212
-P.1.13	Alias of B.1.1.28.1.13, USA lineage, from pango-designation issue #231
-P.1.14	Alias of B.1.1.28.1.14, predominantly Canada lineage, from pango-designation issue #231
-P.1.15	Alias of B.1.1.28.1.15, predominantly Chile lineage, from pango-designation issue #231
-P.1.16	Alias of B.1.1.28.1.16, predominantly Belgium lineage also in other countries in Europe, from pango-designation issue #231
-P.1.17	Alias of B.1.1.28.1.17, predominantly USA and Mexico lineage, from pango-designation issue #231
-P.1.17.1	Alias of B.1.1.28.1.17.1, predominantly in Luxembourg, from pango-designation issue #231
-P.2	Alias of B.1.1.28.2, Brazilian lineage
-P.3	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2
-P.4	Alias of B.1.1.28.4, Brazil lineage, pango-designation issue #68
-P.5	Alias of B.1.1.28.5, Brazil lineage, pango-designation issue #86
-P.6	Alias of B.1.1.28.6, Uruguay lineage, from pango-designation issue #148
-P.7	Alias of B.1.1.28.7, Brazil lineage, from pango-designation issue #29
-R.1	Alias of B.1.1.316.1, Sublineage of B.1.1.316 with 3 additional spike mutations, circulating in a number of countries. pango-designation issue #17
-R.2	Alias of B.1.1.316.2, Sublineage of B.1.1.316 with E484K. pango-designation issue #18
-S.1	Alias of B.1.1.217.1, Latvian lineage, previously I.1
-U.1	Alias of B.1.177.60.1, England
-U.2	Alias of B.1.177.60.2, Denmark
-U.3	Alias of B.1.177.60.3, Norway and Latvia
-V.1	Alias of B.1.177.54.1, Northern Irish and Irish lineage
-V.2	Alias of B.1.177.54.2, Northern Irish lineage
-W.1	Alias of B.1.177.53.1, French and US lineage
-W.2	Alias of B.1.177.53.2, Dutch lineage
-W.3	Alias of B.1.177.53.3, UK lineage
-W.4	Alias of B.1.177.53.4, UK lineage
-Y.1	Alias of B.1.177.52.1, Portuguese lineage
-Z.1	Alias of B.1.177.50.1, UK lineage
-AA.1	Alias of B.1.177.15.1, European Lineage
-AA.2	Alias of B.1.177.15.2, Welsh Lineage
-AA.3	Alias of B.1.177.15.3, Welsh Lineage
-AA.4	Alias of B.1.177.15.4, Welsh Lineage
-AA.5	Alias of B.1.177.15.5, Welsh Lineage
-AA.6	Alias of B.1.177.15.6, Welsh Lineage
-AA.7	Alias of B.1.177.15.7, Welsh Lineage
-AA.8	Alias of B.1.177.15.8, Welsh Lineage
-AB.1	Alias of B.1.160.16.1, Denmark, grown out of big swiss cluster
-AC.1	Alias of B.1.1.405.1, UK lineage
-AD.1	Alias of B.1.1.315.1, Denmark lineage
-AD.2	Alias of B.1.1.315.2, UK lineage
-AD.2.1	Alias of B.1.1.315.2.1, Lithuanian lineage
-AE.1	Alias of B.1.1.306.1, Zambian
-AE.2	Alias of B.1.1.306.2, Bahrain
-AE.3	Alias of B.1.1.306.3, Zambia and Rwanda
-AE.4	Alias of B.1.1.306.4, Bahrain
-AE.5	Alias of B.1.1.306.5, Zambia
-AE.6	Alias of B.1.1.306.6, Bahrain
-AE.7	Alias of B.1.1.306.7, Bahrain
-AE.8	Alias of B.1.1.306.8, Canada lineage
-AF.1	Alias of B.1.1.305.1, Switzerland
-AG.1	Alias of B.1.1.297.1, Netherlands lineage
-AH.1	Alias of B.1.1.241.1, Swiss Lineage
-AH.2	Alias of B.1.1.241.2, French Lineage
-AH.3	Alias of B.1.1.241.3, Finnish Lineage
-AJ.1	Alias of B.1.1.240.1, Portugal lineage
-AK.1	Alias of B.1.1.232.1, UK lineage
-AK.2	Alias of B.1.1.232.2, German lineage
-AL.1	Alias of B.1.1.231.1, Canada lineage
-AM.1	Alias of B.1.1.216.1, Portugal lineage
-AM.2	Alias of B.1.1.216.2, Canadian lineage
-AM.3	Alias of B.1.1.216.3, UK lineage
-AM.4	Alias of B.1.1.216.4, Canadian lineage
-AN.1	Alias of B.1.1.200.1, Sweden and Netherlands, from B.1.1.130
-AP.1	Alias of B.1.1.70.1, Wales lineage
-AQ.1	Alias of B.1.1.39.1, Finland lineage
-AQ.2	Alias of B.1.1.39.2, Denmark lineage
-AS.1	Alias of B.1.1.317.1, UK lineage
-AS.2	Alias of B.1.1.317.2, UK lineage
-AT.1	Alias of B.1.1.370.1, Russia and Finland lineage from pango-designation issue #47
-AU.1	Alias of B.1.466.2.1, predominantly Papua New Guinea with some Australia sequences
-AU.2	Alias of B.1.466.2.2, Malaysia lineage
-AU.3	Alias of B.1.466.2.3, predominantly Australia with some Papua New Guinea and Singapore sequences
-AV.1	Alias of B.1.1.482.1, UK and France lineage with several VOC/VUI-like mutations, from pango-designation issue #73
-AW.1	Alias of B.1.1.464.1, Canadian lineage 
-AY.1	Alias of B.1.617.2.1, in several European countries, from pango-designation issue #95
-AY.2	Alias of B.1.617.2.2, in USA with K417N, from pango-designation issue #107
-AY.3	Alias of B.1.617.2.3, USA lineage, from pango-designation issue #121
-AY.3.1	Alias of B.1.617.2.3.1, USA lineage, from pango-designation issue #147
-AY.4	Alias of B.1.617.2.4, UK lineage, from pango-designation issue #180
-AY.4.1	Alias of B.1.617.2.4.1, UK lineage, from pango-designation issue #214
-AY.4.2	Alias of B.1.617.2.4.2, predominantly UK lineage, from pango-designation issue #223
-AY.5	Alias of B.1.617.2.5, UK lineage, from pango-designation issue #180
-AY.5.1	Alias of B.1.617.2.5.1, Portugal lineage
-AY.5.2	Alias of B.1.617.2.5.2, Portugal lineage
-AY.6	Alias of B.1.617.2.6, UK lineage, from pango-designation issue #180
-AY.7	Alias of B.1.617.2.7, UK lineage, from pango-designation issue #180
-AY.7.1	Alias of B.1.617.2.7.1, Denmark lineage
-AY.7.2	Alias of B.1.617.2.7.2, predominantly Italy lineage in multiple other European countries
-AY.8	Alias of B.1.617.2.8, UK lineage, from pango-designation issue #180
-AY.9	Alias of B.1.617.2.9, UK lineage, from pango-designation issue #180
-AY.10	Alias of B.1.617.2.10, UK lineage, from pango-designation issue #180
-AY.11	Alias of B.1.617.2.11, UK lineage, from pango-designation issue #142
-AY.12	Alias of B.1.617.2.12, Israel lineage, from pango-designation issue #170
-AY.13	Alias of B.1.617.2.13, USA lineage
-AY.14	Alias of B.1.617.2.14, USA lineage
-AY.15	Alias of B.1.617.2.15, Canada lineage
-AY.16	Alias of B.1.617.2.16, lineage in Kenya and multiple other countries
-AY.17	Alias of B.1.617.2.17, Ireland and Northern Ireland lineage
-AY.18	Alias of B.1.617.2.18, Canada lineage
-AY.19	Alias of B.1.617.2.19, South Africa lineage
-AY.20	Alias of B.1.617.2.20, USA and Mexico lineage
-AY.21	Alias of B.1.617.2.21, lineage predominantly in Italy and Switzerland
-AY.22	Alias of B.1.617.2.22, predominantly Portugal lineage
-AY.23	Alias of B.1.617.2.23, predominantly Singapore and Indonesia lineage, from pango-designation issue #175
-AY.24	Alias of B.1.617.2.24, predominantly Indonesia lineage, from pango-designation issue #175
-AY.25	Alias of B.1.617.2.25, USA lineage, from pango-designation issue #181
-AY.26	Alias of B.1.617.2.26, USA and Mexico lineage, from pango-designation issue #188
-AY.27	Alias of B.1.617.2.27, Canada lineage, from pango-designation issue #196
-AY.28	Alias of B.1.617.2.28, Sri Lanka lineage, from pango-designation issue #199
-AY.29	Alias of B.1.617.2.29, Japan lineage, from pango-designation issue #208
-AY.30	Alias of B.1.617.2.30, Thailand and Cambodia lineage, from pango-designation issue #207
-AY.31	Alias of B.1.617.2.31, lineage associated with Myanmar. At the time of designation, almost all sequences in this lineage were from Myanmar or had travel history from Myanmar, from pango-designation issue #206
-AY.32	Alias of B.1.617.2.32, South Africa lineage, from pango-designation issue #209
-AY.33	Alias of B.1.617.2.33, Lineage circulating mostly in Belgium, Denmark, France, Netherlands, Germany, from pango-designation issues #215 and #219
-AY.34	Alias of B.1.617.2.34, lineage with spike Q677H circulating in multiple countries, from pango-designation issue #217
-AY.35	Alias of B.1.617.2.35, lineage with spike E484Q circulating in USA, from pango-designation issue #217
-AY.36	Alias of B.1.617.2.36, lineage predominantly in Nigeria, UK and USA, from pango-designation issue #225
-AY.37	Alias of B.1.617.2.37, lineage predominantly in Liberia, USA and France, from pango-designation issue #228
-AY.38	Alias of B.1.617.2.38, lineage predominantly in South Africa, from pango-designation issue #229
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
