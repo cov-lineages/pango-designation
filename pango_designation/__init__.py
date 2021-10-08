@@ -1,2 +1,2 @@
-__version__ = "1.2.82"
+__version__ = "1.2.83"
 _program = "pango_designation"
