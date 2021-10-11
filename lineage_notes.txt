@@ -1307,6 +1307,7 @@ AY.35	Alias of B.1.617.2.35, lineage with spike E484Q circulating in USA, from p
 AY.36	Alias of B.1.617.2.36, lineage predominantly in Nigeria, UK and USA, from pango-designation issue #225
 AY.37	Alias of B.1.617.2.37, lineage predominantly in Liberia, USA and France, from pango-designation issue #228
 AY.38	Alias of B.1.617.2.38, lineage predominantly in South Africa, from pango-designation issue #229
+AY.39	Alias of B.1.617.2.39, predominantly USA lineage, from pango-designation issue #234
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
