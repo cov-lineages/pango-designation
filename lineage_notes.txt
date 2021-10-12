@@ -1292,6 +1292,7 @@ AY.20	Alias of B.1.617.2.20, USA and Mexico lineage
 AY.21	Alias of B.1.617.2.21, lineage predominantly in Italy and Switzerland
 AY.22	Alias of B.1.617.2.22, predominantly Portugal lineage
 AY.23	Alias of B.1.617.2.23, predominantly Singapore and Indonesia lineage, from pango-designation issue #175
+AY.23.1	Alias of B.1.617.2.23.1, Singapore lineage, from pango-designation issue #237
 AY.24	Alias of B.1.617.2.24, predominantly Indonesia lineage, from pango-designation issue #175
 AY.25	Alias of B.1.617.2.25, USA lineage, from pango-designation issue #181
 AY.26	Alias of B.1.617.2.26, USA and Mexico lineage, from pango-designation issue #188
