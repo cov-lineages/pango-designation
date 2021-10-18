@@ -1314,7 +1314,8 @@ AY.39	Alias of B.1.617.2.39, predominantly USA lineage, from pango-designation i
 AY.39.1	Alias of B.1.617.2.39.1, Australia and USA lineage, from pango-designation issue #234
 AY.39.1.1	Alias of B.1.617.2.39.1.1, predominantly New Zealand lineage, from pango-designation issue #234
 AY.40	Alias of B.1.617.2.40, Reunion lineage, from pango-designation issue #237
-AY.41	Alias of B.1.617.2.41, lineage in Europe, from pango-designation issue #237
+AY.41	Alias of B.1.617.2.41, European lineage, from pango-designation issue #237
+AY.42	Alias of B.1.617.2.42, European lineage, from pango-designation issue #239
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
