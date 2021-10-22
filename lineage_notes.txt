@@ -1342,6 +1342,7 @@ AY.58	Alias of B.1.617.2.58, European lineage
 AY.59	Alias of B.1.617.2.59, Malaysia lineage
 AY.60	Alias of B.1.617.2.60, European lineage
 AY.61	Alias of B.1.617.2.61, Italy lineage
+AY.62	Alias of B.1.617.2.62, USA and Mexico lineage
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
