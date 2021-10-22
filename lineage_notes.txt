@@ -1338,6 +1338,7 @@ AY.54	Alias of B.1.617.2.54, USA lineage
 AY.55	Alias of B.1.617.2.55, lineage in Rwanda and other countries
 AY.56	Alias of B.1.617.2.56, USA lineage
 AY.57	Alias of B.1.617.2.57, Vietnam lineage
+AY.58	Alias of B.1.617.2.58, European lineage
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
