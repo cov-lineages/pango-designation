@@ -1354,6 +1354,7 @@ AY.70	Alias of B.1.617.2.70, European lineage
 AY.71	Alias of B.1.617.2.71, European lineage
 AY.72	Alias of B.1.617.2.72, European lineage
 AY.73	Alias of B.1.617.2.73, European lineage
+AY.74	Alias of B.1.617.2.74, Canada lineage
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
