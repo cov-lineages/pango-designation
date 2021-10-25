@@ -1370,6 +1370,7 @@ AY.82	Alias of B.1.617.2.82, Fiji lineage
 AY.83	Alias of B.1.617.2.83, USA lineage
 AY.84	Alias of B.1.617.2.84, European lineage
 AY.85	Alias of B.1.617.2.85, Thailand lineage
+AY.86	Alias of B.1.617.2.86, Canada and USA lineage
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
