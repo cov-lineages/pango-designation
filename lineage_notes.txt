@@ -1376,6 +1376,7 @@ AY.91	Alias of B.1.617.2.91, lineage in South Africa, Namibia and other countrie
 AY.91.1	Alias of B.1.617.2.91.1, European lineage
 AY.92	Alias of B.1.617.2.92, European lineage
 AY.93	Alias of B.1.617.2.93, Canada lineage
+AY.94	Alias of B.1.617.2.94, European lineage
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
