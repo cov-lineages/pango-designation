@@ -1361,6 +1361,7 @@ AY.74	Alias of B.1.617.2.74, Canada lineage
 AY.75	Alias of B.1.617.2.75, USA lineage
 AY.75.1	Alias of B.1.617.2.75.1, lineage in multiple countries outside USA
 AY.76	Alias of B.1.617.2.76, predominantly Malaysia lineage
+AY.77	Alias of B.1.617.2.77, USA lineage
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
