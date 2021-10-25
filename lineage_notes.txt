@@ -1281,6 +1281,7 @@ AY.8	Alias of B.1.617.2.8, UK lineage, from pango-designation issue #180
 AY.9	Alias of B.1.617.2.9, UK lineage, from pango-designation issue #180
 AY.9.1	Alias of B.1.617.2.9.1, European lineage
 AY.9.2	Alias of B.1.617.2.9.2, European lineage
+AY.9.2.1	Alias of B.1.617.2.9.2.1, Canada lineage
 AY.10	Alias of B.1.617.2.10, UK lineage, from pango-designation issue #180
 AY.11	Alias of B.1.617.2.11, UK lineage, from pango-designation issue #142
 AY.12	Alias of B.1.617.2.12, Israel lineage, from pango-designation issue #170
