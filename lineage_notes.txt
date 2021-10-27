@@ -1386,6 +1386,7 @@ AY.99	Alias of B.1.617.2.99, South Africa and Nigeria lineage
 AY.99.1	Alias of B.1.617.2.99.1, Brazil lineage
 AY.99.2	Alias of B.1.617.2.99.2, Brazil lineage
 AY.100	Alias of B.1.617.2.100, USA lineage
+AY.101	Alias of B.1.617.2.101, Brazil and Chile lineage
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
