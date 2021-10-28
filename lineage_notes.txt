@@ -1373,6 +1373,7 @@ AY.85	Alias of B.1.617.2.85, Thailand lineage
 AY.86	Alias of B.1.617.2.86, Canada and USA lineage
 AY.87	Alias of B.1.617.2.87, UK lineage
 AY.88	Alias of B.1.617.2.88, lineage in multiple countries including Ghana
+AY.89	Alias of B.1.617.2.89, UK lineage
 AY.91	Alias of B.1.617.2.91, lineage in South Africa, Namibia and other countries
 AY.91.1	Alias of B.1.617.2.91.1, European lineage
 AY.92	Alias of B.1.617.2.92, European lineage
