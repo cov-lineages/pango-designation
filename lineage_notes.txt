@@ -1319,6 +1319,7 @@ AY.38	Alias of B.1.617.2.38, lineage predominantly in South Africa, from pango-d
 AY.39	Alias of B.1.617.2.39, predominantly USA lineage, from pango-designation issue #234
 AY.39.1	Alias of B.1.617.2.39.1, Australia and USA lineage, from pango-designation issue #234
 AY.39.1.1	Alias of B.1.617.2.39.1.1, predominantly New Zealand lineage, from pango-designation issue #234
+AY.39.2	Alias of B.1.617.2.39.2, Peru lineage, from pango-designation issue #295
 AY.40	Alias of B.1.617.2.40, Reunion lineage, from pango-designation issue #237
 AY.41	Alias of B.1.617.2.41, European lineage, from pango-designation issue #237
 AY.42	Alias of B.1.617.2.42, European lineage, from pango-designation issue #239
