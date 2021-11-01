@@ -1366,7 +1366,7 @@ AY.75.1	Alias of B.1.617.2.75.1, lineage in multiple countries outside USA
 AY.76	Alias of B.1.617.2.76, predominantly Malaysia lineage
 AY.77	Alias of B.1.617.2.77, USA lineage
 AY.78	Alias of B.1.617.2.78, Germany and Turkey lineage
-AY.79	Alias of B.1.617.2.79, predominantly Malaysia and Singapore lineage
+AY.79	Alias of B.1.617.2.79, predominantly Malaysia lineage
 AY.80	Alias of B.1.617.2.80, European lineage
 AY.81	Alias of B.1.617.2.81, USA lineage
 AY.82	Alias of B.1.617.2.82, Fiji lineage
@@ -1384,7 +1384,6 @@ AY.92	Alias of B.1.617.2.92, European lineage
 AY.93	Alias of B.1.617.2.93, Canada lineage
 AY.94	Alias of B.1.617.2.94, European lineage
 AY.95	Alias of B.1.617.2.95, Maldives and European lineage
-AY.96	Alias of B.1.617.2.96, Turkey lineage
 AY.97	Alias of B.1.617.2.97, European lineage
 AY.98	Alias of B.1.617.2.98, UK lineage
 AY.98.1	Alias of B.1.617.2.98.1, European lineage
