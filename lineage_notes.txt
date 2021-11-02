@@ -1408,6 +1408,7 @@ AY.113	Alias of B.1.617.2.113, USA and Mexico lineage
 AY.114	Alias of B.1.617.2.114, USA lineage
 AY.115	Alias of B.1.617.2.115, Botswana lineage
 AY.116	Alias of B.1.617.2.116, Africa lineage
+AY.116.1	Alias of B.1.617.2.116.1, USA lineage
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
