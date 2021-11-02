@@ -1403,6 +1403,7 @@ AY.109	Alias of B.1.617.2.109, lineage in Nigeria and other countries
 AY.110	Alias of B.1.617.2.110, USA lineage
 AY.111	Alias of B.1.617.2.111, UK lineage
 AY.112	Alias of B.1.617.2.112, Bahrain lineage
+AY.113	Alias of B.1.617.2.113, USA and Mexico lineage
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
