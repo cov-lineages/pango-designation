@@ -1384,6 +1384,7 @@ AY.92	Alias of B.1.617.2.92, European lineage
 AY.93	Alias of B.1.617.2.93, Canada lineage
 AY.94	Alias of B.1.617.2.94, European lineage
 AY.95	Alias of B.1.617.2.95, Maldives and European lineage
+AY.96	Alias of B.1.617.2.96, Botswana lineage
 AY.97	Alias of B.1.617.2.97, European lineage
 AY.98	Alias of B.1.617.2.98, UK lineage
 AY.98.1	Alias of B.1.617.2.98.1, European lineage
