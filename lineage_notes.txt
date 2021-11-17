@@ -1287,7 +1287,6 @@ AY.9.2	Alias of B.1.617.2.9.2, European lineage
 AY.9.2.1	Alias of B.1.617.2.9.2.1, Canada lineage
 AY.10	Alias of B.1.617.2.10, UK lineage, from pango-designation issue #180
 AY.11	Alias of B.1.617.2.11, UK lineage, from pango-designation issue #142
-AY.12	Alias of B.1.617.2.12, Israel lineage, from pango-designation issue #170
 AY.13	Alias of B.1.617.2.13, USA lineage
 AY.14	Alias of B.1.617.2.14, USA lineage
 AY.15	Alias of B.1.617.2.15, Canada lineage
@@ -1420,6 +1419,7 @@ AY.120.2	Alias of B.1.617.2.120.2, South Africa lineage
 AY.120.2.1	Alias of B.1.617.2.120.2.1, European lineage
 AY.121	Alias of B.1.617.2.121, Poland and Germany lineage
 AY.122	Alias of B.1.617.2.122, European lineage
+AY.122.1	Alias of B.1.617.2.122.1, Israel lineage, formally AY.12 but renamed as descends from AY.122 which was designated after AY.12, from pango-designation issue #170
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
@@ -1758,6 +1758,7 @@ XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 *B.1.526.2	Withdrawn: Issue 45. New York. Sublineage of B.1.526 (with spike mutations T95I and D253G) that appears to have several more unique mutations.
 *B.1.526.3	Withdrawn: Issue 45. Belgium and Luxembourg lineage
 *B.1.624	Withdrawn: India lineage, from pango-designation issue #91. Redesignated as B.1.1.526
+*AY.12	Withdrawn: Reassigned to AY.122.1
 *B.2.1	Withdrawn: Reassigned to B.40
 *B.2.6	Withdrawn: Reassigned to B.35
 *B.2.10	Withdrawn: Reassigned to B.41
