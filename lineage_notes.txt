@@ -1419,6 +1419,7 @@ AY.120.1	Alias of B.1.617.2.120.1, USA lineage
 AY.120.2	Alias of B.1.617.2.120.2, South Africa lineage
 AY.120.2.1	Alias of B.1.617.2.120.2.1, European lineage
 AY.121	Alias of B.1.617.2.121, Poland and Germany lineage
+AY.122	Alias of B.1.617.2.122, European lineage
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
