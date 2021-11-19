@@ -823,7 +823,6 @@ B.1.177.75	Italian lineage
 B.1.177.76	Danish
 B.1.177.77	Benelux + Denmark
 B.1.177.78	French lineage
-B.1.177.79	Latvian lineage
 B.1.177.80	Scandinavian lineage
 B.1.177.81	Large European lineage
 B.1.177.82	Scandinavian lineage
@@ -1670,6 +1669,7 @@ XB	Reombinant lineage with parental lineage B.1.634 and B.1.631, Central and Nor
 *B.1.177.1	Withdrawn: Denmark
 *B.1.177.13	Withdrawn, now part of B.1.177.17
 *B.1.177.22	Withdrawn: UK lineage
+*B.1.177.79	Withdrawn: Latvian lineage. Did not have a defining mutation within the coding region. Therefore merged into B.1.177.60
 *B.1.183	Withdrawn: Reassigned in the current tree. Canadian lineage
 *B.1.185	Withdrawn: Reassigned in the current tree. USA lineage (previously B.1.5.15)
 *B.1.186	Withdrawn: Saudi-arabian/ Indian lineage (now B.1.260)
