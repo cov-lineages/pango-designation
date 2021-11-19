@@ -1365,8 +1365,8 @@ AY.71	Alias of B.1.617.2.71, European lineage
 AY.72	Alias of B.1.617.2.72, European lineage
 AY.73	Alias of B.1.617.2.73, European lineage
 AY.74	Alias of B.1.617.2.74, Canada lineage
-AY.75	Alias of B.1.617.2.75, USA lineage
-AY.75.1	Alias of B.1.617.2.75.1, lineage in multiple countries outside USA
+AY.75	Alias of B.1.617.2.75, USA and European lineage
+AY.75.2	Alias of B.1.617.2.75.2, Philippines lineage
 AY.76	Alias of B.1.617.2.76, predominantly Malaysia lineage
 AY.77	Alias of B.1.617.2.77, USA lineage
 AY.78	Alias of B.1.617.2.78, Germany and Turkey lineage
@@ -1763,6 +1763,7 @@ XB	Reombinant lineage with parental lineage B.1.634 and B.1.631, Central and Nor
 *B.1.624	Withdrawn: India lineage, from pango-designation issue #91. Redesignated as B.1.1.526
 *B.1.628	Withdrawn: Identified as a recombinant lineage and therefore renamed XB. Discussion in pango-designation issue #189
 *AY.12	Withdrawn: Reassigned to AY.122.1
+*AY.75.1	Withdrawn: Did not have a defining mutation within the coding region so was merged into AY.75
 *B.2.1	Withdrawn: Reassigned to B.40
 *B.2.6	Withdrawn: Reassigned to B.35
 *B.2.10	Withdrawn: Reassigned to B.41
