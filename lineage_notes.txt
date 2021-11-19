@@ -1367,6 +1367,7 @@ AY.73	Alias of B.1.617.2.73, European lineage
 AY.74	Alias of B.1.617.2.74, Canada lineage
 AY.75	Alias of B.1.617.2.75, USA and European lineage
 AY.75.2	Alias of B.1.617.2.75.2, Philippines lineage
+AY.75.3	Alias of B.1.617.2.75.3, Japan lineage
 AY.76	Alias of B.1.617.2.76, predominantly Malaysia lineage
 AY.77	Alias of B.1.617.2.77, USA lineage
 AY.78	Alias of B.1.617.2.78, Germany and Turkey lineage
