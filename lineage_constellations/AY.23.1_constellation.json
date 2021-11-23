@@ -1,0 +1,59 @@
+{
+    "label": "AY.23.1",
+    "description": "AY.23.1 defining mutations - acquired along the path to the root of the lineage and remain conserved within the lineage",
+    "sources": [],
+    "type": "lineage",
+    "tags": [
+        "AY.23.1"
+    ],
+    "sites": [
+        "nuc:G210T",
+        "nuc:C241T",
+        "orf1a:T333M",
+        "orf1a:P380L",
+        "nuc:C3037T",
+        "orf1a:A1306S",
+        "orf1a:T1496I",
+        "nuc:C5497T",
+        "orf1a:P2046L",
+        "orf1a:P2287S",
+        "nuc:A7537G",
+        "nuc:C8986T",
+        "orf1a:V2930L",
+        "orf1a:T3255I",
+        "orf1a:T3646A",
+        "nuc:A11332G",
+        "nuc:C12100T",
+        "orf1b:P314L",
+        "nuc:A14748G",
+        "orf1b:G662S",
+        "orf1b:P1000L",
+        "nuc:G17679T",
+        "orf1b:A1918V",
+        "s:T19R",
+        "s:L452R",
+        "s:T478K",
+        "s:D614G",
+        "s:P681R",
+        "s:D950N",
+        "s:L1234I",
+        "s:V1264L",
+        "orf3a:S26L",
+        "m:I82T",
+        "orf7a:V82A",
+        "orf7a:T120I",
+        "nuc:C27874T",
+        "n:R203M",
+        "n:G215C",
+        "n:D377Y",
+        "nuc:G29742T"
+    ],
+    "rules": {
+        "min_alt": "33",
+        "max_ref": "5",
+        "s:L1234I": "alt"
+    },
+    "intermediate": [
+        "n:D63G:100.0"
+    ]
+}

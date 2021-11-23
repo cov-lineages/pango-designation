@@ -1,0 +1,61 @@
+{
+    "label": "AY.40",
+    "description": "AY.40 defining mutations - acquired along the path to the root of the lineage and remain conserved within the lineage",
+    "sources": [],
+    "type": "lineage",
+    "tags": [
+        "AY.40"
+    ],
+    "sites": [
+        "nuc:G210T",
+        "nuc:C241T",
+        "orf1a:P309L",
+        "nuc:C1267T",
+        "orf1a:I431M",
+        "nuc:C1912T",
+        "nuc:G2755T",
+        "nuc:C3037T",
+        "orf1a:P1640L",
+        "orf1a:H2092Y",
+        "orf1a:A3209V",
+        "orf1a:V3718A",
+        "nuc:T11514C",
+        "nuc:T12946C",
+        "nuc:T13019C",
+        "orf1b:P314L",
+        "orf1b:G662S",
+        "orf1b:M809V",
+        "orf1b:P1000L",
+        "nuc:A20262G",
+        "orf1b:H2285Y",
+        "s:T19R",
+        "nuc:T22227C",
+        "s:L452R",
+        "s:T478K",
+        "s:D574Y",
+        "s:D614G",
+        "s:P681R",
+        "s:D950N",
+        "nuc:C24745T",
+        "orf3a:S26L",
+        "m:I82T",
+        "orf7a:V82A",
+        "orf7a:L116F",
+        "orf7a:T120I",
+        "orf8:S69L",
+        "nuc:T28297C",
+        "n:L139F",
+        "n:R203M",
+        "n:D377Y",
+        "n:R385K",
+        "nuc:G29742T"
+    ],
+    "rules": {
+        "min_alt": "35",
+        "max_ref": "5",
+        "orf8:S69L": "alt"
+    },
+    "intermediate": [
+        "n:D63G:100.0"
+    ]
+}

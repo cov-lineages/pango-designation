@@ -1,0 +1,46 @@
+{
+    "label": "AY.61",
+    "description": "AY.61 defining mutations - acquired along the path to the root of the lineage and remain conserved within the lineage",
+    "sources": [],
+    "type": "lineage",
+    "tags": [
+        "AY.61"
+    ],
+    "sites": [
+        "nuc:G210T",
+        "nuc:C241T",
+        "nuc:C3037T",
+        "orf1a:P1640L",
+        "nuc:A5584G",
+        "orf1a:A3209V",
+        "orf1a:V3718A",
+        "orf1a:T3750I",
+        "nuc:C13019T",
+        "orf1b:P314L",
+        "orf1b:G662S",
+        "orf1b:P1000L",
+        "s:T19R",
+        "s:A222V",
+        "s:L452R",
+        "s:T478K",
+        "s:D614G",
+        "s:P681R",
+        "s:D950N",
+        "orf3a:S26L",
+        "orf3a:I47T",
+        "m:I82T",
+        "orf7a:V82A",
+        "orf7a:T120I",
+        "n:R203M",
+        "n:D377Y",
+        "nuc:G29742T"
+    ],
+    "rules": {
+        "min_alt": "20",
+        "max_ref": "5",
+        "orf3a:I47T": "alt"
+    },
+    "intermediate": [
+        "n:D63G:98.02721088435376"
+    ]
+}

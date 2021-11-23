@@ -1,0 +1,58 @@
+{
+    "label": "AY.21",
+    "description": "AY.21 defining mutations - acquired along the path to the root of the lineage and remain conserved within the lineage",
+    "sources": [],
+    "type": "lineage",
+    "tags": [
+        "AY.21"
+    ],
+    "sites": [
+        "nuc:G210T",
+        "nuc:C241T",
+        "nuc:C3037T",
+        "orf1a:A1306S",
+        "orf1a:P2046L",
+        "orf1a:P2287S",
+        "nuc:C8986T",
+        "orf1a:V2930L",
+        "orf1a:T3255I",
+        "orf1a:T3646A",
+        "nuc:A11332G",
+        "orf1b:P314L",
+        "orf1b:G662S",
+        "orf1b:P1000L",
+        "orf1b:P1567S",
+        "orf1b:A1918V",
+        "s:T19R",
+        "s:L452R",
+        "s:T478K",
+        "s:D614G",
+        "s:P681R",
+        "s:D950N",
+        "orf3a:S26L",
+        "nuc:G25647A",
+        "m:I82T",
+        "orf7a:V82A",
+        "orf7a:T120I",
+        "nuc:C27874T",
+        "orf8:R101L",
+        "n:R203M",
+        "nuc:T28897C",
+        "n:G215C",
+        "nuc:C29167T",
+        "nuc:G29227T",
+        "n:D377Y",
+        "nuc:G29742T"
+    ],
+    "rules": {
+        "min_alt": "30",
+        "max_ref": "5",
+        "orf8:R101L": "alt",
+        "nuc:T28897C": "alt",
+        "nuc:C29167T": "alt"
+    },
+    "intermediate": [
+        "s:T95I:97.27272727272728",
+        "n:D63G:98.1818181818182"
+    ]
+}

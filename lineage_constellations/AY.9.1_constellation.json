@@ -1,0 +1,49 @@
+{
+    "label": "AY.9.1",
+    "description": "AY.9.1 defining mutations - acquired along the path to the root of the lineage and remain conserved within the lineage",
+    "sources": [],
+    "type": "lineage",
+    "tags": [
+        "AY.9.1"
+    ],
+    "sites": [
+        "nuc:G210T",
+        "nuc:C241T",
+        "nuc:C3037T",
+        "nuc:C4321T",
+        "orf1a:P1640L",
+        "nuc:A5584G",
+        "orf1a:A3209V",
+        "orf1a:V3718A",
+        "orf1a:T3750I",
+        "nuc:C13019T",
+        "orf1b:R188Q",
+        "orf1b:P314L",
+        "orf1b:G662S",
+        "orf1b:P1000L",
+        "orf1b:T1540I",
+        "s:T19R",
+        "s:A222V",
+        "nuc:C22792T",
+        "s:L452R",
+        "s:T478K",
+        "s:D614G",
+        "s:P681R",
+        "s:D950N",
+        "orf3a:S26L",
+        "m:I82T",
+        "orf7a:V82A",
+        "orf7a:T120I",
+        "n:R203M",
+        "n:D377Y",
+        "nuc:G29742T"
+    ],
+    "rules": {
+        "min_alt": "23",
+        "max_ref": "5",
+        "nuc:C4321T": "alt"
+    },
+    "intermediate": [
+        "n:D63G:98.78048780487804"
+    ]
+}
