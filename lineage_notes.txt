@@ -1329,6 +1329,7 @@ AY.43	Alias of B.1.617.2.43, European lineage, from pango-designation issue #240
 AY.43.1	Alias of B.1.617.2.43.1, Brazil lineage, from pango-designation issue #319
 AY.43.2	Alias of B.1.617.2.43.2, Brazil lineage, from pango-designation issue #319
 AY.43.3	Alias of B.1.617.2.43.3, Chile lineage, from pango-designation issue #337
+AY.43.4	Alias of B.1.617.2.43.4, Switzerland lineage, from pango-designation issue #317
 AY.44	Alias of B.1.617.2.44, USA lineage, from pango-designation issue #242
 AY.45	Alias of B.1.617.2.45, South Africa lineage, from pango-designation issue #246
 AY.46	Alias of B.1.617.2.46, Africa lineage, from pango-designation issue #247
@@ -1427,7 +1428,7 @@ AY.122	Alias of B.1.617.2.122, European lineage
 AY.122.1	Alias of B.1.617.2.122.1, Israel lineage, formally AY.12 but renamed as descends from AY.122 which was designated after AY.12, from pango-designation issue #170
 AY.123	Alias of B.1.617.2.123, Predominantly Belgium and France lineage
 AY.124	Alias of B.1.617.2.124, lineage in Portugal and other European countries
-AY.125	Alias of B.1.617.2.125, European lineage
+AY.125	Alias of B.1.617.2.125, European lineage, from pango-designation issue #328
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
