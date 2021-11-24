@@ -1328,6 +1328,7 @@ AY.42	Alias of B.1.617.2.42, European lineage, from pango-designation issue #239
 AY.43	Alias of B.1.617.2.43, European lineage, from pango-designation issue #240
 AY.43.1	Alias of B.1.617.2.43.1, Brazil lineage, from pango-designation issue #319
 AY.43.2	Alias of B.1.617.2.43.2, Brazil lineage, from pango-designation issue #319
+AY.43.3	Alias of B.1.617.2.43.3, Chile lineage, from pango-designation issue #337
 AY.44	Alias of B.1.617.2.44, USA lineage, from pango-designation issue #242
 AY.45	Alias of B.1.617.2.45, South Africa lineage, from pango-designation issue #246
 AY.46	Alias of B.1.617.2.46, Africa lineage, from pango-designation issue #247
