@@ -1268,6 +1268,7 @@ AY.4	Alias of B.1.617.2.4, UK lineage, from pango-designation issue #180
 AY.4.1	Alias of B.1.617.2.4.1, UK lineage, from pango-designation issue #214
 AY.4.2	Alias of B.1.617.2.4.2, predominantly UK lineage, from pango-designation issue #223
 AY.4.2.1	Alias of B.1.617.2.4.2.1, predominantly UK lineage, from pango-designation issue #248
+AY.4.2.2	Alias of B.1.617.2.4.2.2, UK lineage, from pango-designation issue #249
 AY.4.3	Alias of B.1.617.2.4.3, lineage in several countries, from pango-designation issue #222
 AY.4.4	Alias of B.1.617.2.4.4, lineage in several European countries, from pango-designation issue #237
 AY.4.5	Alias of B.1.617.2.4.5, predominantly Lithuania lineage, from pango-designation issue #241
