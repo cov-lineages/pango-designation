@@ -1526,6 +1526,7 @@ B.60	England
 B.61	Redesignated from B.40 (split), UK
 XA	Recombinant lineage with parental lineages B.1.1.7 and B.1.177, UK lineage
 XB	Reombinant lineage with parental lineage B.1.634 and B.1.631, Central and North America lineage, discussed in pango-designation issue #189. Formally B.1.628
+XC	Reombinant lineage with parental lineage AY.29 and B.1.1.7, Japan lineage, from pango-designation issue #263
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
