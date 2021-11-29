@@ -1314,7 +1314,8 @@ AY.31	Alias of B.1.617.2.31, lineage associated with Myanmar. At the time of des
 AY.32	Alias of B.1.617.2.32, South Africa lineage, from pango-designation issue #209
 AY.33	Alias of B.1.617.2.33, Lineage circulating mostly in Belgium, Denmark, France, Netherlands, Germany, from pango-designation issues #215 and #219
 AY.34	Alias of B.1.617.2.34, lineage with spike Q677H circulating in multiple countries, from pango-designation issue #217
-AY.34.1	Alias of B.1.617.2.34.1, Brazil and Chile lineage
+AY.34.1	Alias of B.1.617.2.34.1, lineage in multiple countries including Gambia, Senegal, Benin and Mali, from pango-designation issue #255
+AY.34.1.1	Alias of B.1.617.2.34.1.1, Brazil and Chile lineage
 AY.35	Alias of B.1.617.2.35, lineage with spike E484Q circulating in USA, from pango-designation issue #217
 AY.36	Alias of B.1.617.2.36, lineage predominantly in Nigeria, UK and USA, from pango-designation issue #225
 AY.37	Alias of B.1.617.2.37, lineage predominantly in Liberia, USA and France, from pango-designation issue #228
