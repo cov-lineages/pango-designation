@@ -42,7 +42,9 @@
         "nuc:C29167T",
         "nuc:G29227T",
         "n:D377Y",
-        "nuc:G29742T"
+        "nuc:G29742T",
+        "nuc:T8782C",
+        "orf8:L84S"
     ],
     "rules": {
         "min_alt": "30",

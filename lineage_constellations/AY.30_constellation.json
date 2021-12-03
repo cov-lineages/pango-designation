@@ -43,7 +43,9 @@
         "n:R203M",
         "n:D377Y",
         "n:R385K",
-        "nuc:G29742T"
+        "nuc:G29742T",
+        "nuc:T8782C",
+        "orf8:L84S"
     ],
     "rules": {
         "min_alt": "30",

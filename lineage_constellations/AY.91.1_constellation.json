@@ -44,7 +44,9 @@
         "n:G215C",
         "n:D377Y",
         "nuc:G29742T",
-        "nuc:G29744A"
+        "nuc:G29744A",
+        "nuc:T8782C",
+        "orf8:L84S"
     ],
     "rules": {
         "min_alt": "31",

@@ -33,7 +33,9 @@
         "orf7a:T120I",
         "n:R203M",
         "n:D377Y",
-        "nuc:T29742G"
+        "nuc:T29742G",
+        "nuc:T8782C",
+        "orf8:L84S"
     ],
     "rules": {
         "min_alt": "20",
