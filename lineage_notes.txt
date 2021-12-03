@@ -1306,6 +1306,7 @@ AY.23.1	Alias of B.1.617.2.23.1, Singapore lineage, from pango-designation issue
 AY.23.2	Alias of B.1.617.2.23.2, European lineage, from pango-designation issue #265
 AY.24	Alias of B.1.617.2.24, predominantly Indonesia lineage, from pango-designation issue #175
 AY.25	Alias of B.1.617.2.25, USA lineage, from pango-designation issue #181
+AY.25.1	Alias of B.1.617.2.25.1, Peru lineage, from pango-designation issue #355
 AY.26	Alias of B.1.617.2.26, USA and Mexico lineage, from pango-designation issue #188
 AY.27	Alias of B.1.617.2.27, Canada lineage, from pango-designation issue #196
 AY.28	Alias of B.1.617.2.28, Sri Lanka lineage, from pango-designation issue #199
