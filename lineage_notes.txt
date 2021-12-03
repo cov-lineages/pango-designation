@@ -1284,7 +1284,6 @@ AY.7.1	Alias of B.1.617.2.7.1, Denmark lineage
 AY.7.2	Alias of B.1.617.2.7.2, predominantly Italy lineage in multiple other European countries
 AY.8	Alias of B.1.617.2.8, UK lineage, from pango-designation issue #180
 AY.9	Alias of B.1.617.2.9, UK lineage, from pango-designation issue #180
-AY.9.1	Alias of B.1.617.2.9.1, European lineage
 AY.9.2	Alias of B.1.617.2.9.2, European lineage
 AY.9.2.1	Alias of B.1.617.2.9.2.1, Canada lineage
 AY.10	Alias of B.1.617.2.10, UK lineage, from pango-designation issue #180
@@ -1777,6 +1776,7 @@ XC	Reombinant lineage with parental lineage AY.29 and B.1.1.7, Japan lineage, fr
 *B.1.526.3	Withdrawn: Issue 45. Belgium and Luxembourg lineage
 *B.1.624	Withdrawn: India lineage, from pango-designation issue #91. Redesignated as B.1.1.526
 *B.1.628	Withdrawn: Identified as a recombinant lineage and therefore renamed XB. Discussion in pango-designation issue #189
+*AY.9.1	Withdrawn: Merged into AY.9.2 as these lineages likely form a single clade
 *AY.12	Withdrawn: Reassigned to AY.122.1
 *AY.75.1	Withdrawn: Did not have a defining mutation within the coding region so was merged into AY.75
 *B.2.1	Withdrawn: Reassigned to B.40
