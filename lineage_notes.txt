@@ -1436,6 +1436,7 @@ AY.123	Alias of B.1.617.2.123, Predominantly Belgium and France lineage
 AY.124	Alias of B.1.617.2.124, lineage in Portugal and other European countries
 AY.125	Alias of B.1.617.2.125, European lineage, from pango-designation issue #328
 AY.126	Alias of B.1.617.2.126, European lineage, from pango-designation issue #253
+AY.127	Alias of B.1.617.2.127, lineage in India and other countries, from pango-designation issue #342
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
