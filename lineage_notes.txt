@@ -591,6 +591,7 @@ B.1.1.525	Predominantly Russia lineage, from pango-designation issue #85
 B.1.1.526	India lineage, from pango-designation issue #91, previously designated B.1.624
 B.1.1.528	South Africa lineage, from pango-designation issue #177
 B.1.1.529	South Africa and Botswana lineage, from pango-designation issue #343
+BA.1	Alias of B.1.1.529.1, from pango-designation issue #361
 B.1.2	USA
 B.1.3	USA lineage
 B.1.6	Belgian lineage
