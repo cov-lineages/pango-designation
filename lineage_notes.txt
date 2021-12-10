@@ -1420,7 +1420,8 @@ AY.108	Alias of B.1.617.2.108, lineage in Pakistan and other countries
 AY.109	Alias of B.1.617.2.109, lineage in Nigeria and other countries
 AY.110	Alias of B.1.617.2.110, USA lineage
 AY.111	Alias of B.1.617.2.111, UK lineage
-AY.112	Alias of B.1.617.2.112, Bahrain lineage
+AY.112	Alias of B.1.617.2.112, lineage in India and other countries, from pango-designation issue #283
+AY.112.1	Alias of B.1.617.2.112.1, Bahrain lineage
 AY.113	Alias of B.1.617.2.113, USA and Mexico lineage
 AY.114	Alias of B.1.617.2.114, USA lineage
 AY.116	Alias of B.1.617.2.116, Africa lineage
