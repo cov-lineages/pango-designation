@@ -124,6 +124,7 @@ P.1.4	Alias of B.1.1.28.1.4, Brazil lineage, from pango-designation issue #141
 P.1.5	Alias of B.1.1.28.1.5, Brazil lineage, from pango-designation issue #141
 P.1.6	Alias of B.1.1.28.1.6, Brazil lineage, from pango-designation issue #141
 P.1.7	Alias of B.1.1.28.1.7, Brazil lineage, from pango-designation issue #141
+P.1.7.1	Alias of B.1.1.28.1.7.1, Peru lineage, from pango-designation issue #326
 P.1.8	Alias of B.1.1.28.1.8, Brazil lineage, from pango-designation issue #164
 P.1.9	Alias of B.1.1.28.1.9, Brazil lineage, from pango-designation issue #174
 P.1.10	Alias of B.1.1.28.1.10, predominantly USA lineage, from pango-designation issue #179
