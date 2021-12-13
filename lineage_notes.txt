@@ -1347,6 +1347,7 @@ AY.43.2	Alias of B.1.617.2.43.2, Brazil lineage, from pango-designation issue #3
 AY.43.3	Alias of B.1.617.2.43.3, Chile lineage, from pango-designation issue #337
 AY.43.4	Alias of B.1.617.2.43.4, Switzerland lineage, from pango-designation issue #317
 AY.43.5	Alias of B.1.617.2.43.5, Portugal lineage, from pango-designation issue #335
+AY.43.6	Alias of B.1.617.2.43.6, Denmark lineage, from pango-designation issue #315
 AY.44	Alias of B.1.617.2.44, USA lineage, from pango-designation issue #242
 AY.45	Alias of B.1.617.2.45, South Africa lineage, from pango-designation issue #246
 AY.46	Alias of B.1.617.2.46, Africa lineage, from pango-designation issue #247
