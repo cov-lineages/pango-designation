@@ -1330,6 +1330,7 @@ AY.30	Alias of B.1.617.2.30, Thailand and Cambodia lineage, from pango-designati
 AY.31	Alias of B.1.617.2.31, lineage associated with Myanmar. At the time of designation, almost all sequences in this lineage were from Myanmar or had travel history from Myanmar, from pango-designation issue #206
 AY.32	Alias of B.1.617.2.32, South Africa lineage, from pango-designation issue #209
 AY.33	Alias of B.1.617.2.33, Lineage circulating mostly in Belgium, Denmark, France, Netherlands, Germany, from pango-designation issues #215 and #219
+AY.33.1	Alias of B.1.617.2.33.1, Reunion and France lineage, from pango-designation issue #370
 AY.34	Alias of B.1.617.2.34, lineage with spike Q677H circulating in multiple countries, from pango-designation issue #217
 AY.34.1	Alias of B.1.617.2.34.1, lineage in multiple countries including Gambia, Senegal, Benin and Mali, from pango-designation issue #255
 AY.34.1.1	Alias of B.1.617.2.34.1.1, Brazil and Chile lineage
