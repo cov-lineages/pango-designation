@@ -1343,6 +1343,7 @@ AY.39.2	Alias of B.1.617.2.39.2, Peru lineage, from pango-designation issue #295
 AY.40	Alias of B.1.617.2.40, Reunion lineage, from pango-designation issue #237
 AY.41	Alias of B.1.617.2.41, European lineage, from pango-designation issue #237
 AY.42	Alias of B.1.617.2.42, European lineage, from pango-designation issue #239
+AY.42.1	Alias of B.1.617.2.42.1, lineage in Bonaire, Curacao and other countries, from pango-designation issue #331
 AY.43	Alias of B.1.617.2.43, European lineage, from pango-designation issue #240
 AY.43.1	Alias of B.1.617.2.43.1, Brazil lineage, from pango-designation issue #319
 AY.43.2	Alias of B.1.617.2.43.2, Brazil lineage, from pango-designation issue #319
