@@ -1285,6 +1285,7 @@ AY.4.5	Alias of B.1.617.2.4.5, predominantly Lithuania lineage, from pango-desig
 AY.4.6	Alias of B.1.617.2.4.6, European lineage, from pango-designation issue #264
 AY.4.7	Alias of B.1.617.2.4.7, lineage in Aruba and other countries, from pango-designation issue #291
 AY.4.8	Alias of B.1.617.2.4.8, UK lineage, from pango-designation issue #304
+AY.4.9	Alias of B.1.617.2.4.9, European lineage, from pango-designation issue #332
 AY.5	Alias of B.1.617.2.5, UK lineage, from pango-designation issue #180
 AY.5.1	Alias of B.1.617.2.5.1, Portugal lineage
 AY.5.2	Alias of B.1.617.2.5.2, Portugal lineage
