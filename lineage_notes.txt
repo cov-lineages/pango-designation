@@ -1839,3 +1839,4 @@ XC	Reombinant lineage with parental lineage AY.29 and B.1.1.7, Japan lineage, fr
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
 AY.131	Sublineage of B.1.617.2 mainly reported from Bangladesh (from pango-designation issue #373)
+AY.43.7	Sublineage of AY.43 reported from Brazil (from pango-designation issue #378)
