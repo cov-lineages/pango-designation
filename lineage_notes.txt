@@ -1359,6 +1359,7 @@ AY.43.3	Alias of B.1.617.2.43.3, Chile lineage, from pango-designation issue #33
 AY.43.4	Alias of B.1.617.2.43.4, Switzerland lineage, from pango-designation issue #317
 AY.43.5	Alias of B.1.617.2.43.5, Portugal lineage, from pango-designation issue #335
 AY.43.6	Alias of B.1.617.2.43.6, Denmark lineage, from pango-designation issue #315
+AY.43.7	Alias of B.1.617.2.43.7, Brazil lineage, from pango-designation issue #378
 AY.44	Alias of B.1.617.2.44, USA lineage, from pango-designation issue #242
 AY.45	Alias of B.1.617.2.45, South Africa lineage, from pango-designation issue #246
 AY.46	Alias of B.1.617.2.46, Africa lineage, from pango-designation issue #247
@@ -1473,6 +1474,7 @@ AY.127.1	Alias of B.1.617.2.127.1, lineage in Djibouti and other countries, from
 AY.128	Alias of B.1.617.2.128, lineage in Estonia, Georgia and other countries, from pango-designation issue #309
 AY.129	Alias of B.1.617.2.129, European lineage, from pango-designation issue #329
 AY.130	Alias of B.1.617.2.130, Bahrain lineage, from pango-designation issue #351
+AY.131	Alias of B.1.617.2.131, mainly reported from Bangladesh, from pango-designation issue #373
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
@@ -1838,5 +1840,3 @@ XC	Reombinant lineage with parental lineage AY.29 and B.1.1.7, Japan lineage, fr
 *H.1	Withdrawn: Alias of B.1.1.67.1, South African lineage, split from B.1.1.10
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
-AY.131	Sublineage of B.1.617.2 mainly reported from Bangladesh (from pango-designation issue #373)
-AY.43.7	Sublineage of AY.43 reported from Brazil (from pango-designation issue #378)
