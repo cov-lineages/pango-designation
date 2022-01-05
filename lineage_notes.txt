@@ -596,7 +596,6 @@ B.1.1.529	South Africa and Botswana lineage, from pango-designation issue #343
 BA.1	Alias of B.1.1.529.1, from pango-designation issue #361
 BA.2	Alias of B.1.1.529.2, from pango-designation issue #361
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
-BB.1	Alias of B.1.621.1.1, from pango-designation issue #232
 BB.2	Alias of B.1.621.1.2, from pango-designation issue #232
 B.1.2	USA
 B.1.3	USA lineage
@@ -1484,6 +1483,7 @@ B.1.619.1	South Korea lineage, from pango-designation issue #160
 B.1.620	Lineage in multiple countries, potentially originated in Cameroon and spread within Europe post-introduction, pango-designation issue #54
 B.1.621	Lineage predominantly in Colombia with several spike mutations, pango-designation issue #57
 B.1.621.1	Lineage in multiple countries, pango-designation issue #115
+B.1.621.2	Lineage in multiple countries, from pango-designation issue #232
 B.1.622	Reunion lineage, pango-designation issue #58
 B.1.623	Predominantly USA lineage with mutations of interest, from pango-designation issue #25
 B.1.625	Predominantly Colombia and USA lineage, from pango-designation issue #93
@@ -1819,6 +1819,7 @@ XC	Reombinant lineage with parental lineage AY.29 and B.1.1.7, Japan lineage, fr
 *B.1.526.1	Withdrawn: Issue 45. New York. Sublineage of B.1.526 (with spike mutations T95I and D253G) that appears to have several more unique mutations.
 *B.1.526.2	Withdrawn: Issue 45. New York. Sublineage of B.1.526 (with spike mutations T95I and D253G) that appears to have several more unique mutations.
 *B.1.526.3	Withdrawn: Issue 45. Belgium and Luxembourg lineage
+*BB.1	Withdrawn: Redesignated as B.1.621.2
 *B.1.624	Withdrawn: India lineage, from pango-designation issue #91. Redesignated as B.1.1.526
 *B.1.628	Withdrawn: Identified as a recombinant lineage and therefore renamed XB. Discussion in pango-designation issue #189
 *AY.9.1	Withdrawn: Merged into AY.9.2 as these lineages likely form a single clade
