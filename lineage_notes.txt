@@ -1414,7 +1414,6 @@ AY.85	Alias of B.1.617.2.85, Thailand lineage
 AY.86	Alias of B.1.617.2.86, Canada and USA lineage
 AY.87	Alias of B.1.617.2.87, UK lineage
 AY.88	Alias of B.1.617.2.88, lineage in Ghana and other countries
-AY.89	Alias of B.1.617.2.89, UK lineage
 AY.90	Alias of B.1.617.2.90, UK lineage
 AY.91	Alias of B.1.617.2.91, lineage in South Africa, Namibia and other countries
 AY.91.1	Alias of B.1.617.2.91.1, European lineage
@@ -1826,6 +1825,7 @@ XC	Reombinant lineage with parental lineage AY.29 and B.1.1.7, Japan lineage, fr
 *AY.9.1	Withdrawn: Merged into AY.9.2 as these lineages likely form a single clade
 *AY.12	Withdrawn: Reassigned to AY.122.1
 *AY.75.1	Withdrawn: Did not have a defining mutation within the coding region so was merged into AY.75
+*AY.89	Withdrawn: Merged into AY.4, pango-designation issue #398
 *AY.97	Withdrawn: Reassigned to AY.5.5
 *AY.115	Withdrawn: Merged into AY.116 as these lineages likely form a single clade
 *B.2.1	Withdrawn: Reassigned to B.40
