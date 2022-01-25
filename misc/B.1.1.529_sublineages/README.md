@@ -50,7 +50,7 @@ T22679C | S |   | S373P |   |   | Y |  
 C22686T | S |   | S375F |   |   | Y |  
 A22688G | S |   | T376A |   | Y |   |  
 G22775A | S |   | D405N |   | Y |   |  
-A22786T | S |   | R408S |   | Y |   |  
+A22786C | S |   | R408S |   | Y |   | (fixed, was A22786T in earlier version)
 G22813T | S |   | K417N |   |   | Y |  
 T22882G | S |   | N440K |   |   | Y |  
 G22898A | S |   | G446S | Y |   |   |  
