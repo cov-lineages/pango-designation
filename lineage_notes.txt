@@ -1328,6 +1328,7 @@ AY.25	Alias of B.1.617.2.25, USA lineage, from pango-designation issue #181
 AY.25.1	Alias of B.1.617.2.25.1, Canada and USA lineage, from pango-designation issue #313
 AY.25.1.1	Alias of B.1.617.2.25.1.1, Peru lineage, from pango-designation issue #355
 AY.25.2	Alias of B.1.617.2.25.2, Argentina lineage
+AY.25.3	Alias of B.1.617.2.25.3, Canada and USA lineage
 AY.26	Alias of B.1.617.2.26, USA and Mexico lineage, from pango-designation issue #188
 AY.26.1	Alias of B.1.617.2.26.1, Peru lineage, from pango-designation issue #278
 AY.27	Alias of B.1.617.2.27, Canada lineage, from pango-designation issue #196
