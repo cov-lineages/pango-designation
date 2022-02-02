@@ -1434,6 +1434,7 @@ AY.102	Alias of B.1.617.2.102, Peru and Chile lineage, from pango-designation is
 AY.102.1	Alias of B.1.617.2.102.1, Peru lineage, from pango-designation issue #325
 AY.102.2	Alias of B.1.617.2.102.2, Peru lineage, from pango-designation issue #330
 AY.103	Alias of B.1.617.2.103, USA lineage
+AY.103.1	Alias of B.1.617.2.103.1, Argentina lineage
 AY.104	Alias of B.1.617.2.104, Sri Lanka lineage
 AY.105	Alias of B.1.617.2.105, USA lineage
 AY.106	Alias of B.1.617.2.106, lineage in Jordan and other countries
