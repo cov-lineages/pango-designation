@@ -1293,6 +1293,7 @@ AY.4.11	Alias of B.1.617.2.4.11, European lineage
 AY.4.12	Alias of B.1.617.2.4.12, Canada lineage
 AY.4.13	Alias of B.1.617.2.4.13, European lineage
 AY.4.14	Alias of B.1.617.2.4.14, lineage in Denmark and other countries
+AY.4.15	Alias of B.1.617.2.4.15, Denmark lineage
 AY.5	Alias of B.1.617.2.5, UK lineage, from pango-designation issue #180
 AY.5.1	Alias of B.1.617.2.5.1, Portugal lineage
 AY.5.2	Alias of B.1.617.2.5.2, Portugal lineage
