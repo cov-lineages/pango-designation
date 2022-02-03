@@ -1481,6 +1481,7 @@ AY.123	Alias of B.1.617.2.123, Predominantly Belgium and France lineage
 AY.123.1	Alias of B.1.617.2.123.1, Belgium lineage, from pango-designation issue #354
 AY.124	Alias of B.1.617.2.124, lineage in Portugal and other European countries
 AY.124.1	Alias of B.1.617.2.124.1, lineage in Portugal and other European countries, from pango-designation issue #345
+AY.124.1.1	Alias of B.1.617.2.124.1.1, lineage in Mauritius and other countries
 AY.125	Alias of B.1.617.2.125, European lineage, from pango-designation issue #328
 AY.125.1	Alias of B.1.617.2.125.1, Australia lineage
 AY.126	Alias of B.1.617.2.126, European lineage, from pango-designation issue #253
