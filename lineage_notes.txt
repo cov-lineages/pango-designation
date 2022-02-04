@@ -1478,6 +1478,7 @@ AY.122.1	Alias of B.1.617.2.122.1, Israel lineage, formally AY.12 but renamed as
 AY.122.2	Alias of B.1.617.2.122.2, Finland and Estonia lineage, from pango-designation issue #273
 AY.122.3	Alias of B.1.617.2.122.3, Denmark and Sweden lineage, from pango-designation issue #371
 AY.122.4	Alias of B.1.617.2.122.4, South America and USA lineage
+AY.122.5	Alias of B.1.617.2.122.5, South Korea lineage
 AY.123	Alias of B.1.617.2.123, Predominantly Belgium and France lineage
 AY.123.1	Alias of B.1.617.2.123.1, Belgium lineage, from pango-designation issue #354
 AY.124	Alias of B.1.617.2.124, lineage in Portugal and other European countries
