@@ -1487,6 +1487,7 @@ AY.125.1	Alias of B.1.617.2.125.1, Australia lineage
 AY.126	Alias of B.1.617.2.126, European lineage, from pango-designation issue #253
 AY.127	Alias of B.1.617.2.127, lineage in India and other countries, from pango-designation issue #342
 AY.127.1	Alias of B.1.617.2.127.1, lineage in Djibouti and other countries, from pango-designation issue #352
+AY.127.2	Alias of B.1.617.2.127.2, Qatar lineage
 AY.128	Alias of B.1.617.2.128, lineage in Estonia, Georgia and other countries, from pango-designation issue #309
 AY.129	Alias of B.1.617.2.129, European lineage, from pango-designation issue #329
 AY.130	Alias of B.1.617.2.130, Bahrain lineage, from pango-designation issue #351
