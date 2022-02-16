@@ -607,6 +607,7 @@ BA.1.10	Alias of B.1.1.529.1.10, UK lineage
 BA.1.11	Alias of B.1.1.529.1.11, Slovenia lineage
 BA.1.12	Alias of B.1.1.529.1.12, UK lineage
 BA.1.13	Alias of B.1.1.529.1.13, European lineage
+BA.1.13.1	Alias of B.1.1.529.1.13.1, Indonesia lineage
 BA.2	Alias of B.1.1.529.2, from pango-designation issue #361
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BB.2	Alias of B.1.621.1.2, from pango-designation issue #232
