@@ -595,6 +595,7 @@ B.1.1.528	South Africa lineage, from pango-designation issue #177
 B.1.1.529	South Africa and Botswana lineage, from pango-designation issue #343
 BA.1	Alias of B.1.1.529.1, from pango-designation issue #361
 BA.1.1	Alias of B.1.1.529.1.1, from pango-designation issue #360
+BA.1.2	Alias of B.1.1.529.1.2, Mayotte and Reunion lineage
 BA.2	Alias of B.1.1.529.2, from pango-designation issue #361
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BB.2	Alias of B.1.621.1.2, from pango-designation issue #232
