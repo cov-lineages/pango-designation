@@ -604,7 +604,6 @@ BA.1.7	Alias of B.1.1.529.1.7, UK lineage
 BA.1.8	Alias of B.1.1.529.1.8, European lineage
 BA.1.9	Alias of B.1.1.529.1.9, Brazil lineage
 BA.1.10	Alias of B.1.1.529.1.10, UK lineage
-BA.1.11	Alias of B.1.1.529.1.11, Slovenia lineage
 BA.1.12	Alias of B.1.1.529.1.12, UK lineage
 BA.1.13	Alias of B.1.1.529.1.13, European lineage
 BA.1.13.1	Alias of B.1.1.529.1.13.1, Indonesia lineage
@@ -1687,6 +1686,7 @@ XC	Reombinant lineage with parental lineage AY.29 and B.1.1.7, Japan lineage, fr
 *B.1.1.314	Withdrawn: Brazilian lineage, previously part of B.1.1.33
 *B.1.1.439	Withdrawn: Wales lineage, reassigned to B.1.1.29
 *B.1.1.527	Withdrawn: Lineage in multiple countries, from pango-designation issue #150, reassigned to C.38
+*BA.1.11	Withdrawn: Does not have a reliable defining mutation
 *B.1.3.1	Withdrawn: South Korean lineage
 *B.1.3.2	Withdrawn: Argentinian lineage
 *B.1.3.3	Withdrawn: Israel lineage
