@@ -596,7 +596,6 @@ B.1.1.529	South Africa and Botswana lineage, from pango-designation issue #343
 BA.1	Alias of B.1.1.529.1, from pango-designation issue #361
 BA.1.1	Alias of B.1.1.529.1.1, from pango-designation issue #360
 BA.1.1.1	Alias of B.1.1.529.1.1.1, European lineage
-BC.1	Alias of B.1.1.529.1.1.1.1, Japan lineage
 BA.1.1.2	Alias of B.1.1.529.1.1.2, Japan lineage
 BA.1.1.3	Alias of B.1.1.529.1.1.3, Switzerland lineage
 BA.1.1.4	Alias of B.1.1.529.1.1.4, UK lineage
