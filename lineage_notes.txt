@@ -1392,6 +1392,7 @@ AY.34.1.1	Alias of B.1.617.2.34.1.1, Brazil and Chile lineage
 AY.34.2	Alias of B.1.617.2.34.2, lineage in multiple countries including Martinique, from pango-designation issue #269
 AY.35	Alias of B.1.617.2.35, lineage with spike E484Q circulating in USA, from pango-designation issue #217
 AY.36	Alias of B.1.617.2.36, lineage predominantly in Nigeria, UK and USA, from pango-designation issue #225
+AY.36.1	Alias of B.1.617.2.36.1, lineage in Germany and other countries, from pango-designation issue #434
 AY.37	Alias of B.1.617.2.37, lineage predominantly in Liberia, USA and France, from pango-designation issue #228
 AY.38	Alias of B.1.617.2.38, lineage predominantly in South Africa, from pango-designation issue #229
 AY.39	Alias of B.1.617.2.39, predominantly USA lineage, from pango-designation issue #234
