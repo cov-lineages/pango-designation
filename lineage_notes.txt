@@ -1381,6 +1381,7 @@ AY.27	Alias of B.1.617.2.27, Canada lineage, from pango-designation issue #196
 AY.28	Alias of B.1.617.2.28, Sri Lanka lineage, from pango-designation issue #199
 AY.29	Alias of B.1.617.2.29, Japan lineage, from pango-designation issue #208
 AY.29.1	Alias of B.1.617.2.29.1, Japan lineage, from pango-designation issue #224
+AY.29.2	Alias of B.1.617.2.29.2, Japan lineage, from pango-designation issue #381
 AY.30	Alias of B.1.617.2.30, Thailand and Cambodia lineage, from pango-designation issue #207
 AY.31	Alias of B.1.617.2.31, lineage associated with Myanmar. At the time of designation, almost all sequences in this lineage were from Myanmar or had travel history from Myanmar, from pango-designation issue #206
 AY.32	Alias of B.1.617.2.32, South Africa lineage, from pango-designation issue #209
