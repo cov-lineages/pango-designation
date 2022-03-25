@@ -1640,6 +1640,7 @@ XC	Recombinant lineage with parental lineages AY.29 and B.1.1.7, Japan lineage, 
 XD	Recombinant lineage of Delta and BA.1, France and Denmark lineage, from pango-designation issue #444
 XE	Recombinant lineage of BA.1 and BA.2, UK lineage, from pango-designation issue #454
 XF	Recombinant lineage of Delta and BA.1, UK lineage, from pango-designation issue #445
+XG	Recombinant lineage of BA.1 and BA.2, Denmark lineage, from pango-designation issue #447
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
