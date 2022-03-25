@@ -1641,6 +1641,7 @@ XD	Recombinant lineage of Delta and BA.1, France and Denmark lineage, from pango
 XE	Recombinant lineage of BA.1 and BA.2, UK lineage, from pango-designation issue #454
 XF	Recombinant lineage of Delta and BA.1, UK lineage, from pango-designation issue #445
 XG	Recombinant lineage of BA.1 and BA.2, Denmark lineage, from pango-designation issue #447
+XH	Recombinant lineage of BA.1 and BA.2, Denmark lineage, from pango-designation issue #448
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
