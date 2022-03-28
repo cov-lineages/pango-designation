@@ -638,6 +638,7 @@ BA.2.4	Alias of B.1.1.529.2.4, Singapore lineage
 BA.2.5	Alias of B.1.1.529.2.5, lineage in Portugal and other countries
 BA.2.6	Alias of B.1.1.529.2.6, lineage in France and other countries
 BA.2.7	Alias of B.1.1.529.2.7, USA lineage
+BA.2.8	Alias of B.1.1.529.2.8, UK lineage, from pango-designation issue #486
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BB.2	Alias of B.1.621.1.2, from pango-designation issue #232
 B.1.2	USA
