@@ -1,5 +1,5 @@
 Lineage	Description
-A	Root of the pandemic lies within lineage A. Many sequences originating from China and many global exports; including to South East Asia Japan South Korea Australia the USA and Europe represented in this lineage
+A	One of the two original haplotypes of the pandemic (A and B). Many sequences originating from China and many global exports; including to South East Asia Japan South Korea Australia the USA and Europe represented in this lineage
 A.1	USA lineage
 A.2	Mostly Spanish lineage now includes South and Central American sequences, other European countries and Kazakhstan.
 A.2.2	Australian lineage
@@ -33,7 +33,7 @@ A.27	Mayotte/ European cluster with 18 changes in the long branch leading to thi
 A.28	This lineage has 9 changes on its basal branch, including the 69-70del, N501T (not Y) and H655Y. (This variant is picked up by the qPCR S drop). pango-designation issue #12
 A.29	Lineage circulating in multiple countries from pango-designation issue #78
 A.30	Lineage in several countries, associated with travel from Tanzania, from pango-designation issue #138
-B	Second major haplotype (and first to be discovered)
+B	One of the two original haplotypes of the pandemic(and first to be discovered)
 B.1	A large European lineage the origin of which roughly corresponds to the Northern Italian outbreak early in 2020.
 B.1.1	European lineage with 3 clear SNPs `28881GA`,`28882GA`,`28883GC`
 B.1.1.1	England
