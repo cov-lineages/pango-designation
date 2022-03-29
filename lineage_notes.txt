@@ -630,6 +630,7 @@ BA.1.16	Alias of B.1.1.529.1.16, UK lineage
 BA.1.16.1	Alias of B.1.1.529.1.16.1, Thailand, Cambodia and Indonesia lineage
 BA.1.17	Alias of B.1.1.529.1.17, European lineage
 BA.1.17.1	Alias of B.1.1.529.1.17.1, Australia lineage
+BA.1.18	Alias of B.1.1.529.1.18, Europe and North America lineage, from pango-designation issue #474
 BA.2	Alias of B.1.1.529.2, from pango-designation issue #361
 BA.2.1	Alias of B.1.1.529.2.1, UK lineage
 BA.2.2	Alias of B.1.1.529.2.2, Hong Kong lineage
