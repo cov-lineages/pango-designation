@@ -1575,6 +1575,7 @@ B.1.639	Lineage sequenced in USA, potentially associated with Puerto Rico, from 
 B.1.640	Lineage in Africa and Europe, from pango-designation issue #297
 B.1.640.1	Lineage in Africa and Europe, from pango-designation issue #362
 B.1.640.2	Lineage from pango-designation issue #362
+B.1.641	Lineage in white-tailed deer, from pango-designation issue #453
 B.1.9	European wide lineage with active sublineages
 B.1.9.1	Scottish Lineage
 B.1.9.2	USA
