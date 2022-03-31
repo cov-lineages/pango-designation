@@ -1654,6 +1654,7 @@ XH	Recombinant lineage of BA.1 and BA.2, Denmark lineage, from pango-designation
 XJ	Recombinant lineage of BA.1 and BA.2, Finland lineage, from pango-designation issue #449
 XK	Recombinant lineage of BA.1 and BA.2, Belgium lineage, from pango-designation issue #460
 XL	Recombinant lineage of BA.1 and BA.2, UK lineage, from pango-designation issue #464
+XM	Recombinant lineage of BA.1.1 and BA.2, European lineage, from pango-designation issue #472
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
