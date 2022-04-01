@@ -1664,6 +1664,7 @@ XN	Recombinant lineage of BA.1 and BA.2, UK lineage, from pango-designation issu
 XP	Recombinant lineage of BA.1.1 and BA.2, UK lineage, from pango-designation issue #481
 XQ	Recombinant lineage of BA.1.1 and BA.2, UK lineage, from pango-designation issue #468
 XR	Recombinant lineage of BA.1.1 and BA.2, UK lineage, from pango-designation issue #469
+XS	Recombinant lineage of Delta and BA.1.1, USA lineage, from pango-designation issue #471
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
