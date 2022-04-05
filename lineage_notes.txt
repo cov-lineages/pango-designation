@@ -317,6 +317,7 @@ B.1.1.224	Denmark (some German)
 B.1.1.225	USA
 B.1.1.226	USA lineage
 B.1.1.227	England
+B.1.1.228	USA (WA)
 B.1.1.231	USA lineage
 AL.1	Alias of B.1.1.231.1, Canada lineage
 B.1.1.232	Northern Europe (UK, Germany, Denmark, Belgium, NL)
