@@ -650,6 +650,7 @@ BA.2.10	Alias of B.1.1.529.2.10, lineage from pango-designation issue #496
 BA.2.10.1	Alias of B.1.1.529.2.10.1, lineage in Singapore and other countries
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
+BA.5	Alias of B.1.1.529.5, from pango-designation issue #517
 BB.2	Alias of B.1.621.1.2, from pango-designation issue #232
 B.1.2	USA
 B.1.3	USA lineage
