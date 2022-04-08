@@ -626,6 +626,7 @@ BA.1.13	Alias of B.1.1.529.1.13, European lineage
 BA.1.13.1	Alias of B.1.1.529.1.13.1, Indonesia lineage
 BA.1.14	Alias of B.1.1.529.1.14, lineage in Brazil and other countries
 BA.1.14.1	Alias of B.1.1.529.1.14.1, Brazil lineage, from pango-designation issue #506
+BA.1.14.2	Alias of B.1.1.529.1.14.2, Brazil lineage
 BA.1.15	Alias of B.1.1.529.1.15, lineage in USA and other countries
 BA.1.15.1	Alias of B.1.1.529.1.15.1, UK lineage
 BA.1.16	Alias of B.1.1.529.1.16, UK lineage
