@@ -635,6 +635,7 @@ BA.1.17.2	Alias of B.1.1.529.1.17.2, lineage from pango-designation issue #462
 BA.1.18	Alias of B.1.1.529.1.18, Europe and North America lineage, from pango-designation issue #474
 BA.1.19	Alias of B.1.1.529.1.19, Europe lineage
 BA.1.20	Alias of B.1.1.529.1.20, USA lineage, from pango-designation issue #375
+BA.1.21	Alias of B.1.1.529.1.21, lineage from pango-designation issue #505
 BA.2	Alias of B.1.1.529.2, from pango-designation issue #361
 BA.2.1	Alias of B.1.1.529.2.1, UK lineage
 BA.2.2	Alias of B.1.1.529.2.2, Hong Kong lineage
