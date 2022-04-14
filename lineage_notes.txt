@@ -663,6 +663,7 @@ BA.2.12.1	Alias of B.1.1.529.2.12.1, USA and Canada lineage, from pango-designat
 BA.2.13	Alias of B.1.1.529.2.13, Europe lineage, from pango-designation issue #531
 BA.2.14	Alias of B.1.1.529.2.14, Denmark lineage, from pango-designation issue #512
 BA.2.15	Alias of B.1.1.529.2.15, South Africa lineage, from pango-designation issue #533
+BA.2.16	Alias of B.1.1.529.2.16, UK lineage, from pango-designation issue #534
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
 BA.5	Alias of B.1.1.529.5, from pango-designation issue #517
