@@ -1579,6 +1579,7 @@ AY.130	Alias of B.1.617.2.130, Bahrain lineage, from pango-designation issue #35
 AY.131	Alias of B.1.617.2.131, mainly reported from Bangladesh, from pango-designation issue #373
 AY.132	Alias of B.1.617.2.132, Denmark lineage, from pango-designation issue #379
 AY.133	Alias of B.1.617.2.133, France Germany and UK lineage (with some samples from elsewhere, notably Senegal and Ghana), from pango-designation issue #380
+AY.134	European lineage within diversity of B.1.617.2. Previously assigned AY.39.4
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
@@ -1944,6 +1945,7 @@ XT	Recombinant lineage of BA.1 and BA.2, South Africa lineage, from pango-design
 *B.1.628	Withdrawn: Identified as a recombinant lineage and therefore renamed XB. Discussion in pango-designation issue #189
 *AY.9.1	Withdrawn: Merged into AY.9.2 as these lineages likely form a single clade
 *AY.12	Withdrawn: Reassigned to AY.122.1
+*AY.39.4	Withdrawn: Reassigned AY.134. Denmark lineage
 *AY.75.1	Withdrawn: Did not have a defining mutation within the coding region so was merged into AY.75
 *AY.89	Withdrawn: Merged into AY.4, pango-designation issue #398
 *AY.96	Withdrawn: Based on discussion in pango-designation issue #435
