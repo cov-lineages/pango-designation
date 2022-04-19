@@ -669,6 +669,7 @@ BA.2.17	Alias of B.1.1.529.2.17, Vietnam and Japan lineage, from pango-designati
 BA.2.18	Alias of B.1.1.529.2.18, UK lineage, from pango-designation issue #528
 BA.2.19	Alias of B.1.1.529.2.19, Germany lineage, from pango-designation issue #535
 BA.2.20	Alias of B.1.1.529.2.20, Canada lineage, from pango-designation issue #544
+BA.2.21	Alias of B.1.1.529.2.21, Canada and USA lineage, from pango-designation issue #547
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
 BA.5	Alias of B.1.1.529.5, from pango-designation issue #517
