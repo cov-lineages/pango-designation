@@ -681,6 +681,7 @@ BA.2.27	Alias of B.1.1.529.2.27, Thailand lineage
 BA.2.28	Alias of B.1.1.529.2.28, Singapore lineage
 BA.2.29	Alias of B.1.1.529.2.29, Japan lineage
 BA.2.30	Alias of B.1.1.529.2.30, Curacao lineage
+BA.2.31	Alias of B.1.1.529.2.31, Israel lineage
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
 BA.5	Alias of B.1.1.529.5, from pango-designation issue #517
