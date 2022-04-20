@@ -613,6 +613,7 @@ BA.1.1.14	Alias of B.1.1.529.1.1.14, European lineage
 BA.1.1.15	Alias of B.1.1.529.1.1.15, Europe and Australia lineage
 BA.1.1.16	Alias of B.1.1.529.1.1.16, Canada and USA lineage
 BA.1.1.17	Alias of B.1.1.529.1.1.17, USA lineage, from pango-designation issue #452
+BA.1.1.18	Alias of B.1.1.529.1.1.18, USA lineage
 BA.1.2	Alias of B.1.1.529.1.2, Mayotte and Reunion lineage
 BA.1.3	Alias of B.1.1.529.1.3, Canada lineage
 BA.1.4	Alias of B.1.1.529.1.4, France lineage
