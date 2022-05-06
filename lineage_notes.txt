@@ -1799,6 +1799,7 @@ XU	Recombinant lineage of BA.1 and BA.2, lineage in India and other countries, f
 *B.1.1.439	Withdrawn: Wales lineage, reassigned to B.1.1.29
 *B.1.1.527	Withdrawn: Lineage in multiple countries, from pango-designation issue #150, reassigned to C.38
 *BA.1.11	Withdrawn: Does not have a reliable defining mutation
+*BA.2.3.3	Withdrawn: Does not have a reliable defining mutation
 *B.1.3.1	Withdrawn: South Korean lineage
 *B.1.3.2	Withdrawn: Argentinian lineage
 *B.1.3.3	Withdrawn: Israel lineage
