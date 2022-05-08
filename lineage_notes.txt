@@ -692,6 +692,7 @@ BA.2.35	Alias of B.1.1.529.2.35, Predominantly Portugal lineage, from pango-desi
 BA.2.36	Alias of B.1.1.529.2.36, mainly found in Germany, Belgium, England and Denmark, from pango-designation issue #565
 BA.2.37	Alias of B.1.1.529.2.37, mainly found in England, Scotland, Wales, from pango-designation issue #572
 BA.2.38	Alias of B.1.1.529.2.38, lineage in India and other countries, from pango-designation issue #541
+BA.2.39	Alias of B.1.1.529.2.39, mainly found in England, from pango-designation issue #575
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
