@@ -676,6 +676,7 @@ BA.2.20	Alias of B.1.1.529.2.20, Canada lineage, from pango-designation issue #5
 BA.2.21	Alias of B.1.1.529.2.21, Canada and USA lineage, from pango-designation issue #547
 BA.2.22	Alias of B.1.1.529.2.22, UK lineage, from pango-designation issue #562
 BA.2.23	Alias of B.1.1.529.2.23, UK lineage, from pango-designation issue #546
+BA.2.23.1	Alias of Alias of B.1.1.529.2.23.1, mainly found in England, USA and Denmark, from pango-designation issue #532
 BA.2.24	Alias of B.1.1.529.2.24, Japan lineage
 BA.2.25	Alias of B.1.1.529.2.25, Sweden lineage
 BA.2.25.1	Alias of B.1.1.529.2.25.1, Slovakia lineage
