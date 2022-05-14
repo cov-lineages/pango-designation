@@ -1553,6 +1553,7 @@ AY.94	Alias of B.1.617.2.94, European lineage
 AY.95	Alias of B.1.617.2.95, Maldives and European lineage
 AY.98	Alias of B.1.617.2.98, UK lineage
 AY.98.1	Alias of B.1.617.2.98.1, European lineage
+AY.98.1.1	Alias of B.1.617.2.98.1.1, mainly found in Germany and Denmark, from pango-designation issue #604
 AY.99	Alias of B.1.617.2.99, South Africa and Nigeria lineage
 AY.99.1	Alias of B.1.617.2.99.1, Brazil lineage
 AY.99.2	Alias of B.1.617.2.99.2, Brazil lineage
