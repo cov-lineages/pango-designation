@@ -699,6 +699,7 @@ BA.2.39	Alias of B.1.1.529.2.39, mainly found in England, from pango-designation
 BA.2.40	Alias of B.1.1.529.2.40, mainly found in Malaysia, England, Denmark and Germany, from pango-designation issue #542
 BA.2.40.1	Alias of B.1.1.529.2.40.1, mainly found in Malaysia, England, Germany and Denmark, from pango-designation issue #542
 BA.2.41	Alias of B.1.1.529.2.41, mainly found in England and Scotland, from pango-designation issue #586
+BA.2.42	Alias of B.1.1.529.2.42, mainly found in Australia, from pango-designation issue #610
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
