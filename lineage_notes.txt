@@ -705,6 +705,7 @@ BA.2.44	Alias of B.1.1.529.2.44, mainly found in Belgium and Luxembourg, from pa
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
+BA.4.1	Alias of B.1.1.529.4.1, mainly found in South Africa, from pango-designation issue #548
 BA.5	Alias of B.1.1.529.5, from pango-designation issue #517
 BA.5.1	Alias of B.1.1.529.5.1, Portugal lineage
 BB.2	Alias of B.1.621.1.2, from pango-designation issue #232
