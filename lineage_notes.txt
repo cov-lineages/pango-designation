@@ -706,6 +706,7 @@ BA.2.43	Alias of B.1.1.529.2.43, mainly found in India, from pango-designation i
 BA.2.44	Alias of B.1.1.529.2.44, mainly found in Belgium and Luxembourg, from pango-designation issue #613
 BA.2.45	Alias of B.1.1.529.2.45, mainly found in Sweden and Denmark, from pango-designation issue #616
 BA.2.46	Alias of B.1.1.529.2.46, mainly found in Scotland, from pango-designation issue #626
+BA.2.47	Alias of B.1.1.529.2.47, mainly found in Denmark, England, and USA, from pango-designation issue #631
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
