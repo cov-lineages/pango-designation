@@ -716,7 +716,7 @@ BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pa
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BA.5.4	Alias of B.1.1.529.5.4, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
 BB.2	Alias of B.1.621.1.2, from pango-designation issue #232
-BC.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
+BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
 B.1.2	USA
 B.1.3	USA lineage
 B.1.6	Belgian lineage
