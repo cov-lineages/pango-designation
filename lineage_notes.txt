@@ -2023,6 +2023,7 @@ XY	Recombinant lineage of BA.1 and BA.2, predominantly in USA, from pango-design
 *B.48	Withdrawn: Reassigned to B.23
 *B.54	Withdrawn: Distributed amongst other lineages
 *B.59	Withdrawn: Originally Latvian & Ireland, no longer monophyletic
+*BA.5.4	Withdrawn: Issue 618. England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)).
 *C.15	Withdrawn: Alias of B.1.1.1.15, Denmark lineage
 *E.1	Withdrawn: Reassigned B.1.416.1. French lineage within the diversity of a Senegal/ Gambia lineage
 *F.1	Withdrawn: Alias of B.1.36.17.1, New Zealand lineage
