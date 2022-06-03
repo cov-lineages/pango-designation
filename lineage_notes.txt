@@ -1756,6 +1756,7 @@ XU	Recombinant lineage of BA.1 and BA.2, lineage in India and other countries, f
 XV	Recombinant lineage of BA.1 and BA.2, lineage in Denmark and Italy, from pango-designation issue #463
 XW	Recombinant lineage of BA.1 and BA.2, USA, Germany, England lineage, from pango-designation issue #591
 XY	Recombinant lineage of BA.1 and BA.2, predominantly in USA, from pango-designation issue #606
+XZ	Recombinant lineage of BA.2 and BA.1, USA lineage, from pango-designation issue #636
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
