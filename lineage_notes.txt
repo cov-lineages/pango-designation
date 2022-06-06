@@ -726,7 +726,7 @@ BA.5.2	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, fr
 BA.5.2.1	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from pango-designation issue #657
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
-BA.5.4	Alias of B.1.1.529.5.4, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
+BA.5.5	Alias of B.1.1.529.5.5, mainly found in USA, from pango-designation issue #656
 BB.2	Alias of B.1.621.1.2, from pango-designation issue #232
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
 BF.1	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
