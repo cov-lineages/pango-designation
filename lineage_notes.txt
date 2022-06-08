@@ -645,6 +645,7 @@ BA.1.21	Alias of B.1.1.529.1.21, lineage from pango-designation issue #505
 BA.1.21.1	Alias of B.1.1.529.1.21.1, Italy lineage, from pango-designation issue #409
 BA.1.22	Alias of B.1.1.529.1.22, Peru lineage from pango-designation issue #529
 BA.1.23	Alias of B.1.1.529.1.23, mainly found in USA, from pango-designation issue #663
+BA.1.24	Alias of B.1.1.529.1.24, found in Spain, from pango-designation issue #666
 BA.2	Alias of B.1.1.529.2, from pango-designation issue #361
 BA.2.1	Alias of B.1.1.529.2.1, UK lineage
 BA.2.2	Alias of B.1.1.529.2.2, Hong Kong lineage
