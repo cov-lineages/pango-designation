@@ -724,6 +724,7 @@ BA.2.55	Alias of B.1.1.529.2.55, mainly found in England, USA and Scotland, from
 BA.2.56	Alias of B.1.1.529.2.56, mainly found in Europe, from pango-designation issue #668
 BA.2.57	Alias of B.1.1.529.2.57, Malaysia, Singapore and Australia lineage
 BA.2.58	Alias of B.1.1.529.2.58, Reunion lineage
+BA.2.59	Alias of B.1.1.529.2.59, mainly found in USA, from pango-designation issue #672
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
