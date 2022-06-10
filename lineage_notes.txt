@@ -740,6 +740,7 @@ BA.2.63	Alias of B.1.1.529.2.63, Greece lineage
 BA.2.64	Alias of B.1.1.529.2.64, Indonesia lineage
 BA.2.65	Alias of B.1.1.529.2.65, Canada and USA lineage
 BA.2.66	Alias of B.1.1.529.2.66, Canada lineage
+BA.2.67	Alias of B.1.1.529.2.67, Slovakia lineage
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
