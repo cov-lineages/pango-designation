@@ -728,6 +728,7 @@ BA.2.59	Alias of B.1.1.529.2.59, mainly found in USA, from pango-designation iss
 BA.2.60	Alias of B.1.1.529.2.60, Peru and Chile lineage
 BA.2.61	Alias of B.1.1.529.2.61, Singapore lineage
 BA.2.62	Alias of B.1.1.529.2.62, Australia lineage
+BA.2.63	Alias of B.1.1.529.2.63, Greece lineage
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
