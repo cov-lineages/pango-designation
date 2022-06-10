@@ -658,6 +658,7 @@ BA.2.3.4	Alias of B.1.1.529.2.3.4, Canada lineage
 BA.2.3.5	Alias of B.1.1.529.2.3.5, mainly found in USA, England and Spain, from pango-designation issue #627
 BA.2.3.6	Alias of B.1.1.529.2.3.6, mainly found in Canada and USA, from pango-designation issue #633
 BA.2.3.7	Alias of B.1.1.529.2.3.7, mainly found in Japan, Hong Kong and Taiwan, from pango-designation issue #643
+BA.2.3.8	Alias of B.1.1.529.2.3.8, South Korea lineage
 BA.2.4	Alias of B.1.1.529.2.4, Singapore lineage
 BA.2.5	Alias of B.1.1.529.2.5, lineage in Portugal and other countries
 BA.2.6	Alias of B.1.1.529.2.6, lineage in France and other countries
@@ -731,6 +732,7 @@ BA.2.62	Alias of B.1.1.529.2.62, Australia lineage
 BA.2.63	Alias of B.1.1.529.2.63, Greece lineage
 BA.2.64	Alias of B.1.1.529.2.64, Indonesia lineage
 BA.2.65	Alias of B.1.1.529.2.65, Canada and USA lineage
+BA.2.66	Alias of B.1.1.529.2.66, Malaysia lineage
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
