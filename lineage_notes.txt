@@ -659,6 +659,7 @@ BA.2.3.5	Alias of B.1.1.529.2.3.5, mainly found in USA, England and Spain, from 
 BA.2.3.6	Alias of B.1.1.529.2.3.6, mainly found in Canada and USA, from pango-designation issue #633
 BA.2.3.7	Alias of B.1.1.529.2.3.7, mainly found in Japan, Hong Kong and Taiwan, from pango-designation issue #643
 BA.2.3.8	Alias of B.1.1.529.2.3.8, South Korea lineage
+BA.2.3.9	Alias of B.1.1.529.2.3.9, lineage in Netherlands and other countries
 BA.2.4	Alias of B.1.1.529.2.4, Singapore lineage
 BA.2.5	Alias of B.1.1.529.2.5, lineage in Portugal and other countries
 BA.2.6	Alias of B.1.1.529.2.6, lineage in France and other countries
