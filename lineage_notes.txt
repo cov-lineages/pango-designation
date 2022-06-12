@@ -747,6 +747,7 @@ BA.2.68	Alias of B.1.1.529.2.68, South Korea lineage
 BA.2.69	Alias of B.1.1.529.2.69, Martinique lineage
 BA.2.70	Alias of B.1.1.529.2.70, Croatia lineage
 BA.2.71	Alias of B.1.1.529.2.71, mainly found in Norway, Sweden and Denmark, from pango-designation issue #695
+BA.2.72	Alias of B.1.1.529.2.72, mainly found in USA, Germany and Switzerland, from pango-designation issue #698
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
