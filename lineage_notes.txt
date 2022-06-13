@@ -1805,6 +1805,7 @@ XAA	Recombinant lineage of BA.1 and BA.2, USA lineage, from pango-designation is
 XAB	Recombinant lineage of BA.1 and BA.2, Germany lineage, from pango-designation issue #665
 XAC	Recombinant lineage of BA.1 and BA.2, Canada and USA lineage, from pango-designation issue #590
 XAD	Recombinant lineage of BA.2 and BA.1, Germany lineage, from pango-designation issue #607
+XAE	Recombinant lineage of BA.2 and BA.1, USA and Chile lineage, from pango-designation issue #637
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
