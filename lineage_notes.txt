@@ -653,6 +653,7 @@ BA.1.24	Alias of B.1.1.529.1.24, found in Spain, from pango-designation issue #6
 BA.2	Alias of B.1.1.529.2, from pango-designation issue #361
 BA.2.1	Alias of B.1.1.529.2.1, UK lineage
 BA.2.2	Alias of B.1.1.529.2.2, Hong Kong lineage
+BA.2.2.1	Alias of B.1.1.529.2.2.1, China lineage, from pango-designation issue #675
 BA.2.3	Alias of B.1.1.529.2.3, lineage in Philippines and other countries
 BA.2.3.1	Alias of B.1.1.529.2.3.1, Japan lineage, from pango-designation issue #495
 BA.2.3.2	Alias of B.1.1.529.2.3.2, Vietnam and Japan lineage
