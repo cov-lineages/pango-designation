@@ -1814,6 +1814,7 @@ XAD	Recombinant lineage of BA.2 and BA.1, Germany lineage, from pango-designatio
 XAE	Recombinant lineage of BA.2 and BA.1, USA and Chile lineage, from pango-designation issue #637
 XAF	Recombinant lineage of BA.1 and BA.2, Costa Rica lineage, from pango-designation issue #676
 XAG	Recombinant lineage of BA.1 and BA.2, lineage in Brazil and other countries, from pango-designation issue #709
+XAH	Recombinant lineage of BA.2 and BA.1, lineage in Slovenia and other countries, from pango-designation issue #755
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
