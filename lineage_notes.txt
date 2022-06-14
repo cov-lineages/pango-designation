@@ -670,6 +670,7 @@ BA.2.3.12	Alias of B.1.1.529.2.3.12, South Korea lineage
 BA.2.3.13	Alias of B.1.1.529.2.3.13, Japan lineage
 BA.2.3.14	Alias of B.1.1.529.2.3.14, South Korea lineage
 BA.2.3.15	Alias of B.1.1.529.2.3.15, Italy and Spain lineage
+BA.2.3.16	Alias of B.1.1.529.2.3.16, Papua New Guinea lineage, from pango-designation issue #524
 BA.2.4	Alias of B.1.1.529.2.4, Singapore lineage
 BA.2.5	Alias of B.1.1.529.2.5, lineage in Portugal and other countries
 BA.2.6	Alias of B.1.1.529.2.6, lineage in France and other countries
