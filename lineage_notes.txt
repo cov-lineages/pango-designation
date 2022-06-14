@@ -689,6 +689,7 @@ BA.2.10.3	Alias of B.1.1.529.2.10.3, mainly found in England, India and Banglade
 BA.2.11	Alias of B.1.1.529.2.11, France lineage, from pango-designation issue #491
 BA.2.12	Alias of B.1.1.529.2.12, North America and Europe lineage, from pango-designation issue #499
 BA.2.12.1	Alias of B.1.1.529.2.12.1, USA and Canada lineage, from pango-designation issue #499
+BG.1	Alias of B.1.1.529.2.12.1.1, Peru lineage, from pango-designation issue #679
 BA.2.12.2	Alias of B.1.1.529.2.12.2, mainly found in Australia, from pango-designation issue #686
 BA.2.13	Alias of B.1.1.529.2.13, Europe lineage, from pango-designation issue #531
 BA.2.14	Alias of B.1.1.529.2.14, Denmark lineage, from pango-designation issue #512
