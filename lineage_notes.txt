@@ -770,6 +770,7 @@ BA.5	Alias of B.1.1.529.5, from pango-designation issue #517
 BA.5.1	Alias of B.1.1.529.5.1, Portugal lineage
 BA.5.2	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, from pango-designation issue #551
 BA.5.2.1	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from pango-designation issue #657
+BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BA.5.3.2	Alias of B.1.1.529.5.3.2, mainly found in Germany, from pango-designation issue #697
