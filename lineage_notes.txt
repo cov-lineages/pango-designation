@@ -789,6 +789,7 @@ BF.1	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Sco
 BF.1.1	Alias of B.1.1.529.5.2.1.1.1, USA lineage
 BF.2	Alias of B.1.1.529.5.2.1.2, Denmark lineage
 BF.3	Alias of B.1.1.529.5.2.1.3, India lineage
+BF.4	Alias of B.1.1.529.5.2.1.4, mainly found in England, from pango-designation issue #788
 B.1.2	USA
 B.1.3	USA lineage
 B.1.6	Belgian lineage
