@@ -769,6 +769,7 @@ BA.4.1.1	Alias of B.1.1.529.4.1.1, mainly found in South Africa and Germany, fro
 BA.4.1.2	Alias of B.1.1.529.4.1.2, Austria lineage
 BA.4.2	Alias of B.1.1.529.4.2, USA lineage
 BA.4.3	Alias of B.1.1.529.4.3, Israel lineage
+BA.4.4	Alias of B.1.1.529.4.4, USA lineage
 BA.5	Alias of B.1.1.529.5, from pango-designation issue #517
 BA.5.1	Alias of B.1.1.529.5.1, Portugal lineage
 BA.5.1.1	Alias of B.1.1.529.5.1.1, USA lineage
