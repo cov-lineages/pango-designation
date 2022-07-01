@@ -781,24 +781,25 @@ BA.5.1.2	Alias of B.1.1.529.5.1.2, mainly found in Denmark, Portugal and Luxembo
 BA.5.1.3	Alias of B.1.1.529.5.1.3, mainly found in Germany Portugal and Spain, from pango-designation issue #765
 BA.5.2	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, from pango-designation issue #551
 BA.5.2.1	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from pango-designation issue #657
+BF.1	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
+BF.1.1	Alias of B.1.1.529.5.2.1.1.1, USA lineage
+BF.2	Alias of B.1.1.529.5.2.1.2, Denmark lineage
+BF.3	Alias of B.1.1.529.5.2.1.3, India lineage
+BF.4	Alias of B.1.1.529.5.2.1.4, mainly found in England, from pango-designation issue #788
 BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
 BA.5.2.3	Alias of B.1.1.529.5.2.3, UK lineage
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
+BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
+BE.1.1	Alias of B.1.1.529.5.3.1.1.1, Germany lineage
+BE.2	Alias of B.1.1.529.5.3.1.2, Belgium lineage
+BE.3	Alias of B.1.1.529.5.3.1.3, USA lineage
 BA.5.3.2	Alias of B.1.1.529.5.3.2, mainly found in Germany, from pango-designation issue #697
 BA.5.3.3	Alias of B.1.1.529.5.3.3, UK lineage
 BA.5.3.4	Alias of B.1.1.529.5.3.4, Germany lineage
 BA.5.5	Alias of B.1.1.529.5.5, mainly found in USA, from pango-designation issue #656
 BA.5.6	Alias of B.1.1.529.5.6, USA lineage
 BB.2	Alias of B.1.621.1.2, from pango-designation issue #232
-BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
-BE.2	Alias of B.1.1.529.5.3.1.2, Belgium lineage
-BE.1.1	Alias of B.1.1.529.5.3.1.1.1, Germany lineage
-BF.1	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
-BF.1.1	Alias of B.1.1.529.5.2.1.1.1, USA lineage
-BF.2	Alias of B.1.1.529.5.2.1.2, Denmark lineage
-BF.3	Alias of B.1.1.529.5.2.1.3, India lineage
-BF.4	Alias of B.1.1.529.5.2.1.4, mainly found in England, from pango-designation issue #788
 B.1.2	USA
 B.1.3	USA lineage
 B.1.6	Belgian lineage
