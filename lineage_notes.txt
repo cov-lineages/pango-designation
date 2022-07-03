@@ -776,6 +776,7 @@ BA.4.2	Alias of B.1.1.529.4.2, USA lineage
 BA.4.3	Alias of B.1.1.529.4.3, Israel lineage
 BA.4.4	Alias of B.1.1.529.4.4, USA lineage
 BA.4.5	Alias of B.1.1.529.4.5, Australia lineage
+BA.4.6	Alias of B.1.1.529.4.6, mainly found in USA, England and Denmark, from pango-designation issue #741
 BA.5	Alias of B.1.1.529.5, from pango-designation issue #517
 BA.5.1	Alias of B.1.1.529.5.1, Portugal lineage
 BA.5.1.1	Alias of B.1.1.529.5.1.1, USA lineage
