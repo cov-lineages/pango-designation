@@ -770,6 +770,7 @@ BA.2.78 Alias of B.1.1.529.2.78, mainly found in India, from pango-designation i
 BA.2.79 Alias of B.1.1.529.2.79, Kuwait and Israel lineage, from pango-designation issue #812
 BA.2.79.1 Alias of B.1.1.529.2.79.1, India lineage, from pango-designation issue #814
 BA.2.80	Alias of B.1.1.529.2.80, found in Demark, from pango-designation issue #733
+BA.2.81	Alias of B.1.1.529.2.81, Brazil lineage
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
