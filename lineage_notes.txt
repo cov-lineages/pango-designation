@@ -794,6 +794,7 @@ BA.5.1.2	Alias of B.1.1.529.5.1.2, mainly found in Denmark, Portugal and Luxembo
 BA.5.1.3	Alias of B.1.1.529.5.1.3, mainly found in Germany Portugal and Spain, from pango-designation issue #765
 BA.5.1.4	Alias of B.1.1.529.5.1.4, mainly found in Denmark and England, from pango-designation issue #801
 BA.5.1.5	Alias of B.1.1.529.5.1.5, mainly found in UK, Denmark, and Belgium, from pango-designation issue #835
+BA.5.1.6	Alias of B.1.1.529.5.1.6, Mexico lineage
 BA.5.2	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, from pango-designation issue #551
 BA.5.2.1	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from pango-designation issue #657
 BF.1	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
