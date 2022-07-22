@@ -4,7 +4,11 @@ from natsort import natsorted
 
 from pkg_resources import parse_version
 
-from aliasing import Aliasor
+try:
+    from pango_aliasor.aliasor import Aliasor
+except ModuleNotFoundError as e:
+    print("Dependency `pango_aliasor` missing, please install using `pip install pango_aliasor`")
+    raise e
 
 #%%
 df = pd.read_csv("lineages.csv")
