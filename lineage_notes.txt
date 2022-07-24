@@ -832,6 +832,7 @@ BA.5.6	Alias of B.1.1.529.5.6, USA lineage
 BA.5.6.1	Alias of B.1.1.529.5.6.1, Peru lineage
 BA.5.7	Alias of B.1.1.529.5.7, Australia lineage
 BA.5.8	Alias of B.1.1.529.5.8, mainly found in England, USA, Denmark and Scotland, from pango-designation issue #743
+BA.5.9	Alias of B.1.1.529.5.9, mainly found in Germany, Switzerland and Denmark, from pango-designation issue #753
 BB.2	Alias of B.1.621.1.2, from pango-designation issue #232
 B.1.2	USA
 B.1.3	USA lineage
