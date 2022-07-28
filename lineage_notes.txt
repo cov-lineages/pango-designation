@@ -696,6 +696,7 @@ BG.1	Alias of B.1.1.529.2.12.1.1, Peru lineage, from pango-designation issue #67
 BG.2	Alias of B.1.1.529.2.12.1.2, mainly found in USA, and Denmark, from pango-designation issue #767
 BG.3	Alias of B.1.1.529.2.12.1.3, mainly found in Peru, from pango-designation issue #784
 BG.4	Alias of B.1.1.529.2.12.1.4, Israel lineage
+BG.5	Alias of B.1.1.529.2.12.1.5, mainly found in USA, from pango-designation issue #763
 BA.2.12.2	Alias of B.1.1.529.2.12.2, mainly found in Australia, from pango-designation issue #686
 BA.2.13	Alias of B.1.1.529.2.13, Europe lineage, from pango-designation issue #531
 BA.2.13.1	Alias of B.1.1.529.2.13.1, mainly found in USA, Canada and Colombia, from pango-designation issue #785
