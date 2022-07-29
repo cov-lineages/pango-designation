@@ -1884,6 +1884,7 @@ XAH	Recombinant lineage of BA.2 and BA.1, lineage in Slovenia and other countrie
 XAJ	Recombinant lineage of BA.2.12.1 and BA.4, predominantly in England, from pango-designation issue #826
 XAK	Recombinant lineage of BA.1 and BA.2, Germany lineage, from pango-designation issue #823
 XAL	Recombinant lineage of BA.1 and BA.2, Germany lineage, from pango-designation issue #757
+XAM	Recombinant lineage of BA.1.1 and BA.2.9, lineage mainly found in Panama and USA, from pango-designation issue #759
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
