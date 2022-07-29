@@ -1883,6 +1883,7 @@ XAG	Recombinant lineage of BA.1 and BA.2, lineage in Brazil and other countries,
 XAH	Recombinant lineage of BA.2 and BA.1, lineage in Slovenia and other countries, from pango-designation issue #755
 XAJ	Recombinant lineage of BA.2.12.1 and BA.4, predominantly in England, from pango-designation issue #826
 XAK	Recombinant lineage of BA.1 and BA.2, Germany lineage, from pango-designation issue #823
+XAL	Recombinant lineage of BA.1 and BA.2, Germany lineage, from pango-designation issue #757
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
