@@ -777,6 +777,7 @@ BA.2.74	Alias of B.1.1.529.2.74, mainly found in India, from pango-designation i
 BA.2.75	Alias of B.1.1.529.2.75, mainly found in India, from pango-designation issue #773
 BA.2.75.1	Alias of B.1.1.529.2.75.1, mainly found in India from pango-designation issue #856
 BA.2.76	Alias of B.1.1.529.2.76, mainly found in India and USA, from pango-designation issue #787
+BA.2.76.1	Alias of B.1.1.529.2.76.1, mainly found in India, from pango-designation issue #899
 BA.2.77	Alias of B.1.1.529.2.77, mainly found in Ireland, England and USA, from pango-designation issue #732
 BA.2.78 Alias of B.1.1.529.2.78, mainly found in India, from pango-designation issue #814
 BA.2.79 Alias of B.1.1.529.2.79, Kuwait and Israel lineage, from pango-designation issue #812
@@ -836,6 +837,7 @@ BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pa
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
 BE.1.1	Alias of B.1.1.529.5.3.1.1.1, Germany lineage
+BE.1.2	Alias of B.1.1.529.5.3.1.1.2, mainly found in Costa Rica and USA, from pango-designation issue #923
 BE.2	Alias of B.1.1.529.5.3.1.2, Belgium lineage
 BE.3	Alias of B.1.1.529.5.3.1.3, USA lineage
 BA.5.3.2	Alias of B.1.1.529.5.3.2, mainly found in Germany, from pango-designation issue #697
