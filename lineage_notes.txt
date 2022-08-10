@@ -691,6 +691,7 @@ BA.2.10.1	Alias of B.1.1.529.2.10.1, lineage in Singapore and other countries
 BJ.1	Alias of B.1.1.529.2.10.1.1, mainly found in India (West Bengal), from pango-designation issue #915
 BA.2.10.2	Alias of B.1.1.529.2.10.2, mainly found in Japan, from pango-designation issue #569
 BA.2.10.3	Alias of B.1.1.529.2.10.3, mainly found in England, India and Bangladesh, from pango-designation issue #609
+BA.2.10.4	Alias of B.1.1.529.2.10.4, mainly found in India, from pango-designation issue #898
 BA.2.11	Alias of B.1.1.529.2.11, France lineage, from pango-designation issue #491
 BA.2.12	Alias of B.1.1.529.2.12, North America and Europe lineage, from pango-designation issue #499
 BA.2.12.1	Alias of B.1.1.529.2.12.1, USA and Canada lineage, from pango-designation issue #499
