@@ -847,6 +847,7 @@ BA.5.3.4	Alias of B.1.1.529.5.3.4, Germany lineage
 BA.5.5	Alias of B.1.1.529.5.5, mainly found in USA, from pango-designation issue #656
 BA.5.6	Alias of B.1.1.529.5.6, USA lineage
 BA.5.6.1	Alias of B.1.1.529.5.6.1, Peru lineage
+BA.5.6.2	Alias of B.1.1.529.5.6.2, mainly found in USA, Belgium and Mexico, from pango-designation issue #903
 BA.5.7	Alias of B.1.1.529.5.7, Australia lineage
 BA.5.8	Alias of B.1.1.529.5.8, mainly found in England, USA, Denmark and Scotland, from pango-designation issue #743
 BA.5.9	Alias of B.1.1.529.5.9, mainly found in Germany, Switzerland and Denmark, from pango-designation issue #753
