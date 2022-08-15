@@ -1,4 +1,4 @@
-name: JSON check
+name: Check for duplicates
 
 on:
   push:
