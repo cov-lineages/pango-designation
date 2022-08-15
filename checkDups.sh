@@ -1,6 +1,8 @@
 #!/bin/bash
-
-if [[ $(./findDups.sh) ]]; then
+OUTPUT=$(./findDups.sh)
+if [[ "$OUTPUT" ]]; then
+    echo "Duplicates found:"
+    echo "$OUTPUT"
     exit 1
 else
     exit 0
