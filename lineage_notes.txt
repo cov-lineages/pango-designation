@@ -813,6 +813,7 @@ BA.5.1.6	Alias of B.1.1.529.5.1.6, Mexico lineage
 BA.5.1.7	Alias of B.1.1.529.5.1.7, Canada lineage
 BA.5.1.8	Alias of B.1.1.529.5.1.8, Peru lineage
 BA.5.1.9	Alias of B.1.1.529.5.1.9, mainly found in England, Luxembourg, Scotland and Ireland from pango-designation issue #786
+BA.5.1.10	Alias of B.1.1.529.5.1.10, mainly found in USA, Italy and England, from pango-designation issue #901
 BA.5.2	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, from pango-designation issue #551
 BA.5.2.1	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from pango-designation issue #657
 BF.1	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
