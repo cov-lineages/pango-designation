@@ -837,6 +837,7 @@ BF.11	Alias of B.1.1.529.5.2.1.11, mainly found in England, from pango-designati
 BF.12	Alias of B.1.1.529.5.2.1.12, mainly found Austria, Brazil, and England, from pango-designation issue #752
 BF.13	Alias of B.1.1.529.5.2.1.13, mainly found in USA, from pango-designation issue #883
 BF.14	Alias of B.1.1.529.5.2.1.14, mainly found in Austria, from pango-designation issue #843
+BF.15	Alias of B.1.1.529.5.2.1.15, Sri Lanka lineage, from pango-designation issue #893
 BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
 BA.5.2.3	Alias of B.1.1.529.5.2.3, UK lineage
 BA.5.2.4	Alias of B.1.1.529.5.2.4, Australia lineage
