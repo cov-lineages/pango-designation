@@ -776,6 +776,7 @@ BA.2.73	Alias of B.1.1.529.2.73, Puerto Rico and USA lineage, from pango-designa
 BA.2.74	Alias of B.1.1.529.2.74, mainly found in India, from pango-designation issue #775
 BA.2.75	Alias of B.1.1.529.2.75, mainly found in India, from pango-designation issue #773
 BA.2.75.1	Alias of B.1.1.529.2.75.1, mainly found in India from pango-designation issue #856
+BL.1	Alias of B.1.1.529.2.75.1.1, mainly found in India from pango-designation issue #944
 BA.2.75.2	Alias of B.1.1.529.2.75.2, mainly found in Asia and Australia, pango-designation issue #963
 BA.2.75.3	Alias of B.1.1.529.2.75.3, mainly found in India, pango-designation issue #965
 BA.2.75.4	Alias of B.1.1.529.2.75.4, mainly found in India, pango-designation issue #935
