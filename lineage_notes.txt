@@ -1920,6 +1920,7 @@ XAP	Recombinant lineage of BA.2* and BA.1*, USA lineage, from pango-designation 
 XAQ	Recombinant lineage of BA.1* and BA.2*, lineage mainly found in Canada, from pango-designation issue #798
 XAR	Recombinant lineage of BA.1* and BA.2*, Reunion lineage, from pango-designation issue #860
 XAS	Recombinant lineage of BA.5* and BA.2*, USA lineage, from pango-designation issue #882
+XAT	Recombinant lineage of BA.2.3.13 and BA.1*, Japan lineage, from pango-designation issue #885
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
