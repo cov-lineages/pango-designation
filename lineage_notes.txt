@@ -1923,6 +1923,7 @@ XAR	Recombinant lineage of BA.1* and BA.2*, Reunion lineage, from pango-designat
 XAS	Recombinant lineage of BA.5* and BA.2*, USA lineage, from pango-designation issue #882
 XAT	Recombinant lineage of BA.2.3.13 and BA.1*, Japan lineage, from pango-designation issue #885
 XAU	Recombinant lineage of BA.1.1* and BA.2.9*, predominantly in Spain, England and France, from pango-designation issue #894
+XAV	Recombinant lineage of BA.2* and BA.5*, mainly France, USA, and Scotland lineage, from pango-designation issue #911
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
