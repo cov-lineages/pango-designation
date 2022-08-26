@@ -827,6 +827,7 @@ BA.5.1.12	Alias of B.1.1.529.5.1.12, mainly found in Spain, from pango-designati
 BA.5.1.13	Alias of B.1.1.529.5.1.13, mainly found in Brazil, from pango-designation issue #955
 BA.5.1.14	Alias of B.1.1.529.5.1.14, mainly found in Brazil
 BA.5.1.15	Alias of B.1.1.529.5.1.15, Peru and Brazil lineage
+BA.5.1.16	Alias of B.1.1.529.5.1.16, Japan lineage
 BA.5.2	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, from pango-designation issue #551
 BA.5.2.1	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from pango-designation issue #657
 BF.1	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
