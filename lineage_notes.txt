@@ -852,6 +852,7 @@ BA.5.2.4	Alias of B.1.1.529.5.2.4, Australia lineage
 BA.5.2.5	Alias of B.1.1.529.5.2.5, Indonesia lineage
 BA.5.2.6	Alias of B.1.1.529.5.2.6, global lineage, from pango-designation issue #870
 BA.5.2.7	Alias of B.1.1.529.5.2.7, global lineage, from pango-designation issue #924
+BA.5.2.8	Alias of B.1.1.529.5.2.8, Israel lineage
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
