@@ -853,6 +853,7 @@ BF.17	Alias of B.1.1.529.5.2.1.17, Australia lineage
 BF.18	Alias of B.1.1.529.5.2.1.18, Australia lineage
 BF.19	Alias of B.1.1.529.5.2.1.19, Greece lineage
 BF.20	Alias of B.1.1.529.5.2.1.20, lineage in Kenya and other countries
+BF.21	Alias of B.1.1.529.5.2.1.21, USA lineage
 BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
 BA.5.2.3	Alias of B.1.1.529.5.2.3, UK lineage
 BA.5.2.4	Alias of B.1.1.529.5.2.4, Australia lineage
