@@ -782,6 +782,7 @@ BL.1	Alias of B.1.1.529.2.75.1.1, mainly found in India from pango-designation i
 BA.2.75.2	Alias of B.1.1.529.2.75.2, mainly found in Asia and Australia, pango-designation issue #963
 BA.2.75.3	Alias of B.1.1.529.2.75.3, mainly found in India, pango-designation issue #965
 BM.1	Alias of B.1.1.529.2.75.3.1, mainly found in India, pango-designation issue #965
+BM.2	Alias of B.1.1.529.2.75.3.2, mainly found in India (Telangana), defined by S:346T
 BA.2.75.4	Alias of B.1.1.529.2.75.4, mainly found in India, pango-designation issue #935
 BR.1	Alias of B.1.1.529.2.75.4.1, mainly found in India (Karnataka), defined by S:K444M
 BA.2.75.5	Alias of B.1.1.529.2.75.5, mainly found in India, pango-designation issue #947
