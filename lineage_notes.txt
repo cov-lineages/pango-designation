@@ -850,6 +850,7 @@ BA.5.1.16	Alias of B.1.1.529.5.1.16, Japan lineage
 BA.5.1.17	Alias of B.1.1.529.5.1.17, France lineage
 BA.5.1.18	Alias of B.1.1.529.5.1.18, mainly found in USA, from pango-designation issue #930
 BA.5.1.19	Alias of B.1.1.529.5.1.19, mainly found in Netherlands, Germany, USA, and England, from pango-designation issue #999
+BA.5.1.20	Alias of B.1.1.529.5.1.20, mainly found in USA and Belgium, from pango-designation issue #1000
 BA.5.2	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, from pango-designation issue #551
 BA.5.2.1	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from pango-designation issue #657
 BF.1	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
