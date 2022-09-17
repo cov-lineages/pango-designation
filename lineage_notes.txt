@@ -1984,6 +1984,7 @@ XAW	Recombinant lineage of BA.2* and AY.122, Russia lineage, from pango-designat
 XAY	Recombinant lineage of BA.2 and AY.45, South Africa lineage, from pango-designation issue #844
 XAZ	Recombinant lineage of BA.2.5, BA.5. and BA.2.5, predominantly found in France, Germany, Croatia, Denmark and USA, from pango-designation issue #797
 XBA	Recombinant lineage of perhaps AY.45 and perhaps BA.2 (with perhaps 5 breakpoints), South_Africa lineage, constellation 2 from pango-designation issue #844
+XBB	Recombinant lineage of BJ.1 and BA.2.75 with breakpoint in S1, found in USA and Singapore, from issue #1058
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
