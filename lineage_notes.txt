@@ -898,6 +898,7 @@ BA.5.2.15	Alias of B.1.1.529.5.2.15, found in USA and Mexico, from pango-designa
 BA.5.2.16	Alias of B.1.1.529.5.2.16, Indonesia lineage, defined by ORF1a:A3697V, indirectly from pango-designation issue #1065
 BU.1	Alias of B.1.1.529.5.2.16.1, defined by S:444M and S:460K, from pango-designation issue #1065
 BA.5.2.17	Alias of B.1.1.529.5.2.17, mainly found in Denmark, from pango-designation issue #1019
+BA.5.2.18	Alias of B.1.1.529.5.2.18, mainly Scandinavia, defined by S:K444R on ORF1b:1050N branch, from pango-designation issue #1025
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
