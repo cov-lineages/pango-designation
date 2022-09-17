@@ -826,7 +826,8 @@ BA.4.1.5	Alias of B.1.1.529.4.1.5, Israel lineage
 BA.4.1.6	Alias of B.1.1.529.4.1.6, USA lineage
 BA.4.1.7	Alias of B.1.1.529.4.1.7, Australia lineage
 BA.4.1.8	Alias of B.1.1.529.4.1.8, mainly found in England, USA, South Africa and Mexico, from pango-designation issue #800
-BA.4.1.9	Alias of B.1.1.529.4.1.9, mainly found in USA, England and Mexico, from pango-designation issue #926
+BA.4.1.9	Alias of B.1.1.529.4.1.9, mainly found in Zambia, USA, England and Mexico, from pango-designation issue #926
+BA.4.1.10	Alias of B.1.1.529.4.1.10, mainly found in France, from issue #1073, defined by S:N354D, S:R346T
 BA.4.2	Alias of B.1.1.529.4.2, USA lineage
 BA.4.3	Alias of B.1.1.529.4.3, Israel lineage
 BA.4.4	Alias of B.1.1.529.4.4, USA lineage
