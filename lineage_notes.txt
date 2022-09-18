@@ -795,6 +795,7 @@ BM.2	Alias of B.1.1.529.2.75.3.2, mainly found in India (Telangana), defined by 
 BM.3	Alias of B.1.1.529.2.75.3.3, found in Nepal and globally, defined by ORF1b:P1652S
 BM.4	Alias of B.1.1.529.2.75.3.4, mainly found in India, defined by ORF1a:Q1198K, from pango-designation issue #957
 BM.4.1	Alias of B.1.1.529.2.75.3.4.1, mainly found in India, defined by S:F486S, from pango-designation issue #957
+BM.4.1.1	Alias of B.1.1.529.2.75.3.4.1.1, mainly found in India, defined by S:346T
 BM.5	Alias of B.1.1.529.2.75.3.5, mainly found in India, defined by S:L455S, from pango-designation issue #1047
 BA.2.75.4	Alias of B.1.1.529.2.75.4, mainly found in India, pango-designation issue #935
 BR.1	Alias of B.1.1.529.2.75.4.1, mainly found in India (Karnataka), defined by S:K444M
