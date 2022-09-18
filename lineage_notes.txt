@@ -903,10 +903,10 @@ BA.5.2.14	Alias of B.1.1.529.5.2.14, mainly found in Denmark, Canada and Pakista
 BA.5.2.15	Alias of B.1.1.529.5.2.15, found in USA and Mexico, from pango-designation issue #1054
 BA.5.2.16	Alias of B.1.1.529.5.2.16, Indonesia lineage, defined by ORF1a:A3697V, indirectly from pango-designation issue #1065
 BU.1	Alias of B.1.1.529.5.2.16.1, defined by S:444M and S:460K, from pango-designation issue #1065
-BA.5.2.17	Alias of B.1.1.529.5.2.17, mainly found in Denmark, from pango-designation issue #1019
 BA.5.2.18	Alias of B.1.1.529.5.2.18, mainly Scandinavia, defined by S:K444R on ORF1b:1050N branch, from pango-designation issue #1025
 BA.5.2.19	Alias of B.1.1.529.5.2.19, mainly Scandinavia, defined by ORF3a:T14I on ORF1b:1050N branch, from issue #916
 BA.5.2.20	Alias of B.1.1.529.5.2.20, mainly Indonesia, defined by C23707T on ORF1b:1050N branch to reduce unspecified BA.5.2
+BV.1	Alias of B.1.1.529.5.2.20.1, mainly found in Denmark, from pango-designation issue #1019, formerly BA.5.2.17
 BA.5.2.21	Alias of B.1.1.529.5.2.21, mainly Indonesia, defined by C5284T on ORF1b:1050N branch to reduce unspecified BA.5.2
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
@@ -2071,6 +2071,7 @@ XBB	Recombinant lineage of BJ.1 and BA.2.75 with breakpoint in S1, found in USA 
 *BA.2.3.3	Withdrawn: Does not have a reliable defining mutation
 *BA.2.36.1	Withdrawn: Reassigned to BA.2.82
 *BA.5.1.13	Withdrawn: Defined solely by Artic v3 artefacts, see issue #1029
+*BA.5.2.17	Withdrawn: Redesignated as BV.1, being a child of BA.5.2.20
 *BA.5.4	Withdrawn: see issue #618. England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)).
 *B.1.3.1	Withdrawn: South Korean lineage
 *B.1.3.2	Withdrawn: Argentinian lineage
