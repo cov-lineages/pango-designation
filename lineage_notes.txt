@@ -890,6 +890,7 @@ BF.20	Alias of B.1.1.529.5.2.1.20, lineage in Kenya and other countries
 BF.21	Alias of B.1.1.529.5.2.1.21, USA lineage
 BF.22	Alias of B.1.1.529.5.2.1.22, mainly found in Japan, from pango-designation issue #1010
 BF.23	Alias of B.1.1.529.5.2.1.23, mainly found in Czechia, from pango-designation issue #1036
+BF.24	Alias of B.1.1.529.5.2.1.24, mainly found in Indonesia, defined by ORF1a:G683C on S:1020S branch
 BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
 BA.5.2.3	Alias of B.1.1.529.5.2.3, UK lineage
 BA.5.2.4	Alias of B.1.1.529.5.2.4, Australia lineage
