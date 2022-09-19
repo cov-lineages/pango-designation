@@ -730,6 +730,7 @@ BA.2.28	Alias of B.1.1.529.2.28, Singapore lineage
 BA.2.29	Alias of B.1.1.529.2.29, Japan lineage
 BA.2.30	Alias of B.1.1.529.2.30, Curacao lineage
 BA.2.31	Alias of B.1.1.529.2.31, Israel lineage
+BA.2.31.1	Alias of B.1.1.529.2.31.1, mainly found in Uganda, defined by S:68T, from pango-designation issue #819
 BA.2.32	Alias of B.1.1.529.2.32, Indonesia lineage
 BA.2.33	Alias of B.1.1.529.2.33, Australia lineage
 BA.2.34	Alias of B.1.1.529.2.34, Norway lineage
@@ -818,7 +819,6 @@ BA.2.80	Alias of B.1.1.529.2.80, found in Demark, from pango-designation issue #
 BA.2.81	Alias of B.1.1.529.2.81, Brazil lineage
 BA.2.82	Alias of B.1.1.529.2.82, mainly found in Australia, Israel and Japan, from pango-designation issue #874
 BA.2.83	Alias of B.1.1.529.2.83, mainly found in India, from pango-designation issue #1053
-BA.2.84	Alias of B.1.1.529.2.84, mainly found in Uganda, from pango-designation issue #819
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
@@ -2075,7 +2075,8 @@ XBB	Recombinant lineage of BJ.1 and BA.2.75 with breakpoint in S1, found in USA 
 *B.1.1.527	Withdrawn: Lineage in multiple countries, from pango-designation issue #150, reassigned to C.38
 *BA.1.11	Withdrawn: Does not have a reliable defining mutation
 *BA.2.3.3	Withdrawn: Does not have a reliable defining mutation
-*BA.2.36.1	Withdrawn: Reassigned to BA.2.82
+*BA.2.36.1	Withdrawn: Redesignated as BA.2.82
+*BA.2.84	Withdrawn: Redesignated as BA.2.31.1
 *BA.5.1.13	Withdrawn: Defined solely by Artic v3 artefacts, see issue #1029
 *BA.5.2.17	Withdrawn: Redesignated as BV.1, being a child of BA.5.2.20
 *BA.5.4	Withdrawn: see issue #618. England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)).
