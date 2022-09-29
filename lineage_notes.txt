@@ -925,6 +925,7 @@ BA.5.2.24	Alias of B.1.1.529.5.2.24, defined by S:K444N on ORF1b:1050N branch
 BA.5.2.25	Alias of B.1.1.529.5.2.25, mainly found in France, USA and Canada, from pango-designation issue #1111
 BA.5.2.26	Alias of B.1.1.529.5.2.26, most common in Thailand, defined by ORF3a:L108V, from pango-designation issue #1133
 BA.5.2.27	Alias of B.1.1.529.5.2.27, most common in Vietnam, defined by ORF1a:I2332V, from pango-designation issue #1133
+BA.5.2.28	Alias of B.1.1.529.5.2.28, most common in Malaysia, defined by ORF1a:T1437I, from pango-designation issue #1133
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
