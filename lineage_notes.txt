@@ -900,6 +900,7 @@ BF.22	Alias of B.1.1.529.5.2.1.22, mainly found in Japan, from pango-designation
 BF.23	Alias of B.1.1.529.5.2.1.23, mainly found in Czechia, from pango-designation issue #1036
 BF.24	Alias of B.1.1.529.5.2.1.24, mainly found in Indonesia, defined by ORF1a:G683C on S:1020S branch
 BF.25	Alias of B.1.1.529.5.2.1.25, USA lineage, defined by S:445A and C18657T
+BF.26	Alias of B.1.1.529.5.2.1.25, North America lineage, defined by ORF1b:G376S, issue #1142
 BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
 BA.5.2.3	Alias of B.1.1.529.5.2.3, UK lineage
 BZ.1	Alias of B.1.1.529.5.2.3.1, Denmark lineage, defined by S:Q677H
