@@ -812,6 +812,8 @@ BA.2.75.6	Alias of B.1.1.529.2.75.6, mainly found in India, defined by S:R346T o
 BY.1	Alias of B.1.1.529.2.75.6.1, mainly found in India, defined by S:F486S on BA.2.75.6
 BA.2.75.7	Alias of B.1.1.529.2.75.7, mainly found in India, defined by S:F486S on the BA.2.75 polytomy
 BA.2.75.8	Alias of B.1.1.529.2.75.8, Singapore/Australia, defined by S:L452Q, issue #1085
+BA.2.75.9	Alias of B.1.1.529.2.75.9, India, defined by S:R346T after 17679T
+CB.2	Alias of B.1.1.529.2.75.9.1, England, defined by S:486V
 BA.2.76	Alias of B.1.1.529.2.76, mainly found in India and USA, from pango-designation issue #787
 BA.2.76.1	Alias of B.1.1.529.2.76.1, mainly found in India, from pango-designation issue #899
 BA.2.76.2	Alias of B.1.1.529.2.76.2, found in Japan, from pango-designation issue #939
