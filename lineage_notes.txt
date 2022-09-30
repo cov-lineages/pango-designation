@@ -659,7 +659,6 @@ BA.2.3.1	Alias of B.1.1.529.2.3.1, Japan lineage, from pango-designation issue #
 BA.2.3.2	Alias of B.1.1.529.2.3.2, Vietnam and Japan lineage
 BS.1	Alias of B.1.1.529.2.3.2.1, Vietnam lineage, from pango-designation issue #1052
 BS.1.1	Alias of B.1.1.529.2.3.2.1.1, Vietnam lineage, defined by S:K356T, from pango-designation issue #1097
-BT.1	Alias of B.1.1.529.5.1.21.1, mainly found in Japan, from pango-designation issue #958
 BA.2.3.3	Alias of B.1.1.529.2.3.3, Papua New Guinea and Australia lineage, from pango-designation issue #524
 BA.2.3.4	Alias of B.1.1.529.2.3.4, Canada lineage
 BA.2.3.5	Alias of B.1.1.529.2.3.5, mainly found in USA, England and Spain, from pango-designation issue #627
@@ -873,6 +872,7 @@ BA.5.1.18	Alias of B.1.1.529.5.1.18, mainly found in USA, from pango-designation
 BA.5.1.19	Alias of B.1.1.529.5.1.19, mainly found in Netherlands, Germany, USA, and England, from pango-designation issue #999
 BA.5.1.20	Alias of B.1.1.529.5.1.20, mainly found in USA and Belgium, from pango-designation issue #1000
 BA.5.1.21	Alias of B.1.1.529.5.1.21, mainly found in Gambia and Japan, from pango-designation issue #958
+BT.1	Alias of B.1.1.529.5.1.21.1, mainly found in Japan, from pango-designation issue #958
 BA.5.1.22	Alias of B.1.1.529.5.1.22, mainly found in Europe, defined by ORF1b:S1273L, from pango-designation issue #1135
 BA.5.1.23	Alias of B.1.1.529.5.1.23, mainly found in Spain, defined by ORF1a:S302F, from pango-designation issue #1135
 BA.5.1.24	Alias of B.1.1.529.5.1.24, mainly found in Finland, defined by ORF1b:V1271L, from pango-designation issue #1135
