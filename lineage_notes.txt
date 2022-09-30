@@ -877,6 +877,7 @@ BA.5.1.22	Alias of B.1.1.529.5.1.22, mainly found in Europe, defined by ORF1b:S1
 BA.5.1.23	Alias of B.1.1.529.5.1.23, mainly found in Spain, defined by ORF1a:S302F, from pango-designation issue #1135
 BA.5.1.24	Alias of B.1.1.529.5.1.24, mainly found in Finland, defined by ORF1b:V1271L, from pango-designation issue #1135
 BA.5.1.25	Alias of B.1.1.529.5.1.25, mainly found in Mexico and Peru, defined by  ORF7b:H42Y, from pango-designation issue #1135
+BA.5.1.26	Alias of B.1.1.529.5.1.26, mainly found in Czechia, defined by S:R346T
 BA.5.2	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, from pango-designation issue #551
 BA.5.2.1	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from pango-designation issue #657
 BF.1	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
