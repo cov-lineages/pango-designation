@@ -827,6 +827,7 @@ BA.2.80	Alias of B.1.1.529.2.80, found in Demark, from pango-designation issue #
 BA.2.81	Alias of B.1.1.529.2.81, Brazil lineage
 BA.2.82	Alias of B.1.1.529.2.82, mainly found in Australia, Israel and Japan, from pango-designation issue #874
 BA.2.83	Alias of B.1.1.529.2.83, mainly found in India, from pango-designation issue #1053
+BA.2.85	Alias of B.1.1.529.2.85, mainly found in Japan, from pango-designation issue #983
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
