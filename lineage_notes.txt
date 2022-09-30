@@ -942,7 +942,8 @@ BA.5.2.28	Alias of B.1.1.529.5.2.28, most common in Malaysia, defined by ORF1a:T
 BA.5.2.29	Alias of B.1.1.529.5.2.29, mainly found in Denmark, from pango-designation issue #1050
 BA.5.2.30	Alias of B.1.1.529.5.2.30, Europe lineage, defined by S:G446D
 BA.5.2.31	Alias of B.1.1.529.5.2.31, US lineage, defined by S:L84I
-CD.1	Alias of B.1.1.529.5.2.31, US lineage, defined by S:G446D, S:A688T
+CD.1	Alias of B.1.1.529.5.2.31.1, US lineage, defined by S:G446D, S:A688T
+CD.2	Alias of B.1.1.529.5.2.31.2, US lineage, defined by S:A435S
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
