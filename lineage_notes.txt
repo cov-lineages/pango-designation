@@ -954,6 +954,7 @@ BE.1.2.1	Alias of B.1.1.529.5.3.1.1.2.1, Panama, Canada, USA, defined by S:V445A
 BE.1.3	Alias of B.1.1.529.5.3.1.1.3, Finland and Estonia lineage
 BE.2	Alias of B.1.1.529.5.3.1.2, Belgium lineage
 BE.3	Alias of B.1.1.529.5.3.1.3, USA lineage
+BE.4	Alias of B.1.1.529.5.3.1.4, Bangladesh, defined by ORF1a:T3308N, from issue #1115
 BA.5.3.2	Alias of B.1.1.529.5.3.2, mainly found in Germany, from pango-designation issue #697
 BA.5.3.3	Alias of B.1.1.529.5.3.3, UK lineage
 BA.5.3.4	Alias of B.1.1.529.5.3.4, Germany lineage
