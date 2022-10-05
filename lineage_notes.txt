@@ -891,6 +891,7 @@ BF.4	Alias of B.1.1.529.5.2.1.4, mainly found in England, from pango-designation
 BF.5	Alias of B.1.1.529.5.2.1.5, Israel lineage
 BF.6	Alias of B.1.1.529.5.2.1.6, mainly found in England and Scotland, from pango-designation issue #821
 BF.7	Alias of B.1.1.529.5.2.1.7, mainly found in Belgium, England and Denmark, from pango-designation issue #827
+BF.7.1	Alias of B.1.1.529.5.2.1.7.1, mainly found in Germany, from pango-designation issue #1132
 BF.8	Alias of B.1.1.529.5.2.1.8, USA lineage
 BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
 BF.10	Alias of B.1.1.529.5.2.1.10, USA lineage
