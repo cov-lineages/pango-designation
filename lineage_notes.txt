@@ -705,7 +705,6 @@ BG.3	Alias of B.1.1.529.2.12.1.3, mainly found in Peru, from pango-designation i
 BG.4	Alias of B.1.1.529.2.12.1.4, Israel lineage
 BG.5	Alias of B.1.1.529.2.12.1.5, mainly found in USA, from pango-designation issue #763
 BG.6	Alias of B.1.1.529.2.12.1.6, Peru lineage, from pango-designation issue #836
-BH.1	Alias of B.1.1.529.2.38.3.1, mainly found in India, from pango-designation issue #913
 BA.2.12.2	Alias of B.1.1.529.2.12.2, mainly found in Australia, from pango-designation issue #686
 BA.2.13	Alias of B.1.1.529.2.13, Europe lineage, from pango-designation issue #531
 BA.2.13.1	Alias of B.1.1.529.2.13.1, mainly found in USA, Canada and Colombia, from pango-designation issue #785
@@ -740,6 +739,7 @@ BA.2.38	Alias of B.1.1.529.2.38, lineage in India and other countries, from pang
 BA.2.38.1	Alias of B.1.1.529.2.38.1, India lineage, from pango-designation issue #809
 BA.2.38.2	Alias of B.1.1.529.2.38.2, mainly found in India, from pango-designation issue #828
 BA.2.38.3	Alias of B.1.1.529.2.38.3, mainly found in India, from pango-designation issue #840
+BH.1	Alias of B.1.1.529.2.38.3.1, mainly found in India, from pango-designation issue #913
 BA.2.39	Alias of B.1.1.529.2.39, mainly found in England, from pango-designation issue #575
 BA.2.40	Alias of B.1.1.529.2.40, mainly found in Malaysia, England, Denmark and Germany, from pango-designation issue #542
 BA.2.40.1	Alias of B.1.1.529.2.40.1, mainly found in Malaysia, England, Germany and Denmark, from pango-designation issue #542
@@ -952,7 +952,7 @@ CD.1	Alias of B.1.1.529.5.2.31.1, US lineage, defined by S:G446D, S:A688T
 CD.2	Alias of B.1.1.529.5.2.31.2, US lineage, defined by S:A435S
 BA.5.2.32	Alias of B.1.1.529.5.2.32, Russia lineage, defined by S:N450D
 BA.5.2.33	Alias of B.1.1.529.5.2.33, UK lineage, defined by ORF8:P93S
-CE.1	Alias of B.1.1.529.5.2.33, UK lineage, defined by S:R346I
+CE.1	Alias of B.1.1.529.5.2.33.1, UK lineage, defined by S:R346I
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
