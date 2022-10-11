@@ -941,10 +941,12 @@ BA.5.2.19	Alias of B.1.1.529.5.2.19, mainly Scandinavia, defined by ORF3a:T14I o
 BA.5.2.20	Alias of B.1.1.529.5.2.20, mainly Indonesia, defined by C23707T on ORF1b:1050N branch to reduce unspecified BA.5.2
 BV.1	Alias of B.1.1.529.5.2.20.1, mainly found in Denmark, from pango-designation issue #1019, formerly BA.5.2.17
 BV.2	Alias of B.1.1.529.5.2.20.2, defined by S:K444N
+BV.3	Alias of B.1.1.529.5.2.20.3, defined by S:K444N
 BA.5.2.21	Alias of B.1.1.529.5.2.21, mainly Indonesia, defined by C5284T on ORF1b:1050N branch to reduce unspecified BA.5.2
 BA.5.2.22	Alias of B.1.1.529.5.2.22, mainly found in USA, Canada and Germany, from pango-designation issue #945
 BA.5.2.23	Alias of B.1.1.529.5.2.23, mainly found in USA, from pango-designation issue #1090
 BA.5.2.24	Alias of B.1.1.529.5.2.24, defined by S:K444N on ORF1b:1050N branch
+CK.1	Alias of B.1.1.529.5.2.24.1, Pakistan, defined by S:N460K, issue #1120
 BA.5.2.25	Alias of B.1.1.529.5.2.25, mainly found in France, USA and Canada, from pango-designation issue #1111
 BA.5.2.26	Alias of B.1.1.529.5.2.26, most common in Thailand, defined by ORF3a:L108V, from pango-designation issue #1133
 BA.5.2.27	Alias of B.1.1.529.5.2.27, most common in Vietnam, defined by ORF1a:I2332V, from pango-designation issue #1133
