@@ -848,6 +848,7 @@ BA.4.5	Alias of B.1.1.529.4.5, Australia lineage
 BA.4.6	Alias of B.1.1.529.4.6, mainly found in USA, England and Denmark, from pango-designation issue #741
 BA.4.6.1	Alias of B.1.1.529.4.6.1, mainly found in UK, USA and Germany, from pango-designation issue #900
 BA.4.6.2	Alias of B.1.1.529.4.6.2, Dominican Republic, USA, defined by S:V445A, from pango-designation issue #1198
+BA.4.6.3	Alias of B.1.1.529.4.6.3, defined by S:444N, S:460K, S:144-, from pango-designation issue #1195
 BA.4.7	Alias of B.1.1.529.4.7, mainly found in England, South Africa and Scotland, from pango-designation issue #777
 BA.4.8	Alias of B.1.1.529.4.8, mainly South Africa and Eswatini, from pango-designation issue #670
 BA.5	Alias of B.1.1.529.5, from pango-designation issue #517
