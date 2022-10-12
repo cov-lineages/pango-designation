@@ -2072,6 +2072,7 @@ XBB	Recombinant lineage of BJ.1 and BA.2.75 with breakpoint in S1, found in USA 
 XBB.1	Mostly Bangladesh and Singapore, defined by S:G252V, from issue #1088
 XBC	Recombinant lineage of BA.2 and B.1.617.2*, predominantly in Philippines, from pango-designation issue #1100
 XBC.1	Mostly Philippines, South Korea, US, Singapore, defined by S:L452M, from issue #1130
+XBD	Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-designation issue #1137
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
