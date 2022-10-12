@@ -741,6 +741,7 @@ BA.2.38	Alias of B.1.1.529.2.38, lineage in India and other countries, from pang
 BA.2.38.1	Alias of B.1.1.529.2.38.1, India lineage, from pango-designation issue #809
 BA.2.38.2	Alias of B.1.1.529.2.38.2, mainly found in India, from pango-designation issue #828
 BA.2.38.3	Alias of B.1.1.529.2.38.3, mainly found in India, from pango-designation issue #840
+BA.2.38.4	Alias of B.1.1.529.2.38.4, mainly found in India, from pango-designation issue #746
 BH.1	Alias of B.1.1.529.2.38.3.1, mainly found in India, from pango-designation issue #913
 BA.2.39	Alias of B.1.1.529.2.39, mainly found in England, from pango-designation issue #575
 BA.2.40	Alias of B.1.1.529.2.40, mainly found in Malaysia, England, Denmark and Germany, from pango-designation issue #542
