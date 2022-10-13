@@ -678,6 +678,7 @@ BA.2.3.17	Alias of B.1.1.529.2.3.17, Northern Mariana Islands and USA lineage, f
 BA.2.3.18	Alias of B.1.1.529.2.3.18, Japan lineage, from pango-designation issue #687
 BA.2.3.19	Alias of B.1.1.529.2.3.19, found Brunei, from pango-designation issue #824
 BA.2.3.20	Alias of B.1.1.529.2.3.20, found globally, unclear origin, from pango-designation issue #1013
+BA.2.3.21	Alias of B.1.1.529.2.3.21, Philippines, S:P9L and 493 reversion
 CM.1	Alias of B.1.1.529.2.3.20.1, S:N17S, from pango-designation issue #1129
 BA.2.4	Alias of B.1.1.529.2.4, Singapore lineage
 BA.2.5	Alias of B.1.1.529.2.5, lineage in Portugal and other countries
