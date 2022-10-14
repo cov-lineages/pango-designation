@@ -822,6 +822,7 @@ BR.4	Alias of B.1.1.529.2.75.4.4, S:K444T and S:G446S reversion, from issue #117
 BA.2.75.5	Alias of B.1.1.529.2.75.5, mainly found in India, pango-designation issue #947
 BN.1	Alias of B.1.1.529.2.75.5.1, mainly found in India, pango-designation issue #994
 BN.1.1	Alias of B.1.1.529.2.75.5.1.1, India/Austria, S:S494P
+BN.1.1.1	Alias of B.1.1.529.2.75.5.1.1.1, Austria, S:N185D
 BN.1.2	Alias of B.1.1.529.2.75.5.1.2, Singapore/England, E:D76G
 BN.2	Alias of B.1.1.529.2.75.5.2, mainly found in India, pango-designation issue #1021
 BN.2.1	Alias of B.1.1.529.2.75.5.2.1, mainly USA and Canada lineage, defined by S:H49Y and S:F490S
