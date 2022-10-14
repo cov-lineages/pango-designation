@@ -813,6 +813,7 @@ CH.1	Alias of B.1.1.529.2.75.3.4.1.1.1, defined by S:K444T, issue #1113
 CH.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1, defined by S:L452R, issue #1113
 CH.2	Alias of B.1.1.529.2.75.3.4.1.1.2, defined by S:Q183H
 BM.5	Alias of B.1.1.529.2.75.3.5, mainly found in India, defined by S:L455S, from pango-designation issue #1047
+BM.6	Alias of B.1.1.529.2.75.3.6, India, defined by S:G75V followed by S:L455S
 BA.2.75.4	Alias of B.1.1.529.2.75.4, mainly found in India, pango-designation issue #935
 BR.1	Alias of B.1.1.529.2.75.4.1, mainly found in India (Karnataka), defined by S:K444M
 BR.2	Alias of B.1.1.529.2.75.4.2, found in Australia, defined by S:R346T and S:486I, from issue #1063
