@@ -824,6 +824,7 @@ BN.1	Alias of B.1.1.529.2.75.5.1, mainly found in India, pango-designation issue
 BN.1.1	Alias of B.1.1.529.2.75.5.1.1, India/Austria, S:S494P
 BN.1.1.1	Alias of B.1.1.529.2.75.5.1.1.1, Austria, S:N185D
 BN.1.2	Alias of B.1.1.529.2.75.5.1.2, Singapore/England, E:D76G
+BN.1.3	Alias of B.1.1.529.2.75.5.1.3, India, ORF3a:T229I
 BN.2	Alias of B.1.1.529.2.75.5.2, mainly found in India, pango-designation issue #1021
 BN.2.1	Alias of B.1.1.529.2.75.5.2.1, mainly USA and Canada lineage, defined by S:H49Y and S:F490S
 BA.2.75.6	Alias of B.1.1.529.2.75.6, mainly found in India, defined by S:R346T on the BA.2.75 polytomy
