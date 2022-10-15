@@ -832,6 +832,7 @@ BN.2	Alias of B.1.1.529.2.75.5.2, mainly found in India, pango-designation issue
 BN.2.1	Alias of B.1.1.529.2.75.5.2.1, mainly USA and Canada lineage, defined by S:H49Y and S:F490S
 BN.3	Alias of B.1.1.529.2.75.5.3, defined by S:N450D on ORF1a:392D branch
 BN.3.1	Alias of B.1.1.529.2.75.5.3.1, South Korea/Austria/Israel/Belgium, defined by S:F490S
+BN.4	Alias of B.1.1.529.2.75.5.4, Netherlands/Germany, defined by S:F490S on ORF1a:392D branch
 BA.2.75.6	Alias of B.1.1.529.2.75.6, mainly found in India, defined by S:R346T on the BA.2.75 polytomy
 BY.1	Alias of B.1.1.529.2.75.6.1, mainly found in India, defined by S:F486S on BA.2.75.6
 BA.2.75.7	Alias of B.1.1.529.2.75.7, mainly found in India, defined by S:F486S on the BA.2.75 polytomy
