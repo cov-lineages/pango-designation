@@ -2118,6 +2118,7 @@ XBA	Recombinant lineage of perhaps AY.45 and perhaps BA.2 (with perhaps 5 breakp
 XBB	Recombinant lineage of BJ.1 and BA.2.75 with breakpoint in S1, found in USA and Singapore, from issue #1058
 XBB.1	Mostly Bangladesh and Singapore, defined by S:G252V, from issue #1088
 XBB.2	Defined by S:D253G, from issue #1173
+XBB.2	Defined by ORF1b:I1988V
 XBC	Recombinant lineage of BA.2 and B.1.617.2*, predominantly in Philippines, from pango-designation issue #1100
 XBC.1	Mostly Philippines, South Korea, US, Singapore, defined by S:L452M, from issue #1130
 XBC.2	Mostly Philippines, defined by S:K97R
