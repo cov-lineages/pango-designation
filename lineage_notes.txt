@@ -680,6 +680,7 @@ BA.2.3.19	Alias of B.1.1.529.2.3.19, found Brunei, from pango-designation issue 
 BA.2.3.20	Alias of B.1.1.529.2.3.20, found globally, unclear origin, from pango-designation issue #1013
 CM.1	Alias of B.1.1.529.2.3.20.1, S:N17S, from pango-designation issue #1129
 CM.2	Alias of B.1.1.529.2.3.20.2, international, ORF1a:S2103F
+CM.3	Alias of B.1.1.529.2.3.20.3, USA/South Korea/Australia, S:G485D
 BA.2.3.21	Alias of B.1.1.529.2.3.21, Philippines, S:P9L and 493 reversion
 BA.2.4	Alias of B.1.1.529.2.4, Singapore lineage
 BA.2.5	Alias of B.1.1.529.2.5, lineage in Portugal and other countries
