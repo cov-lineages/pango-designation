@@ -1011,6 +1011,7 @@ BQ.1.6	Alias of B.1.1.529.5.3.1.1.1.1.1.6, US lineage, defined by ORF1a:G94C
 BQ.1.7	Alias of B.1.1.529.5.3.1.1.1.1.1.7, defined by S:L54F
 BQ.1.8	Alias of B.1.1.529.5.3.1.1.1.1.1.8, defined by ORF1a:S505F and S:Y144-, issue #1202
 BQ.1.8.1	Alias of B.1.1.529.5.3.1.1.1.1.1.8.1, England/Australia, S:256L
+BQ.1.8.2	Alias of B.1.1.529.5.3.1.1.1.1.1.8.2, England/Scotland, S:A688V
 BQ.1.9	Alias of B.1.1.529.5.3.1.1.1.1.1.9, US lineage, defined by ORF1a:V2604I followed by S:346T (independent from BQ.1.1)
 BQ.1.10	Alias of B.1.1.529.5.3.1.1.1.1.1.10, international lineage, 27600T
 BQ.1.11	Alias of B.1.1.529.5.3.1.1.1.1.1.11, international lineage, 29541T
