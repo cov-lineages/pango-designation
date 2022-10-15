@@ -796,6 +796,7 @@ BL.4	Alias of B.1.1.529.2.75.1.4, mainly found in India, defined by ORF7a:P45L w
 BA.2.75.2	Alias of B.1.1.529.2.75.2, mainly found in Asia and Australia, pango-designation issue #963
 CA.1	Alias of B.1.1.529.2.75.2.1, USA lineage, defined by S:604I and S:452R, pango-designation issue #1063
 CA.2	Alias of B.1.1.529.2.75.2.2, international lineage, defined by S:S494P
+CA.3	Alias of B.1.1.529.2.75.2.3, India, defined by N:M101I
 BA.2.75.3	Alias of B.1.1.529.2.75.3, mainly found in India, pango-designation issue #965
 BM.1	Alias of B.1.1.529.2.75.3.1, mainly found in India, pango-designation issue #965
 BM.1.1	Alias of B.1.1.529.2.75.3.1.1, mainly found in India (West Bengal), defined by S:346T
