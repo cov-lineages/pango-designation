@@ -1034,6 +1034,7 @@ BQ.1.15	Alias of B.1.1.529.5.3.1.1.1.1.1.15, international lineage, ORF1a:L3116F
 BQ.1.16	Alias of B.1.1.529.5.3.1.1.1.1.1.16, international lineage, ORF1a:A540V
 BQ.1.17	Alias of B.1.1.529.5.3.1.1.1.1.1.17, Denmark/Germany, S:K444T mutated further to S:444M
 BQ.1.18	Alias of B.1.1.529.5.3.1.1.1.1.1.18, Denmark/Austria, E:P71S, then S:R346T and S:Y144-
+BQ.1.19	Alias of B.1.1.529.5.3.1.1.1.1.1.19, S:S494P
 BQ.2	Alias of B.1.1.529.5.3.1.1.1.1.2, international, S:A522P
 BE.1.2	Alias of B.1.1.529.5.3.1.1.2, mainly found in Costa Rica and USA, from pango-designation issue #923
 BE.1.1.2	Alias of B.1.1.529.5.3.1.1.1.2, Germany lineage, defined by ORF9b:S50L
