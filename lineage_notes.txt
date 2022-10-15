@@ -996,6 +996,7 @@ CE.1	Alias of B.1.1.529.5.2.33.1, UK lineage, defined by S:R346I
 BA.5.2.34	Alias of B.1.1.529.5.2.34, mainly found in Israel and USA, from pango-designation issue #992
 BA.5.2.35	Alias of B.1.1.529.5.2.35, Pakistan lineage, defined by S:R346T after G28423C and C7006T
 BA.5.2.36	Alias of B.1.1.529.5.2.36, India/Pakistan lineage, defined by S:K444T
+CT.1	Alias of B.1.1.529.5.2.36.1, India/Pakistan lineage, defined by S:K356T
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
