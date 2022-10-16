@@ -943,6 +943,7 @@ BF.11.1	Alias of B.1.1.529.5.2.1.11.1, England, S:S1252F
 BF.11.2	Alias of B.1.1.529.5.2.1.11.2, Wales, S:K147N
 BF.11.3	Alias of B.1.1.529.5.2.1.11.3, ORF1a:L122F
 BF.11.4	Alias of B.1.1.529.5.2.1.11.4, England, S:S704L
+BF.11.5	Alias of B.1.1.529.5.2.1.11.5, England, ORF8:I121L
 BF.12	Alias of B.1.1.529.5.2.1.12, mainly found Austria, Brazil, and England, from pango-designation issue #752
 BF.13	Alias of B.1.1.529.5.2.1.13, mainly found in USA, from pango-designation issue #883
 BF.14	Alias of B.1.1.529.5.2.1.14, mainly found in Austria, from pango-designation issue #843
