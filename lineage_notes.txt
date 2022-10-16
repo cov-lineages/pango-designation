@@ -801,6 +801,7 @@ CA.2	Alias of B.1.1.529.2.75.2.2, international lineage, defined by S:S494P
 CA.3	Alias of B.1.1.529.2.75.2.3, India, defined by N:M101I
 CA.4	Alias of B.1.1.529.2.75.2.4, New Zealand, S:F486L
 CA.5	Alias of B.1.1.529.2.75.2.5, USA, S:A260D, S:Q613H
+CA.6	Alias of B.1.1.529.2.75.2.6, India, ORF1a:Y196H
 BA.2.75.3	Alias of B.1.1.529.2.75.3, mainly found in India, pango-designation issue #965
 BM.1	Alias of B.1.1.529.2.75.3.1, mainly found in India, pango-designation issue #965
 BM.1.1	Alias of B.1.1.529.2.75.3.1.1, mainly found in India (West Bengal), defined by S:346T
