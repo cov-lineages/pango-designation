@@ -938,6 +938,8 @@ BF.7.3	Alias of B.1.1.529.5.2.1.7.3, France/Czechia, S:K182E
 BF.7.4	Alias of B.1.1.529.5.2.1.7.4, Europe, ORF8:H17Y
 BF.7.5	Alias of B.1.1.529.5.2.1.7.5, Europe, ORF1b:P1427
 BF.7.6	Alias of B.1.1.529.5.2.1.7.6, Europe, ORF3a:E239D
+BF.7.7	Alias of B.1.1.529.5.2.1.7.7, Europe, S:D80G
+BF.7.8	Alias of B.1.1.529.5.2.1.7.7, Europe, S:T883I
 BF.8	Alias of B.1.1.529.5.2.1.8, USA lineage
 BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
 BF.10	Alias of B.1.1.529.5.2.1.10, USA lineage
