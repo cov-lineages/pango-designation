@@ -940,6 +940,7 @@ BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
 BF.10	Alias of B.1.1.529.5.2.1.10, USA lineage
 BF.11	Alias of B.1.1.529.5.2.1.11, mainly found in England, S:R346T, from pango-designation issue #837
 BF.11.1	Alias of B.1.1.529.5.2.1.11.1, England, S:S1252F
+BF.11.2	Alias of B.1.1.529.5.2.1.11.2, Wales, S:K147N
 BF.12	Alias of B.1.1.529.5.2.1.12, mainly found Austria, Brazil, and England, from pango-designation issue #752
 BF.13	Alias of B.1.1.529.5.2.1.13, mainly found in USA, from pango-designation issue #883
 BF.14	Alias of B.1.1.529.5.2.1.14, mainly found in Austria, from pango-designation issue #843
