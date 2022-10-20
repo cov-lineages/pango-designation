@@ -1088,6 +1088,7 @@ BE.4	Alias of B.1.1.529.5.3.1.4, Bangladesh, defined by ORF1a:T3308N, from issue
 BE.4.1	Alias of B.1.1.529.5.3.1.4.1, Bangladesh, defined by S:P209L, S:R346T, from issue #1115
 BE.4.1.1	Alias of B.1.1.529.5.3.1.4.1.1, Bangladesh, defined by S:K444R, from issue #1115
 CQ.1	Alias of B.1.1.529.5.3.1.4.1.1.1, Bangladesh, defined by S:Y144- and 11866T
+CQ.2	Alias of B.1.1.529.5.3.1.4.1.1.2, Japan/US, defined by S:V445A
 BE.4.2	Alias of B.1.1.529.5.3.1.4.2, Bangladesh, defined by S:K444N & S:N460K, from issue #1114
 BE.5	Alias of B.1.1.529.5.3.1.5, international, S:P1162L
 BA.5.3.2	Alias of B.1.1.529.5.3.2, mainly found in Germany, from pango-designation issue #697
