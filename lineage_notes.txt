@@ -2161,6 +2161,7 @@ XBB.1.1	Singapore/Denmark, defined by ORF1a:P309L
 XBB.1.2	Singapore, defined by S:S640F
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.3	Defined by ORF1b:I1988V on ORF1a:D82G branch
+XBB.3.1	Defined by S:Q677R, India-TN/Singapore, from issue #1241
 XBB.4	Defined by S:K444R on ORF1a:D82G branch, from issue #1239
 XBC	Recombinant lineage of BA.2 and B.1.617.2*, predominantly in Philippines, from pango-designation issue #1100
 XBC.1	Mostly Philippines, South Korea, US, Singapore, defined by S:L452M, from issue #1130
