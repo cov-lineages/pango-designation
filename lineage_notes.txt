@@ -848,6 +848,10 @@ BN.5	Alias of B.1.1.529.2.75.5.5, India, defined by ORF1a:V2995M
 BN.6	Alias of B.1.1.529.2.75.5.6, India, defined by ORF1a:T3959A
 BA.2.75.6	Alias of B.1.1.529.2.75.6, mainly found in India, defined by S:R346T on the BA.2.75 polytomy
 BY.1	Alias of B.1.1.529.2.75.6.1, mainly found in India, defined by S:F486S on BA.2.75.6
+BY.1.1	Alias of B.1.1.529.2.75.6.1.1, S:L452R
+BY.1.1.1	Alias of B.1.1.529.2.75.6.1.1.1, Europe, S:N185D, S:H207R, 
+BY.1.2	Alias of B.1.1.529.2.75.6.1.2, Europe, 26828T
+BY.1.2.1	Alias of B.1.1.529.2.75.6.1.2.1, Austria/England, S:S494P
 BA.2.75.7	Alias of B.1.1.529.2.75.7, mainly found in India, defined by S:F486S on the BA.2.75 polytomy
 BA.2.75.8	Alias of B.1.1.529.2.75.8, Singapore/Australia, defined by S:L452Q, issue #1085
 BA.2.75.9	Alias of B.1.1.529.2.75.9, India, defined by S:R346T after 17679T
