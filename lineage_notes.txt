@@ -1049,6 +1049,7 @@ BQ.1.1.7	Alias of B.1.1.529.5.3.1.1.1.1.1.1.7, ORF1a:S216Y
 BQ.1.1.8	Alias of B.1.1.529.5.3.1.1.1.1.1.1.8, ORF1a:H374Y, ORF1a:L969F
 BQ.1.1.9	Alias of B.1.1.529.5.3.1.1.1.1.1.1.9, S:S151I
 BQ.1.1.10	Alias of B.1.1.529.5.3.1.1.1.1.1.1.10, S:Y144-, T16413C, Denmark/Germany
+BQ.1.1.11	Alias of B.1.1.529.5.3.1.1.1.1.1.1.11, S:S494P, ORF1a:P2537H
 BQ.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2, found globally, defined by S:I666V, from issue #1082
 BQ.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.3, found globally, defined by S:E619Q, from issue #1082
 BQ.1.4	Alias of B.1.1.529.5.3.1.1.1.1.1.4, England and Denmark, defined by S:R190T
@@ -1730,7 +1731,7 @@ B.1.572	USA, split from B.1.325
 B.1.573	Canada (BC)
 B.1.574	USA lineage, split out from B.1.363
 B.1.575	USA and Aruba lineage with spike mutations "S:P681H","S:S494P" and "S:T716I". 
-B.1.575.1	Spainish sub lineage of B.1.575 with spike mutations "S:P681H","S:S494P" and "S:T716I".
+B.1.575.1	Spanish sub lineage of B.1.575 with spike mutations "S:P681H","S:S494P" and "S:T716I".
 B.1.575.2	Spain lineage, from pango-designation issue #116
 B.1.576	USA lineage, formally part of B.1.363
 B.1.577	USA lineage, formally part of B.1.2
