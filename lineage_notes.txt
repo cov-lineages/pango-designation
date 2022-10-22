@@ -2192,6 +2192,7 @@ XBC	Recombinant lineage of BA.2 and B.1.617.2*, predominantly in Philippines, fr
 XBC.1	Mostly Philippines, South Korea, US, Singapore, defined by S:L452M, from issue #1130
 XBC.2	Mostly Philippines, defined by S:K97R
 XBD	Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-designation issue #1137
+XBE	Recombinant lineage of BA.5.2 and BE.4.1, predominantly in USA and England, from pango-designation issue #1246
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
