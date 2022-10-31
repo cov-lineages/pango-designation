@@ -1063,6 +1063,8 @@ BQ.1.1.10	Alias of B.1.1.529.5.3.1.1.1.1.1.1.10, S:Y144-, T16413C, Denmark/Germa
 BQ.1.1.11	Alias of B.1.1.529.5.3.1.1.1.1.1.1.11, Germany/Hongkong/Denmark, S:S494P, on ORF1a:P2537H branch
 BQ.1.1.12	Alias of B.1.1.529.5.3.1.1.1.1.1.1.12, France/US, S:S494P, on ORF1a:T4368I branch
 BQ.1.1.13	Alias of B.1.1.529.5.3.1.1.1.1.1.1.13, Denmark/Israel/Switzerland/France, E:V62F and S:Y144-
+BQ.1.1.14	Alias of B.1.1.529.5.3.1.1.1.1.1.1.14, England, G23608T
+CW.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.14.1, England, S:G446S
 BQ.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2, found globally, defined by S:I666V, from issue #1082
 BQ.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.3, found globally, defined by S:E619Q, from issue #1082
 BQ.1.4	Alias of B.1.1.529.5.3.1.1.1.1.1.4, England and Denmark, defined by S:R190T
