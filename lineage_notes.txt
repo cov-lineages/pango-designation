@@ -697,6 +697,7 @@ BA.2.9.3	Alias of B.1.1.529.2.9.3, mainly found in France, England, and Germany,
 BA.2.9.4	Alias of B.1.1.529.2.9.4, mainly found in France, from pango-designation issue #635
 BA.2.9.5	Alias of B.1.1.529.2.9.5, Thailand lineage
 BA.2.9.6	Alias of B.1.1.529.2.9.6, mainly found in Spain, Denmark and Germany, from pango-designation issue #671
+BA.2.9.7	Alias of B.1.1.529.2.9.7, found mainly in USA, from pango-designation issue #864
 BA.2.10	Alias of B.1.1.529.2.10, lineage from pango-designation issue #496
 BA.2.10.1	Alias of B.1.1.529.2.10.1, lineage in Singapore and other countries
 BJ.1	Alias of B.1.1.529.2.10.1.1, mainly found in India (West Bengal), from pango-designation issue #915
