@@ -1024,6 +1024,7 @@ BU.2	Alias of B.1.1.529.5.2.16.2, USA lineage, S:V445A
 BU.3	Alias of B.1.1.529.5.2.16.3, Guatemala, S:K147N, S:N450D
 BA.5.2.18	Alias of B.1.1.529.5.2.18, mainly Scandinavia, defined by S:K444R on ORF1b:1050N branch, from pango-designation issue #1025
 CR.1	Alias of B.1.1.529.5.2.18.1, global, S:R346T
+CR.1.1	Alias of B.1.1.529.5.2.18.1.1, S:V62I
 CR.2	Alias of B.1.1.529.5.2.18.2, England, S:Y145H
 BA.5.2.19	Alias of B.1.1.529.5.2.19, mainly Scandinavia, defined by ORF3a:T14I on ORF1b:1050N branch, from issue #916
 BA.5.2.20	Alias of B.1.1.529.5.2.20, mainly Indonesia, defined by C23707T on ORF1b:1050N branch to reduce unspecified BA.5.2
