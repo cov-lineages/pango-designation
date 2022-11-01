@@ -1004,7 +1004,8 @@ BA.5.2.6	Alias of B.1.1.529.5.2.6, global lineage, S:R346T, from pango-designati
 CP.1	Alias of B.1.1.529.5.2.6.1, global lineage, 27360C
 CP.1.1	Alias of B.1.1.529.5.2.6.1.1, Portugal, France, Denmark, UK lineage, S:V445A
 CP.1.2	Alias of B.1.1.529.5.2.6.1.2, England, S:K150N
-CP.1.3	Alias of B.1.1.529.5.2.6.1.2, England, S:G446S
+CP.1.3	Alias of B.1.1.529.5.2.6.1.3, England, S:G446S
+CP.2	Alias of B.1.1.529.5.2.6.2, Bangladesh, S:N334K
 BA.5.2.7	Alias of B.1.1.529.5.2.7, global lineage, from pango-designation issue #924
 BA.5.2.8	Alias of B.1.1.529.5.2.8, Israel lineage
 BA.5.2.9	Alias of B.1.1.529.5.2.9, USA lineage
