@@ -990,6 +990,8 @@ BF.27	Alias of B.1.1.529.5.2.1.27, Singapore lineage, defined by ORF1a:A2784V, i
 BF.28	Alias of B.1.1.529.5.2.1.28, Singapore lineage, defined by ORF1a:Q44L, issue #1141
 BF.29	Alias of B.1.1.529.5.2.1.29, mainly found in Denmark and USA, from pango-designation issue #1162
 BF.30	Alias of B.1.1.529.5.2.1.30, South Africa/England, defined by S:R346T after C25916T, C14599T
+BF.31	Alias of B.1.1.529.5.2.1.31, Chile, 23758T
+BF.31.1	Alias of B.1.1.529.5.2.1.31.1, Chile, S:A701V and S:S247N/S:Y248-
 BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
 BA.5.2.3	Alias of B.1.1.529.5.2.3, UK lineage
 BZ.1	Alias of B.1.1.529.5.2.3.1, Denmark lineage, defined by S:Q677H
