@@ -2209,6 +2209,7 @@ XAV	Recombinant lineage of BA.2* and BA.5*, mainly France, USA, and Scotland lin
 XAW	Recombinant lineage of BA.2* and AY.122, Russia lineage, from pango-designation issue #895
 XAY	Recombinant lineage of BA.2 and AY.45, South Africa lineage, from pango-designation issue #844
 XAY.1	South Africa/US lineage with 4 AA substitutions including S:D253G
+XAY.1.1	South Africa with S:R346T and ORF1a:K2108N, from issue #1255
 XAY.2	South Africa/Denmark/Israel lineage with ORF1a:Y3765C
 XAZ	Recombinant lineage of BA.2.5, BA.5. and BA.2.5, predominantly found in France, Germany, Croatia, Denmark and USA, from pango-designation issue #797
 XBA	Recombinant lineage of perhaps AY.45 and perhaps BA.2 (with perhaps 5 breakpoints), South_Africa lineage, constellation 2 from pango-designation issue #844
