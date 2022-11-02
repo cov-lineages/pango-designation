@@ -1123,7 +1123,7 @@ BE.1.4	Alias of B.1.1.529.5.3.1.1.4, America lineage, ORF1b:V1787I
 BE.1.4.1	Alias of B.1.1.529.5.3.1.1.4.1, S:A701V
 BE.1.4.2	Alias of B.1.1.529.5.3.1.1.4.2, S:R346T
 BE.1.4.3	Alias of B.1.1.529.5.3.1.1.4.3, Mexico, S:V445A
-BE.1.4.4	Alias of B.1.1.529.5.3.1.1.4.3, S:L176F
+BE.1.4.4	Alias of B.1.1.529.5.3.1.1.4.4, S:L176F
 BE.2	Alias of B.1.1.529.5.3.1.2, Belgium lineage
 BE.3	Alias of B.1.1.529.5.3.1.3, USA lineage
 BE.4	Alias of B.1.1.529.5.3.1.4, Bangladesh, defined by ORF1a:T3308N, from issue #1115
