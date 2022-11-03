@@ -1090,6 +1090,7 @@ BQ.1.1.17	Alias of B.1.1.529.5.3.1.1.1.1.1.1.17, France, ORF1a:S2273F
 BQ.1.1.18	Alias of B.1.1.529.5.3.1.1.1.1.1.1.18, France, C6541T
 BQ.1.1.19	Alias of B.1.1.529.5.3.1.1.1.1.1.1.19, England, N:Q380H
 BQ.1.1.20	Alias of B.1.1.529.5.3.1.1.1.1.1.1.20, Denmark, S:144- and ORF3a:H204Y
+BQ.1.1.21	Alias of B.1.1.529.5.3.1.1.1.1.1.1.21, Switzerland/France, S:144- and A17946G
 BQ.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2, found globally, defined by S:I666V, from issue #1082
 BQ.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.3, found globally, defined by S:E619Q, from issue #1082
 BQ.1.4	Alias of B.1.1.529.5.3.1.1.1.1.1.4, England and Denmark, defined by S:R190T
