@@ -1070,6 +1070,7 @@ BE.1.1.1	Alias of B.1.1.529.5.3.1.1.1.1, found globally, from pango-designation 
 BQ.1	Alias of B.1.1.529.5.3.1.1.1.1.1, Nigeria lineage, from pango-designation issue #993
 BQ.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1, found globally, defining mutations ORF1b:N1191S and S:R346T, from issue #993
 BQ.1.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.1, Europe, ORF1b:V1639A
+CZ.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.1.1, England/SouthKorea, S:F490I
 BQ.1.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.2, England, S:D253G, from issue #1209
 BQ.1.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.1.3, England, A15111G
 BQ.1.1.4	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4, T29173C
