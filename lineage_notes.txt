@@ -806,6 +806,7 @@ BA.2.75.2	Alias of B.1.1.529.2.75.2, mainly found in Asia and Australia, pango-d
 CA.1	Alias of B.1.1.529.2.75.2.1, USA lineage, defined by S:604I and S:452R, pango-designation issue #1063
 CA.2	Alias of B.1.1.529.2.75.2.2, international lineage, defined by S:S494P
 CA.3	Alias of B.1.1.529.2.75.2.3, India, defined by N:M101I
+CA.3.1	Alias of B.1.1.529.2.75.2.3.1, USA, S:K444M, S:L452R
 CA.4	Alias of B.1.1.529.2.75.2.4, New Zealand, S:F486L
 CA.5	Alias of B.1.1.529.2.75.2.5, USA, S:A260D, S:Q613H
 CA.6	Alias of B.1.1.529.2.75.2.6, India, ORF1a:Y196H
@@ -1075,7 +1076,7 @@ BE.1.1.1	Alias of B.1.1.529.5.3.1.1.1.1, found globally, from pango-designation 
 BQ.1	Alias of B.1.1.529.5.3.1.1.1.1.1, Nigeria lineage, from pango-designation issue #993
 BQ.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1, found globally, defining mutations ORF1b:N1191S and S:R346T, from issue #993
 BQ.1.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.1, Europe, ORF1b:V1639A
-CZ.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.1.1, England/SouthKorea, S:F490I
+CZ.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.1.1, England/SouthKorea/Romania, S:F490I
 BQ.1.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.2, England, S:D253G, from issue #1209
 BQ.1.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.1.3, England, A15111G
 BQ.1.1.4	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4, T29173C
