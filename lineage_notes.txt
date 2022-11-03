@@ -967,6 +967,9 @@ BF.7.9	Alias of B.1.1.529.5.2.1.7.9, Europe, S:Q677H
 BF.7.10	Alias of B.1.1.529.5.2.1.7.10, Europe, S:Q1201K
 BF.7.11	Alias of B.1.1.529.5.2.1.7.11, Europe, S:D1260Y
 BF.7.12	Alias of B.1.1.529.5.2.1.7.12, Europe, S:A942S 
+BF.7.13	Alias of B.1.1.529.5.2.1.7.13, Belgium, ORF1a:H388Y, ORF1a:H1160Y, 
+BF.7.13.1	Alias of B.1.1.529.5.2.1.7.13.1, Europe, S:T430I, S:P681S
+BF.7.13.2	Alias of B.1.1.529.5.2.1.7.13.2, Poland, S:A653V
 BF.8	Alias of B.1.1.529.5.2.1.8, USA lineage
 BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
 BF.10	Alias of B.1.1.529.5.2.1.10, USA lineage
