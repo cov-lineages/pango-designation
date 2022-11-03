@@ -968,7 +968,7 @@ BF.7.10	Alias of B.1.1.529.5.2.1.7.10, Europe, S:Q1201K
 BF.7.11	Alias of B.1.1.529.5.2.1.7.11, Europe, S:D1260Y
 BF.7.12	Alias of B.1.1.529.5.2.1.7.12, Europe, S:A942S 
 BF.7.13	Alias of B.1.1.529.5.2.1.7.13, Belgium, ORF1a:H388Y, ORF1a:H1160Y, 
-BF.7.13.1	Alias of B.1.1.529.5.2.1.7.13.1, Europe, S:T430I, S:P681S
+BF.7.13.1	Alias of B.1.1.529.5.2.1.7.13.1, Europe, S:T430I, S:P681Y
 BF.7.13.2	Alias of B.1.1.529.5.2.1.7.13.2, Poland, S:A653V
 BF.8	Alias of B.1.1.529.5.2.1.8, USA lineage
 BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
@@ -2239,6 +2239,7 @@ XBC.1	Mostly Philippines, South Korea, US, Singapore, defined by S:L452M, from i
 XBC.2	Mostly Philippines, defined by S:K97R
 XBD	Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-designation issue #1137
 XBE	Recombinant lineage of BA.5.2 and BE.4.1, predominantly in USA and England, from pango-designation issue #1246
+XBF	Recombinant lineage of BA.5.2.3 and CJ.1, Australia, from pango-designation issue #1259
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
