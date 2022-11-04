@@ -1054,6 +1054,7 @@ CK.2.1	Alias of B.1.1.529.5.2.24.2.1, Pakistan, defined by S:N460K
 CK.2.1.1	Alias of B.1.1.529.5.2.24.2.1.1, defined by S:S255F
 BA.5.2.25	Alias of B.1.1.529.5.2.25, mainly found in France, USA and Canada, from pango-designation issue #1111
 DB.1	Alias of B.1.1.529.5.2.25.1, France/Netherlands/Spain, S:R346T, S:N460K
+DB.2	Alias of B.1.1.529.5.2.25.2, BeNeLux, S:A262S
 BA.5.2.26	Alias of B.1.1.529.5.2.26, most common in Thailand, defined by ORF3a:L108V, from pango-designation issue #1133
 BA.5.2.27	Alias of B.1.1.529.5.2.27, most common in Vietnam, defined by ORF1a:I2332V, from pango-designation issue #1133
 CF.1	Alias of B.1.1.529.5.2.27.1, US and Mexico lineage, defined by S:K97T, originally designated as BA.5.2.15 from issue #1054
