@@ -1155,6 +1155,7 @@ BE.4.2	Alias of B.1.1.529.5.3.1.4.2, Bangladesh, defined by S:K444N & S:N460K, f
 BE.5	Alias of B.1.1.529.5.3.1.5, South Africa, S:R346T, #1281
 BE.6	Alias of B.1.1.529.5.3.1.6, France, S:R346S
 BE.7	Alias of B.1.1.529.5.3.1.7, South Africa, S:R346T, #1280
+BE.8	Alias of B.1.1.529.5.3.1.8, South Africa, S:R346T, #1278
 BA.5.3.2	Alias of B.1.1.529.5.3.2, mainly found in Germany, from pango-designation issue #697
 BA.5.3.3	Alias of B.1.1.529.5.3.3, UK lineage
 BA.5.3.4	Alias of B.1.1.529.5.3.4, Germany lineage
