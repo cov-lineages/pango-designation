@@ -688,6 +688,7 @@ CM.5.1	Alias of B.1.1.529.2.3.20.5.1, S:Q675R
 CM.6	Alias of B.1.1.529.2.3.20.6, global, ORF1a:G30A
 CM.7	Alias of B.1.1.529.2.3.20.7, Japan/Singapore, S:F486S
 BA.2.3.21	Alias of B.1.1.529.2.3.21, Philippines, S:P9L and 493 reversion
+DD.1	Alias of B.1.1.529.2.3.21.1, Philippines/Australia, Δ69-70, Δ144, V213E, G339N, R346T, Y449N, N460K, N481K, Q493L, K1205N
 BA.2.4	Alias of B.1.1.529.2.4, Singapore lineage
 BA.2.5	Alias of B.1.1.529.2.5, lineage in Portugal and other countries
 BA.2.6	Alias of B.1.1.529.2.6, lineage in France and other countries
