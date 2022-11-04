@@ -1175,6 +1175,7 @@ BA.5.8	Alias of B.1.1.529.5.8, mainly found in England, USA, Denmark and Scotlan
 BA.5.9	Alias of B.1.1.529.5.9, mainly found in Germany, Switzerland and Denmark, from pango-designation issue #753
 BA.5.10	Alias of B.1.1.529.5.10, mainly found in Philippines, Canada, and USA, from pango-designation issue #936
 BA.5.10.1	Alias of B.1.1.529.5.10.1, mainly from Philippines, defined by S:346T, from pango-designation issue #1031
+BA.5.11	Alias of B.1.1.529.5.11, South Africa, C1627T, S:R346T, #1277
 B.1.2	USA
 B.1.3	USA lineage
 B.1.6	Belgian lineage
