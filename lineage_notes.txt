@@ -1010,6 +1010,7 @@ BF.31	Alias of B.1.1.529.5.2.1.31, Chile, 23758T
 BF.31.1	Alias of B.1.1.529.5.2.1.31.1, Chile, S:A701V and S:S247N/S:Y248-
 BF.32	Alias of B.1.1.529.5.2.1.32, found mainly in USA, from pango-designation issue #1250
 BF.33	Alias of B.1.1.529.5.2.1.33, Brazil/France, S:R346I, S:N460K
+BF.34	Alias of B.1.1.529.5.2.1.34, found mainly in UK and Canada, from pango-designation issue #1233
 BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
 BA.5.2.3	Alias of B.1.1.529.5.2.3, UK lineage
 BZ.1	Alias of B.1.1.529.5.2.3.1, Denmark lineage, defined by S:Q677H
