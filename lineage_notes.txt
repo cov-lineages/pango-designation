@@ -938,6 +938,7 @@ BA.5.1.21	Alias of B.1.1.529.5.1.21, mainly found in Gambia and Japan, from pang
 BT.1	Alias of B.1.1.529.5.1.21.1, mainly found in Japan, from pango-designation issue #958
 BT.2	Alias of B.1.1.529.5.1.21.2, mainly found in Denmark, Germany and France, from pango-designation issue #1192
 BA.5.1.22	Alias of B.1.1.529.5.1.22, mainly found in Europe, defined by ORF1b:S1273L, from pango-designation issue #1135
+DH.1	Alias of B.1.1.529.5.1.22.1, found mainly in Denmark, from pango-designation issue #1242
 BA.5.1.23	Alias of B.1.1.529.5.1.23, mainly found in Spain, defined by ORF1a:S302F, from pango-designation issue #1135
 DE.1	Alias of B.1.1.529.5.1.23.1, S:A694V
 DE.2	Alias of B.1.1.529.5.1.23.2, S:R346T, S:G181V
