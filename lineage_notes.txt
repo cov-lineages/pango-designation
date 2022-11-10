@@ -686,6 +686,7 @@ CM.4	Alias of B.1.1.529.2.3.20.4, USA/Singapore/SouthKorea, ORF1b:D146G
 CM.5	Alias of B.1.1.529.2.3.20.5, global, 10802T
 CM.5.1	Alias of B.1.1.529.2.3.20.5.1, S:Q675R
 CM.6	Alias of B.1.1.529.2.3.20.6, global, ORF1a:G30A
+CM.6.1	Alias of B.1.1.529.2.3.20.6.1, S:A348S
 CM.7	Alias of B.1.1.529.2.3.20.7, Japan/Singapore, S:F486S
 CM.8	Alias of B.1.1.529.2.3.20.8, S:G446S
 CM.8.1	Alias of B.1.1.529.2.3.20.8.1, Australia/England, S:F486S
