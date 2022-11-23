@@ -1097,6 +1097,7 @@ DA.1	Alias of B.1.1.529.5.2.38.1, Indonesia, S:R346T
 BA.5.2.39	Alias of B.1.1.529.5.2.39, USA, S:R346T
 BA.5.2.40	Alias of B.1.1.529.5.2.40, Sweden, S:N450D
 BA.5.2.41	Alias of B.1.1.529.5.2.41, found mainly in Sweden, from pango-designation issue #1328
+BA.5.2.42	Alias of B.1.1.529.5.2.42, found mainly in Australia, from pango-designation issue #1266
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
