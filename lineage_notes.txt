@@ -1138,6 +1138,7 @@ BQ.1.1.22	Alias of B.1.1.529.5.3.1.1.1.1.1.1.22, Australia/England/Denmark, S:14
 BQ.1.1.23	Alias of B.1.1.529.5.3.1.1.1.1.1.1.23, France, ORF3a:V97I, S:Y144-
 BQ.1.1.24	Alias of B.1.1.529.5.3.1.1.1.1.1.1.24, England, 11941T, S:Y144-
 BQ.1.1.25	Alias of B.1.1.529.5.3.1.1.1.1.1.1.25, USA/Canada, S:F490S
+BQ.1.1.26	Alias of B.1.1.529.5.3.1.1.1.1.1.1.26, S:E471Q
 BQ.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2, found globally, defined by S:I666V, from issue #1082
 BQ.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.3, found globally, defined by S:E619Q, from issue #1082
 BQ.1.4	Alias of B.1.1.529.5.3.1.1.1.1.1.4, England and Denmark, defined by S:R190T
