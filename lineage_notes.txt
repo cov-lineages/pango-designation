@@ -1172,6 +1172,7 @@ BQ.1.23	Alias of B.1.1.529.5.3.1.1.1.1.1.23, Singapore/Indonesia/Australia, A265
 BQ.1.24	Alias of B.1.1.529.5.3.1.1.1.1.1.24, South Africa, S:T240I, S:R346T, #1240
 BQ.1.25	Alias of B.1.1.529.5.3.1.1.1.1.1.25, S:R346T, T8038C, T25569C, G26031A
 BQ.1.26	Alias of B.1.1.529.5.3.1.1.1.1.1.26, found mainly in Denmark, from pango-designation issue #1315
+BQ.1.26.1	Alias of B.1.1.529.5.3.1.1.1.1.1.26.1, found mainly in Denmark, from pango-designation issue #1369
 BQ.2	Alias of B.1.1.529.5.3.1.1.1.1.2, international, S:A522P
 BE.1.2	Alias of B.1.1.529.5.3.1.1.2, mainly found in Costa Rica and USA, from pango-designation issue #923
 BE.1.1.2	Alias of B.1.1.529.5.3.1.1.1.2, Germany lineage, defined by ORF9b:S50L
