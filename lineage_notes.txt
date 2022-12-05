@@ -826,6 +826,7 @@ CJ.1	Alias of B.1.1.529.2.75.3.1.1.1.1, S:S486P, #1171
 BM.1.1.2	Alias of B.1.1.529.2.75.3.1.1.2, England, S:T883I, S:S939F, S:P1079T
 BM.1.1.3	Alias of B.1.1.529.2.75.3.1.1.3, India, defined by ORF10:A8V
 CV.1	Alias of B.1.1.529.2.75.3.1.1.3.1, Ireland, S:L452R
+CV.2	Alias of B.1.1.529.2.75.3.1.1.3.2, Chile, S:486P
 BM.2	Alias of B.1.1.529.2.75.3.2, mainly found in India (Telangana), defined by S:346T
 BM.2.1	Alias of B.1.1.529.2.75.3.2.1, India, defined by S:F486V
 BM.2.2	Alias of B.1.1.529.2.75.3.2.2, Japan/Israel, defined by S:L455S
