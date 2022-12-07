@@ -1132,6 +1132,7 @@ BQ.1.1.13	Alias of B.1.1.529.5.3.1.1.1.1.1.1.13, Denmark/Israel/Switzerland/Fran
 BQ.1.1.14	Alias of B.1.1.529.5.3.1.1.1.1.1.1.14, England, G23608T
 CW.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.14.1, England, S:G446S
 BQ.1.1.15	Alias of B.1.1.529.5.3.1.1.1.1.1.1.15, Spain, T18897C
+DM.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.15.1, Spain/Europe/US, S:A348S
 BQ.1.1.16	Alias of B.1.1.529.5.3.1.1.1.1.1.1.16, England, S:Q607H
 BQ.1.1.17	Alias of B.1.1.529.5.3.1.1.1.1.1.1.17, France, ORF1a:S2273F
 BQ.1.1.18	Alias of B.1.1.529.5.3.1.1.1.1.1.1.18, France, C6541T
