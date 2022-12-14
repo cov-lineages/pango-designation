@@ -823,6 +823,7 @@ BM.1	Alias of B.1.1.529.2.75.3.1, mainly found in India, pango-designation issue
 BM.1.1	Alias of B.1.1.529.2.75.3.1.1, mainly found in India (West Bengal), defined by S:346T
 BM.1.1.1	Alias of B.1.1.529.2.75.3.1.1.1, mainly found in India (West Bengal), defined by S:490S
 CJ.1	Alias of B.1.1.529.2.75.3.1.1.1.1, S:S486P, #1171
+CJ.1.1	Alias of B.1.1.529.2.75.3.1.1.1.1.1, S:V445A, Singapore/Malaysia/Japan
 BM.1.1.2	Alias of B.1.1.529.2.75.3.1.1.2, England, S:T883I, S:S939F, S:P1079T
 BM.1.1.3	Alias of B.1.1.529.2.75.3.1.1.3, India, defined by ORF10:A8V
 CV.1	Alias of B.1.1.529.2.75.3.1.1.3.1, Ireland, S:L452R
