@@ -1072,6 +1072,7 @@ BV.1	Alias of B.1.1.529.5.2.20.1, mainly found in Denmark, from pango-designatio
 BV.2	Alias of B.1.1.529.5.2.20.2, defined by S:K444N
 BA.5.2.21	Alias of B.1.1.529.5.2.21, mainly Indonesia, defined by C5284T on ORF1b:1050N branch to reduce unspecified BA.5.2
 CN.1	Alias of B.1.1.529.5.2.21.1, S:N450D, issue #1108
+CN.2	Alias of B.1.1.529.5.2.21.2, S:R346T, S:Y28H, USA/Canada, from #1404
 BA.5.2.22	Alias of B.1.1.529.5.2.22, mainly found in USA, Canada and Germany, from pango-designation issue #945
 BA.5.2.23	Alias of B.1.1.529.5.2.23, mainly found in USA, from pango-designation issue #1090
 BA.5.2.24	Alias of B.1.1.529.5.2.24, defined by S:K444N on ORF1b:1050N branch
