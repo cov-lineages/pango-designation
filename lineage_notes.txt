@@ -1138,7 +1138,7 @@ DK.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.7.1, S:339N, ORF1a:A1809T
 BQ.1.1.8	Alias of B.1.1.529.5.3.1.1.1.1.1.1.8, ORF1a:H374Y, ORF1a:L969F
 BQ.1.1.9	Alias of B.1.1.529.5.3.1.1.1.1.1.1.9, S:S151I
 BQ.1.1.10	Alias of B.1.1.529.5.3.1.1.1.1.1.1.10, S:Y144-, T16413C, Denmark/Germany
-BQ.1.1.11	Alias of B.1.1.529.5.3.1.1.1.1.1.1.11, Germany/Hongkong/Denmark, S:S494P, on ORF1a:P2537H branch
+BQ.1.1.11	Alias of B.1.1.529.5.3.1.1.1.1.1.1.11, S:S494P
 BQ.1.1.12	Alias of B.1.1.529.5.3.1.1.1.1.1.1.12, France/US, S:S494P, on ORF1a:T4368I branch
 BQ.1.1.13	Alias of B.1.1.529.5.3.1.1.1.1.1.1.13, Denmark/Israel/Switzerland/France, E:V62F and S:Y144-
 BQ.1.1.14	Alias of B.1.1.529.5.3.1.1.1.1.1.1.14, England, G23608T
