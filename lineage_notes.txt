@@ -2305,6 +2305,7 @@ XBB.1.4	Europe, S:T883I
 XBB.1.4.1	Mainly Denmark, Norway and Sweden, defined by S:S673G, from pango-designation issue #1352
 XBB.1.5	USA, S:F486P
 XBB.1.6	USA, S:L216F, S:H146K, from issue #1428
+XBB.1.7	USA-NY, S:V608I
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764S
 XBB.2.2	Defined by S:Q613H
