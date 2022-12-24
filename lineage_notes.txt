@@ -2320,6 +2320,7 @@ XBB.2.2	Defined by S:Q613H
 XBB.3	Defined by ORF1b:I1988V on ORF1a:D82G branch
 XBB.3.1	Defined by S:Q677R, India-TN/Singapore, from issue #1241
 XBB.3.2	Defined by S:M177T
+XBB.3.3	Defined by S:V1122L, USA
 XBB.4	Defined by S:K444R on ORF1a:D82G branch, from issue #1239
 XBB.4.1	England/Austria, S:L5F, S:T470N
 XBB.5	Defined by S:A653V on ORF1a:D82G branch, India-TN, Singapore, Australia
