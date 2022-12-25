@@ -1180,6 +1180,7 @@ BQ.1.10.1	Alias of B.1.1.529.5.3.1.1.1.1.1.10.1, Italy/England/Denmark, S:H146L,
 BQ.1.11	Alias of B.1.1.529.5.3.1.1.1.1.1.11, international lineage, 29541T
 BQ.1.12	Alias of B.1.1.529.5.3.1.1.1.1.1.12, international lineage, 28849T
 BQ.1.13	Alias of B.1.1.529.5.3.1.1.1.1.1.13, international lineage, ORF1a:V627I
+BQ.1.13.1	Alias of B.1.1.529.5.3.1.1.1.1.1.13.1 found mainly in USA and Europe, from pango-designation issue #1400
 BQ.1.14	Alias of B.1.1.529.5.3.1.1.1.1.1.14, international lineage, 18570A
 BQ.1.15	Alias of B.1.1.529.5.3.1.1.1.1.1.15, international lineage, ORF1a:L3116F
 BQ.1.16	Alias of B.1.1.529.5.3.1.1.1.1.1.16, international lineage, ORF1a:A540V
