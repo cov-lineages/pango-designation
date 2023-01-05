@@ -353,7 +353,7 @@ B.1.1.267	Irish lineage
 B.1.1.268	USA lineage
 B.1.1.269	European lineage
 B.1.1.270	UK lineage
-B.1.1.271	Germain and Austrian lineage
+B.1.1.271	German and Austrian lineage
 B.1.1.272	Denmark
 B.1.1.273	South african lineage, previously part of B.1.1.56
 B.1.1.274	England, Thailand, Russia, USA
