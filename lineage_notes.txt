@@ -1124,6 +1124,7 @@ BA.5.2.44	Alias of B.1.1.529.5.2.44, Indonesia/Malaysia/SouthKorea/global, ORF1a
 BA.5.2.45	Alias of B.1.1.529.5.2.45, found mainly in Australia, from pango-designation issue #1383
 BA.5.2.46	Alias of B.1.1.529.5.2.46 found mainly in Japan, from pango-designation issue #1446
 BA.5.2.47	Alias of B.1.1.529.5.2.47 found mainly in Indonesia, Australia, and USA, from pango-designation issue #1496
+BA.5.2.48	Alias of B.1.1.529.5.2.48 found mainly in China, Singapore and Italy, from pango-designation issue #1471
 DQ.1	Alias of B.1.1.529.5.2.47.1 found mainly in Indonesia, Germany, and USA, from pango-designation issue #1496
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
