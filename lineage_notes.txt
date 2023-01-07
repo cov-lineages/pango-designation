@@ -2339,6 +2339,8 @@ XBB.4.1	England/Austria, S:L5F, S:T470N
 XBB.5	Defined by S:A653V on ORF1a:D82G branch, India-TN, Singapore, Australia
 XBC	Recombinant lineage of BA.2 and B.1.617.2*, predominantly in Philippines, from pango-designation issue #1100
 XBC.1	Mostly Philippines, South Korea, US, Singapore, defined by S:L452M, from issue #1130
+XBC.1.1	Mostly Australia, ORF1a:I3619T, ORF8:V114L
+XBC.1.1.1	Australia, S:G476S
 XBC.2	Mostly Philippines, defined by S:K97R
 XBD	Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-designation issue #1137
 XBE	Recombinant lineage of BA.5.2 and BE.4.1, predominantly in USA and England, from pango-designation issue #1246
