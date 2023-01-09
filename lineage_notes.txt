@@ -695,6 +695,7 @@ CM.8.1	Alias of B.1.1.529.2.3.20.8.1, Australia/England, S:F486S
 CM.9	Alias of B.1.1.529.2.3.20.9, USA/Canada/Israel, S:S256L
 CM.10	Alias of B.1.1.529.2.3.20.10, USA/South Korea/Singapore, S:K478T reversion, S:V445A
 CM.11	Alias of B.1.1.529.2.3.20.11, USA/South Korea, S:R346T, S:F486S, from #1509
+CM.12	Alias of B.1.1.529.2.3.20.12, Hong Kong, US, Australia, Japan, ORF8:T12I, from #1481
 BA.2.3.21	Alias of B.1.1.529.2.3.21, Philippines, S:P9L and 493 reversion
 DD.1	Alias of B.1.1.529.2.3.21.1, Philippines/Australia, Δ69-70, Δ144, V213E, G339N, R346T, Y449N, N460K, N481K, Q493L, K1205N, from #1287
 BA.2.4	Alias of B.1.1.529.2.4, Singapore lineage
