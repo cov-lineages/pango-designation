@@ -1010,7 +1010,8 @@ BF.7.12	Alias of B.1.1.529.5.2.1.7.12, Europe, S:A942S
 BF.7.13	Alias of B.1.1.529.5.2.1.7.13, Belgium, ORF1a:H388Y, ORF1a:H1160Y, 
 BF.7.13.1	Alias of B.1.1.529.5.2.1.7.13.1, Europe, S:T430I, S:P681Y
 BF.7.13.2	Alias of B.1.1.529.5.2.1.7.13.2, Poland, S:A653V
-BF.7.14	Alias of B.1.1.529.5.2.1.7.14 found mainly in China, Singapore and Italy, from pango-designation issue #1470
+BF.7.14	Alias of B.1.1.529.5.2.1.7.14, China, S:C1243F, from issue #1470
+BF.7.15	Alias of B.1.1.529.5.2.1.7.15, Japan, S:G257D & ORF1a:A1812V, from issue #1358
 BF.8	Alias of B.1.1.529.5.2.1.8, USA lineage
 BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
 BF.10	Alias of B.1.1.529.5.2.1.10, USA lineage
