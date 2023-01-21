@@ -2662,3 +2662,4 @@ XBN	Recombinant lineage of BA.2.75 and XBB.3, mainly found in USA, from pango-de
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
 *BQ.1.1.33	Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
+BA.5.2.50	Alias of B.1.1.529.5.2.50 found mainly in China, from pango-designation issue #1542
