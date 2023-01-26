@@ -1212,6 +1212,7 @@ BQ.1.9	Alias of B.1.1.529.5.3.1.1.1.1.1.9, US lineage, defined by ORF1a:V2604I f
 BQ.1.10	Alias of B.1.1.529.5.3.1.1.1.1.1.10, international lineage, 27600T
 BQ.1.10.1	Alias of B.1.1.529.5.3.1.1.1.1.1.10.1, Italy/England/Denmark, S:H146L, issue #1189
 BQ.1.11	Alias of B.1.1.529.5.3.1.1.1.1.1.11, international lineage, 29541T
+BQ.1.11.1	Alias of B.1.1.529.5.3.1.1.1.1.1.11.1 found mainly in USA and Peru, from pango-designation issue #1581
 BQ.1.12	Alias of B.1.1.529.5.3.1.1.1.1.1.12, international lineage, 28849T
 BQ.1.13	Alias of B.1.1.529.5.3.1.1.1.1.1.13, international lineage, ORF1a:V627I
 BQ.1.13.1	Alias of B.1.1.529.5.3.1.1.1.1.1.13.1 found mainly in USA and Europe, from pango-designation issue #1400
@@ -2667,3 +2668,5 @@ XBN	Recombinant lineage of BA.2.75 and XBB.3, mainly found in USA, from pango-de
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
 *BQ.1.1.33	Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
+
+
