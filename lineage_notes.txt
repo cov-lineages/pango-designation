@@ -865,6 +865,7 @@ BR.2	Alias of B.1.1.529.2.75.4.2, found in Australia, defined by S:R346T and S:4
 BR.2.1	Alias of B.1.1.529.2.75.4.2.1, found mainly in Australia, from pango-designation issue #1292
 BR.3	Alias of B.1.1.529.2.75.4.3, India, Australia, Austria, defined by S:R346T, from issue #1063
 BR.4	Alias of B.1.1.529.2.75.4.4, S:K444T and S:G446S reversion, from issue #1179
+BR.5	Alias of B.1.1.529.2.75.4.5 found mainly in SouthKorea and usa, from pango-designation issue #1345
 BA.2.75.5	Alias of B.1.1.529.2.75.5, mainly found in India, pango-designation issue #947
 BN.1	Alias of B.1.1.529.2.75.5.1, mainly found in India, pango-designation issue #994
 BN.1.1	Alias of B.1.1.529.2.75.5.1.1, India/Austria, S:S494P
@@ -2668,5 +2669,3 @@ XBN	Recombinant lineage of BA.2.75 and XBB.3, mainly found in USA, from pango-de
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
 *BQ.1.1.33	Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
-
-
