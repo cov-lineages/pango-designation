@@ -1035,6 +1035,7 @@ BF.7.13.2	Alias of B.1.1.529.5.2.1.7.13.2, Poland, S:A653V
 BF.7.14	Alias of B.1.1.529.5.2.1.7.14, China, S:C1243F, from issue #1470
 BF.7.14.1	Alias of B.1.1.529.5.2.1.7.14.1 found mainly in China and Japan, contains S:V83F branch, from issue #1580
 BF.7.14.2	Alias of B.1.1.529.5.2.1.7.14.2 China, S:Q14H
+BF.7.14.3	Alias of B.1.1.529.5.2.1.7.14.3 China, S:A626V
 BF.7.15	Alias of B.1.1.529.5.2.1.7.15, Japan, S:G257D & ORF1a:A1812V, from issue #1358
 BF.8	Alias of B.1.1.529.5.2.1.8, USA lineage
 BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
