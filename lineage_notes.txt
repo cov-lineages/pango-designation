@@ -2380,6 +2380,7 @@ XBB.1.7	USA-NY, S:V608I
 XBB.1.8	Denmark, S:186insSGG, C3241T
 XBB.1.9	ORF1a:G1819S, ORF1a:T4175I
 XBB.1.9.1	S:F486P, England/South Korea/Singapore/Denmark
+XBB.1.10	USA/Japan, S:A852V, S:R403K
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764S
 XBB.2.2	Defined by S:Q613H
