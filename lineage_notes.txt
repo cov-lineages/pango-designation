@@ -2380,6 +2380,7 @@ XBB.1.4	Europe, S:T883I
 XBB.1.4.1	Mainly Denmark, Norway and Sweden, defined by S:S673G, from pango-designation issue #1352
 XBB.1.5	USA, S:F486P
 XBB.1.5.1	USA, S:T573I
+XBB.1.5.2	USA, S:T284I, S:K147I
 XBB.1.6	USA, S:L216F, S:H146K, from issue #1428
 XBB.1.7	USA-NY, S:V608I
 XBB.1.8	Denmark, S:186insSGG, C3241T
