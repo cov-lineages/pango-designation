@@ -893,6 +893,7 @@ BN.1.7	Alias of B.1.1.529.2.75.5.1.7, England, S:M177T, S:H1101Y
 BN.1.8	Alias of B.1.1.529.2.75.5.1.8, Iceland/USA, S:A475V
 BN.1.9	Alias of B.1.1.529.2.75.5.1.9, found mainly in Indonesia, from pango-designation issue #1327
 BN.1.10	Alias of B.1.1.529.2.75.5.1.10, defined by S:Y145H
+BN.1.11	Alias of B.1.1.529.2.75.5.1.11, South Korea, defined by S:L176F, S:D936H
 BN.2	Alias of B.1.1.529.2.75.5.2, mainly found in India, pango-designation issue #1021
 BN.2.1	Alias of B.1.1.529.2.75.5.2.1, mainly USA and Canada lineage, defined by S:H49Y and S:F490S
 BN.3	Alias of B.1.1.529.2.75.5.3, defined by S:N450D on ORF1a:392D branch
