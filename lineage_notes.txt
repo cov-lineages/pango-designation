@@ -856,6 +856,8 @@ CH.1.1.4	Alias of B.1.1.529.2.75.3.4.1.1.1.1.4, S:H681R, Austria, from #1370
 CH.1.1.5	Alias of B.1.1.529.2.75.3.4.1.1.1.1.5, found mainly in Denmark and UK, from pango-designation issue #1539
 CH.1.1.6	Alias of B.1.1.529.2.75.3.4.1.1.1.1.6, UK, defined by S:T732I
 CH.1.1.7	Alias of B.1.1.529.2.75.3.4.1.1.1.1.7, New Zealand/Australia, defined by ORF1a:F143C
+CH.1.1.8	Alias of B.1.1.529.2.75.3.4.1.1.1.1.8, Ireland, defined by S:A846V
+CH.1.1.9	Alias of B.1.1.529.2.75.3.4.1.1.1.1.9, England, defined by S:I1232V
 CH.2	Alias of B.1.1.529.2.75.3.4.1.1.2, defined by S:Q183H
 CH.3	Alias of B.1.1.529.2.75.3.4.1.1.3, defined by S:486P on ORF1b:Q2425R branch
 CH.3.1	Alias of B.1.1.529.2.75.3.4.1.1.3.1, S:S494P, Australia/Indonesia, from #1421
