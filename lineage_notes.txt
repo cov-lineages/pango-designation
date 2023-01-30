@@ -2419,6 +2419,7 @@ XBK	Recombinant lineage of BA.5.2 and CJ.1, Denmark/Europe, from pango-designati
 XBL	Recombinant lineage of XBB.1 with S:F486P and BA.2.75, Malaysia, from issue #1532
 XBM	Recombinant lineage of BA.2.76 and BF.3, India/USA/Canada, from issue #1441
 XBN	Recombinant lineage of BA.2.75 and XBB.3, mainly found in USA, from pango-designation issue #1296
+XBP	Recombinant lineage of BA.2.75* and BQ.1*, predominantly in England and Canada, from pango-designation issue #1393
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
@@ -2700,3 +2701,4 @@ XBN	Recombinant lineage of BA.2.75 and XBB.3, mainly found in USA, from pango-de
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
 *BQ.1.1.33	Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
+
