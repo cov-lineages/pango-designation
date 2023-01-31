@@ -1160,6 +1160,7 @@ BA.5.2.48	Alias of B.1.1.529.5.2.48, China, C2710T, C8626T, T17208C, from pango-
 DY.1	Alias of B.1.1.529.5.2.48.1, China, S:A570S
 BA.5.2.49	Alias of B.1.1.529.5.2.49, China, S:T883I, A14673G, T16456C, from #1480
 DZ.1	Alias of B.1.1.529.5.2.49.1, China, S:D1146Y
+DZ.2	Alias of B.1.1.529.5.2.49.2, China, S:G75V
 BA.5.2.50	Alias of B.1.1.529.5.2.50 found mainly in China, from pango-designation issue #1542
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
