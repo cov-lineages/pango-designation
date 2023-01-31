@@ -1158,6 +1158,7 @@ BA.5.2.47	Alias of B.1.1.529.5.2.47 found mainly in Indonesia, Australia, and US
 DQ.1	Alias of B.1.1.529.5.2.47.1 found mainly in Indonesia, Germany, and USA, from pango-designation issue #1496
 BA.5.2.48	Alias of B.1.1.529.5.2.48, China, C2710T, C8626T, T17208C, from pango-designation issue #1471
 DY.1	Alias of B.1.1.529.5.2.48.1, China, S:A570S
+DY.1.1	Alias of B.1.1.529.5.2.48.1.1 found mainly in China, from pango-designation issue #1599
 BA.5.2.49	Alias of B.1.1.529.5.2.49, China, S:T883I, A14673G, T16456C, from #1480
 DZ.1	Alias of B.1.1.529.5.2.49.1, China, S:D1146Y
 DZ.2	Alias of B.1.1.529.5.2.49.2, China, S:G75V
@@ -2708,4 +2709,3 @@ XBP	Recombinant lineage of BA.2.75* and BQ.1*, predominantly in England and Cana
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
 *BQ.1.1.33	Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
-
