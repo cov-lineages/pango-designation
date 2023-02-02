@@ -887,6 +887,7 @@ DS.2	Alias of B.1.1.529.2.75.5.1.3.1.2, Germany, S:T572I
 BN.1.3.2	Alias of B.1.1.529.2.75.5.1.3.2, S:V445A found mainly in Japan, from pango-designation issue #1397
 BN.1.3.3	Alias of B.1.1.529.2.75.5.1.3.3, S:E147Q, mainly Europe
 BN.1.3.4	Alias of B.1.1.529.2.75.5.1.3.4, S:V445A, Japan/England/NZ/Russia
+BN.1.3.5	Alias of B.1.1.529.2.75.5.1.3.5 found mainly in SouthKorea, Japan and USA, from pango-designation issue #1516
 BN.1.4	Alias of B.1.1.529.2.75.5.1.4, India, 27501C
 BN.1.4.1	Alias of B.1.1.529.2.75.5.1.4.1, S:G261V & S:T678I, from #1417
 BN.1.5	Alias of B.1.1.529.2.75.5.1.5, ORF1a:S2103F
