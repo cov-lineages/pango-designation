@@ -2403,6 +2403,7 @@ XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764S
 XBB.2.2	Defined by S:Q613H
 XBB.2.3	Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA
+XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany
 XBB.3	Defined by ORF1b:I1988V on ORF1a:D82G branch
 XBB.3.1	Defined by S:Q677R, India-TN/Singapore, from issue #1241
 XBB.3.2	Defined by S:M177T
