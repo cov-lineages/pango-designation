@@ -2394,7 +2394,8 @@ XBB.1.6	USA, S:L216F, S:H146K, from issue #1428
 XBB.1.7	USA-NY, S:V608I
 XBB.1.8	Denmark, S:186insSGG, C3241T
 XBB.1.9	ORF1a:G1819S, ORF1a:T4175I
-XBB.1.9.1	S:F486P, England/South Korea/Singapore/Denmark
+XBB.1.9.1	S:F486P (after C11956T), Indonesia/Singapore/Malaysia/England
+XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore
 XBB.1.10	USA/Japan, S:A852V, S:R403K
 XBB.1.11	Indonesia/Malaysia/Singapore/US, C13968A and G16377A
 XBB.1.11.1	Indonesia/Malaysia/Singapore, S:S486P
