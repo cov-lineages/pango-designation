@@ -2563,7 +2563,6 @@ XBP	Recombinant lineage of BA.2.75* and BQ.1*, predominantly in England and Cana
 *B.1.36.13	Withdrawn: Irish lineage
 *B.1.36.14	Withdrawn: Danish lineage
 *B.1.36.15	Withdrawn: Saudi Arabia lineage
-*B.1.36.17.1	Withdrawn: Alias F.1 New Zealand lineage
 *B.1.74	Withdrawn: Spanish lineage
 *B.1.75	Withdrawn: Reassigned in the current tree. English lineage
 *B.1.79	Withdrawn: UK lineage, some now reassigned to B.1.5
