@@ -2234,7 +2234,7 @@ AY.130	Alias of B.1.617.2.130, Bahrain lineage, from pango-designation issue #35
 AY.131	Alias of B.1.617.2.131, mainly reported from Bangladesh, from pango-designation issue #373
 AY.132	Alias of B.1.617.2.132, Denmark lineage, from pango-designation issue #379
 AY.133	Alias of B.1.617.2.133, France Germany and UK lineage (with some samples from elsewhere, notably Senegal and Ghana), from pango-designation issue #380
-AY.134	European lineage within diversity of B.1.617.2. Previously assigned AY.39.4, pango-designation issue #406
+AY.134	Alias of B.1.617.2.134, European lineage, previously assigned AY.39.4, pango-designation issue #406
 B.1.617.3	Predominantly India lineage with 484Q, pango-designation issue #49
 B.1.618	India lineage in West Bengal, pango-designation issue #46
 B.1.619	Lineage in multiple countries, potentially originated in Cameroon and introduced into Europe, pango-designation issue #44
