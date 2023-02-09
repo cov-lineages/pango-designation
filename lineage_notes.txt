@@ -2404,6 +2404,7 @@ XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore
 XBB.1.10	USA/Japan, S:A852V, S:R403K
 XBB.1.11	Indonesia/Malaysia/Singapore/US, C13968A and G16377A
 XBB.1.11.1	Indonesia/Malaysia/Singapore, S:S486P
+XBB.1.12	Spain/Sweden/Germany, S:Y453F
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764S
 XBB.2.2	Defined by S:Q613H
