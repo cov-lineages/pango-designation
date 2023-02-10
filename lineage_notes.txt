@@ -1018,6 +1018,7 @@ BF.5	Alias of B.1.1.529.5.2.1.5, Israel lineage
 BF.5.1	Alias of B.1.1.529.5.2.1.5.1 found mainly in Japan and Israel, from pango-designation issue #1475
 BF.5.2	Alias of B.1.1.529.5.2.1.5.2 found mainly in Japan, from pango-designation issue #1476
 BF.5.3	Alias of B.1.1.529.5.2.1.5.3 found mainly in Japan, from pango-designation issue #1526
+BF.5.4	Alias of B.1.1.529.5.2.1.5.4 Japan, ORF1a:K3839R
 BF.6	Alias of B.1.1.529.5.2.1.6, mainly found in England and Scotland, from pango-designation issue #821
 BF.7	Alias of B.1.1.529.5.2.1.7, mainly found in Belgium, England and Denmark, from pango-designation issue #827
 BF.7.1	Alias of B.1.1.529.5.2.1.7.1, mainly found in Germany, S:G261V, from pango-designation issue #1132
