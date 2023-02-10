@@ -2443,6 +2443,8 @@ XBD	Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-desig
 XBE	Recombinant lineage of BA.5.2 and BE.4.1, predominantly in USA and England, from pango-designation issue #1246
 XBF	Recombinant lineage of BA.5.2.3 and CJ.1, Australia, from pango-designation issue #1259
 XBF.1	Mostly Australia, S:S939F
+XBF.2	Australia, ORF8:V62A
+XBF.3	Australia, ORF1a:V274I
 XBG	Recombinant lineage of BA.2.76 and BA.5.2, predominantly in UK, from pango-designation issue #896
 XBH	Recombinant lineage of BA.2.3.17 and BA.2.75.2, predominantly in Brunei, from pango-designation issue #1229
 XBJ	Recombinant lineage of BA.2.3.20 and BA.5.2, possibly Philippines, from pango-designation issue #1268
