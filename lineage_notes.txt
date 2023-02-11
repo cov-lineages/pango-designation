@@ -1313,10 +1313,13 @@ BA.5.5.3	Alias of B.1.1.529.5.5.3, USA lineage, from pango-designation issue #10
 BA.5.6	Alias of B.1.1.529.5.6, USA lineage
 BA.5.6.1	Alias of B.1.1.529.5.6.1, Peru lineage
 BA.5.6.2	Alias of B.1.1.529.5.6.2, mainly found in USA, Belgium and Mexico, from pango-designation issue #903
-BA.5.6.3	Alias of B.1.1.529.5.6.3, mainly found in England, from pango-designation issue #1118
-BA.5.6.4	Alias of B.1.1.529.5.6.4, found in USA and Europe, from pango-designation issue #1191
 BW.1	Alias of B.1.1.529.5.6.2.1, Mexico lineage, from pango-designation issue #1059, defined by S:460K
 BW.1.1	Alias of B.1.1.529.5.6.2.1.1, Mexico lineage, defined by S:V486A, issue #1341
+BW.1.1.1	Alias of B.1.1.529.5.6.2.1.1.1, Mexico, ORF1a:L864F
+BW.1.1.2	Alias of B.1.1.529.5.6.2.1.1.2, Mexico, ORF1b:P1101S
+BW.1.2	Alias of B.1.1.529.5.6.2.1.2, Mexico lineage, defined by S:R346S
+BA.5.6.3	Alias of B.1.1.529.5.6.3, mainly found in England, from pango-designation issue #1118
+BA.5.6.4	Alias of B.1.1.529.5.6.4, found in USA and Europe, from pango-designation issue #1191
 BA.5.7	Alias of B.1.1.529.5.7, Australia lineage
 BA.5.8	Alias of B.1.1.529.5.8, mainly found in England, USA, Denmark and Scotland, from pango-designation issue #743
 BA.5.9	Alias of B.1.1.529.5.9, mainly found in Germany, Switzerland and Denmark, from pango-designation issue #753
