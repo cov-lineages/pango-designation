@@ -1214,6 +1214,7 @@ BQ.1	Alias of B.1.1.529.5.3.1.1.1.1.1, Nigeria lineage, from pango-designation i
 BQ.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1, found globally, defining mutations ORF1b:N1191S and S:R346T, from issue #993
 BQ.1.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.1, Europe, ORF1b:V1639A
 CZ.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.1.1, England/SouthKorea/Romania, S:F490I
+CZ.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.1.2, S:A688V
 BQ.1.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.2, England, S:D253G, from issue #1209
 DU.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.2.1 found mainly in UK, from pango-designation issue #1540
 BQ.1.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.1.3, England, A15111G
