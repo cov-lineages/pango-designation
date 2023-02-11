@@ -1102,6 +1102,8 @@ BF.38.3	Alias of B.1.1.529.5.2.1.38.3, Japan, S:P1162S
 BF.39	Alias of B.1.1.529.5.2.1.39, S:G181V
 BF.39.1	Alias of B.1.1.529.5.2.1.39.1, Chile/Peru, S:V445A, S:N450D
 BF.40	Alias of B.1.1.529.5.2.1.40, S:V445A
+BF.41	Alias of B.1.1.529.5.2.1.41, Brazil, ORF7b:A43V
+BF.41.1	Alias of B.1.1.529.5.2.1.41.1, Brazil, S:R346T
 BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
 BA.5.2.3	Alias of B.1.1.529.5.2.3, UK lineage
 BZ.1	Alias of B.1.1.529.5.2.3.1, Denmark lineage, defined by S:Q677H
