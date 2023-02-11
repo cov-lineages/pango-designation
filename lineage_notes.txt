@@ -1169,7 +1169,7 @@ BA.5.2.30	Alias of B.1.1.529.5.2.30, Europe lineage, defined by S:G446D
 BA.5.2.31	Alias of B.1.1.529.5.2.31, US lineage, defined by S:L84I
 CD.1	Alias of B.1.1.529.5.2.31.1, US lineage, defined by S:G446D, S:A688T
 CD.2	Alias of B.1.1.529.5.2.31.2, US lineage, defined by S:A435S
-BA.5.2.32	Alias of B.1.1.529.5.2.32, Russia lineage, defined by S:N450D
+BA.5.2.32	Alias of B.1.1.529.5.2.32, Russia lineage, defined by S:N450D after ORF8:T87I
 BA.5.2.33	Alias of B.1.1.529.5.2.33, UK lineage, defined by ORF8:P93S
 CE.1	Alias of B.1.1.529.5.2.33.1, UK lineage, defined by S:R346I
 BA.5.2.34	Alias of B.1.1.529.5.2.34, mainly found in Israel and USA, from pango-designation issue #992
