@@ -1015,6 +1015,7 @@ BA.5.1.35	Alias of B.1.1.529.5.1.35, ORF1a:I1525M
 EB.1	Alias of B.1.1.529.5.1.35.1, USA, S:R346T
 BA.5.1.36	Alias of B.1.1.529.5.1.36, USA, S:R346T, S:G261V
 BA.5.1.37	Alias of B.1.1.529.5.1.37, S:R346T, S:Y248N
+BA.5.1.38	Alias of B.1.1.529.5.1.38, Japan, ORF8:S103L, S:R346T
 BA.5.2	Alias of B.1.1.529.5.2, mainly found in South Africa, England and USA, from pango-designation issue #551
 BA.5.2.1	Alias of B.1.1.529.5.2.1, mainly found in South Africa, England and USA, from pango-designation issue #657
 BF.1	Alias of B.1.1.529.5.2.1.1, mainly found in England, Denmark, Spain and Scotland, from pango-designation issue #618
@@ -1053,6 +1054,8 @@ BF.7.14.1	Alias of B.1.1.529.5.2.1.7.14.1 found mainly in China and Japan, conta
 BF.7.14.2	Alias of B.1.1.529.5.2.1.7.14.2 China, S:Q14H
 BF.7.14.3	Alias of B.1.1.529.5.2.1.7.14.3 China, S:A626V
 BF.7.15	Alias of B.1.1.529.5.2.1.7.15, Japan, S:G257D & ORF1a:A1812V, from issue #1358
+BF.7.16	Alias of B.1.1.529.5.2.1.7.16, ORF1a:A498V
+BF.7.16.1	Alias of B.1.1.529.5.2.1.7.16.1, Canada, S:A688V
 BF.8	Alias of B.1.1.529.5.2.1.8, USA lineage
 BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
 BF.10	Alias of B.1.1.529.5.2.1.10, USA lineage
