@@ -1257,6 +1257,7 @@ BQ.1.1.31	Alias of B.1.1.529.5.3.1.1.1.1.1.1.31, Indonesia/global, S:S256L
 BQ.1.1.32	Alias of B.1.1.529.5.3.1.1.1.1.1.1.32 found mainly in USA, S:153I, S:144-, from pango-designation issue #1402
 DT.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.32.1 England, S:F494P, from issue #1484
 DT.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.32.2 found mainly in USA, from pango-designation issue #1612
+DT.3	Alias of B.1.1.529.5.3.1.1.1.1.1.1.32.3 USA, S:L176F
 BQ.1.1.34	Alias of B.1.1.529.5.3.1.1.1.1.1.1.34, England, S:144-, S:494P, from issue #1483
 BQ.1.1.35	Alias of B.1.1.529.5.3.1.1.1.1.1.1.35, Canada, S:K147E, ORF1a:A1812T
 BQ.1.1.36	Alias of B.1.1.529.5.3.1.1.1.1.1.1.36, Brazil, S:T883I
@@ -1292,7 +1293,8 @@ BQ.1.1.63	Alias of B.1.1.529.5.3.1.1.1.1.1.1.63 USA, S:Y248H
 BQ.1.1.64	Alias of B.1.1.529.5.3.1.1.1.1.1.1.64 South Africa, S:F186S
 BQ.1.1.65	Alias of B.1.1.529.5.3.1.1.1.1.1.1.65 Mexico, S:K147I, N:T135I
 BQ.1.1.66	Alias of B.1.1.529.5.3.1.1.1.1.1.1.66 England/France, S:K147N
-BQ.1.1.67	Alias of B.1.1.529.5.3.1.1.1.1.1.1.66 S:L176F
+BQ.1.1.67	Alias of B.1.1.529.5.3.1.1.1.1.1.1.67 S:L176F
+BQ.1.1.68	Alias of B.1.1.529.5.3.1.1.1.1.1.1.68 USA, ORF1a:V1211I
 BQ.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2, found globally, defined by S:I666V, from issue #1082
 BQ.1.2.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1 found mainly in Japan, SouthKorea and Mongolia, from pango-designation issue #1392
 BQ.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.3, found globally, defined by S:E619Q, from issue #1082
