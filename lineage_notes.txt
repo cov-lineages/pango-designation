@@ -1003,6 +1003,9 @@ BA.5.1.27	Alias of B.1.1.529.5.1.27, mainly found in North America, defined by S
 BA.5.1.28	Alias of B.1.1.529.5.1.28, mainly found in North America, defined by S:R346T (and A18480G)
 BA.5.1.29	Alias of B.1.1.529.5.1.29, mainly found in Russia, Germany and Estonia, from pango-designation issue #1060
 CL.1	Alias of B.1.1.529.5.1.29.1, S:150E and S:460K, issue #1187
+CL.1.1	Alias of B.1.1.529.5.1.29.1.1, S:P1162L
+CL.1.2	Alias of B.1.1.529.5.1.29.1.2, S:T883I
+CL.1.3	Alias of B.1.1.529.5.1.29.1.3, S:S71F
 BA.5.1.30	Alias of B.1.1.529.5.1.30, ORF6:D6G
 BA.5.1.31	Alias of B.1.1.529.5.1.31, found mainly in France and Denmark, from pango-designation issue #991
 BA.5.1.32	Alias of B.1.1.529.5.1.32 found mainly in Germany and China, from pango-designation issue #1488
