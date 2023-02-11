@@ -1203,6 +1203,8 @@ BA.5.2.54	Alias of B.1.1.529.5.2.54 Guatemala, S:N450D
 BA.5.2.55	Alias of B.1.1.529.5.2.55 Japan, C5548A
 BA.5.2.56	Alias of B.1.1.529.5.2.56 UK, S:K444M
 BA.5.2.57	Alias of B.1.1.529.5.2.57 S:R346S
+BA.5.2.58	Alias of B.1.1.529.5.2.58 S:R346S after C9565T, C11479T, C12085T
+BA.5.2.59	Alias of B.1.1.529.5.2.59 USA, S:V1264L
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
