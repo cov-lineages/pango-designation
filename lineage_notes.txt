@@ -1225,7 +1225,7 @@ DT.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.32.2 found mainly in USA, from pango-des
 BQ.1.1.34	Alias of B.1.1.529.5.3.1.1.1.1.1.1.34, England, S:144-, S:494P, from issue #1483
 BQ.1.1.35	Alias of B.1.1.529.5.3.1.1.1.1.1.1.35, Canada, S:K147E, ORF1a:A1812T
 BQ.1.1.36	Alias of B.1.1.529.5.3.1.1.1.1.1.1.36, Brazil, S:T883I
-BQ.1.1.37	Alias of B.1.1.529.5.3.1.1.1.1.1.1.37 found mainly in Italy, from pango-designation issue #1571
+BQ.1.1.37	Alias of B.1.1.529.5.3.1.1.1.1.1.1.37 Italy, ins_S:247:SAE, S:Y248D, from #1571
 BQ.1.1.38	Alias of B.1.1.529.5.3.1.1.1.1.1.1.38 found mainly in South Africa and USA, from pango-designation issue #1419
 BQ.1.1.39	Alias of B.1.1.529.5.3.1.1.1.1.1.1.39 found mainly in England, Singapore and Canada, from pango-designation issue #1385
 BQ.1.1.40	Alias of B.1.1.529.5.3.1.1.1.1.1.1.40 Canada, defined by N:T24I
@@ -1260,6 +1260,8 @@ BQ.1.13	Alias of B.1.1.529.5.3.1.1.1.1.1.13, international lineage, ORF1a:V627I
 BQ.1.13.1	Alias of B.1.1.529.5.3.1.1.1.1.1.13.1 found mainly in USA and Europe, from pango-designation issue #1400
 BQ.1.14	Alias of B.1.1.529.5.3.1.1.1.1.1.14, international lineage, 18570A
 BQ.1.15	Alias of B.1.1.529.5.3.1.1.1.1.1.15, international lineage, ORF1a:L3116F
+BQ.1.15.1	Alias of B.1.1.529.5.3.1.1.1.1.1.15.1, Canada, ins_S:247:SKWL, C17745T
+BQ.1.15.2	Alias of B.1.1.529.5.3.1.1.1.1.1.15.2, Canada, ins_S:247:SKWL, C6286T
 BQ.1.16	Alias of B.1.1.529.5.3.1.1.1.1.1.16, international lineage, ORF1a:A540V
 BQ.1.17	Alias of B.1.1.529.5.3.1.1.1.1.1.17, Denmark/Germany, S:K444T mutated further to S:444M
 BQ.1.18	Alias of B.1.1.529.5.3.1.1.1.1.1.18, Denmark/Austria, E:P71S, then S:R346T and S:Y144-
