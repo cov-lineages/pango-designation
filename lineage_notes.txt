@@ -1236,6 +1236,7 @@ BQ.1.1.4	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4, T29173C
 EE.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4.1, USA, N:T366I
 EE.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4.2, ORF1b:V1538I
 EE.3	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4.3, Canada/USA, C22498T
+EE.4	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4.4, Europe, S:Q52H
 BQ.1.1.5	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5, ORF1b:P2313L, ORF1a:V3855I
 DN.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1, S:K147N
 DN.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1.1 found mainly in UK and Denmark, from pango-designation issue #1463
