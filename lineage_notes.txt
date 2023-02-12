@@ -1208,6 +1208,7 @@ BA.5.2.58	Alias of B.1.1.529.5.2.58 S:R346S after C9565T, C11479T, C12085T
 BA.5.2.59	Alias of B.1.1.529.5.2.59 USA, S:V1264L
 BA.5.2.60	Alias of B.1.1.529.5.2.60 Europe, S:N450D, ORF1a:K3832R after ORF1b:P1727L
 BA.5.2.61	Alias of B.1.1.529.5.2.61 S:N450D, ORF1b:Q2070L
+BA.5.2.62	Alias of B.1.1.529.5.2.62 S:A653V on BA.5.2 polytomy
 BA.5.3	Alias of B.1.1.529.5.3, mainly found in Germany and South Africa, from pango-designation issue #550
 BA.5.3.1	Alias of B.1.1.529.5.3.1, mainly found in South Africa, Austria, and England, from pango-designation issue #625
 BE.1	Alias of B.1.1.529.5.3.1.1, mainly found in South Africa, Austria and England, from pango-designation issue #625
