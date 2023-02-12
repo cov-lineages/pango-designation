@@ -1107,6 +1107,7 @@ BF.41.1	Alias of B.1.1.529.5.2.1.41.1, Brazil, S:R346T
 BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
 BA.5.2.3	Alias of B.1.1.529.5.2.3, UK lineage
 BZ.1	Alias of B.1.1.529.5.2.3.1, Denmark lineage, defined by S:Q677H
+BZ.2	Alias of B.1.1.529.5.2.3.2, S:N450D, ORF1a:H2794Y
 BA.5.2.4	Alias of B.1.1.529.5.2.4, Australia lineage
 BA.5.2.5	Alias of B.1.1.529.5.2.5, Indonesia lineage
 BA.5.2.6	Alias of B.1.1.529.5.2.6, global lineage, S:R346T, from pango-designation issue #870
@@ -1198,8 +1199,8 @@ DZ.2	Alias of B.1.1.529.5.2.49.2, China, S:G75V
 BA.5.2.50	Alias of B.1.1.529.5.2.50 China, ORF1a:S2488F after ORF1b:P1727L, issue #1542
 BA.5.2.51	Alias of B.1.1.529.5.2.51 Russia/Estonia, S:K444R after ORF1b:P1727L
 BA.5.2.52	Alias of B.1.1.529.5.2.52 S:N450D after ORF1a:D2060N
-BA.5.2.53	Alias of B.1.1.529.5.2.53 USA, S:A653V
-BA.5.2.54	Alias of B.1.1.529.5.2.54 Guatemala, S:N450D
+BA.5.2.53	Alias of B.1.1.529.5.2.53 USA, S:A653V after T17928C
+BA.5.2.54	Alias of B.1.1.529.5.2.54 Guatemala, S:N450D after C11020T
 BA.5.2.55	Alias of B.1.1.529.5.2.55 Japan, C5548A
 BA.5.2.56	Alias of B.1.1.529.5.2.56 UK, S:K444M
 BA.5.2.57	Alias of B.1.1.529.5.2.57 S:R346S
