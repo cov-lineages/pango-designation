@@ -1233,6 +1233,7 @@ DU.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.2.1 found mainly in UK, from pango-desig
 BQ.1.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.1.3, England, A15111G
 DR.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.3.1, found mainly in USA, from pango-designation issue #1420
 BQ.1.1.4	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4, T29173C
+EE.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.4.1, USA, N:T366I
 BQ.1.1.5	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5, ORF1b:P2313L, ORF1a:V3855I
 DN.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1, S:K147N
 DN.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1.1 found mainly in UK and Denmark, from pango-designation issue #1463
