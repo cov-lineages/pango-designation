@@ -1059,12 +1059,14 @@ BF.7.16.1	Alias of B.1.1.529.5.2.1.7.16.1, Canada, S:A688V
 BF.7.17	Alias of B.1.1.529.5.2.1.7.17, Japan/Germany, S:A688V, S:G1167S
 BF.7.18	Alias of B.1.1.529.5.2.1.7.18, South Korea, S:K97N
 BF.7.19	Alias of B.1.1.529.5.2.1.7.19, ORF7a:R118S
+BF.7.19.1	Alias of B.1.1.529.5.2.1.7.19.1, Japan, T7111C,C1915T,C16470T,A26219G on ORF8:T87I branch
 BF.7.20	Alias of B.1.1.529.5.2.1.7.20, G15543T
 BF.7.21	Alias of B.1.1.529.5.2.1.7.21, C28603T
 BF.7.22	Alias of B.1.1.529.5.2.1.7.22, ORF8:V81I
 BF.7.23	Alias of B.1.1.529.5.2.1.7.23, ORF1b:T239I
 BF.7.24	Alias of B.1.1.529.5.2.1.7.24, T10939C
 BF.7.25	Alias of B.1.1.529.5.2.1.7.25, C29708T
+BF.7.26	Alias of B.1.1.529.5.2.1.7.25, G20679A
 BF.8	Alias of B.1.1.529.5.2.1.8, USA lineage
 BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
 BF.10	Alias of B.1.1.529.5.2.1.10, USA lineage
