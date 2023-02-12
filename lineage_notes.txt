@@ -1290,7 +1290,7 @@ BQ.1.1.48	Alias of B.1.1.529.5.3.1.1.1.1.1.1.48 S:H245N
 BQ.1.1.49	Alias of B.1.1.529.5.3.1.1.1.1.1.1.49 S:H1083D
 BQ.1.1.50	Alias of B.1.1.529.5.3.1.1.1.1.1.1.50 found mainly in Peru, from pango-designation issue #1577
 BQ.1.1.51	Alias of B.1.1.529.5.3.1.1.1.1.1.1.51 USA, ORF3a:L101F
-BQ.1.1.52	Alias of B.1.1.529.5.3.1.1.1.1.1.1.52 USA/Mexico
+BQ.1.1.52	Alias of B.1.1.529.5.3.1.1.1.1.1.1.52 USA/Mexico, C7006T
 EA.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.52.1 ORF8:C102F/ins_S:247:SKWL, issue #1635
 EA.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.52.2 S:T470I
 BQ.1.1.53	Alias of B.1.1.529.5.3.1.1.1.1.1.1.53 S:N185D
