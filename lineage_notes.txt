@@ -1065,7 +1065,6 @@ BF.7.21	Alias of B.1.1.529.5.2.1.7.21, C28603T
 BF.7.22	Alias of B.1.1.529.5.2.1.7.22, ORF8:V81I
 BF.7.23	Alias of B.1.1.529.5.2.1.7.23, ORF1b:T239I
 BF.7.24	Alias of B.1.1.529.5.2.1.7.24, T10939C
-BF.7.25	Alias of B.1.1.529.5.2.1.7.25, C29708T
 BF.7.26	Alias of B.1.1.529.5.2.1.7.26, G20679A
 BF.8	Alias of B.1.1.529.5.2.1.8, USA lineage
 BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
@@ -2634,6 +2633,7 @@ XBP	Recombinant lineage of BA.2.75* and BQ.1*, predominantly in England and Cana
 *BA.2.36.1	Withdrawn: Redesignated as BA.2.82
 *BA.2.84	Withdrawn: Redesignated as BA.2.31.1
 *BA.5.1.13	Withdrawn: Defined solely by Artic v3 artefacts, see issue #1029
+*BF.7.25	Withdrawn: Invisible to pangolin as positions C29708T is part of masked regions 1-255 and 29674-29903. Alias of B.1.1.529.5.2.1.7.25, C29708T
 *BA.5.2.15	Withdrawn: Redesignated as CF.1, being a child of BA.5.2.27, B.1.1.529.5.2.15, found in USA and Mexico, from pango-designation issue #1054
 *BA.5.2.17	Withdrawn: Redesignated as BV.1, being a child of BA.5.2.20
 *BA.5.4	Withdrawn: see issue #618. England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)).
