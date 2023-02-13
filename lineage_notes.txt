@@ -1091,26 +1091,26 @@ BF.22	Alias of B.1.1.529.5.2.1.22, mainly found in Japan, from pango-designation
 BF.23	Alias of B.1.1.529.5.2.1.23, mainly found in Czechia, from pango-designation issue #1036
 BF.24	Alias of B.1.1.529.5.2.1.24, mainly found in Indonesia, defined by ORF1a:G683C on S:1020S branch
 BF.25	Alias of B.1.1.529.5.2.1.25, USA lineage, defined by S:445A and C18657T
-BF.26	Alias of B.1.1.529.5.2.1.26, North America lineage, defined by ORF1b:G376S, issue #1142
+BF.26	Alias of B.1.1.529.5.2.1.26, North America lineage, defined by ORF1b:G376S, on C5284T branch, issue #1142
 BF.27	Alias of B.1.1.529.5.2.1.27, Singapore lineage, defined by ORF1a:A2784V, issue #1140
 BF.28	Alias of B.1.1.529.5.2.1.28, Singapore lineage, defined by ORF1a:Q44L, issue #1141
 BF.29	Alias of B.1.1.529.5.2.1.29, mainly found in Denmark and USA, from pango-designation issue #1162
 BF.30	Alias of B.1.1.529.5.2.1.30, South Africa/England, defined by S:R346T after C25916T, C14599T
 BF.31	Alias of B.1.1.529.5.2.1.31, Chile, 23758T
 BF.31.1	Alias of B.1.1.529.5.2.1.31.1, Chile, S:A701V and S:S247N/S:Y248-
-BF.32	Alias of B.1.1.529.5.2.1.32, found mainly in USA, from pango-designation issue #1250
+BF.32	Alias of B.1.1.529.5.2.1.32, found mainly in USA, on C5284T branch, from pango-designation issue #1250
 BF.33	Alias of B.1.1.529.5.2.1.33, Brazil/France, S:R346I, S:N460K
 BF.34	Alias of B.1.1.529.5.2.1.34, found mainly in UK and Canada, from pango-designation issue #1233
 BF.35	Alias of B.1.1.529.5.2.1.35, Japan/Malaysia, S:N450D, ORF1a:L730R
 BF.36	Alias of B.1.1.529.5.2.1.36, ORF1a:S166G,ORF1b:S1273L,ORF1b:A1428V
-BF.37	Alias of B.1.1.529.5.2.1.37, Japan, ORF1a:S944L, S:G446D
+BF.37	Alias of B.1.1.529.5.2.1.37, Japan, ORF1a:S944L, S:G446D, on C5284T branch
 BF.38	Alias of B.1.1.529.5.2.1.38, Japan, C17304T
 BF.38.1	Alias of B.1.1.529.5.2.1.38.1, Japan, S:Q1201K
 BF.38.2	Alias of B.1.1.529.5.2.1.38.2, Japan, S:V445A
 BF.38.3	Alias of B.1.1.529.5.2.1.38.3, Japan, S:P1162S
 BF.39	Alias of B.1.1.529.5.2.1.39, S:G181V
 BF.39.1	Alias of B.1.1.529.5.2.1.39.1, Chile/Peru, S:V445A, S:N450D
-BF.40	Alias of B.1.1.529.5.2.1.40, S:V445A
+BF.40	Alias of B.1.1.529.5.2.1.40, S:V445A, on C5284T branch
 BF.41	Alias of B.1.1.529.5.2.1.41, Brazil, ORF7b:A43V
 BF.41.1	Alias of B.1.1.529.5.2.1.41.1, Brazil, S:R346T
 BA.5.2.2	Alias of B.1.1.529.5.2.2, France and Martinique lineage
