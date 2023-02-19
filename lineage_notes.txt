@@ -2562,6 +2562,7 @@ XBM	Recombinant lineage of BA.2.76 and BF.3, India/USA/Canada, from issue #1441
 XBN	Recombinant lineage of BA.2.75 and XBB.3, mainly found in USA, from pango-designation issue #1296
 XBP	Recombinant lineage of BA.2.75* and BQ.1*, predominantly in England and Canada, from pango-designation issue #1393
 XBQ	Recombinant lineage of BA.5.2 and CJ.1, defined by ORF1b:M454I, England and Canada, issue #1440 and autolin 
+XBR	Recombinant lineage of BA.2.75* and BQ.1 (with S:R346T), England, Canada, USA, from issue #1637
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
