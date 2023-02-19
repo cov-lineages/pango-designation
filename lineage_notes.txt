@@ -2556,6 +2556,7 @@ XBF.4	Europe, ORF1a:H417Y, from https://github.com/jmcbroome/auto-pango-designat
 XBF.5	Australia, C2455T 
 XBF.6	Australia, ORF1a:V3986A
 XBF.7	Global, N:T379I (not on ORF1a:K120N branch)
+XBF.7.1	S:T323I
 XBG	Recombinant lineage of BA.2.76 and BA.5.2, predominantly in UK, from pango-designation issue #896
 XBH	Recombinant lineage of BA.2.3.17 and BA.2.75.2, predominantly in Brunei, from pango-designation issue #1229
 XBJ	Recombinant lineage of BA.2.3.20 and BA.5.2, possibly Philippines, from pango-designation issue #1268
