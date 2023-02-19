@@ -894,6 +894,7 @@ BN.1.3	Alias of B.1.1.529.2.75.5.1.3, India, ORF3a:T229I
 BN.1.3.1	Alias of B.1.1.529.2.75.5.1.3.1, found mainly in Israel, England and Denmark, from pango-designation issue #1257
 DS.1	Alias of B.1.1.529.2.75.5.1.3.1.1, USA/Ireland/Austria, S:F486S, S:R403K
 DS.2	Alias of B.1.1.529.2.75.5.1.3.1.2, Germany, S:T572I
+DS.3	Alias of B.1.1.529.2.75.5.1.3.1.3, Denmark, ORF3a:G254V
 BN.1.3.2	Alias of B.1.1.529.2.75.5.1.3.2, S:V445A found mainly in Japan, from pango-designation issue #1397
 BN.1.3.3	Alias of B.1.1.529.2.75.5.1.3.3, S:E147Q, mainly Europe
 BN.1.3.4	Alias of B.1.1.529.2.75.5.1.3.4, S:V445A, Japan/England/NZ/Russia
