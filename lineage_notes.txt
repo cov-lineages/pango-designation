@@ -1069,6 +1069,7 @@ BF.7.22	Alias of B.1.1.529.5.2.1.7.22, ORF8:V81I
 BF.7.23	Alias of B.1.1.529.5.2.1.7.23, ORF1b:T239I
 BF.7.24	Alias of B.1.1.529.5.2.1.7.24, T10939C
 BF.7.26	Alias of B.1.1.529.5.2.1.7.26, G20679A
+BF.7.27	Alias of B.1.1.529.5.2.1.7.27, C8752T, sibling of BF.7.14
 BF.8	Alias of B.1.1.529.5.2.1.8, USA lineage
 BF.9	Alias of B.1.1.529.5.2.1.9, Canada lineage
 BF.10	Alias of B.1.1.529.5.2.1.10, USA lineage
