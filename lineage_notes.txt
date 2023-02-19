@@ -2556,6 +2556,7 @@ XBG	Recombinant lineage of BA.2.76 and BA.5.2, predominantly in UK, from pango-d
 XBH	Recombinant lineage of BA.2.3.17 and BA.2.75.2, predominantly in Brunei, from pango-designation issue #1229
 XBJ	Recombinant lineage of BA.2.3.20 and BA.5.2, possibly Philippines, from pango-designation issue #1268
 XBK	Recombinant lineage of BA.5.2 and CJ.1, Denmark/Europe, from pango-designation issue #1418
+XBK.1	S:P1162S, from #1551 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 XBL	Recombinant lineage of XBB.1 with S:F486P and BA.2.75, Malaysia, from issue #1532
 XBM	Recombinant lineage of BA.2.76 and BF.3, India/USA/Canada, from issue #1441
 XBN	Recombinant lineage of BA.2.75 and XBB.3, mainly found in USA, from pango-designation issue #1296
