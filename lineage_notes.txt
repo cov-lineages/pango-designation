@@ -1279,6 +1279,7 @@ BQ.1.1.25	Alias of B.1.1.529.5.3.1.1.1.1.1.1.25, USA/Canada, S:F490S and S:Y144-
 BQ.1.1.26	Alias of B.1.1.529.5.3.1.1.1.1.1.1.26, S:E471Q
 BQ.1.1.27	Alias of B.1.1.529.5.3.1.1.1.1.1.1.27, France/USA, S:G181R, ORF1a:F2864L, on G6421T branch
 BQ.1.1.28	Alias of B.1.1.529.5.3.1.1.1.1.1.1.28, S:P251L, ORF1b:P976S, on C18828T branch
+EH.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.28.1, Europe, S:S247N, S:Y248S, from #1648
 BQ.1.1.29	Alias of B.1.1.529.5.3.1.1.1.1.1.1.29, S:Q613H
 BQ.1.1.30	Alias of B.1.1.529.5.3.1.1.1.1.1.1.30, Canada, S:V445A
 BQ.1.1.31	Alias of B.1.1.529.5.3.1.1.1.1.1.1.31, Indonesia/global, S:S256L
