@@ -1203,6 +1203,7 @@ DY.1	Alias of B.1.1.529.5.2.48.1, China, S:A570S
 DY.1.1	Alias of B.1.1.529.5.2.48.1.1 found mainly in China, from pango-designation issue #1599
 DY.2	Alias of B.1.1.529.5.2.48.2, China, N:Q241K, from #1478
 DY.3	Alias of B.1.1.529.5.2.48.3, China, ORF1a:T1788M
+DY.4	Alias of B.1.1.529.5.2.48.4, China, ORF1b:T2432I
 BA.5.2.49	Alias of B.1.1.529.5.2.49, China, S:T883I, A14673G, T16456C, from #1480
 DZ.1	Alias of B.1.1.529.5.2.49.1, China, S:D1146Y
 DZ.2	Alias of B.1.1.529.5.2.49.2, China, S:G75V
