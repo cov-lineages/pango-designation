@@ -2564,6 +2564,7 @@ XBP	Recombinant lineage of BA.2.75* and BQ.1*, predominantly in England and Cana
 XBQ	Recombinant lineage of BA.5.2 and CJ.1, defined by ORF1b:M454I, England and Canada, issue #1440 and autolin 
 XBR	Recombinant lineage of BA.2.75* and BQ.1 (with S:R346T), England, Canada, USA, from issue #1637
 XBS	Recombinant lineage of BA.2.75* and BQ.1 (with S:R346T), England, from issue #1567
+XBT	Recombinant lineage of BA.5.2.34, BA.2.75, BA.5.2.34, Germany, from issue #1576
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
