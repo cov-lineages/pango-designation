@@ -2538,7 +2538,7 @@ XBB.1.5.12	S:T323I
 XBB.1.5.13	T21880C, G28079T
 EK.1	Alias of XBB.1.5.13.1, S:K417S, Austria from #1638
 XBB.1.5.14	C2695T, Europe/US
-EL.1	Alias of XBB.1.5.14.1, S:Q675H, Europe
+EL.1	Alias of XBB.1.5.14.1, S:Q675H, Europe, from #1631
 XBB.1.6	USA, S:L216F, S:H146K, from issue #1428
 XBB.1.7	USA-NY, S:V608I
 XBB.1.8	Denmark, S:186insSGG, C3241T
