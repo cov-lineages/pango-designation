@@ -1077,6 +1077,7 @@ BF.7.14.3	Alias of B.1.1.529.5.2.1.7.14.3 China, S:A626V
 BF.7.14.4	Alias of B.1.1.529.5.2.1.7.14.4 China, ORF1a:T1844I
 BF.7.14.5	Alias of B.1.1.529.5.2.1.7.14.5 China, C20703T
 BF.7.14.6	Alias of B.1.1.529.5.2.1.7.14.6 China, C1973T
+BF.7.14.7	Alias of B.1.1.529.5.2.1.7.14.7 found mainly in China, from pango-designation issue #1672
 BF.7.15	Alias of B.1.1.529.5.2.1.7.15, Japan, S:G257D & ORF1a:A1812V, from issue #1358
 BF.7.16	Alias of B.1.1.529.5.2.1.7.16, ORF1a:A498V
 BF.7.16.1	Alias of B.1.1.529.5.2.1.7.16.1, Canada, S:A688V
