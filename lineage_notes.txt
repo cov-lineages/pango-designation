@@ -1228,7 +1228,7 @@ BA.5.2.46	Alias of B.1.1.529.5.2.46 found mainly in Japan, from pango-designatio
 BA.5.2.47	Alias of B.1.1.529.5.2.47 found mainly in Indonesia, Australia, and USA, from pango-designation issue #1496
 DQ.1	Alias of B.1.1.529.5.2.47.1 found mainly in Indonesia, Germany, and USA, from pango-designation issue #1496
 BA.5.2.48	Alias of B.1.1.529.5.2.48, China, C2710T, C8626T, T17208C, from pango-designation issue #1471
-DY.1	Alias of B.1.1.529.5.2.48.1, China, S:A570S
+DY.1	Alias of B.1.1.529.5.2.48.1, China, S:A570S, from #1479
 DY.1.1	Alias of B.1.1.529.5.2.48.1.1 found mainly in China, from pango-designation issue #1599
 DY.2	Alias of B.1.1.529.5.2.48.2, China, N:Q241K, from #1478
 DY.3	Alias of B.1.1.529.5.2.48.3, China, ORF1a:T1788M, from #1472
