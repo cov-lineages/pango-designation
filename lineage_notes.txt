@@ -1033,6 +1033,7 @@ BA.5.1.30	Alias of B.1.1.529.5.1.30, ORF6:D6G
 BA.5.1.31	Alias of B.1.1.529.5.1.31, found mainly in France and Denmark, from pango-designation issue #991
 BA.5.1.32	Alias of B.1.1.529.5.1.32, found mainly in Germany and China, from pango-designation issue #1488
 BA.5.1.33	Alias of B.1.1.529.5.1.33, S:V1264L
+EQ.1	Alias of B.1.1.529.5.1.33.1 found mainly in Germany, France, Japan and Denmark, from pango-designation issue #1522
 BA.5.1.34	Alias of B.1.1.529.5.1.34, Denmark, S:P1162S
 BA.5.1.35	Alias of B.1.1.529.5.1.35, ORF1a:I1525M
 EB.1	Alias of B.1.1.529.5.1.35.1, USA, S:R346T
