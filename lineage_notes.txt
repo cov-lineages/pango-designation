@@ -1159,6 +1159,7 @@ CP.5	Alias of B.1.1.529.5.2.6.5, South Africa, S:C1247F
 CP.6	Alias of B.1.1.529.5.2.6.6, S:V1264L
 BA.5.2.7	Alias of B.1.1.529.5.2.7, global lineage, from pango-designation issue #924
 CY.1	Alias of B.1.1.529.5.2.7.1, found mainly in Belgium, Netherlands and Luxembourg, from pango-designation issue #1247
+CY.2	Alias of B.1.1.529.5.2.7.2 found in Japan, from pango-designation issue #1474
 BA.5.2.8	Alias of B.1.1.529.5.2.8, Israel lineage
 BA.5.2.9	Alias of B.1.1.529.5.2.9, USA lineage
 BA.5.2.10	Alias of B.1.1.529.5.2.10, Brazil lineage
