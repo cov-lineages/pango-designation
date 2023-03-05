@@ -2574,6 +2574,7 @@ XBB.1.12	Spain/Sweden/Germany, S:Y453F
 XBB.1.13	S:S490P from #1487
 XBB.1.14	S:G75V, S:E554K
 XBB.1.15	Defined by ORF1a:A540V on ORF8:G8* polytomy, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.16	Defined by S:E180V, found in India, USA, Singapore, and Europe, from pango-designation issue #1723
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
