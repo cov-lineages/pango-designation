@@ -1062,6 +1062,7 @@ BF.7.3	Alias of B.1.1.529.5.2.1.7.3, France/Czechia, S:K182E
 BF.7.4	Alias of B.1.1.529.5.2.1.7.4, Europe, ORF8:H17Y
 BF.7.4.1	Alias of B.1.1.529.5.2.1.7.4.1, found mainly in USA and Netherlands, from pango-designation issue #1253
 BF.7.4.2	Alias of B.1.1.529.5.2.1.7.4.2, Europe 
+BF.7.4.3	Alias of B.1.1.529.5.2.1.7.4.3, Japan, S:F157L, N:A90S, from #1743
 BF.7.5	Alias of B.1.1.529.5.2.1.7.5, Europe, ORF1b:P1427L
 BF.7.5.1	Alias of B.1.1.529.5.2.1.7.5.1, found mainly in Germany and Denmark, from pango-designation issue #1317
 BF.7.6	Alias of B.1.1.529.5.2.1.7.6, Europe, ORF3a:E239D
