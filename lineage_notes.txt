@@ -1311,7 +1311,7 @@ BQ.1.1.20	Alias of B.1.1.529.5.3.1.1.1.1.1.1.20, Denmark, S:144- and ORF3a:H204Y
 BQ.1.1.21	Alias of B.1.1.529.5.3.1.1.1.1.1.1.21, Switzerland/France, S:144- and A17946G
 BQ.1.1.22	Alias of B.1.1.529.5.3.1.1.1.1.1.1.22, Australia/England/Denmark, S:144- and C913A
 ER.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.22.1 found mainly in UK, from pango-designation issue #1492
-ER.1.1	B.1.1.529.5.3.1.1.1.1.1.1.22.1.1 found mainly in UK, from pango-designation issue #1715
+ER.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.22.1.1 found mainly in UK, from pango-designation issue #1715
 BQ.1.1.23	Alias of B.1.1.529.5.3.1.1.1.1.1.1.23, France, ORF3a:V97I, S:Y144-, on G6421T branch
 BQ.1.1.24	Alias of B.1.1.529.5.3.1.1.1.1.1.1.24, England, 11941T, S:Y144-
 BQ.1.1.25	Alias of B.1.1.529.5.3.1.1.1.1.1.1.25, USA/Canada, S:F490S and S:Y144-, from issue #1350
