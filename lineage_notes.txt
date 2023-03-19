@@ -2572,6 +2572,9 @@ XBB.1.5.22	ORF1a:E1498A, pre T17124C, Australia
 XBB.1.5.23	ORF1a:P4220L, pre T17124C
 XBB.1.5.24	C2710T, pre T17124C
 XBB.1.5.25	S:97T on T10204C branch, South Africa, from #1643
+XBB.1.5.26	920T, USA, from #1688
+EU.1	Alias of XBB.1.5.26.1, S:P521S, Germany/Netherlands, from #1688
+EU.1.1	Alias of XBB.1.5.26.1.1, S:I410V, Germany/Netherlands, from #1688
 XBB.1.6	USA, S:L216F, S:H146K, from issue #1428
 XBB.1.7	USA-NY, S:V608I
 XBB.1.8	Denmark, S:186insSGG, C3241T
