@@ -2654,6 +2654,9 @@ XBH	Recombinant lineage of BA.2.3.17 and BA.2.75.2, predominantly in Brunei, fro
 XBJ	Recombinant lineage of BA.2.3.20 and BA.5.2, possibly Philippines, from pango-designation issue #1268
 XBJ.1	A16011G, from #1591
 XBJ.1.1	S:G485D, N:R195K, from #1591
+XBJ.2	C22006T, Europe
+XBJ.3	ORF1a:K2928N, Europe
+XBJ.4	S:G485D, Japan/Thailand
 XBK	Recombinant lineage of BA.5.2 and CJ.1, Denmark/Europe, from pango-designation issue #1418
 XBK.1	S:P1162S, from #1551 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 XBL	Recombinant lineage of XBB.1 with S:F486P and BA.2.75, Malaysia, from issue #1532
