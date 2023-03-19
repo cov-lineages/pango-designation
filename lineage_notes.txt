@@ -2629,6 +2629,7 @@ XBC.1.4	Australia, S:G184S, #1622
 XBC.1.5	Philippines/South Korea/Japan, ORF1a:T708I after A10042C, from #1671
 XBC.1.6	found in Australia, from pango-designation issue #1755
 XBC.2	Mostly Philippines, defined by S:K97R
+XBC.2.1	S:K444T, Australia, from #1538
 XBD	Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-designation issue #1137
 XBE	Recombinant lineage of BA.5.2 and BE.4.1, predominantly in USA and England, from pango-designation issue #1246
 XBF	Recombinant lineage of BA.5.2.3 and CJ.1, Australia, from pango-designation issue #1259
