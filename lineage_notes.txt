@@ -2600,6 +2600,9 @@ XBB.1.19	Defined by S:486P, C541T, A10042G, T21363C, pre ORF8:8*, Pakistan, from
 XBB.1.19.1	Defined by S:E554K
 XBB.1.20	Defined by C541T, ORF3a:A72V, ORF1a:P4312T, pre ORF8:8*, Malaysia
 XBB.1.21	Defined by S:486A, ORF1a:K1247R, Turkey, from #1646
+XBB.1.22	Defined by S:486P, on 28297C branch, from #1704
+XBB.1.22.1	Defined by S:Y200C, from #1704
+XBB.1.22.2	Defined by ORF1a:L3829F, C15237T
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
