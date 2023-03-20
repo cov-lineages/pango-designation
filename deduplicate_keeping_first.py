@@ -34,5 +34,4 @@ while next:
 # Write back to file
 with open('lineages.csv', 'w') as f:
     f.writelines(d)
-    f.write('\n')
 
