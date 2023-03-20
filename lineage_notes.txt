@@ -2608,6 +2608,7 @@ XBB.1.22.2	Defined by ORF1a:L3829F, C15237T
 XBB.1.23	Defined by E:S68F, on 28297C branch, South East Asia
 XBB.1.24	Defined by S:F486P, on T13704C branch, from #1654
 XBB.1.25	Defined by C673T, G487T, on 28297C branch
+XBB.1.26	Defined by T10663C on 28297C branch, Canada
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
