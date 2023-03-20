@@ -874,6 +874,7 @@ CH.1.1.13	Alias of B.1.1.529.2.75.3.4.1.1.1.1.13, ORF3a:S171L
 CH.1.1.14	Alias of B.1.1.529.2.75.3.4.1.1.1.1.14, N:T362I
 CH.1.1.15	Alias of B.1.1.529.2.75.3.4.1.1.1.1.15, found mainly in Lithuania, Germany and UK, from pango-designation issue #1726
 CH.1.1.16	Alias of B.1.1.529.2.75.3.4.1.1.1.1.16, S:613H, ORF3a:S26L, on C193T branch, Germany/Sweden, from #1753
+CH.1.1.17	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17, M:S212G, on C21811T branch, from #1753
 CH.2	Alias of B.1.1.529.2.75.3.4.1.1.2, defined by S:Q183H
 CH.3	Alias of B.1.1.529.2.75.3.4.1.1.3, defined by S:486P on ORF1b:Q2425R branch
 CH.3.1	Alias of B.1.1.529.2.75.3.4.1.1.3.1, S:S494P, Australia/Indonesia, from #1421
