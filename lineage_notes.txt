@@ -1346,6 +1346,7 @@ BQ.1.1.40	Alias of B.1.1.529.5.3.1.1.1.1.1.1.40 Canada, defined by N:T24I
 BQ.1.1.41	Alias of B.1.1.529.5.3.1.1.1.1.1.1.41 USA, defined by S:K182I
 BQ.1.1.42	Alias of B.1.1.529.5.3.1.1.1.1.1.1.42 France, defined by S:S704L
 BQ.1.1.43	Alias of B.1.1.529.5.3.1.1.1.1.1.1.43 USA, S:Q613H (C26292T)
+EZ.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.43.1 Portugal, S:S247N, S:Y248S
 BQ.1.1.44	Alias of B.1.1.529.5.3.1.1.1.1.1.1.44 S:D253G
 BQ.1.1.45	Alias of B.1.1.529.5.3.1.1.1.1.1.1.45 Europe, S:Y248D
 BQ.1.1.46	Alias of B.1.1.529.5.3.1.1.1.1.1.1.46 France, S:F157L
