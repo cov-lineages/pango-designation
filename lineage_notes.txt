@@ -1337,6 +1337,7 @@ ET.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.35.1 found mainly in UK and Belgium, fro
 BQ.1.1.36	Alias of B.1.1.529.5.3.1.1.1.1.1.1.36, Brazil, S:T883I
 BQ.1.1.37	Alias of B.1.1.529.5.3.1.1.1.1.1.1.37 Italy, ins_S:247:SAE, S:Y248D, from #1571
 BQ.1.1.38	Alias of B.1.1.529.5.3.1.1.1.1.1.1.38 found mainly in South Africa and USA, from pango-designation issue #1419
+EW.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.38.1 South Africa/Germany, S:478R
 BQ.1.1.39	Alias of B.1.1.529.5.3.1.1.1.1.1.1.39 found mainly in England, Singapore and Canada, from pango-designation issue #1385
 BQ.1.1.40	Alias of B.1.1.529.5.3.1.1.1.1.1.1.40 Canada, defined by N:T24I
 BQ.1.1.41	Alias of B.1.1.529.5.3.1.1.1.1.1.1.41 USA, defined by S:K182I
