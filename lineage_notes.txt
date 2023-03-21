@@ -1454,6 +1454,7 @@ BE.9	Alias of B.1.1.529.5.3.1.9, S:144-, S:444T, S:460K, on 28693C, Brazil, from
 BE.10	Alias of B.1.1.529.5.3.1.10, S:K444T, S:N460K, mainly Brazil, from issue #1411
 BE.11	Alias of B.1.1.529.5.3.1.11, T3049C, on 28693C
 BE.12	Alias of B.1.1.529.5.3.1.12, C10834T, T18975C, A29359G, on 28693C
+BE.13	Alias of B.1.1.529.5.3.1.13, S:346T, S:478R, on 28693C, South Africa
 BA.5.3.2	Alias of B.1.1.529.5.3.2, mainly found in Germany, from pango-designation issue #697
 BA.5.3.3	Alias of B.1.1.529.5.3.3, UK lineage
 BA.5.3.4	Alias of B.1.1.529.5.3.4, Germany lineage
