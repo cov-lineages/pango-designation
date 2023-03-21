@@ -1293,6 +1293,7 @@ DP.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.8.1, S:A352S, England/Belgium
 BQ.1.1.9	Alias of B.1.1.529.5.3.1.1.1.1.1.1.9, S:S151I
 BQ.1.1.10	Alias of B.1.1.529.5.3.1.1.1.1.1.1.10, S:Y144-, T16413C, Denmark/Germany
 FA.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.10.1, S:K478R, USA
+FA.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.10.2, S:T323I, Denmark
 BQ.1.1.11	Alias of B.1.1.529.5.3.1.1.1.1.1.1.11, S:S494P
 BQ.1.1.12	Alias of B.1.1.529.5.3.1.1.1.1.1.1.12, France/US, S:S494P, on ORF1a:T4368I branch
 BQ.1.1.13	Alias of B.1.1.529.5.3.1.1.1.1.1.1.13, Denmark/Israel/Switzerland/France, E:V62F and S:Y144-
