@@ -2624,6 +2624,7 @@ XBB.1.17.1	Defined by S:215H, S:S486P, from issue #1712
 XBB.1.17.2	Defined by ORF1a:A698S, Russia, from issue #1712
 XBB.1.18	Defined by A8001G, Brazil
 XBB.1.18.1	Defined by S:F486P, Brazil
+FE.1	Alias of XBB.1.18.1.1, S:F456L, Brazil/Chile
 XBB.1.19	Defined by S:486P, C541T, A10042G, T21363C, pre ORF8:8*, Pakistan, from #1680
 XBB.1.19.1	Defined by S:E554K
 XBB.1.20	Defined by C541T, ORF3a:A72V, ORF1a:P4312T, pre ORF8:8*, Malaysia
