@@ -2598,6 +2598,7 @@ XBB.1.5.25	S:97T on T10204C branch, South Africa, from #1643
 XBB.1.5.26	920T, USA, from #1688
 XBB.1.5.27	S:K478R, on T11431C branch, USA
 XBB.1.5.28	S:K478R, on 17124C polytomy, USA
+XBB.1.5.29	S:A348V, USA-NE
 EU.1	Alias of XBB.1.5.26.1, S:P521S, Germany/Netherlands, from #1688
 EU.1.1	Alias of XBB.1.5.26.1.1, S:I410V, Germany/Netherlands, from #1688
 XBB.1.6	USA, S:L216F, S:H146K, from issue #1428
