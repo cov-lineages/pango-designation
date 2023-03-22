@@ -1385,6 +1385,7 @@ BQ.1.1.71	Alias of B.1.1.529.5.3.1.1.1.1.1.1.71 found in England, from pango-des
 EV.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.71.1 S:Y248H, England
 BQ.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2, found globally, defined by S:I666V, from issue #1082
 BQ.1.2.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1 found mainly in Japan, SouthKorea and Mongolia, from pango-designation issue #1392
+FB.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1.1 S:D253G, Singapore/Taiwan/Japan
 BQ.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.3, found globally, defined by S:E619Q, from issue #1082
 BQ.1.4	Alias of B.1.1.529.5.3.1.1.1.1.1.4, England and Denmark, defined by S:R190T
 BQ.1.5	Alias of B.1.1.529.5.3.1.1.1.1.1.5, defined by ORF1b:T1076I
