@@ -27,6 +27,13 @@ while next:
         d.remove(current)
         print(f"Removed duplicate strain: {line}")
         continue
+    # Exclude strain names that are not GISAIDy
+    # strain names must have at least 2 slashes
+    # This gets rid of things like `strain` or `OX0123456`
+    if split[0].count('/') < 2 and line != 'taxon,lineage\n':
+        d.remove(current)
+        print(f"Removed non-GISAID strain: {line}")
+        continue
     hashset.add(split[0])
     
 
