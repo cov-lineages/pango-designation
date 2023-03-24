@@ -813,6 +813,7 @@ BL.1.1	Alias of B.1.1.529.2.75.1.1.1, from pango-designation issue #1079, define
 BL.1.2	Alias of B.1.1.529.2.75.1.1.2, mainly Austria, issue #1066, defined by S:G261D, S:V308L
 BL.1.3	Alias of B.1.1.529.2.75.1.1.3, Switzerland, Israel, Canada, issue #1124, defined by S:F490L
 BL.1.4	Alias of B.1.1.529.2.75.1.1.4, India/England/New Zealand, defined by S:F490V
+BL.1.5	Alias of B.1.1.529.2.75.1.1.5, Japan, S:A475V
 BL.2	Alias of B.1.1.529.2.75.1.2, mainly found in India, defined by S:R346T on A26612T branch 
 BL.2.1	Alias of B.1.1.529.2.75.1.2.1, Australia/Belgium, defined by S:K182E
 BL.3	Alias of B.1.1.529.2.75.1.3, mainly found in India, defined by ORF1a:P2685S on A26612T branch 
