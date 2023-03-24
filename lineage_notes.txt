@@ -2648,8 +2648,9 @@ XBB.1.27	Defined by S:478R, S:A890V, Mexico/US/India
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
-XBB.2.3	Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA
+XBB.2.3	Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA, from #1776
 XBB.2.3.1	Defined by S:D80Y, England/Sweden/India
+XBB.2.3.2	Defined by S:G184V, ORF1a:R2159W, India
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
 XBB.2.6	Mostly Peru, C5144T, T5731A
