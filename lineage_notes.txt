@@ -1294,6 +1294,7 @@ DN.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1, S:K147N
 DN.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1.1 found mainly in UK and Denmark, from pango-designation issue #1463
 DN.1.1.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1.1.1 UK, S:Y453F
 DN.1.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1.1.2 UK, S:P479L
+DN.1.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.1.5.1.1.3 S:S704L, UK
 BQ.1.1.6	Alias of B.1.1.529.5.3.1.1.1.1.1.1.6, ORF1a:L681F
 BQ.1.1.7	Alias of B.1.1.529.5.3.1.1.1.1.1.1.7, ORF1a:S216Y
 DK.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.7.1, S:339N, ORF1a:A1809T
