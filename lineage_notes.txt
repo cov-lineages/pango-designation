@@ -1431,6 +1431,7 @@ BQ.1.25	Alias of B.1.1.529.5.3.1.1.1.1.1.25, S:R346T, T8038C, T25569C, G26031A
 BQ.1.25.1	Alias of B.1.1.529.5.3.1.1.1.1.1.25.1, found mainly in USA, from pango-designation issue #1451
 BQ.1.26	Alias of B.1.1.529.5.3.1.1.1.1.1.26, found mainly in Denmark, from pango-designation issue #1315
 BQ.1.26.1	Alias of B.1.1.529.5.3.1.1.1.1.1.26.1, found mainly in Denmark, from pango-designation issue #1369
+BQ.1.26.2	Alias of B.1.1.529.5.3.1.1.1.1.1.26.2, Europe, S:F157L
 BQ.1.27	Alias of B.1.1.529.5.3.1.1.1.1.1.27, USA/England, S:V445A
 BQ.1.28	Alias of B.1.1.529.5.3.1.1.1.1.1.28, found mainly in USA, ins:S:247SWRM, from pango-designation issue #1415
 BQ.1.29	Alias of B.1.1.529.5.3.1.1.1.1.1.29, found mainly in USA, S:E554Q
