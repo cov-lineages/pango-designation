@@ -697,7 +697,7 @@ CM.8.1	Alias of B.1.1.529.2.3.20.8.1, Australia/England, S:F486S
 CM.8.1.1	Alias of B.1.1.529.2.3.20.8.1.1, Singapore/Malaysia, S:K147N
 CM.8.1.2	Alias of B.1.1.529.2.3.20.8.1.2, Germany/USA, S:K147I
 CM.8.1.3	Alias of B.1.1.529.2.3.20.8.1.3, USA, S:Y1272H
-CM.8.1.4	Alias of B.1.1.529.2.3.20.8.1.4, N2890D
+CM.8.1.4	Alias of B.1.1.529.2.3.20.8.1.4, ORF1b:N2790D, Philippines, from #1554
 CM.9	Alias of B.1.1.529.2.3.20.9, USA/Canada/Israel, S:S256L
 CM.10	Alias of B.1.1.529.2.3.20.10, USA/South Korea/Singapore, S:K478T reversion, S:V445A
 CM.11	Alias of B.1.1.529.2.3.20.11, USA/South Korea, S:R346T, S:F486S, from #1509
@@ -919,7 +919,7 @@ BN.1.3.7	Alias of B.1.1.529.2.75.5.1.3.7 ORF1a:T1429I
 BN.1.3.8	Alias of B.1.1.529.2.75.5.1.3.8 S:D1139H
 EJ.1	Alias of B.1.1.529.2.75.5.1.3.8.1, S:I1225V
 EJ.2	Alias of B.1.1.529.2.75.5.1.3.8.2, ORF1a:T4355I
-BN.1.3.9	Alias of B.1.1.529.2.75.5.1.3.9 S:V83F
+BN.1.3.9	Alias of B.1.1.529.2.75.5.1.3.9 S:V83F, #1748
 BN.1.4	Alias of B.1.1.529.2.75.5.1.4, India, 27501C
 BN.1.4.1	Alias of B.1.1.529.2.75.5.1.4.1, S:G261V & S:T678I, from #1417
 BN.1.4.2	Alias of B.1.1.529.2.75.5.1.4.2, S:Q1113K
@@ -2668,7 +2668,7 @@ XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
 XBB.2.3	Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA, from #1776
-XBB.2.3.1	Defined by S:D80Y, England/Sweden/India
+XBB.2.3.1	Defined by S:D80Y, England/Sweden/India, #1775
 XBB.2.3.2	Defined by S:G184V, ORF1a:R2159W, India
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
