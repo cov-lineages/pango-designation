@@ -2700,6 +2700,7 @@ XBF.7	Global, N:T379I (not on ORF1a:K120N branch)
 XBF.7.1	S:T323I
 XBF.8	Australia, T9931C, C12970T
 XBF.8.1	Australia, S:P621S, from #1651
+XBF.9	Europe, ORF1b:S1003G
 XBG	Recombinant lineage of BA.2.76 and BA.5.2, predominantly in UK, from pango-designation issue #896
 XBH	Recombinant lineage of BA.2.3.17 and BA.2.75.2, predominantly in Brunei, from pango-designation issue #1229
 XBJ	Recombinant lineage of BA.2.3.20 and BA.5.2, possibly Philippines, from pango-designation issue #1268
