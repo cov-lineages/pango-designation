@@ -923,6 +923,7 @@ BN.1.3.8	Alias of B.1.1.529.2.75.5.1.3.8 S:D1139H
 EJ.1	Alias of B.1.1.529.2.75.5.1.3.8.1, S:I1225V
 EJ.2	Alias of B.1.1.529.2.75.5.1.3.8.2, ORF1a:T4355I
 BN.1.3.9	Alias of B.1.1.529.2.75.5.1.3.9 S:V83F, #1748
+BN.1.3.10	Alias of B.1.1.529.2.75.5.1.3.10 ORF1a:Q1918R, C13608T, Asia/Oceania
 BN.1.4	Alias of B.1.1.529.2.75.5.1.4, India, 27501C
 BN.1.4.1	Alias of B.1.1.529.2.75.5.1.4.1, S:G261V & S:T678I, from #1417
 BN.1.4.2	Alias of B.1.1.529.2.75.5.1.4.2, S:Q1113K
