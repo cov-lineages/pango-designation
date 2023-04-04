@@ -12,10 +12,10 @@ Does:
 - Add alias json if necessary
 """
 
-import typer
-import pandas as pd
-from pango_aliasor.aliasor import Aliasor
 import numpy as np
+import pandas as pd
+import typer
+from pango_aliasor.aliasor import Aliasor
 
 LINEAGE_NOTES = "lineage_notes.txt"
 LINEAGES_CSV = "lineages.csv"
@@ -110,16 +110,18 @@ def get_lineage_from_parent(parent_lineage: str):
     unaliased_parent = aliasor.uncompress(parent_lineage)
 
     # Filter to lineages descending from parent lineage
-    children=unaliased[np.vectorize(lambda x: x.startswith(unaliased_parent))(unaliased)]
+    children=unaliased[np.vectorize(lambda x: x.startswith(unaliased_parent + "."))(unaliased)]
 
     # Find number of levels of parent lineage
     parent_levels = unaliased_parent.count(".") + 1
 
     # Find numbers of level below parent lineage
-    children_levels = np.vectorize(lambda x: extract_level(x, parent_levels))(children)
-
-    # Find last entry of 1 level below parent lineage
-    max_child = max(children_levels)
+    if len(children) == 0:
+        max_child = 0
+    else:
+        children_levels = np.vectorize(lambda x: extract_level(x, parent_levels))(children)
+        # Find last entry of 1 level below parent lineage
+        max_child = max(children_levels)
 
     # Create compressd child
     new_child_unaliased = f"{unaliased_parent}.{max_child+1}"
