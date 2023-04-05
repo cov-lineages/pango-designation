@@ -1402,7 +1402,8 @@ BQ.1.1.70	Alias of B.1.1.529.5.3.1.1.1.1.1.1.70 Japan, ORF1a:A903V, M:S212G, fro
 BQ.1.1.71	Alias of B.1.1.529.5.3.1.1.1.1.1.1.71 found in England, from pango-designation issue #1713
 EV.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.71.1 S:Y248H, England
 BQ.1.1.72	Alias of B.1.1.529.5.3.1.1.1.1.1.1.72 ORF1b:D100A
-BQ.1.1.73	B.1.1.529.5.3.1.1.1.1.1.1.73, found mainly in Canada and Spain, from pango-designation issue #1740
+BQ.1.1.73	Alias of B.1.1.529.5.3.1.1.1.1.1.1.73, found mainly in Canada and Spain, from pango-designation issue #1740
+BQ.1.1.74	Alias of B.1.1.529.5.3.1.1.1.1.1.1.74, found mainly in Botswana and UK, from pango-designation issue #1817
 FC.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.72.1 S:478R, Indonesia
 BQ.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2, found globally, defined by S:I666V, from issue #1082
 BQ.1.2.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1 found mainly in Japan, SouthKorea and Mongolia, from pango-designation issue #1392
