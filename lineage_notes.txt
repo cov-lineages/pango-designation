@@ -2682,6 +2682,7 @@ XBB.1.25	Defined by C673T, G487T, on 28297C branch
 XBB.1.26	Defined by T10663C on 28297C branch, Canada
 XBB.1.27	Defined by S:478R, S:A890V, Mexico/US/India
 XBB.1.28	Defined by S:403K, Europe
+XBB.1.28.1	Defined by S:356T, Indonesia, global
 XBB.1.29	Defined by ORF1a:L3829F, S:A292S, Europe
 XBB.1.30	Defined by ORF1b:K2557R, South East Asia
 XBB.1.31	Defined by S:453F and S:478R, Indonesia/Singapore
