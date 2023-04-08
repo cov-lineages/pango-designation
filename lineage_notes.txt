@@ -2729,7 +2729,8 @@ XBC.2.1	S:K444T, Australia, from #1538
 XBD	Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-designation issue #1137
 XBE	Recombinant lineage of BA.5.2 and BE.4.1, predominantly in USA and England, from pango-designation issue #1246
 XBF	Recombinant lineage of BA.5.2.3 and CJ.1, Australia, from pango-designation issue #1259
-XBF.1	Mostly Australia, S:S939F
+XBF.1	Australia/England, S:S939F
+XBF.1.1	England, S:P621S
 XBF.2	Australia, ORF8:V62A
 XBF.3	Australia, ORF1a:V274I
 XBF.4	Europe, ORF1a:H417Y, from https://github.com/jmcbroome/auto-pango-designation/pull/193
