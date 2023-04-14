@@ -2771,6 +2771,7 @@ XBW	Recombinant lineage of XBB.1.5, BQ.1.14, from issue #1505
 XBY	Recombinant lineage of BR.2.1, XBF, from issue #1669
 XBZ	Recombinant lineage of BA.5.2* and EF.1.3, predominantly in Denmark, Germany and Austria, from pango-designation issue #1666
 XCA	Recombinant lineage of BA.2.75* and BQ.1*, predominantly in UK, from pango-designation issue #1752
+XCB	Recombinant lineage of BF.31.1and BQ.1.10*, predominantly in Chile, from pango-designation issue #1668
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
