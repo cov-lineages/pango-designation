@@ -1366,6 +1366,7 @@ EW.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.38.1 South Africa/Germany, S:478R
 EW.2	Alias of B.1.1.529.5.3.1.1.1.1.1.1.38.2 S:A701V
 EW.3	Alias of B.1.1.529.5.3.1.1.1.1.1.1.38.3 S:A348S, South Africa
 BQ.1.1.39	Alias of B.1.1.529.5.3.1.1.1.1.1.1.39 found mainly in England, Singapore and Canada, from pango-designation issue #1385
+FQ.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.39.1, found mainly in Sweden, France and Australia, from pango-designation issue #1797
 BQ.1.1.40	Alias of B.1.1.529.5.3.1.1.1.1.1.1.40 Canada, defined by N:T24I
 BQ.1.1.41	Alias of B.1.1.529.5.3.1.1.1.1.1.1.41 USA, defined by S:K182I
 BQ.1.1.42	Alias of B.1.1.529.5.3.1.1.1.1.1.1.42 France, defined by S:S704L
