@@ -2705,6 +2705,7 @@ XBB.2.3.3	Defined by S:182N, India/USA
 XBB.2.3.4	Defined by S:478Q, India
 XBB.2.3.5	Defined by S:K478N, found mainly in USA and India, from pango-designation issue #1846
 XBB.2.3.6	Defined by N:T166I, mainly Singapore
+XBB.2.3.7	Defined by ORF1a:T4087I
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
 XBB.2.6	Mostly Peru, C5144T, T5731A
