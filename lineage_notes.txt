@@ -2687,6 +2687,7 @@ XBB.1.15	Defined by ORF1a:A540V on ORF8:G8* polytomy, found in USA, Guatemala, a
 XBB.1.16	Defined by S:E180V, S:478R, found in India, USA, Singapore, and Europe, from pango-designation issue #1723
 XBB.1.16.1	Defined by S:T547I
 XBB.1.16.2	Defined by ORF3a:V13L, ORF1a:P926H, India
+XBB.1.16.3	Defined by A2893C, India
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from issue #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from issue #1712
 XBB.1.17.2	Defined by ORF1a:A698S, Russia, from issue #1712
