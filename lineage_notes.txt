@@ -2583,6 +2583,7 @@ XAY.1.2	Europe, ORF1a:T3646I
 XAY.2	South Africa/Denmark/Israel lineage with ORF1a:Y3765C
 XAY.2.1	Denmark, N:T24A
 XAY.2.2	Denmark, ORF1a:N447S
+XAY.2.3	Denmark, ORF1a:A131V
 XAY.3	South Africa/Mauritius/Switzerland/France, ORF1b:D1869Y
 XAZ	Recombinant lineage of BA.2.5, BA.5. and BA.2.5, predominantly found in France, Germany, Croatia, Denmark and USA, from pango-designation issue #797
 XBA	Recombinant lineage of perhaps AY.45 and perhaps BA.2 (with perhaps 5 breakpoints), South_Africa lineage, constellation 2 from pango-designation issue #844
