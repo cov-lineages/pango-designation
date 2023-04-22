@@ -2579,6 +2579,7 @@ XAY	Recombinant lineage of BA.2 and AY.45, South Africa lineage, from pango-desi
 XAY.1	South Africa/US lineage with 4 AA substitutions including S:D253G
 XAY.1.1	South Africa with S:R346T and ORF1a:K2108N, from issue #1255
 XAY.1.1.1	Europe, S:D1153Y, #1569
+XAY.1.1.2	Germany/South Africa, C14838T
 XAY.1.2	Europe, ORF1a:T3646I
 XAY.2	South Africa/Denmark/Israel lineage with ORF1a:Y3765C
 XAY.2.1	Denmark, N:T24A
