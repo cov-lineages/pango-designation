@@ -2655,6 +2655,7 @@ XBB.1.9	ORF1a:G1819S, ORF1a:T4175I
 XBB.1.9.1	S:F486P (after C11956T), Indonesia/Singapore/Malaysia/England
 FL.1	Alias of XBB.1.9.1.1, S:701V, ORF1a:G993S
 FL.2	Alias of XBB.1.9.1.2, T4579A
+FL.3	Alias of XBB.1.9.1.3, T1753C, England
 XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore
 EG.1	Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 EG.1.1	Alias of XBB.1.9.2.1.1, S:V70F and ORF1a:T403I, Luxembourg/Belgium/France
