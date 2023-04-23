@@ -10,7 +10,7 @@
 # 7. Remove all files matching the ~/Downloads/nextstrain_fetch* pattern.
 
 usage() {
-  echo "Usage: $0 <lineage>"
+  echo "Usage: $0 <lineage> [--keep-first]"
   echo "Example: $0 XBB.1.5.34"
 }
 
@@ -29,7 +29,12 @@ tsv-select -f1 ~/Downloads/nextstrain_fetch* \
   | tail -n +2 \
   >>lineages.csv
 
-python deduplicate_keeping_last.py
+if [ "$2" != "--keep-first" ]; then
+  python deduplicate_keeping_last.py
+else
+  echo "Keeping first"
+  python deduplicate_keeping_first.py
+fi
 
 rm ~/Downloads/nextstrain_fetch*
 
