@@ -2760,6 +2760,7 @@ XBC.1.5	Philippines/South Korea/Japan, ORF1a:T708I after A10042C, from #1671
 XBC.1.6	found in Australia, from pango-designation issue #1755
 XBC.1.6.1	ORF1b:N498I, Australia
 XBC.1.6.2	ORF1a:D827N, Australia
+XBC.1.6.3	N:A173V, Australia
 XBC.2	Mostly Philippines, defined by S:K97R
 XBC.2.1	S:K444T, Australia, from #1538
 XBD	Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-designation issue #1137
