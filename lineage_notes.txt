@@ -2754,6 +2754,7 @@ XBB.6	Defined by C14178T, USA/India/England
 XBB.6.1	Defined by S:F486P, USA, from #1459
 XBB.7	Defined by S:Q613H, Malaysia
 XBB.8	T14574C after ORF1a:D82G, India/Malaysia/Brunei
+XBB.8.1	S:486P, Malaysia
 XBC	Recombinant lineage of BA.2 and B.1.617.2*, predominantly in Philippines, from pango-designation issue #1100
 XBC.1	Mostly Philippines, South Korea, US, Singapore, defined by S:L452M, from issue #1130
 XBC.1.1	Mostly Australia, ORF1a:I3619T, ORF8:V114L
