@@ -2693,6 +2693,7 @@ EG.5	Alias of XBB.1.9.2.5, S:F456L, ORF1a:A690V, ORF1a:A3143V, Indonesia
 XBB.1.9.3	ORF1b:G2005S, ORF1b:G1568C, Europe, from https://github.com/jmcbroome/auto-pango-designation/pull/193
 XBB.1.9.4	28603T, Europe
 XBB.1.9.5	ORF1a:D629E, Russia
+XBB.1.9.6	S:403K, S:570T, Indonesia
 XBB.1.10	USA/Japan, S:A852V, S:R403K
 XBB.1.11	Indonesia/Malaysia/Singapore/US, C13968A and G16377A
 XBB.1.11.1	Indonesia/Malaysia/Singapore, S:S486P
