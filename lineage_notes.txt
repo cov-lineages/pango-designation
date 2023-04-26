@@ -695,6 +695,7 @@ CM.7	Alias of B.1.1.529.2.3.20.7, Japan/Singapore, S:F486S
 CM.8	Alias of B.1.1.529.2.3.20.8, S:G446S
 CM.8.1	Alias of B.1.1.529.2.3.20.8.1, Australia/England, S:F486S
 CM.8.1.1	Alias of B.1.1.529.2.3.20.8.1.1, Singapore/Malaysia, S:K147N
+FV.1	Alias of B.1.1.529.2.3.20.8.1.1.1, S:R346T, M:E11Q, Singapore/SouthKorea/Japan/Philippines/HK
 CM.8.1.2	Alias of B.1.1.529.2.3.20.8.1.2, Germany/USA, S:K147I
 CM.8.1.3	Alias of B.1.1.529.2.3.20.8.1.3, USA, S:Y1272H
 CM.8.1.4	Alias of B.1.1.529.2.3.20.8.1.4, ORF1b:N1790D, Philippines, from #1554
