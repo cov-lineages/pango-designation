@@ -2624,6 +2624,7 @@ XBB.1.5.15	G15957T, USA
 FD.1	Alias of XBB.1.5.15.1, ORF7b:E3*, England/Canada
 FD.1.1	Alias of XBB.1.5.15.1.1, S:F456L, Canada-QC
 FD.2	Alias of XBB.1.5.15.2, S:Q146K, ORF1a:G519S, USA, from #1600
+FD.3	Alias of XBB.1.5.15.3, S:A348S, T8503C, USA/Finland/Japan
 XBB.1.5.16	T14766C, USA
 FG.1	Alias of XBB.1.5.16.1, S:T284I, S:R403K, S:L513F, USA, from #1751
 FG.2	Alias of XBB.1.5.16.2, S:D178N, USA/Europe
