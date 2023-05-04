@@ -2727,7 +2727,8 @@ XBB.1.21	Defined by S:486A, ORF1a:K1247R, Turkey, from #1646
 XBB.1.22	Defined by S:486P, on 28297C branch, from #1704
 XBB.1.22.1	Defined by S:Y200C, from #1704
 FY.1	Alias of XBB.1.22.1.1, Defined by ORF1b:D1782N
-FY.2	Alias of XBB.1.22.1.2, S:I197T, ORF1b:S997P, Indonesia
+FY.2	Alias of XBB.1.22.1.2, S:I197T, ORF1b:S997P, Indonesia, from #1859
+FY.3	Alias of XBB.1.22.1.3, ORF1a:E750K, C23191T, China
 XBB.1.22.2	Defined by ORF1a:L3829F, C15237T
 XBB.1.23	Defined by E:S68F, on 28297C branch, South East Asia
 XBB.1.24	Defined by S:F486P, on T13704C branch, from #1654
