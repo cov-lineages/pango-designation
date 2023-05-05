@@ -2666,6 +2666,7 @@ XBB.1.5.45	S:478R, C27425T, G28079T, India-GJ/MH
 XBB.1.5.46	C5770T, C15279T, Germany/France
 XBB.1.5.47	C1912T, USA/England
 FZ.1	Alias of XBB.1.5.47.1, S:E583D, England/Scotland
+FZ.1.1	Alias of XBB.1.5.47.1.1, S:L858I, England/Scotland
 XBB.1.5.48	A24730T, USA/Canada/England
 XBB.1.5.49	T6886C, USA
 XBB.1.5.50	S:621S, N:T49I, USA/Canada
