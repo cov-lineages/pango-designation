@@ -2718,6 +2718,7 @@ FU.1	Alias of XBB.1.16.1.1, T3802C
 FU.2	Alias of XBB.1.16.1.2, C8692T
 XBB.1.16.2	Defined by ORF3a:V13L, ORF1a:P926H, India
 XBB.1.16.3	Defined by A2893C, India
+XBB.1.16.4	Defined by S:T678I, India, from #1903
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from issue #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from issue #1712
 XBB.1.17.2	Defined by ORF1a:A698S, Russia, from issue #1712
