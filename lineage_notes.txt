@@ -2677,7 +2677,7 @@ XBB.1.5.53	S:F140I, S:L582F, S:R403K, South Africa
 XBB.1.5.54	C14358T,C20016T,C29311T, Central/Eastern Europe
 XBB.1.5.55	ORF1a:T3356I, USA/Canada
 XBB.1.5.56	S:A852S, USA
-XBB.1.5.57	A20379G, C28312T, pre-T17124C, probable Spike-donor of XBL
+XBB.1.5.57	A20379G, C28312T, pre-T17124C, probable Spike-donor of XBL, #1973
 XBB.1.6	USA, S:L216F, S:H146K, from issue #1428
 XBB.1.7	USA-NY, S:V608I
 XBB.1.8	Denmark, S:186insSGG, C3241T
@@ -2829,7 +2829,7 @@ XBJ.3	ORF1a:K2928N, Europe
 XBJ.4	S:G485D, Japan/Thailand
 XBK	Recombinant lineage of BA.5.2 and CJ.1, Denmark/Europe, from pango-designation issue #1418
 XBK.1	S:P1162S, from #1551 and https://github.com/jmcbroome/auto-pango-designation/pull/193
-XBL	Recombinant lineage of XBB.1 with S:F486P and BA.2.75, Malaysia, from issue #1532
+XBL	Recombinant lineage of XBB.1.5.57-BA.2.75* (short segment from ~1k-~5k)-XBB.1.5.57, Malaysia, from issue #1532
 XBL.1	S:V635I, T2461C
 XBL.2	A1393G
 XBL.3	C11824T, G14400T
