@@ -866,6 +866,7 @@ DV.3	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.3, UK, defined by ORF1a:E377K
 DV.3.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.3.1 found mainly in Portugal and UK, from pango-designation issue #1626
 DV.4	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.4, Malaysia/Singapore, S:I714V, from #1617
 DV.5	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.5, England/Australia, ORF1a:R24C, S:613H, from #1753
+DV.6	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.6, T15591C
 CH.1.1.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.2, defined by S:T883I, ORF1a:Y1846C, ORF1a:G2294S on T27576C branch
 CH.1.1.3	Alias of B.1.1.529.2.75.3.4.1.1.1.1.3, S:S255P, New Zealand/Australia/Hong Kong, from #1405
 CH.1.1.4	Alias of B.1.1.529.2.75.3.4.1.1.1.1.4, S:H681R, Austria, from #1370
