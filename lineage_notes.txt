@@ -2779,6 +2779,7 @@ XBB.1.33	Defined by S:A376T, found mainly in Italy, from pango-designation issue
 XBB.1.34	Defined by S:681R, found mainly in USA and UK, from pango-designation issue #1621
 XBB.1.35	ORF1a:V89A, Indonesia
 XBB.1.36	Defined by S:S490P, found mainly in Malaysia, Indonesia and Singapore, from pango-designation issue #1781
+XBB.1.37	Defined by A5371G, Indonesia/Russia
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
