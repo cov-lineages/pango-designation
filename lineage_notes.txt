@@ -898,6 +898,7 @@ CH.1.1.24	Alias of B.1.1.529.2.75.3.4.1.1.1.1.24, T931C, T6676C
 CH.1.1.25	Alias of B.1.1.529.2.75.3.4.1.1.1.1.25, ORF1a:S330L, ORF1a:P4197S, US
 CH.1.1.26	Alias of B.1.1.529.2.75.3.4.1.1.1.1.26, C29296T, Japan
 CH.1.1.27	Alias of B.1.1.529.2.75.3.4.1.1.1.1.27, ORF1a:S538L, New Zealand
+CH.1.1.28	Alias of B.1.1.529.2.75.3.4.1.1.1.1.28, ORF1b:V1092F, Europe
 CH.2	Alias of B.1.1.529.2.75.3.4.1.1.2, defined by S:Q183H
 CH.3	Alias of B.1.1.529.2.75.3.4.1.1.3, defined by S:486P on ORF1b:Q2425R branch
 CH.3.1	Alias of B.1.1.529.2.75.3.4.1.1.3.1, S:S494P, Australia/Indonesia, from #1421
