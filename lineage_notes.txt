@@ -2779,6 +2779,7 @@ XBB.1.22.2	Defined by ORF1a:L3829F, C15237T
 XBB.1.23	Defined by E:S68F, on 28297C branch, South East Asia
 XBB.1.24	Defined by S:F486P, on T13704C branch, South East Asia from #1654
 XBB.1.24.1	S:L518Q, Singapore
+XBB.1.24.2	S:R158S, after ORF1a:K261N, N:A35T, Singapore/Malaysia
 XBB.1.25	Defined by C673T, G487T, on 28297C branch
 XBB.1.26	Defined by T10663C on 28297C branch, Canada
 XBB.1.27	Defined by S:478R, S:A890V, Mexico/US/India
