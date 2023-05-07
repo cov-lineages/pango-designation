@@ -2713,6 +2713,7 @@ FL.4	Alias of XBB.1.9.1.4, ORF1b:V1092F
 FL.5	Alias of XBB.1.9.1.5, N:T362I
 FL.6	Alias of XBB.1.9.1.6, ORF1a:I849V, Bahrain/Egypt/Oman/Austria
 FL.7	Alias of XBB.1.9.1.7, S:T51I
+FL.8	Alias of XBB.1.9.1.8, ORF3a:I62F, Europe
 XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore
 EG.1	Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 EG.1.1	Alias of XBB.1.9.2.1.1, S:V70F and ORF1a:T403I, Luxembourg/Belgium/France
