@@ -2801,6 +2801,7 @@ XBB.1.37	Defined by A5371G, Indonesia/Russia
 XBB.1.37.1	Defined by S:486P, A1846G, G7459T, T27285C, Russia/South Korea, from #1929
 XBB.1.38	Defined by S:T732I, Russia
 XBB.1.39	ORF1a:V2866M, Singapore/Malaysia
+XBB.1.40	S:Y453F, ORF1a:G519S, ORF1a:L2609F, ORF3a:P104S, Malaysia
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
