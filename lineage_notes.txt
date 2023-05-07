@@ -1480,6 +1480,7 @@ BQ.1.29	Alias of B.1.1.529.5.3.1.1.1.1.1.29, found mainly in USA, S:E554Q
 BQ.1.30	Alias of B.1.1.529.5.3.1.1.1.1.1.30, Canada, S:V445A after T8038C, T25569C, G26031A
 BQ.1.31	Alias of B.1.1.529.5.3.1.1.1.1.1.31, France, S:K147E
 BQ.1.32	Alias of B.1.1.529.5.3.1.1.1.1.1.32 found mainly in USA and Mexico, from pango-designation issue #1731
+BQ.1.33	Alias of B.1.1.529.5.3.1.1.1.1.1.33 S:F157L, S:K147I
 BQ.2	Alias of B.1.1.529.5.3.1.1.1.1.2, international, S:A522P
 BE.1.2	Alias of B.1.1.529.5.3.1.1.2, mainly found in Costa Rica and USA, from pango-designation issue #923
 BE.1.1.2	Alias of B.1.1.529.5.3.1.1.1.2, Germany lineage, defined by ORF9b:S50L
