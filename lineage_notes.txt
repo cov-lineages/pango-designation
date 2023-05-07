@@ -2806,17 +2806,18 @@ XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
 XBB.2.3	Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA
-XBB.2.3.1	Defined by S:D80Y, England/Sweden/India, #1775
-XBB.2.3.2	Defined by S:G184V, ORF1a:R2159W, India, from #1776
-XBB.2.3.3	Defined by S:182N, India/USA
-XBB.2.3.4	Defined by S:478Q, India
-XBB.2.3.5	Defined by S:K478N, found mainly in USA and India, from pango-designation issue #1846
-XBB.2.3.6	Defined by N:T166I, mainly Singapore
-XBB.2.3.7	Defined by ORF1a:T4087I
-XBB.2.3.8	Defined by C2013T, T16389C, S:478R, Singapore/SouthKorea from #1866
-XBB.2.3.9	Defined by C18744T, C19200T, S:S98F, India
-XBB.2.3.10	Defined by T5947C, India
+XBB.2.3.1	S:D80Y, England/Sweden/India, #1775
+XBB.2.3.2	S:G184V, ORF1a:R2159W, India, from #1776
+XBB.2.3.3	S:182N, India/USA
+XBB.2.3.4	S:478Q, India
+XBB.2.3.5	S:K478N, found mainly in USA and India, from pango-designation issue #1846
+XBB.2.3.6	N:T166I, mainly Singapore
+XBB.2.3.7	ORF1a:T4087I
+XBB.2.3.8	C2013T, T16389C, S:478R, Singapore/SouthKorea from #1866
+XBB.2.3.9	S:S98F, C18744T, C19200T, India
+XBB.2.3.10	T5947C, India
 GE.1	Alias of XBB.2.3.10.1, S:K478R, from #1866
+XBB.2.3.11	S:K478R, India, from #1866
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
 XBB.2.6	Mostly Peru, C5144T, T5731A
