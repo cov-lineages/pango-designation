@@ -2816,6 +2816,7 @@ XBB.2.3.7	Defined by ORF1a:T4087I
 XBB.2.3.8	Defined by C2013T, T16389C, S:478R, Singapore/SouthKorea from #1866
 XBB.2.3.9	Defined by C18744T, C19200T, S:S98F, India
 XBB.2.3.10	Defined by T5947C, India
+GE.1	Alias of XBB.2.3.10.1, S:K478R, from #1866
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
 XBB.2.6	Mostly Peru, C5144T, T5731A
