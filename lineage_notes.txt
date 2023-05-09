@@ -2734,7 +2734,7 @@ FL.5	Alias of XBB.1.9.1.5, N:T362I
 FL.6	Alias of XBB.1.9.1.6, ORF1a:I849V, Bahrain/Egypt/Oman/Austria
 FL.7	Alias of XBB.1.9.1.7, S:T51I
 FL.8	Alias of XBB.1.9.1.8, ORF3a:I62F, Europe
-FL.9	Alias of XBB.1.9.1.9, T29691C, England
+FL.9	Alias of XBB.1.9.1.9, C23707T, T29691C, England
 FL.10	Alias of XBB.1.9.1.10, ORF1a:C657Y
 FL.11	Alias of XBB.1.9.1.11, ORF1a:L394F, France/French Guiana, from #1947
 FL.12	Alias of XBB.1.9.1.12, ORF1a:C2210F
