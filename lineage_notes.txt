@@ -2732,6 +2732,7 @@ FL.3.3	Alias of XBB.1.9.1.3.3, ORF1a:A4285V,ORF1a:V2998I,ORF1a:E772K, England
 FL.3.4	Alias of XBB.1.9.1.3.4, G10642C, T26232C, England
 FL.4	Alias of XBB.1.9.1.4, ORF1b:V1092F
 FL.4.1	Alias of XBB.1.9.1.4.1, S:N450I
+FL.4.2	Alias of XBB.1.9.1.4.2, ORF1a:T951I, China
 FL.5	Alias of XBB.1.9.1.5, N:T362I
 FL.6	Alias of XBB.1.9.1.6, ORF1a:I849V, Bahrain/Egypt/Oman/Austria
 FL.7	Alias of XBB.1.9.1.7, S:T51I
