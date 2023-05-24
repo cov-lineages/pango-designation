@@ -888,6 +888,7 @@ FK.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1, found mainly in New Zealand and A
 FK.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1, ORF1a:A1060T, on C27804T>ORF1b:L2580I>N:G34E branch, New Zealand, from #1881
 FK.1.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2, ORF1a:L384F, ORF1a:R550H
 FK.1.3	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3, ORF1b:M1839I, on C27804T>ORF1b:L2580I>N:G34E branch, Australia
+FK.1.4	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.4, S:S704L, on C27804>ORF7a:Y40H branch, Australia
 CH.1.1.18	Alias of B.1.1.529.2.75.3.4.1.1.1.1.18, S:K187T, related to #1747
 CH.1.1.19	Alias of B.1.1.529.2.75.3.4.1.1.1.1.19, C2773T, Europe
 FJ.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.19.1, ORF1a:A1204V, England
