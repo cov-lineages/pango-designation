@@ -2786,6 +2786,7 @@ XBB.1.16.4	Defined by S:T678I, India, from #1903
 XBB.1.16.5	Defined by T9991C,C16332T, India, from #1983
 XBB.1.16.6	S:F456L, A12397G, USA/Canada/China
 XBB.1.16.7	S:T732I after T12214C, Singapore/Japan/SouthKorea
+XBB.1.16.8	S:T732I after C28531T, India/USA/China/Australia
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from issue #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from issue #1712
 GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
