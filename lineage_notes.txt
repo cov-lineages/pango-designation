@@ -692,6 +692,7 @@ CM.5.2	Alias of B.1.1.529.2.3.20.5.2, S:G485D, USA/Australia, from issue #1386
 CM.6	Alias of B.1.1.529.2.3.20.6, global, ORF1a:G30A
 CM.6.1	Alias of B.1.1.529.2.3.20.6.1, S:A348S
 CM.7	Alias of B.1.1.529.2.3.20.7, Japan/Singapore, S:F486S
+CM.7.1	Alias of B.1.1.529.2.3.20.7.1, S:K147E, Europe
 CM.8	Alias of B.1.1.529.2.3.20.8, S:G446S
 CM.8.1	Alias of B.1.1.529.2.3.20.8.1, Australia/England, S:F486S
 CM.8.1.1	Alias of B.1.1.529.2.3.20.8.1.1, Singapore/Malaysia, S:K147N
