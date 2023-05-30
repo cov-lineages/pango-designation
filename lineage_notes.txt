@@ -2774,7 +2774,8 @@ XBB.1.9.6	S:403K, S:570T, Indonesia
 XBB.1.10	USA/Japan, S:A852V, S:R403K
 XBB.1.11	Indonesia/Malaysia/Singapore/US, C13968A and G16377A
 XBB.1.11.1	Indonesia/Malaysia/Singapore, S:S486P
-FP.1	Alias of XBB.1.11.1.1, found mainly in Singapore, from pango-designation issue #1847
+FP.1	Alias of XBB.1.11.1.1, A6616G, C21642T, following ORF1a:T2016I, Singapore, from #1847
+FP.2	Alias of XBB.1.11.1.2, S:F186S, ORF1a:V3078I, Indonesia/Malaysia/Singapore
 XBB.1.12	Spain/Sweden/Germany, S:Y453F
 XBB.1.13	S:S490P from #1487
 XBB.1.14	S:G75V, S:E554K
