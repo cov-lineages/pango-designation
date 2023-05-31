@@ -927,6 +927,7 @@ BN.1.2.2	Alias of B.1.1.529.2.75.5.1.2.2, C29546T
 BN.1.2.3	Alias of B.1.1.529.2.75.5.1.2.3, C1471T
 FR.1	Alias of B.1.1.529.2.75.5.1.2.3.1, S:K187E, N:T366I, Japan/Taiwan/USA, from #1814
 FR.1.1	Alias of B.1.1.529.2.75.5.1.2.3.1.1, S:P82H, ORF1a:L293F, China
+FR.1.2	Alias of B.1.1.529.2.75.5.1.2.3.1.2, S:R190M, China
 FR.2	Alias of B.1.1.529.2.75.5.1.2.3.2, ORF1a:Y1920H, ORF1b:I1799S, South Korea
 BN.1.2.4	Alias of B.1.1.529.2.75.5.1.2.4, ORF1b:D1746H
 BN.1.2.5	Alias of B.1.1.529.2.75.5.1.2.5, C3241T, C16833T, G22225A, South Korea
