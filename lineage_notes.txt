@@ -2874,6 +2874,7 @@ XBB.2.3.11	S:K478R, India, from #1866
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
 XBB.2.6	Mostly Peru, C5144T, T5731A
+XBB.2.6.1	S:P521S, Peru, from #1869
 XBB.2.7	ORF1a:R3662H, parent of lineage proposed in #1725
 XBB.2.7.1	S:Y453F, S:K478Q, Singapore, #1725
 XBB.2.8	C6968T, Brunei
