@@ -2858,6 +2858,7 @@ XBB.1.32.1	S:Y453F, ORF1a:L642F, ORF1b:L2497I, Philippines/Thailand, from #1908
 XBB.1.33	Defined by S:A376T, found mainly in Italy, from pango-designation issue #1879
 XBB.1.34	S:486P,S:681R, N:A50V, Uganda/Sudan, from pango-designation issue #1621
 XBB.1.34.1	S:E554K, ORF1b:P970L
+XBB.1.34.2	S:K182I, ORF8:C90F, ORF1a:G989C
 XBB.1.35	ORF1a:V89A, Indonesia
 XBB.1.36	Defined by S:S490P, found mainly in Malaysia, Indonesia and Singapore, from pango-designation issue #1781
 XBB.1.37	Defined by A5371G, Indonesia/Russia
