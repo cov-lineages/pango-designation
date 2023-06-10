@@ -2889,6 +2889,8 @@ GJ.2	Alias of XBB.2.3.3.2, S:I1114S, Europe
 XBB.2.3.4	S:478Q, India
 XBB.2.3.5	S:K478N, found mainly in USA and India, from pango-designation issue #1846
 XBB.2.3.6	N:T166I, mainly Singapore
+GM.1	Alias of XBB.2.3.6.1, S:P621S, Singapore
+GM.2	Alias of XBB.2.3.6.2, S:G181R, Singapore
 XBB.2.3.7	ORF1a:T4087I
 XBB.2.3.8	C2013T, T16389C, S:478R, Singapore/SouthKorea from #1866
 XBB.2.3.9	S:S98F, C18744T, C19200T, India
