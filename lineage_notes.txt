@@ -960,6 +960,7 @@ EJ.3	Alias of B.1.1.529.2.75.5.1.3.8.3, C2509T, C3241T, C17004T, South Korea
 BN.1.3.9	Alias of B.1.1.529.2.75.5.1.3.9 S:V83F, #1748
 BN.1.3.10	Alias of B.1.1.529.2.75.5.1.3.10 ORF1a:Q1918R, C13608T, Asia/Oceania
 BN.1.3.11	Alias of B.1.1.529.2.75.5.1.3.11 ORF1a:T568I, ORF1a:V1211F, South Korea
+BN.1.3.12	Alias of B.1.1.529.2.75.5.1.3.12 C14358T, T22672C, South Korea/Thailand/Germany
 BN.1.4	Alias of B.1.1.529.2.75.5.1.4, India, 27501C
 BN.1.4.1	Alias of B.1.1.529.2.75.5.1.4.1, S:G261V & S:T678I, from #1417
 BN.1.4.2	Alias of B.1.1.529.2.75.5.1.4.2, S:Q1113K
