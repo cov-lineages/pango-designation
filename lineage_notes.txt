@@ -883,6 +883,7 @@ CH.1.1.9	Alias of B.1.1.529.2.75.3.4.1.1.1.1.9, England, defined by S:I1232V
 CH.1.1.10	Alias of B.1.1.529.2.75.3.4.1.1.1.1.10, Ireland, ORF1a:G442S
 CH.1.1.11	Alias of B.1.1.529.2.75.3.4.1.1.1.1.11, ORF1a:A1176T
 GK.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.11.1, S:Q52H, ORF7a:T28I, Europe
+GK.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.11.2, ORF6:S41F, T13450C, Europe
 CH.1.1.12	Alias of B.1.1.529.2.75.3.4.1.1.1.1.12, S:L858I on ORF1a:A486V branch, Denmark
 FS.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.12.1, found mainly in Denmark, from pango-designation issue #1816
 CH.1.1.13	Alias of B.1.1.529.2.75.3.4.1.1.1.1.13, ORF3a:S171L
