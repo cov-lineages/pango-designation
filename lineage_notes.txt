@@ -1449,6 +1449,7 @@ BQ.1.1.74	Alias of B.1.1.529.5.3.1.1.1.1.1.1.74, S:182E, found mainly in Botswan
 FN.1	Alias of B.1.1.529.5.3.1.1.1.1.1.1.74.1, S:478R, Botswana/England, from #1817
 BQ.1.1.75	Alias of B.1.1.529.5.3.1.1.1.1.1.1.75, S:K182N, S:F456L, Reunion
 BQ.1.1.76	Alias of B.1.1.529.5.3.1.1.1.1.1.1.76, C15180T, Slovenia/Austria
+BQ.1.1.77	Alias of B.1.1.529.5.3.1.1.1.1.1.1.77, C12853T, ORF1b:A1428V, USA/France
 BQ.1.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2, found globally, defined by S:I666V, from issue #1082
 BQ.1.2.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1, found mainly in Japan, SouthKorea and Mongolia, from pango-designation issue #1392
 BQ.1.2.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2, found mainly in UK, from pango-designation issue #1861
