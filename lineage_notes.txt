@@ -2994,6 +2994,7 @@ XBL	Recombinant lineage of XBB.1.5.57-BA.2.75* (short segment from ~1k-~5k)-XBB.
 XBL.1	S:V635I, T2461C
 XBL.2	A1393G
 XBL.3	C11824T, G14400T
+XBL.3.1	S:I726V, C10252T, G29702A, Singapore/South Korea/Thailand
 XBM	Recombinant lineage of BA.2.76 and BF.3, India/USA/Canada, from issue #1441
 XBN	Recombinant lineage of BA.2.75 and XBB.3, mainly found in USA, from pango-designation issue #1296
 XBP	Recombinant lineage of BA.2.75* and BQ.1*, predominantly in England and Canada, from pango-designation issue #1393
