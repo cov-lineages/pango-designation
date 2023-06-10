@@ -2740,6 +2740,7 @@ XBB.1.5.81	S:478R, G4657A, South Africa
 XBB.1.5.82	S:K444R, Sweden/Reunion
 XBB.1.5.83	A10624G, South Africa
 XBB.1.5.84	S:M177I, South Africa
+XBB.1.5.85	S:L176F, S:478R, Trinidad and Tobago/Hong Kong
 XBB.1.6	USA, S:L216F, S:H146K, from issue #1428
 XBB.1.7	USA-NY, S:V608I
 XBB.1.8	Denmark, S:186insSGG, C3241T
