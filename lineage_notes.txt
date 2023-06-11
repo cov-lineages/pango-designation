@@ -2904,7 +2904,7 @@ XBB.1.42	S:486P, S:Q613H, on ORF1a:T4175I branch with XBB.1.9, Indonesia/Malaysi
 XBB.1.43	G11071A, Indonesia, from #2015
 XBB.1.43.1	S:486P, ORF1a:A2621V, A20713C, from #2015
 XBB.1.44	S:T747I, Russia
-XBB.1.44.1	S:486P, ORF3a:S195F, Russia/China
+XBB.1.44.1	S:486P, ORF3a:S195F, Russia/China, from #2043
 XBB.1.45	T21000C, USA/Singapore/Malaysia
 XBB.1.45.1	S:486P, A3139G, A19137G, C28291T, USA/Portugal
 XBB.1.46	ORF1a:C1114F, Singapore/Malaysia
