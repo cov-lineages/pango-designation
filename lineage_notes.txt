@@ -2898,6 +2898,7 @@ XBB.1.36	Defined by S:S490P, found mainly in Malaysia, Indonesia and Singapore, 
 XBB.1.37	Defined by A5371G, Indonesia/Russia
 XBB.1.37.1	Defined by S:486P, A1846G, G7459T, T27285C, Russia/South Korea, from #1929
 XBB.1.38	Defined by S:T732I, Russia
+XBB.1.38.1	S:T883I, Russia
 XBB.1.39	ORF1a:V2866M, Singapore/Malaysia
 XBB.1.40	S:Y453F, ORF1a:G519S, ORF1a:L2609F, ORF3a:P104S, Malaysia
 XBB.1.41	S:L335S, S:R403K, S:486P, possibly common  in Central/West Africa, from #1997
