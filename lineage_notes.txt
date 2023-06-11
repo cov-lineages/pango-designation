@@ -2642,6 +2642,7 @@ XBB.1.2	Singapore, defined by S:S640F
 XBB.1.3	Singapore, India/Italy, defined by S:A484T
 XBB.1.4	Europe, S:T883I
 XBB.1.4.1	Mainly Denmark, Norway and Sweden, defined by S:S673G, from pango-designation issue #1352
+XBB.1.4.2	S:486P, ORf1a:V3595F, Brazil
 XBB.1.5	USA, S:F486P
 XBB.1.5.1	USA, S:T573I
 XBB.1.5.2	USA, S:T284I, S:K147I
