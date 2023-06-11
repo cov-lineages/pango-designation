@@ -2911,6 +2911,7 @@ XBB.1.45.1	S:486P, A3139G, A19137G, C28291T, USA/Portugal
 XBB.1.46	ORF1a:C1114F, Singapore/Malaysia
 XBB.1.47	ORF1a:T1761I, ORF1a:C2180Y, ORF1a:I2854V, Philippines/Singapore/Japan
 XBB.1.47.1	S:486P, S:A260V, S:V1122G, Japan/USA/Australia/Germany
+XBB.1.48	S:L455F, S:F456L (22928C), C2509T, Pakistan
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
