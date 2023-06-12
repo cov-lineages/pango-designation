@@ -2718,6 +2718,7 @@ XBB.1.5.44	S:K356T, S:T572I, USA, from #1907
 XBB.1.5.45	S:478R, C27425T, G28079T, India-GJ/MH
 XBB.1.5.46	C5770T, C15279T, Germany/France
 GB.1	Alias of XBB.1.5.46.1, S:L518V, France, from #1969
+GB.2	Alias of XBB.1.5.46.2, S:478R, England/China, from #1891
 XBB.1.5.47	C1912T, USA/England
 FZ.1	Alias of XBB.1.5.47.1, S:E583D, England/Scotland
 FZ.1.1	Alias of XBB.1.5.47.1.1, S:L858I, England/Scotland
