@@ -2777,6 +2777,7 @@ FL.1.3	Alias of XBB.1.9.1.1.3, ORF1a:T1881I, ORF1b:M606I, South Korea
 FL.1.4	Alias of XBB.1.9.1.1.4, S:478R, S:Q1208H, Vietnam, from issue #1985
 FL.1.5	Alias of XBB.1.9.1.1.5, S:456L (T22928C), ORF1b:K2557R, from #1985 and #2036
 FL.1.5.1	Alias of XBB.1.9.1.1.5.1, S:478R, from #2036
+FL.1.6	Alias of XBB.1.9.1.1.5, S:N481K, S:Q1208H
 FL.2	Alias of XBB.1.9.1.2, T4579A
 FL.2.1	Alias of XBB.1.9.1.2.1, C10228T, Germany, global
 FL.2.2	Alias of XBB.1.9.1.2.2, S:T478R, Indonesia, from #1927
