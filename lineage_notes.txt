@@ -2996,6 +2996,7 @@ XBC.1.4	Australia, S:G184S, #1622
 XBC.1.5	Philippines/South Korea/Japan, ORF1a:T708I after A10042C, from #1671
 XBC.1.6	S:346S, S:M452R, found in Australia, from pango-designation issue #1755
 XBC.1.6.1	ORF8:P36L, Australia
+GT.1	Alias of XBC.1.6.1.1, S:I105V, C28333T, Australia
 XBC.1.6.2	ORF1a:D827N, Australia
 XBC.1.6.3	N:A173V, Australia
 XBC.1.6.4	ORF1a:V1117I, T20286C, Australia
