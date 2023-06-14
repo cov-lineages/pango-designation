@@ -2807,6 +2807,7 @@ FL.15	Alias of XBB.1.9.1.15, S:F456L (T22928C), ORF1a:E637K, Vietnam/China/South
 FL.16	Alias of XBB.1.9.1.16, S:D215V, C3511T, China, from #2001
 FL.17	Alias of XBB.1.9.1.17, T3898C, C28333T
 FL.17.1	Alias of XBB.1.9.1.17.1, S:N74H, South Korea
+FL.17.2	Alias of XBB.1.9.1.17.2, S:L452R, from sars-cov-2-variants/lineage-proposals#53
 XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore
 EG.1	Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 EG.1.1	Alias of XBB.1.9.2.1.1, S:V70F and ORF1a:T403I, Luxembourg/Belgium/France
