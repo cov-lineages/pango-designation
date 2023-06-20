@@ -2848,6 +2848,7 @@ XBB.1.16	Defined by S:E180V, S:478R, found in India, USA, Singapore, and Europe,
 XBB.1.16.1	Defined by S:T547I
 FU.1	Alias of XBB.1.16.1.1, T3802C
 FU.2	Alias of XBB.1.16.1.2, C8692T
+FU.2.1	Alias of XBB.1.16.1.2.1, S:E619Q, Vietnam
 XBB.1.16.2	Defined by ORF3a:V13L, ORF1a:P926H, India
 XBB.1.16.3	Defined by A2893C, India
 XBB.1.16.4	Defined by S:T678I, India, from #1903
