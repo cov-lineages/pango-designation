@@ -2856,6 +2856,7 @@ FU.2	Alias of XBB.1.16.1.2, C8692T
 FU.2.1	Alias of XBB.1.16.1.2.1, S:E619Q, Vietnam
 XBB.1.16.2	Defined by ORF3a:V13L, ORF1a:P926H, India
 GY.1	Alias of XBB.1.16.2.1, S:L84I, ORF1a:A4068S, China, from #2066
+GY.2	Alias of XBB.1.16.2.2, S:T883I
 XBB.1.16.3	Defined by A2893C, India
 XBB.1.16.4	Defined by S:T678I, India, from #1903
 XBB.1.16.5	Defined by T9991C,C16332T, India, from #1983
