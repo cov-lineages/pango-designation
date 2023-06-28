@@ -2718,6 +2718,7 @@ XBB.1.5.42	S:E281D, Asia/USA, from #1933
 GR.1	Alias of XBB.1.5.42.1, S:445S, Vietnam
 XBB.1.5.43	C18501T, Singapore/Malaysia/Indonesia
 XBB.1.5.44	S:K356T, S:T572I, USA, from #1907
+HC.1	Alias of XBB.1.5.44.1, S:P631S, USA
 XBB.1.5.45	S:478R, C27425T, G28079T, India-GJ/MH
 XBB.1.5.46	C5770T, C15279T, Germany/France
 GB.1	Alias of XBB.1.5.46.1, S:L518V, France, from #1969
