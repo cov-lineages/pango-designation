@@ -2958,6 +2958,7 @@ GJ.1.1	Alias of XBB.2.3.3.1.1, S:A222V, N:R319H, ORF1a:V1915I
 GJ.1.2	Alias of XBB.2.3.3.1.2, ORF1b:V1110I, from #2059
 GJ.2	Alias of XBB.2.3.3.2, S:I1114S, Europe
 XBB.2.3.4	S:478Q, India
+GZ.1	Alias of XBB.2.3.4.1, S:F186L, India-GJ
 XBB.2.3.5	S:K478N, found mainly in USA and India, from pango-designation issue #1846
 XBB.2.3.6	N:T166I, mainly Singapore
 GM.1	Alias of XBB.2.3.6.1, S:P621S, Singapore
