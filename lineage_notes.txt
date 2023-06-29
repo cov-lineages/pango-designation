@@ -2928,6 +2928,7 @@ FW.2	Alias of XBB.1.28.1.2, ORF1a:G2258C, France
 XBB.1.29	Defined by ORF1a:L3829F, S:A292S, Europe
 XBB.1.30	Defined by ORF1b:K2557R, South East Asia
 XBB.1.31	Defined by S:453F and S:478R, Indonesia/Singapore
+XBB.1.31.1	S:E554K, Indonesia
 XBB.1.32	Defined by ORF1a:E148D, Philippines
 XBB.1.32.1	S:Y453F, ORF1a:L642F, ORF1b:L2497I, Philippines/Thailand, from #1908
 XBB.1.33	Defined by S:A376T, found mainly in Italy, from pango-designation issue #1879
