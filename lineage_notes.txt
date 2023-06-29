@@ -2805,6 +2805,7 @@ FL.4.1	Alias of XBB.1.9.1.4.1, S:N450I
 FL.4.2	Alias of XBB.1.9.1.4.2, ORF1a:T951I, China
 FL.4.3	Alias of XBB.1.9.1.4.3, S:A766S, G7393T, Myanmar
 FL.4.4	Alias of XBB.1.9.1.4.4, ORF1a:T1542I, T24544C, S:478T (reversion), Indonesia
+FL.4.5	Alias of XBB.1.9.1.4.5, ORF8:S67F, ORF1a:D1228G, C23635T
 FL.5	Alias of XBB.1.9.1.5, N:T362I
 FL.6	Alias of XBB.1.9.1.6, ORF1a:I849V, Bahrain/Egypt/Oman/Austria
 FL.7	Alias of XBB.1.9.1.7, S:T51I
