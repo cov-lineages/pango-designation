@@ -2891,6 +2891,7 @@ XBB.1.16.9	S:F456L (T22930G), ORF1a:S2500F, Canada/Sweden/SouthKorea/USA
 XBB.1.16.10	N:G25D, from #1984
 XBB.1.16.11	S:P521T, India
 XBB.1.16.12	S:Q52H, South Korea
+XBB.1.16.13	ORF1a:G519S, ORF1a:G1101D, India
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from issue #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from issue #1712
 GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
