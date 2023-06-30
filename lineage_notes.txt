@@ -2810,6 +2810,7 @@ FL.4.5	Alias of XBB.1.9.1.4.5, ORF8:S67F, ORF1a:D1228G, C23635T
 FL.4.6	Alias of XBB.1.9.1.4.6, T5098C, C13965T, Australia/China
 FL.4.7	Alias of XBB.1.9.1.4.7, S:L452R, Singapore
 FL.5	Alias of XBB.1.9.1.5, N:T362I
+FL.5.1	Alias of XBB.1.9.1.5.1, S:M177T
 FL.6	Alias of XBB.1.9.1.6, ORF1a:I849V, Bahrain/Egypt/Oman/Austria
 FL.7	Alias of XBB.1.9.1.7, S:T51I
 FL.8	Alias of XBB.1.9.1.8, ORF3a:I62F, Europe
