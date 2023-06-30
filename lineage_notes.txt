@@ -2932,6 +2932,7 @@ FY.3.1	Alias of XBB.1.22.1.3.1, S:I210T, China
 FY.4	Alias of XBB.1.22.1.4, S:Y451H, A8374G, C25517T, Kenya, from #1979
 FY.4.1	Alias of XBB.1.22.1.4.1, S:S494P, Kenya
 FY.5	Alias of XBB.1.22.1.5, S:478R, Indonesia, from #1965
+FY.6	Alias of XBB.1.22.1.6, T2935C, ORF1a:A591V, France
 XBB.1.22.2	Defined by ORF1a:L3829F, C15237T
 XBB.1.23	Defined by E:S68F, on 28297C branch, South East Asia
 XBB.1.24	Defined by S:F486P, on T13704C branch, South East Asia from #1654
