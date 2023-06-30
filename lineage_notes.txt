@@ -2835,6 +2835,7 @@ FL.19	Alias of XBB.1.9.1.19, T2377C
 FL.20	Alias of XBB.1.9.1.20, S:F456L (22928C), S:Q52H, Spain, from #2072
 FL.21	Alias of XBB.1.9.1.21, A10564T, South Korea/China
 FL.22	Alias of XBB.1.9.1.22, ORF1b:I1416V, T24184C
+FL.23	Alias of XBB.1.9.1.23, ORF1b:V1132I, Philippines
 XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore
 EG.1	Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 EG.1.1	Alias of XBB.1.9.2.1.1, S:V70F and ORF1a:T403I, Luxembourg/Belgium/France
