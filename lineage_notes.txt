@@ -2879,6 +2879,7 @@ FU.3	Alias of XBB.1.16.1.3, C11665T, India-RJ
 XBB.1.16.2	Defined by ORF3a:V13L, ORF1a:P926H, India
 GY.1	Alias of XBB.1.16.2.1, S:L84I, ORF1a:A4068S, China, from #2066
 GY.2	Alias of XBB.1.16.2.2, S:T883I
+GY.2.1	Alias of XBB.1.16.2.2.1, S:S255F, South Korea
 GY.3	Alias of XBB.1.16.2.3, S:M177I, Thailand
 XBB.1.16.3	Defined by A2893C, India
 XBB.1.16.4	Defined by S:T678I, India, from #1903
