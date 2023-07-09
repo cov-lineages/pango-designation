@@ -1254,7 +1254,9 @@ BA.5.2.23	Alias of B.1.1.529.5.2.23, mainly found in USA, from pango-designation
 BA.5.2.24	Alias of B.1.1.529.5.2.24, defined by S:K444N on ORF1b:1050N branch
 CK.1	Alias of B.1.1.529.5.2.24.1, Pakistan, defined by S:N460K, issue #1120
 CK.1.1	Alias of B.1.1.529.5.2.24.1.1, found mainly in Japan, from pango-designation issue #1452
+CK.1.1.1	Alias of B.1.1.529.5.2.24.1.1.1, S:E654K, G6742T, C8782T, Japan
 CK.1.2	Alias of B.1.1.529.5.2.24.1.2, Pakistan, S:G181V, S:R346T, from issue #1467
+CK.1.3	Alias of B.1.1.529.5.2.24.1.3, Mexico, S:F157L, S:G181V
 CK.2	Alias of B.1.1.529.5.2.24.2, Pakistan, defined by E:V62F
 CK.2.1	Alias of B.1.1.529.5.2.24.2.1, Pakistan, defined by S:N460K
 CK.2.1.1	Alias of B.1.1.529.5.2.24.2.1.1, defined by S:S255F
