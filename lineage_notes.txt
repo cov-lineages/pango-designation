@@ -877,6 +877,7 @@ DV.8	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.8, S:Q613H, C8299T, C19602T, Sweden
 CH.1.1.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.2, defined by S:T883I, ORF1a:Y1846C, ORF1a:G2294S on T27576C branch
 CH.1.1.3	Alias of B.1.1.529.2.75.3.4.1.1.1.1.3, S:S255P, New Zealand/Australia/Hong Kong, from #1405
 GQ.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.3.1, S:486P, ORF1a:H1545Q, ORF1b:V1520L, Australia/New Zealand, from #1872
+GQ.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.3.1.1, S:G213E, New Zealand
 CH.1.1.4	Alias of B.1.1.529.2.75.3.4.1.1.1.1.4, S:H681R, Austria, from #1370
 CH.1.1.5	Alias of B.1.1.529.2.75.3.4.1.1.1.1.5, ORF3a:P104S, found mainly in Denmark and UK, from pango-designation issue #1539
 CH.1.1.6	Alias of B.1.1.529.2.75.3.4.1.1.1.1.6, UK, defined by S:T732I
