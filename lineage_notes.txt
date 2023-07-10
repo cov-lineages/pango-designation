@@ -3121,6 +3121,7 @@ XCC	Recombinant lineage of CH.1.1.1 and XBB.1.9.1, predominantly Pakistan, Austr
 XCD	Recombinant lineage of XBB.1* and BQ.1.1.25*, with S:R214H, S:478I, Indonesia, from #2042
 XCE	Recombinant lineage of BQ.1* and FY.1 (XBB.1.22.1.1), Indonesia, South Korea, France, from lineage-proposals#123
 XCF	Recombinant lineage of XBB* and FE.1 (XBB.1.18.1.1), possibly South America, from lineage-proposals#2
+XCF.1	S:F157L, USA
 XCG	Recombinant lineage of BA.5.2* and XBB.1, Mexico
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
