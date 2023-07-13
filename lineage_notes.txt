@@ -2933,6 +2933,7 @@ XBB.1.16.13	ORF1a:G519S, ORF1a:G1101D, India
 HF.1	XBB.1.16.13.1, S:K304N, South Korea/Japan
 XBB.1.16.14	S:L452Q, after A11782G, India/France/Canada, from sars-cov-2-variants/lineage-proposals#329
 XBB.1.16.15	S:K147N, S:P521S, T10756C, T14067C, on C27513T branch, from #2092
+XBB.1.16.16	S:Q613H, S:S412N, India-GJ/USA/Pakistan
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from issue #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from issue #1712
 GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
