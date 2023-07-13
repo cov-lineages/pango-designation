@@ -2946,6 +2946,7 @@ FE.1.1.1	Alias of XBB.1.18.1.1.1.1, ORF1a:T999I, North America
 HE.1	Alias of XBB.1.18.1.1.1.1.1, S:V622I, ORF8:A55V, USA/Puerto Rico
 FE.1.1.2	Alias of XBB.1.18.1.1.1.2, S:K1086R, Brazil/USA
 FE.1.1.3	Alias of XBB.1.18.1.1.1.3, A24775G, China
+FE.1.1.4	Alias of XBB.1.18.1.1.1.4, A4336G, T24073C, Brazil
 FE.1.2	Alias of XBB.1.18.1.1.2, A5488G
 XBB.1.19	Defined by S:486P, C541T, A10042G, T21363C, pre ORF8:8*, Pakistan, from #1680
 XBB.1.19.1	Defined by S:E554K
