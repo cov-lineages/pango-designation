@@ -2257,6 +2257,7 @@ AY.3.1	Alias of B.1.617.2.3.1, USA lineage, from pango-designation issue #147
 AY.3.2	Alias of B.1.617.2.3.2, Peru lineage, from pango-designation issue #312
 AY.3.3	Alias of B.1.617.2.3.3, USA lineage, from pango-designation issue #365
 AY.3.4	Alias of B.1.617.2.3.4, Bahrain lineage
+AY.3.5	Alias of B.1.617.2.3.5, S:Q52H, USA
 AY.4	Alias of B.1.617.2.4, UK lineage, from pango-designation issue #180
 AY.4.1	Alias of B.1.617.2.4.1, UK lineage, from pango-designation issue #214
 AY.4.2	Alias of B.1.617.2.4.2, predominantly UK lineage, from pango-designation issue #223
