@@ -2766,6 +2766,7 @@ XBB.1.5.68	S:P521T, ORF3a:L71I, C18501T, USA
 XBB.1.5.69	ORF1a:V2943I,C22513T, USA
 XBB.1.5.70	S:L455F, S:F456L (T22928C), ORF1a:A4068S, Brazil, from #1982
 GK.1	Alias of XBB.1.5.70.1, S:S704L, Brazil, from #2025
+GK.1.1	Alias of XBB.1.5.70.1.1, S:T573I, Brazil
 GK.2	Alias of XBB.1.5.70.2, S:V511I, from sars-cov-2-variants/lineage-proposals#300
 XBB.1.5.71	S:V511I, Spain
 XBB.1.5.72	S:F456L (T22928C), ORF1a:G445S, T9823C, T10204C, South America
