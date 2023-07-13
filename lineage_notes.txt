@@ -2930,6 +2930,7 @@ XBB.1.16.10	N:G25D, from #1984
 XBB.1.16.11	S:P521T, India
 XBB.1.16.12	S:Q52H, South Korea
 XBB.1.16.13	ORF1a:G519S, ORF1a:G1101D, India
+HF.1	XBB.1.16.13.1, S:K304N, South Korea/Japan
 XBB.1.16.14	S:L452Q, after A11782G, India/France/Canada, from sars-cov-2-variants/lineage-proposals#329
 XBB.1.16.15	S:K147N, S:P521S, T10756C, T14067C, on C27513T branch, from #2092
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from issue #1712
