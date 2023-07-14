@@ -2873,6 +2873,7 @@ EG.1.3	Alias of XBB.1.9.2.1.3, C3784T, A6613G, Europe
 EG.1.4	Alias of XBB.1.9.2.1.4, ORF1a:S2500F, Europe
 EG.1.4.1	Alias of XBB.1.9.2.1.4.1, S:P217L, South Korea
 EG.1.5	Alias of XBB.1.9.2.1.5, S:S98F, Europe
+EG.1.6	Alias of XBB.1.9.2.1.6, G26235T
 EG.2	Alias of XBB.1.9.2.2, S:478R, Indonesia
 EG.2.1	Alias of XBB.1.9.2.2.1, S:F456L (T22930A), S:V327I, Indonesia
 EG.3	Alias of XBB.1.9.2.3, ORF1a:L2778F on N:L219F branch
