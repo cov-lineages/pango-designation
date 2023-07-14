@@ -3024,7 +3024,7 @@ XBB.2.2	Defined by S:Q613H
 XBB.2.3	Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA
 XBB.2.3.1	S:D80Y, England/Sweden/India, #1775
 XBB.2.3.2	S:G184V, ORF1a:R2159W, India, from #1776
-HH.1	Alias of XBB.2.3.2.1, ORF1a:T2977I, T20697C
+HH.1	Alias of XBB.2.3.2.1, ORF1a:T2977I, T20697C, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/183
 HH.1.1	Alias of XBB.2.3.2.1.1, S:G181A
 HH.2	Alias of XBB.2.3.2.2, ORF1a:D48Y
 XBB.2.3.3	S:182N, India/USA
