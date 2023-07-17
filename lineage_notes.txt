@@ -2934,10 +2934,10 @@ XBB.1.16.10	N:G25D, from #1984
 XBB.1.16.11	S:P521T, India
 XBB.1.16.12	S:Q52H, South Korea
 XBB.1.16.13	ORF1a:G519S, ORF1a:G1101D, India
-HF.1	XBB.1.16.13.1, S:K304N, South Korea/Japan
-XBB.1.16.14	S:L452Q, after A11782G, India/France/Canada, from sars-cov-2-variants/lineage-proposals#329
+HF.1	XBB.1.16.13.1, S:K304N, South Korea/Japan，from #2083
+XBB.1.16.14	S:L452Q, after A11782G, India/France/Canada, from sars-cov-2-variants/lineage-proposals/#329
 XBB.1.16.15	S:K147N, S:P521S, T10756C, T14067C, on C27513T branch, from #2092
-XBB.1.16.16	S:Q613H, S:S412N, India-GJ/USA/Pakistan
+XBB.1.16.16	S:Q613H, S:S412N, India-GJ/USA/Pakistan，from sars-cov-2-variants/lineage-proposals/issues/54
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from issue #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from issue #1712
 GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
@@ -3019,7 +3019,7 @@ XBB.1.46	ORF1a:C1114F, Singapore/Malaysia
 XBB.1.47	ORF1a:T1761I, ORF1a:C2180Y, ORF1a:I2854V, Philippines/Singapore/Japan
 XBB.1.47.1	S:486P, S:A260V, S:V1122G, Japan/USA/Australia/Germany
 XBB.1.48	S:L455F, S:F456L (22928C), C2509T, Pakistan
-XBB.1.49	S:346S, S:486P, on C16648A, A27965G, pre ORF8:8* branch with XBB.1.33, Somalia
+XBB.1.49	S:346S, S:486P, on C16648A, A27965G, pre ORF8:8* branch with XBB.1.33, Somalia，from sars-cov-2-variants/lineage-proposals/issues/208
 XBB.2	Defined by S:D253G, from issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
