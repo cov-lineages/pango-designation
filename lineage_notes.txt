@@ -2904,6 +2904,7 @@ FP.2.1	Alias of XBB.1.11.1.2.1, S:478R, ORF1a:I693T, ORF1a:T951A, ORF3a:W149C, I
 FP.3	Alias of XBB.1.11.1.3, S:478R, Indonesia/Malaysia
 FP.4	Alias of XBB.1.11.1.4, C3241T, C2536T, Vietnam/South Korea/Japan
 XBB.1.12	Spain/Sweden/Germany, S:Y453F, ORF1a:S216F, ORF1a:A2832V
+XBB.1.12.1	S:Q613H, S:E1202Q, Argentina/Chile/Spain
 XBB.1.13	S:S490P from #1487
 XBB.1.13.1	S:Q564E, S:N856K, Czechia
 XBB.1.14	S:G75V, S:E554K
