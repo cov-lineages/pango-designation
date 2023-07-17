@@ -2735,7 +2735,7 @@ GR.1	Alias of XBB.1.5.42.1, S:445S, Vietnam
 XBB.1.5.43	C18501T, Singapore/Malaysia/Indonesia
 XBB.1.5.44	S:K356T, S:T572I, USA, from #1907
 HC.1	Alias of XBB.1.5.44.1, S:P631S, USA, from sars-cov-2-variants/lineage-proposals#106
-XBB.1.5.45	S:478R, C27425T, G28079T, India-GJ/MH
+XBB.1.5.45	S:478R, C27425T, G28079T, India-GJ/MH, from #1792
 XBB.1.5.46	C5770T, C15279T, Germany/France
 GB.1	Alias of XBB.1.5.46.1, S:L518V, France, from #1969
 GB.2	Alias of XBB.1.5.46.2, S:478R, England/China, from #1891
@@ -2805,7 +2805,7 @@ XBB.1.7	USA-NY, S:V608I
 XBB.1.8	Denmark, S:186insSGG, C3241T
 XBB.1.9	ORF1a:G1819S, ORF1a:T4175I
 XBB.1.9.1	S:F486P (after C11956T), Indonesia/Singapore/Malaysia/England
-FL.1	Alias of XBB.1.9.1.1, S:701V, ORF1a:G993S
+FL.1	Alias of XBB.1.9.1.1, S:701V, ORF1a:G993S, from #1808
 FL.1.1	Alias of XBB.1.9.1.1.1, ORF1b:Q2635P, USA/Australia
 FL.1.1.1	Alias of XBB.1.9.1.1.1.1, S:A688S, Australia/Mauritius
 FL.1.2	Alias of XBB.1.9.1.1.2, ORF1a:T4311I, South Korea/Italy/Spain
@@ -2904,7 +2904,7 @@ FP.2.1	Alias of XBB.1.11.1.2.1, S:478R, ORF1a:I693T, ORF1a:T951A, ORF3a:W149C, I
 FP.3	Alias of XBB.1.11.1.3, S:478R, Indonesia/Malaysia
 FP.4	Alias of XBB.1.11.1.4, C3241T, C2536T, Vietnam/South Korea/Japan
 XBB.1.12	Spain/Sweden/Germany, S:Y453F, ORF1a:S216F, ORF1a:A2832V
-XBB.1.12.1	S:Q613H, S:E1202Q, Argentina/Chile/Spain
+XBB.1.12.1	S:Q613H, S:E1202Q, Argentina/Chile/Spain from https://github.com/sars-cov-2-variants/lineage-proposals/issues/336
 XBB.1.13	S:S490P from #1487
 XBB.1.13.1	S:Q564E, S:N856K, Czechia
 XBB.1.14	S:G75V, S:E554K
@@ -2949,7 +2949,7 @@ XBB.1.18.1	Defined by S:F486P, Brazil
 FE.1	Alias of XBB.1.18.1.1, S:F456L (T22928C), Brazil/Chile
 FE.1.1	Alias of XBB.1.18.1.1.1, ORF8:S67F, T4579A
 FE.1.1.1	Alias of XBB.1.18.1.1.1.1, ORF1a:T999I, North America
-HE.1	Alias of XBB.1.18.1.1.1.1.1, S:V622I, ORF8:A55V, USA/Puerto Rico
+HE.1	Alias of XBB.1.18.1.1.1.1.1, S:V622I, ORF8:A55V, USA/Puerto Rico, from #2067
 FE.1.1.2	Alias of XBB.1.18.1.1.1.2, S:K1086R, Brazil/USA
 FE.1.1.3	Alias of XBB.1.18.1.1.1.3, A24775G, China
 FE.1.1.4	Alias of XBB.1.18.1.1.1.4, A4336G, T24073C, Brazil
@@ -3008,7 +3008,7 @@ XBB.1.40	S:Y453F, ORF1a:G519S, ORF1a:L2609F, ORF3a:P104S, Malaysia
 XBB.1.41	S:L335S, S:R403K, S:486P, possibly common  in Central/West Africa, from #1997
 XBB.1.41.1	S:478R, France
 XBB.1.42	S:486P, S:Q613H, on ORF1a:T4175I branch with XBB.1.9, Indonesia/Malaysia/China
-XBB.1.42.1	S:478R
+XBB.1.42.1	S:478R from https://github.com/sars-cov-2-variants/lineage-proposals/issues/198
 XBB.1.43	G11071A, Indonesia, from #2015
 XBB.1.43.1	S:486P, ORF1a:A2621V, A20713C, from #2015
 XBB.1.44	S:T747I, Russia
@@ -3027,7 +3027,7 @@ XBB.2.3	Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA
 XBB.2.3.1	S:D80Y, England/Sweden/India, #1775
 XBB.2.3.2	S:G184V, ORF1a:R2159W, India, from #1776
 HH.1	Alias of XBB.2.3.2.1, ORF1a:T2977I, T20697C
-HH.1.1	Alias of XBB.2.3.2.1.1, S:G181A
+HH.1.1	Alias of XBB.2.3.2.1.1, S:G181A from  sars-cov-2-variants/lineage-proposals#183
 HH.2	Alias of XBB.2.3.2.2, ORF1a:D48Y
 XBB.2.3.3	S:182N, India/USA
 GJ.1	Alias of XBB.2.3.3.1, found mainly in China and USA, from pango-designation issue #2005
@@ -3035,7 +3035,7 @@ GJ.1.1	Alias of XBB.2.3.3.1.1, S:A222V, N:R319H, ORF1a:V1915I
 GJ.1.2	Alias of XBB.2.3.3.1.2, ORF1b:V1110I, from #2059
 GJ.2	Alias of XBB.2.3.3.2, S:I1114S, Europe
 GJ.3	Alias of XBB.2.3.3.3, ORF1a:P971S, ORF1b:V2371L
-XBB.2.3.4	S:478Q, India
+XBB.2.3.4	S:478Q, India, from #1822
 GZ.1	Alias of XBB.2.3.4.1, S:F186L, India-GJ
 XBB.2.3.5	S:K478N, found mainly in USA and India, from pango-designation issue #1846
 XBB.2.3.6	N:T166I, mainly Singapore
@@ -3072,7 +3072,7 @@ XBB.3.1	Defined by S:Q677R, India-TN/Singapore, from issue #1241
 XBB.3.2	Defined by S:M177T
 XBB.3.3	Defined by S:V1122L, USA
 XBB.3.4	Defined by S:E990D
-XBB.3.5	ORF1a:T4083M, Mozambique
+XBB.3.5	ORF1a:T4083M, Mozambique, from #1778
 XBB.4	Defined by S:K444R on ORF1a:D82G branch, from issue #1239
 XBB.4.1	England/Austria, S:L5F, S:T470N
 XBB.5	Defined by S:A653V on ORF1a:D82G branch, India-TN, Singapore, Australia
