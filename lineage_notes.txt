@@ -2866,7 +2866,7 @@ FL.24	Alias of XBB.1.9.1.24, S:Q613H, S:A688V, from sars-cov-2-variants/lineage-
 FL.25	Alias of XBB.1.9.1.25, S:E554K, USA/England, from #2040
 FL.26	Alias of XBB.1.9.1.26, C22264T
 FL.26.1	Alias of XBB.1.9.1.26.1, S:493L, Sweden
-XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore
+XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore，from #1602
 EG.1	Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 EG.1.1	Alias of XBB.1.9.2.1.1, S:V70F and ORF1a:T403I, Luxembourg/Belgium/France
 EG.1.2	Alias of XBB.1.9.2.1.2, ORF7b:H42Y, mostly Austria, from #1711
@@ -2968,7 +2968,7 @@ FY.1.2	Alias of XBB.1.22.1.1.2, S:T572I, ORF1b:P218L, Europe
 FY.1.3	Alias of XBB.1.22.1.1.3, S:E583D, South Korea
 FY.2	Alias of XBB.1.22.1.2, S:I197T, ORF1b:S997P, Indonesia, from #1859
 FY.3	Alias of XBB.1.22.1.3, ORF1a:E750K, C23191T, China
-FY.3.1	Alias of XBB.1.22.1.3.1, S:I210T, China
+FY.3.1	Alias of XBB.1.22.1.3.1, S:I210T, China，from #2009
 FY.4	Alias of XBB.1.22.1.4, S:Y451H, A8374G, C25517T, Kenya, from #1979
 FY.4.1	Alias of XBB.1.22.1.4.1, S:S494P, Kenya
 FY.5	Alias of XBB.1.22.1.5, S:478R, Indonesia, from #1965
@@ -3007,7 +3007,7 @@ XBB.1.39	ORF1a:V2866M, Singapore/Malaysia
 XBB.1.40	S:Y453F, ORF1a:G519S, ORF1a:L2609F, ORF3a:P104S, Malaysia
 XBB.1.41	S:L335S, S:R403K, S:486P, possibly common  in Central/West Africa, from #1997
 XBB.1.41.1	S:478R, France
-XBB.1.42	S:486P, S:Q613H, on ORF1a:T4175I branch with XBB.1.9, Indonesia/Malaysia/China
+XBB.1.42	S:486P, S:Q613H, on ORF1a:T4175I branch with XBB.1.9, Indonesia/Malaysia/China，from #1954
 XBB.1.42.1	S:478R from https://github.com/sars-cov-2-variants/lineage-proposals/issues/198
 XBB.1.43	G11071A, Indonesia, from #2015
 XBB.1.43.1	S:486P, ORF1a:A2621V, A20713C, from #2015
