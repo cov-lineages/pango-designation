@@ -37,7 +37,7 @@ B	One of the two original haplotypes of the pandemic(and first to be discovered)
 B.1	A large European lineage the origin of which roughly corresponds to the Northern Italian outbreak early in 2020.
 B.1.1	European lineage with 3 clear SNPs `28881GA`,`28882GA`,`28883GC`
 B.1.1.1	England
-C.1	Alias of B.1.1.1.1, South Africa
+C.1	Alias of B.1.1.1.1, South Africa, from #2
 C.1.1	Alias of B.1.1.1.1.1, Mozambique
 C.1.2	Alias of B.1.1.1.1.2, mostly South Africa, from pango-designation issue #139
 C.2	Alias of B.1.1.1.2, South Africa and some European
@@ -117,7 +117,7 @@ B.1.1.26	USA Lineage
 B.1.1.27	Oman Lineage, some UAE
 B.1.1.28	Brazil mostly, absorbed B.1.1.94 and B.1.1.143
 P.1	Alias of B.1.1.28.1, Brazilian lineage with a number of spike mutations with likely functional significance E484K, K417T, and N501Y. Described in https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586.
-P.1.1	Alias of B.1.1.28.1.1, European lineage in Italy and Germany
+P.1.1	Alias of B.1.1.28.1.1, European lineage in Italy and Germany, from #28
 P.1.2	Alias of B.1.1.28.1.2, Netherlands/Brazil lineage. Imported into Netherlands, likely with local transmission here and continued circulation within and/or reintroduction into Brazil, pango-designation issue #56
 P.1.3	Alias of B.1.1.28.1.3, Brazil lineage, from pango-designation issue #141
 P.1.4	Alias of B.1.1.28.1.4, Brazil lineage, from pango-designation issue #141
@@ -140,7 +140,7 @@ P.1.16	Alias of B.1.1.28.1.16, predominantly Belgium lineage also in other count
 P.1.17	Alias of B.1.1.28.1.17, predominantly USA and Mexico lineage, from pango-designation issue #231
 P.1.17.1	Alias of B.1.1.28.1.17.1, predominantly in Luxembourg, from pango-designation issue #231
 P.2	Alias of B.1.1.28.2, Brazilian lineage
-P.3	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2
+P.3	Alias of B.1.1.28.3, Lineage predominantly in the Philippines with spike mutations E484K, N501Y, P681H, 141-143del. Described in Tablizo et al 2021: https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2, from #27
 P.4	Alias of B.1.1.28.4, Brazil lineage, pango-designation issue #68
 P.5	Alias of B.1.1.28.5, Brazil lineage, pango-designation issue #86
 P.6	Alias of B.1.1.28.6, Uruguay lineage, from pango-designation issue #148
@@ -157,7 +157,7 @@ N.5	Alias of B.1.1.33.5, Argentinian
 N.6	Alias of B.1.1.33.6, Chilean
 N.7	Alias of B.1.1.33.7, Uruguay
 N.8	Alias of B.1.1.33.8, Kenyan
-N.9	Alias of B.1.1.33.9, Brazilian lineage
+N.9	Alias of B.1.1.33.9, Brazilian lineage, from #26
 N.10	Alias of B.1.1.33.10, Brazilian lineage described in https://virological.org/t/identification-of-a-new-b-1-1-33-sars-cov-2-variant-of-interest-voi-circulating-in-brazil-with-mutation-e484k-and-multiple-deletions-in-the-amino-n-terminal-domain-of-the-spike-protein/675
 B.1.1.34	South African lineage
 B.1.1.37	UK lineage
@@ -1850,10 +1850,10 @@ B.1.211	Belgium/ Luxembourg lineage
 B.1.212	South American lineage
 B.1.213	Polish lineage
 B.1.214	DRC/ Congo lineage
-B.1.214.1	Congo/ France lineage
-B.1.214.2	Lineage from Belgium with a number of key spike mutations and a 9bp spike insertion.
-B.1.214.3	France, Belgium and Mayotte lineage.
-B.1.214.4	Danish lineage. 
+B.1.214.1	Congo/ France lineage, from #21
+B.1.214.2	Lineage from Belgium with a number of key spike mutations and a 9bp spike insertion, from #20
+B.1.214.3	France, Belgium and Mayotte lineage, from #20
+B.1.214.4	Danish lineage, from #20
 B.1.215	Scottish lineage
 B.1.218	Swiss lineage
 B.1.219	Suriname lineage
@@ -2060,7 +2060,7 @@ B.1.428	Danish lineage (amalgam of Danish sequences from B.1.358, B.1.288, B.1.2
 B.1.428.1	Iraq
 B.1.428.2	Tunisia, England, France
 B.1.428.3	UAE, Jordan
-B.1.429	A lineage predominantly circulating in California but with exports to other countries. Characterised by the spike L452R mutation but also has spike:W152C orf1ab:D5584Y and N:T205I.
+B.1.429	A lineage predominantly circulating in California but with exports to other countries. Characterised by the spike L452R mutation but also has spike:W152C orf1ab:D5584Y, and N:T205I, from #3
 B.1.429.1	Colorado lineage from pango-designation issue #37
 B.1.431	Scotland
 B.1.432	USA lineage
@@ -2151,8 +2151,8 @@ B.1.520	USA, Canada, England, Germany etc. (could be dissolved / reassigned to B
 B.1.521	USA lineage
 B.1.523	UK/Australia
 B.1.524	Malaysian lineage
-B.1.525	International lineage with E484K, del69-70 among other defining mutations.
-B.1.526	A lineage predominantly circulating in New York but with a few exports to other countries. Characterised by spike mutations T95I and D253G, plus others. The most frequent spike mutation pattern is L5F T95I D253G E484K D614G A701V, with a smaller fraction having S477N instead of E484K. Spike mutation E484K is present in about half of this lineage (as of 2021-02-10) - Very possible not all new additions carry T95I and D253G (someone should check this, e.g. for USA/NY-Wadsworth-21008455-01/2021 and Aruba/AW-RIVM-11403/2021)
+B.1.525	International lineage with E484K, del69-70 among other defining mutations, from #4
+B.1.526	A lineage predominantly circulating in New York but with a few exports to other countries. Characterised by spike mutations T95I and D253G, plus others. The most frequent spike mutation pattern is L5F T95I D253G E484K D614G A701V, with a smaller fraction having S477N instead of E484K. Spike mutation E484K is present in about half of this lineage (as of 2021-02-10) - Very possible not all new additions carry T95I and D253G (someone should check this, e.g. for USA/NY-Wadsworth-21008455-01/2021 and Aruba/AW-RIVM-11403/2021), from #6
 B.1.527	Czech Republic/ Ukraine lineage
 B.1.528	Moroccan lineage
 B.1.529	French lineage
