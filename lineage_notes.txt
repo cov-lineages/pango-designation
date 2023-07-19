@@ -2662,6 +2662,7 @@ XBB.1.4.1	Mainly Denmark, Norway and Sweden, defined by S:S673G, from pango-desi
 XBB.1.4.2	S:486P, ORf1a:V3595F, Brazil
 XBB.1.5	USA, S:F486P
 XBB.1.5.1	USA, S:T573I
+HJ.1	Alias of XBB.1.5.1.1, S:E324K, C4543T, USA
 XBB.1.5.2	USA, S:T284I, S:K147I
 XBB.1.5.3	USA, S:A411S
 XBB.1.5.4	USA, S:T883I directly on XBB.1.5 polytomy
