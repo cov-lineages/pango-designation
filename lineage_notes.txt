@@ -2924,6 +2924,7 @@ GY.2	Alias of XBB.1.16.2.2, S:T883I
 GY.2.1	Alias of XBB.1.16.2.2.1, S:S255F, South Korea
 GY.3	Alias of XBB.1.16.2.3, S:M177I, Thailand
 GY.4	Alias of XBB.1.16.2.4, S:N450K, C29095T, Laos
+GY.5	Alias of XBB.1.16.2.5, G9190C
 XBB.1.16.3	Defined by A2893C, India
 XBB.1.16.4	Defined by S:T678I, India, from #1903
 XBB.1.16.5	Defined by T9991C,C16332T, India, from #1983
