@@ -2870,6 +2870,7 @@ FL.24	Alias of XBB.1.9.1.24, S:Q613H, S:A688V, from sars-cov-2-variants/lineage-
 FL.25	Alias of XBB.1.9.1.25, S:E554K, USA/England, from #2040
 FL.26	Alias of XBB.1.9.1.26, C22264T
 FL.26.1	Alias of XBB.1.9.1.26.1, S:493L, Sweden
+FL.27	Alias of XBB.1.9.1.27, ORF1a:V3747I
 XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore，from #1602
 EG.1	Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 EG.1.1	Alias of XBB.1.9.2.1.1, S:V70F and ORF1a:T403I, Luxembourg/Belgium/France
