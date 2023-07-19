@@ -2865,6 +2865,7 @@ FL.20	Alias of XBB.1.9.1.20, S:F456L (22928C), S:Q52H, Spain, from #2072
 FL.21	Alias of XBB.1.9.1.21, A10564T, South Korea/China
 FL.22	Alias of XBB.1.9.1.22, ORF1b:I1416V, T24184C
 FL.23	Alias of XBB.1.9.1.23, ORF1b:V1132I, Philippines
+FL.23.1	Alias of XBB.1.9.1.23.1, ORF1a:A2584V, C8016, C8311T
 FL.24	Alias of XBB.1.9.1.24, S:Q613H, S:A688V, from sars-cov-2-variants/lineage-proposals#284
 FL.25	Alias of XBB.1.9.1.25, S:E554K, USA/England, from #2040
 FL.26	Alias of XBB.1.9.1.26, C22264T
