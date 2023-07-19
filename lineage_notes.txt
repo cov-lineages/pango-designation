@@ -2881,6 +2881,7 @@ EG.3	Alias of XBB.1.9.2.3, ORF1a:L2778F on N:L219F branch
 EG.4	Alias of XBB.1.9.2.4, C28651T
 EG.4.1	Alias of XBB.1.9.2.4.1, S:I870V, N:A119S
 EG.4.2	Alias of XBB.1.9.2.4.2, S:A623V, T14652C, China
+EG.4.3	Alias of XBB.1.9.2.4.3, S:Q613H
 EG.5	Alias of XBB.1.9.2.5, S:F456L (T22930A), ORF1a:A690V, ORF1a:A3143V, Indonesia
 EG.5.1	Alias of XBB.1.9.2.5.1, S:Q52H
 EG.5.1.1	Alias of XBB.1.9.2.5.1.1, China, from pango-designation issue #2020
