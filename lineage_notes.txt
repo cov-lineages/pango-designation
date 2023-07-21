@@ -1005,8 +1005,8 @@ BY.1.2	Alias of B.1.1.529.2.75.6.1.2, Europe, 26828T
 BY.1.2.1	Alias of B.1.1.529.2.75.6.1.2.1, Austria/England, S:S494P From #1184
 BA.2.75.7	Alias of B.1.1.529.2.75.7, mainly found in India, defined by S:F486S on the BA.2.75 polytomy
 BA.2.75.8	Alias of B.1.1.529.2.75.8, Singapore/Australia, defined by S:L452Q, issue #1085
-BA.2.75.9	Alias of B.1.1.529.2.75.9, India, defined by S:R346T after 17679T
-CB.1	Alias of B.1.1.529.2.75.9.1, England, defined by S:486V
+BA.2.75.9	Alias of B.1.1.529.2.75.9, India, defined by S:R346T after 17679T From #1098
+CB.1	Alias of B.1.1.529.2.75.9.1, England, defined by S:486V From #1098
 BA.2.75.10	Alias of B.1.1.529.2.75.10, India, ORF1a:T3959A
 BA.2.76	Alias of B.1.1.529.2.76, mainly found in India and USA, from pango-designation issue #787
 BA.2.76.1	Alias of B.1.1.529.2.76.1, mainly found in India, from pango-designation issue #899
@@ -1267,9 +1267,9 @@ CK.1.2	Alias of B.1.1.529.5.2.24.1.2, Pakistan, S:G181V, S:R346T, from issue #14
 CK.1.3	Alias of B.1.1.529.5.2.24.1.3, Mexico, S:F157L, S:G181V
 CK.1.4	Alias of B.1.1.529.5.2.24.1.4, C10228T, C25824T, C27741T, on C25614T branch
 CK.1.5	Alias of B.1.1.529.5.2.24.1.5, C9118T, C15951T, ORF1a:M3733V, on C25614T branch
-CK.2	Alias of B.1.1.529.5.2.24.2, Pakistan, defined by E:V62F
+CK.2	Alias of B.1.1.529.5.2.24.2, Pakistan, defined by E:V62F From #1190
 CK.2.1	Alias of B.1.1.529.5.2.24.2.1, Pakistan, defined by S:N460K From #1125
-CK.2.1.1	Alias of B.1.1.529.5.2.24.2.1.1, defined by S:S255F
+CK.2.1.1	Alias of B.1.1.529.5.2.24.2.1.1, defined by S:S255F From #1190
 CK.3	Alias of B.1.1.529.5.2.24.3, found mainly in Singapore and USA, from pango-designation issue #1121
 DG.1	Alias of B.1.1.529.5.2.24.2.1.1.1, defined by S:G252S From #1288
 BA.5.2.25	Alias of B.1.1.529.5.2.25, mainly found in France, USA and Canada, from pango-designation issue #1111
@@ -1291,11 +1291,11 @@ BA.5.2.33	Alias of B.1.1.529.5.2.33, UK lineage, defined by ORF8:P93S
 CE.1	Alias of B.1.1.529.5.2.33.1, UK lineage, defined by S:R346I
 BA.5.2.34	Alias of B.1.1.529.5.2.34, mainly found in Israel and USA, from pango-designation issue #992
 BA.5.2.35	Alias of B.1.1.529.5.2.35, Pakistan lineage, defined by S:R346T after G28423C and C7006T
-BA.5.2.36	Alias of B.1.1.529.5.2.36, India/Pakistan lineage, defined by S:K444T
-CT.1	Alias of B.1.1.529.5.2.36.1, India/Pakistan lineage, defined by S:K356T
+BA.5.2.36	Alias of B.1.1.529.5.2.36, India/Pakistan lineage, defined by S:K444T From #1203
+CT.1	Alias of B.1.1.529.5.2.36.1, India/Pakistan lineage, defined by S:K356T From #1203
 BA.5.2.37	Alias of B.1.1.529.5.2.37, found mainly in USA and India, from pango-designation issue #1117
-BA.5.2.38	Alias of B.1.1.529.5.2.38, S:T430I
-DA.1	Alias of B.1.1.529.5.2.38.1, Indonesia, S:R346T
+BA.5.2.38	Alias of B.1.1.529.5.2.38, S:T430I From #1254
+DA.1	Alias of B.1.1.529.5.2.38.1, Indonesia, S:R346T From #1254
 BA.5.2.39	Alias of B.1.1.529.5.2.39, USA, S:R346T From #1279
 BA.5.2.40	Alias of B.1.1.529.5.2.40, Sweden, S:N450D
 BA.5.2.41	Alias of B.1.1.529.5.2.41, found mainly in Sweden, from pango-designation issue #1328
@@ -2301,18 +2301,18 @@ AY.9.2.1	Alias of B.1.617.2.9.2.1, Canada lineage
 AY.9.2.2	Alias of B.1.617.2.9.2.2, Sweden lineage, from pango-designation issue #284
 AY.10	Alias of B.1.617.2.10, UK lineage, from pango-designation issue #180
 AY.11	Alias of B.1.617.2.11, UK lineage, from pango-designation issue #142
-AY.13	Alias of B.1.617.2.13, USA lineage
-AY.14	Alias of B.1.617.2.14, USA lineage
-AY.15	Alias of B.1.617.2.15, Canada lineage
-AY.16	Alias of B.1.617.2.16, lineage in Kenya and multiple other countries
+AY.13	Alias of B.1.617.2.13, USA lineage From #198
+AY.14	Alias of B.1.617.2.14, USA lineage From #198
+AY.15	Alias of B.1.617.2.15, Canada lineage From #198
+AY.16	Alias of B.1.617.2.16, lineage in Kenya and multiple other countries From #198
 AY.16.1	Alias of B.1.617.2.16.1, France lineage
-AY.17	Alias of B.1.617.2.17, Ireland and Northern Ireland lineage
-AY.18	Alias of B.1.617.2.18, Canada lineage
-AY.19	Alias of B.1.617.2.19, South Africa lineage
-AY.20	Alias of B.1.617.2.20, USA and Mexico lineage
+AY.17	Alias of B.1.617.2.17, Ireland and Northern Ireland lineage From #198
+AY.18	Alias of B.1.617.2.18, Canada lineage From #198
+AY.19	Alias of B.1.617.2.19, South Africa lineage From #198
+AY.20	Alias of B.1.617.2.20, USA and Mexico lineage From #198
 AY.20.1	Alias of B.1.617.2.20.1, Czech Republic lineage From #318
-AY.21	Alias of B.1.617.2.21, lineage predominantly in Italy and Switzerland
-AY.22	Alias of B.1.617.2.22, predominantly Portugal lineage
+AY.21	Alias of B.1.617.2.21, lineage predominantly in Italy and Switzerland From #198
+AY.22	Alias of B.1.617.2.22, predominantly Portugal lineage From #198
 AY.23	Alias of B.1.617.2.23, predominantly Singapore and Indonesia lineage, from pango-designation issue #175
 AY.23.1	Alias of B.1.617.2.23.1, Singapore lineage, from pango-designation issue #237
 AY.23.2	Alias of B.1.617.2.23.2, European lineage, from pango-designation issue #265
@@ -2339,7 +2339,7 @@ AY.33.1	Alias of B.1.617.2.33.1, Reunion and France lineage, from pango-designat
 AY.33.2	Alias of B.1.617.2.33.2, mainly found in Germany, Poland, Gibraltar and Spain, from pango-designation issue #403
 AY.34	Alias of B.1.617.2.34, lineage with spike Q677H circulating in multiple countries, from pango-designation issue #217
 AY.34.1	Alias of B.1.617.2.34.1, lineage in multiple countries including Gambia, Senegal, Benin and Mali, from pango-designation issue #255
-AY.34.1.1	Alias of B.1.617.2.34.1.1, Brazil and Chile lineage
+AY.34.1.1	Alias of B.1.617.2.34.1.1, Brazil and Chile lineage From #255
 AY.34.2	Alias of B.1.617.2.34.2, lineage in multiple countries including Martinique, from pango-designation issue #269
 AY.35	Alias of B.1.617.2.35, lineage with spike E484Q circulating in USA, from pango-designation issue #217
 AY.36	Alias of B.1.617.2.36, lineage predominantly in Nigeria, UK and USA, from pango-designation issue #225
@@ -2389,12 +2389,12 @@ AY.54	Alias of B.1.617.2.54, USA lineage
 AY.55	Alias of B.1.617.2.55, lineage in Rwanda and other countries
 AY.56	Alias of B.1.617.2.56, USA lineage
 AY.57	Alias of B.1.617.2.57, Vietnam lineage
-AY.58	Alias of B.1.617.2.58, European lineage
+AY.58	Alias of B.1.617.2.58, European lineage From #286
 AY.59	Alias of B.1.617.2.59, Malaysia lineage
 AY.60	Alias of B.1.617.2.60, European lineage
 AY.61	Alias of B.1.617.2.61, Italy lineage
 AY.62	Alias of B.1.617.2.62, USA and Mexico lineage
-AY.63	Alias of B.1.617.2.63, Norway lineage
+AY.63	Alias of B.1.617.2.63, Norway lineage From #286
 AY.64	Alias of B.1.617.2.64, USA lineage
 AY.65	Alias of B.1.617.2.65, lineage in Bahrain and other countries
 AY.66	Alias of B.1.617.2.66, European lineage From #271
@@ -2432,9 +2432,9 @@ AY.95	Alias of B.1.617.2.95, Maldives and European lineage
 AY.98	Alias of B.1.617.2.98, UK lineage
 AY.98.1	Alias of B.1.617.2.98.1, European lineage
 AY.98.1.1	Alias of B.1.617.2.98.1.1, mainly found in Germany and Denmark, from pango-designation issue #604
-AY.99	Alias of B.1.617.2.99, South Africa and Nigeria lineage
-AY.99.1	Alias of B.1.617.2.99.1, Brazil lineage
-AY.99.2	Alias of B.1.617.2.99.2, Brazil lineage
+AY.99	Alias of B.1.617.2.99, South Africa and Nigeria lineage From #258
+AY.99.1	Alias of B.1.617.2.99.1, Brazil lineage From #258
+AY.99.2	Alias of B.1.617.2.99.2, Brazil lineage From #258
 AY.100	Alias of B.1.617.2.100, USA lineage
 AY.101	Alias of B.1.617.2.101, Brazil and Chile lineage
 AY.102	Alias of B.1.617.2.102, Peru and Chile lineage, from pango-designation issue #272
@@ -2452,7 +2452,7 @@ AY.109	Alias of B.1.617.2.109, lineage in Nigeria and other countries
 AY.110	Alias of B.1.617.2.110, USA lineage
 AY.111	Alias of B.1.617.2.111, UK lineage
 AY.112	Alias of B.1.617.2.112, lineage in India and other countries, from pango-designation issue #283
-AY.112.1	Alias of B.1.617.2.112.1, Bahrain lineage
+AY.112.1	Alias of B.1.617.2.112.1, Bahrain lineage From #283
 AY.112.2	Alias of B.1.617.2.112.2, mainly found in India, from pango-designation issue #385
 AY.112.3	Alias of B.1.617.2.112.3, mainly found in Israel, from pango-designation issue #388
 AY.113	Alias of B.1.617.2.113, USA and Mexico lineage
@@ -2469,8 +2469,8 @@ AY.120.1	Alias of B.1.617.2.120.1, USA lineage
 AY.120.2	Alias of B.1.617.2.120.2, South Africa lineage
 AY.120.2.1	Alias of B.1.617.2.120.2.1, European lineage
 AY.121	Alias of B.1.617.2.121, European lineage From #301
-AY.121.1	Alias of B.1.617.2.121.1, Poland and Germany lineage
-AY.122	Alias of B.1.617.2.122, European lineage
+AY.121.1	Alias of B.1.617.2.121.1, Poland and Germany lineage From #344
+AY.122	Alias of B.1.617.2.122, European lineage From #320
 AY.122.1	Alias of B.1.617.2.122.1, Israel lineage, formally AY.12 but renamed as descends from AY.122 which was designated after AY.12, from pango-designation issue #170
 AY.122.2	Alias of B.1.617.2.122.2, Finland and Estonia lineage, from pango-designation issue #273
 AY.122.3	Alias of B.1.617.2.122.3, Denmark and Sweden lineage, from pango-designation issue #371
@@ -2886,7 +2886,7 @@ EG.2.1	Alias of XBB.1.9.2.2.1, S:F456L (T22930A), S:V327I, Indonesia
 EG.3	Alias of XBB.1.9.2.3, ORF1a:L2778F on N:L219F branch
 EG.4	Alias of XBB.1.9.2.4, C28651T
 EG.4.1	Alias of XBB.1.9.2.4.1, S:I870V, N:A119S
-EG.4.2	Alias of XBB.1.9.2.4.2, S:A623V, T14652C, China
+EG.4.2	Alias of XBB.1.9.2.4.2, S:A623V, T14652C, China From sars-cov-2-variants/lineage-proposals/#46
 EG.4.3	Alias of XBB.1.9.2.4.3, S:Q613H
 EG.5	Alias of XBB.1.9.2.5, S:F456L (T22930A), ORF1a:A690V, ORF1a:A3143V, Indonesia From #1918
 EG.5.1	Alias of XBB.1.9.2.5.1, S:Q52H
@@ -2935,7 +2935,7 @@ GY.2.1	Alias of XBB.1.16.2.2.1, S:S255F, South Korea
 GY.3	Alias of XBB.1.16.2.3, S:M177I, Thailand
 GY.4	Alias of XBB.1.16.2.4, S:N450K, C29095T, Laos
 GY.5	Alias of XBB.1.16.2.5, G9190C
-GY.6	Alias of XBB.1.16.2.6, ORF1a:V1765I
+GY.6	Alias of XBB.1.16.2.6, ORF1a:V1765I From sars-cov-2-variants/lineage-proposals/#308
 GY.7	Alias of XBB.1.16.2.7, ORF1a:G3617C, G5515T, Thailand/Laos
 XBB.1.16.3	Defined by A2893C, India
 XBB.1.16.4	Defined by S:T678I, India, from #1903
@@ -3007,7 +3007,7 @@ XBB.1.30	Defined by ORF1b:K2557R, South East Asia
 XBB.1.31	Defined by S:453F and S:478R, Indonesia/Singapore From #1837
 XBB.1.31.1	S:E554K, Indonesia
 XBB.1.31.2	ORF1a:A1049V, Indonesia
-XBB.1.32	Defined by ORF1a:E148D, Philippines
+XBB.1.32	Defined by ORF1a:E148D, Philippines From #1827
 XBB.1.32.1	S:Y453F, ORF1a:L642F, ORF1b:L2497I, Philippines/Thailand, from #1908
 XBB.1.33	Defined by S:A376T, found mainly in Italy, from pango-designation issue #1879
 XBB.1.34	S:486P,S:681R, N:A50V, Uganda/Sudan, from pango-designation issue #1621
@@ -3016,7 +3016,7 @@ XBB.1.34.2	S:K182I, ORF8:C90F, ORF1a:G989C
 HB.1	Alias of XBB.1.34.2.1, S:F456L (22928C), US/China/Canada, from sars-cov-2-variants/lineage-proposals#217
 XBB.1.35	ORF1a:V89A, Indonesia
 XBB.1.36	Defined by S:S490P, found mainly in Malaysia, Indonesia and Singapore, from pango-designation issue #1781
-XBB.1.37	Defined by A5371G, Indonesia/Russia
+XBB.1.37	Defined by A5371G, Indonesia/Russia From #1929
 XBB.1.37.1	Defined by S:486P, A1846G, G7459T, T27285C, Russia/South Korea, from #1929
 XBB.1.38	Defined by S:T732I, Russia
 XBB.1.38.1	S:T883I, Russia
@@ -3123,7 +3123,7 @@ XBD	Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-desig
 XBE	Recombinant lineage of BA.5.2 and BE.4.1, predominantly in USA and England, from pango-designation issue #1246
 XBF	Recombinant lineage of BA.5.2.3 and CJ.1, Australia, from pango-designation issue #1259
 XBF.1	Australia/England, S:S939F
-XBF.1.1	England, S:P621S
+XBF.1.1	England, S:P621S From #1651
 XBF.2	Australia, ORF8:V62A
 XBF.3	Australia, ORF1a:V274I
 XBF.4	Europe, ORF1a:H417Y, from https://github.com/jmcbroome/auto-pango-designation/pull/193
