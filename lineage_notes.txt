@@ -2822,7 +2822,7 @@ FL.1.7	Alias of XBB.1.9.1.1.7, S:478R, S:C1235F, Indonesia, from #1985
 FL.2	Alias of XBB.1.9.1.2, T4579A
 FL.2.1	Alias of XBB.1.9.1.2.1, C10228T, Germany, global
 FL.2.2	Alias of XBB.1.9.1.2.2, S:T478R, Indonesia, from #1927
-FL.2.2.1	Alias of XBB.1.9.1.2.2.1, S:T307I, Indonesia
+FL.2.2.1	Alias of XBB.1.9.1.2.2.1, S:T307I, Indonesia, from #2027
 FL.2.3	Alias of XBB.1.9.1.2.3, ORF1b:K1383R, China, from #2016
 FL.2.4	Alias of XBB.1.9.1.2.4, ORF8:S67F, China
 FL.3	Alias of XBB.1.9.1.3, T1753C, England
@@ -2860,7 +2860,7 @@ FL.17.1	Alias of XBB.1.9.1.17.1, S:N74H, South Korea
 FL.17.2	Alias of XBB.1.9.1.17.2, S:L452R, ORF7a:V104L, from sars-cov-2-variants/lineage-proposals#53
 FL.18	Alias of XBB.1.9.1.18, ORF1a:T2007I
 FL.18.1	Alias of XBB.1.9.1.18.1, N:T166I, A27507C, from #2019
-FL.18.1.1	Alias of XBB.1.9.1.18.1.1, S:Y200C, S:478R, Australia/Indonesia
+FL.18.1.1	Alias of XBB.1.9.1.18.1.1, S:Y200C, S:478R, Australia/Indonesia, from #2019
 FL.19	Alias of XBB.1.9.1.19, T2377C
 FL.20	Alias of XBB.1.9.1.20, S:F456L (22928C), S:Q52H, Spain, from #2072
 FL.21	Alias of XBB.1.9.1.21, A10564T, South Korea/China
@@ -2933,7 +2933,7 @@ GY.1	Alias of XBB.1.16.2.1, S:L84I, ORF1a:A4068S, China, from #2066
 GY.2	Alias of XBB.1.16.2.2, S:T883I
 GY.2.1	Alias of XBB.1.16.2.2.1, S:S255F, South Korea
 GY.3	Alias of XBB.1.16.2.3, S:M177I, Thailand
-GY.4	Alias of XBB.1.16.2.4, S:N450K, C29095T, Laos
+GY.4	Alias of XBB.1.16.2.4, S:N450K, C29095T, Laos, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/345
 GY.5	Alias of XBB.1.16.2.5, G9190C
 GY.6	Alias of XBB.1.16.2.6, ORF1a:V1765I From sars-cov-2-variants/lineage-proposals/#308
 GY.7	Alias of XBB.1.16.2.7, ORF1a:G3617C, G5515T, Thailand/Laos
