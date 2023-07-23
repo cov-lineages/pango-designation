@@ -2977,6 +2977,7 @@ GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
 GA.2	Alias of XBB.1.17.1.2, ORF3a:I179F, T6640C, Africa
 GA.3	Alias of XBB.1.17.1.3, ORF1b:A186V, Ghana
 GA.4	Alias of XBB.1.17.1.4, S:K356T, ORF1a:N1080D, ORF1a:S2553F, Nigeria
+GA.5	Alias of XBB.1.17.1.5, T23797C
 XBB.1.17.2	Defined by ORF1a:A698S, Russia, from issue #1712
 XBB.1.18	Defined by A8001G, Brazil
 XBB.1.18.1	Defined by S:F486P, Brazil
