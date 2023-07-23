@@ -3025,6 +3025,7 @@ XBB.1.28	Defined by S:403K, Europe From #1757
 XBB.1.28.1	Defined by S:356T, Indonesia, global
 FW.1	Alias of XBB.1.28.1.1, S:A701V, Indonesia, Europe
 FW.2	Alias of XBB.1.28.1.2, ORF1a:G2258C, France
+FW.3	Alias of XBB.1.28.1.3, ORF1a:D2627N
 XBB.1.29	Defined by ORF1a:L3829F, S:A292S, Europe
 XBB.1.30	Defined by ORF1b:K2557R, South East Asia
 XBB.1.31	Defined by S:453F and S:478R, Indonesia/Singapore From #1837
