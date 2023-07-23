@@ -2898,6 +2898,7 @@ EG.5.1	Alias of XBB.1.9.2.5.1, S:Q52H
 EG.5.1.1	Alias of XBB.1.9.2.5.1.1, China, from pango-designation issue #2020
 HK.1	Alias of XBB.1.9.2.5.1.1.1, S:G257V, China
 HK.2	Alias of XBB.1.9.2.5.1.1.2, S:Q14H, China
+HK.3	Alias of XBB.1.9.2.5.1.1.3, S:L455F, China
 EG.5.1.2	Alias of XBB.1.9.2.5.1.2, Japan, ORF1b:V1644I
 EG.5.1.3	Alias of XBB.1.9.2.5.1.3, ORF1a:R542C, C22570T
 EG.5.1.4	Alias of XBB.1.9.2.5.1.4, ORF1b:K2557R
