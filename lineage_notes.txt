@@ -2732,6 +2732,7 @@ FT.1	Alias of XBB.1.5.39.1, S:I197V, Canada, #1745
 FT.2	Alias of XBB.1.5.39.2, S:K1045N, Canada-QC/USA-NY
 FT.3	Alias of XBB.1.5.39.3, S:Q52H, USA
 FT.3.1	Alias of XBB.1.5.39.3.1, S:K478R, S:D1168H, Canada/USA
+FT.4	Alias of XBB.1.5.39.4, S:E180Q, Germany
 XBB.1.5.40	S:478I, USA
 XBB.1.5.41	S:V772I, S:P521T, USA, from #1941
 GU.1	Alias of XBB.1.5.41.1, S:N481S, USA/Canada
