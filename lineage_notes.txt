@@ -3060,6 +3060,7 @@ XBB.1.42	S:486P, S:Q613H, on ORF1a:T4175I branch with XBB.1.9, Indonesia/Malaysi
 XBB.1.42.1	S:478R from https://github.com/sars-cov-2-variants/lineage-proposals/issues/198
 XBB.1.42.2	C6040T, G9049A
 HL.1	Alias of XBB.1.42.2.1, S:E583D
+HL.2	Alias of XBB.1.42.2.2, S:S929N, China
 XBB.1.43	G11071A, Indonesia, from #2015
 XBB.1.43.1	S:486P, ORF1a:A2621V, A20713C, from #2015
 XBB.1.44	S:T747I, Russia
