@@ -3021,7 +3021,7 @@ FY.4.1	Alias of XBB.1.22.1.4.1, S:S494P, Kenya
 FY.4.1.1	Alias of XBB.1.22.1.4.1.1, S:S704L
 FY.5	Alias of XBB.1.22.1.5, S:478R, Indonesia, from #1965
 FY.6	Alias of XBB.1.22.1.6, T2935C, ORF1a:A591V, France
-FY.7	Alias of XBB.1.22.1.7, S:G769A, S:D1168E
+FY.7	Alias of XBB.1.22.1.7, S:G769A, S:D1168E from https://github.com/sars-cov-2-variants/lineage-proposals/issues/257
 XBB.1.22.2	Defined by ORF1a:L3829F, C15237T
 XBB.1.23	Defined by E:S68F, on 28297C branch, South East Asia
 XBB.1.24	Defined by S:F486P, on T13704C branch, South East Asia from #1654
