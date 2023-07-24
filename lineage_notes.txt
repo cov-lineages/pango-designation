@@ -901,6 +901,8 @@ CH.1.1.16	Alias of B.1.1.529.2.75.3.4.1.1.1.1.16, S:613H, ORF3a:S26L, on C193T b
 CH.1.1.17	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17, M:S212G, on C21811T branch, from #1753
 FK.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1, found mainly in New Zealand and Australia, from pango-designation issue #1718
 FK.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1, ORF1a:A1060T, on C27804T>ORF1b:L2580I>N:G34E branch, New Zealand, from #1881
+FK.1.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1.1, S:V445A, Australia
+FK.1.1.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1.2, C9223T, T23071G
 FK.1.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2, ORF1a:L384F, ORF1a:R550H
 FK.1.2.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2.1, ORF1a:T891I, Germany/Denmark/Finland/Austria
 FK.1.2.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2.2, ORF1a:D139N, ORF1a:R226K, ORF1a:Q556K, ORF3a:T64N, T11737C, AUS/NZ
