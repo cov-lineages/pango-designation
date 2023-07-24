@@ -3020,7 +3020,7 @@ FY.2.1	Alias of XBB.1.22.1.2.1, S:A684V, from #2080
 FY.3	Alias of XBB.1.22.1.3, ORF1a:E750K, C23191T, China
 FY.3.1	Alias of XBB.1.22.1.3.1, S:I210T, China，from #2009
 FY.4	Alias of XBB.1.22.1.4, S:Y451H, A8374G, C25517T, Kenya, from #1979
-FY.4.1	Alias of XBB.1.22.1.4.1, S:S494P, Kenya
+FY.4.1	Alias of XBB.1.22.1.4.1, S:S494P, Kenya from #1979
 FY.4.1.1	Alias of XBB.1.22.1.4.1.1, S:S704L, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/302
 FY.5	Alias of XBB.1.22.1.5, S:478R, Indonesia, from #1965
 FY.6	Alias of XBB.1.22.1.6, T2935C, ORF1a:A591V, France
