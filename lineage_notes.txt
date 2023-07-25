@@ -2995,6 +2995,7 @@ XBB.1.16.14	S:L452Q, after A11782G, India/France/Canada, from sars-cov-2-variant
 XBB.1.16.15	S:K147N, S:P521S, T10756C, T14067C, on C27513T branch, from #2092
 XBB.1.16.16	S:Q613H, S:S412N, India-GJ/USA/Pakistan from sars-cov-2-variants/lineage-proposals#54
 XBB.1.16.17	S:E554K, mainly in NZ, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/354
+XBB.1.16.18	ORF7a:T39I
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from issue #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from issue #1712
 GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
