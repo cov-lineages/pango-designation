@@ -2998,6 +2998,7 @@ XBB.1.16.17	S:E554K, mainly in NZ, from https://github.com/sars-cov-2-variants/l
 XBB.1.16.18	ORF7a:T39I
 XBB.1.16.19	ORF1b:V839I
 XBB.1.16.20	ORF7b:S31L
+XBB.1.16.21	ORF1a:V4072I
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from issue #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from issue #1712
 GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
