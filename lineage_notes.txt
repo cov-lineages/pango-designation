@@ -2928,6 +2928,7 @@ EG.5.1.5	Alias of XBB.1.9.2.5.1.5, ORF1a:L3293I, ORF1b:T1274I, ORF1b:L2349V, Por
 EG.5.1.6	Alias of XBB.1.9.2.5.1.6, S:F157L, ORF1a:S1857L, USA from https://github.com/sars-cov-2-variants/lineage-proposals/issues/394
 EG.5.2	Alias of XBB.1.9.2.5.2, N:L161F
 EG.5.2.1	Alias of XBB.1.9.2.5.2.1, S:S704L, USA
+EG.5.2.2	Alias of XBB.1.9.2.5.2.2, ORF1b:T239I, China
 EG.6	Alias of XBB.1.9.2.6, C1684T, Israel
 EG.6.1	Alias of XBB.1.9.2.6.1, S:456L (T22928C), Israel/Japan/Canada From #1950
 EG.7	Alias of XBB.1.9.2.7, S:R403K, S:L513F, ORF1a:N2531S, Germany/England
