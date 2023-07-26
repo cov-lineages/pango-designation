@@ -2821,7 +2821,8 @@ XBB.1.5.93	C337T, C19186T, USA
 HD.1	Alias of XBB.1.5.93.1, S:T346I, USA/Dominican Republic from sars-cov-2-variants/lineage-proposals#363
 HD.1.1	Alias of XBB.1.5.93.1.1, S:K356T, Dominican Republic
 XBB.1.5.94	S:Q613H, T25461C, France
-XBB.1.5.95	ORF1:A1851V
+XBB.1.5.95	ORF1a:A1851V
+HS.1	Alias of XBB.1.5.95.1, S:478R, Mexico
 XBB.1.5.96	C28603T
 XBB.1.5.97	S:T941S, C7834T, New Zealand/Australia
 XBB.1.5.98	S:E554K, ORF8:V32L, Ghana
