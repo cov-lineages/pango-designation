@@ -2895,6 +2895,7 @@ FL.20	Alias of XBB.1.9.1.20, S:F456L (22928C), S:Q52H, Spain, from #2072
 FL.20.1	Alias of XBB.1.9.1.20.1, S:L455W, Northern Ireland/England, from #2145
 FL.21	Alias of XBB.1.9.1.21, A10564T, South Korea/China
 FL.21.1	Alias of XBB.1.9.1.21.1, S:D1084N, South Korea
+FL.21.2	Alias of XBB.1.9.1.21.1, ORF1a:V1019F, ORF1a:I2873M, China
 FL.22	Alias of XBB.1.9.1.22, ORF1b:I1416V, T24184C
 FL.23	Alias of XBB.1.9.1.23, ORF1b:V1132I, Philippines
 FL.23.1	Alias of XBB.1.9.1.23.1, ORF1a:A2584V, C23185T, C8311T
