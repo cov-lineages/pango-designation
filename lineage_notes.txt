@@ -3199,6 +3199,7 @@ GT.1	Alias of XBC.1.6.1.1, S:I105V, C28333T, Australia
 XBC.1.6.2	ORF1a:D827N, Australia
 XBC.1.6.3	N:A173V, Australia
 HW.1	Alias of XBC.1.6.3.1, ORF1a:T1597I, ORF1a:A2123V, Australia
+HW.1.1	Alias of XBC.1.6.3.1.1, S:N460H, T16242A, C22120T, USA/Ireland
 XBC.1.6.4	ORF1a:V1117I, T20286C, Australia
 XBC.1.7	S:478R, S:444T, Philippines/Australia/Hong Kong
 XBC.2	Mostly Philippines, defined by S:K97R
