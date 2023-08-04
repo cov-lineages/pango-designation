@@ -3135,6 +3135,7 @@ XBB.2.3.3	S:182N, India/USA From #1810
 GJ.1	Alias of XBB.2.3.3.1, found mainly in China and USA, from pango-designation issue #2005
 GJ.1.1	Alias of XBB.2.3.3.1.1, S:A222V, N:R319H, ORF1a:V1915I From sars-cov-2-variants/lineage-proposals#109
 GJ.1.2	Alias of XBB.2.3.3.1.2, ORF1b:V1110I, from #2059
+GJ.1.2.1	Alias of XBB.2.3.3.1.2.1, S:N450D, Singapore/Thailand/South Korea/USA/Spain
 GJ.2	Alias of XBB.2.3.3.2, S:I1114S, Europe
 GJ.3	Alias of XBB.2.3.3.3, ORF1a:P971S, ORF1b:V2371L
 XBB.2.3.4	S:478Q, India, from #1822
