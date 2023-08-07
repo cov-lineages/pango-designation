@@ -3076,7 +3076,8 @@ FY.5	Alias of XBB.1.22.1.5, S:478R, Indonesia, from #1965
 FY.6	Alias of XBB.1.22.1.6, T2935C, ORF1a:A591V, France
 FY.7	Alias of XBB.1.22.1.7, S:G769A, S:D1168E, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/257
 XBB.1.22.2	Defined by ORF1a:L3829F, C15237T
-HU.1	Alias of XBB.1.22.2.1, S:K529N, from #2136
+HU.1	Alias of XBB.1.22.2.1, S:K529N, France, from #2136
+HU.1.1	Alias of XBB.1.22.2.1.1, S:E471Q, S:Y28H, France/USA
 HU.2	Alias of XBB.1.22.2.2, S:T76I, ORF1a:R24H, ORF1b:A1428V, Australia/New Zealand From sars-cov-2-variants/lineage-proposals#364
 XBB.1.22.3	Defined by ORF1a:P3504L, ORF1b:H1838N, Japan
 XBB.1.23	Defined by E:S68F, on 28297C branch, South East Asia
