@@ -1,5 +1,3 @@
-#! usr/bin/env python
-
 import pandas as pd
 
 # Will verify file format integrity
