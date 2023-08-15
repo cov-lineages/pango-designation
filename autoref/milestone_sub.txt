@@ -52,3 +52,13 @@
 29 nothing
 30 nothing
 40 nothing
+51 XBB.1.16.14
+51 FP.2.1.1
+52 EG.5.1.2
+53 HP.1
+53 HP.1.1
+54 HW.1.1
+55 HY.1
+56 GJ.1.2.1
+57 HZ.1
+58 HW.1
