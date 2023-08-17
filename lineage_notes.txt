@@ -2826,7 +2826,7 @@ XBB.1.5.88	C2299T, South Africa
 XBB.1.5.89	S:478R, S:554A, Canada/Italy/France, from sars-cov-2-variants/lineage-proposals#175
 XBB.1.5.90	S:P621S, ORF1ab:S6713L, Belgium/France, from #1849
 XBB.1.5.91	S:P621S, USA
-XBB.1.5.92	ORF1a:T1168I, C823T, Ecuador
+XBB.1.5.92	ORF1a:T1168I, Ecuador
 HQ.1	Alias of XBB.1.5.92.1, S:E554K, Ecuador
 XBB.1.5.93	C337T, C19186T, USA From sars-cov-2-variants/lineage-proposals#363
 HD.1	Alias of XBB.1.5.93.1, S:T346I, USA/Dominican Republic from sars-cov-2-variants/lineage-proposals#363
