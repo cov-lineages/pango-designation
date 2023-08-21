@@ -3121,6 +3121,8 @@ XBB.1.39	ORF1a:V2866M, Singapore/Malaysia
 XBB.1.40	S:Y453F, ORF1a:G519S, ORF1a:L2609F, ORF3a:P104S, Malaysia
 XBB.1.41	S:L335S, S:R403K, S:486P, possibly common  in Central/West Africa, from #1997
 XBB.1.41.1	S:478R, France From sars-cov-2-variants/lineage-proposals#150
+JC.1	Alias of XBB.1.41.1.1, S:K77R, Japan/Hawaii
+XBB.1.41.2	S:S494P
 XBB.1.42	S:486P, S:Q613H, on ORF1a:T4175I branch with XBB.1.9, Indonesia/Malaysia/China，from #1954
 XBB.1.42.1	S:478R from https://github.com/sars-cov-2-variants/lineage-proposals/issues/198
 XBB.1.42.2	C6040T, G9049A
