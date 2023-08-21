@@ -3039,6 +3039,7 @@ GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
 GA.2	Alias of XBB.1.17.1.2, ORF3a:I179F, T6640C, Africa
 GA.3	Alias of XBB.1.17.1.3, ORF1b:A186V, Ghana
 GA.4	Alias of XBB.1.17.1.4, S:K356T, ORF1a:N1080D, ORF1a:S2553F, Nigeria from https://github.com/sars-cov-2-variants/lineage-proposals/issues/265
+GA.4.1	Alias of XBB.1.17.1.4.1, S:K478R, S:S704L, S:E554K, USA/Qatar
 GA.5	Alias of XBB.1.17.1.5, T23797C
 GA.6	Alias of XBB.1.17.1.6, ORF1a:I2138V, G8785A, Ghana
 GA.6.1	Alias of XBB.1.17.1.6.1, S:478R, A19767G, C29642T
