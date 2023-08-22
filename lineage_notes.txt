@@ -3170,6 +3170,7 @@ XBB.2.3.9	S:S98F, C18744T, C19200T, India
 XBB.2.3.10	T5947C, India
 GE.1	Alias of XBB.2.3.10.1, S:K478R, from #1866
 GE.1.1	Alias of XBB.2.3.10.1.1, S:E554K, Bangladesh/Singapore
+GE.1.2	Alias of XBB.2.3.10.1.2, S:N148T, Kenya
 XBB.2.3.11	S:K478R, India, from #1866
 GS.1	Alias of XBB.2.3.11.1, S:213D, C4582T, C25075T, Australia, from #2023
 XBB.2.3.12	S:S494P, from #2029
