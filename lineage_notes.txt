@@ -2767,6 +2767,7 @@ XBB.1.5.52	C3589T
 XBB.1.5.53	S:F140I, S:L582F, S:R403K, South Africa，from #1804
 JB.1	Alias of XBB.1.5.53.1, S:N148T, South Africa
 JB.2	Alias of XBB.1.5.53.2, S:K478R, South Africa/USA
+JB.2.1	Alias of XBB.1.5.53.2.1, S:H245Y, S:E554D, South Africa
 XBB.1.5.54	C14358T,C20016T,C29311T, Central/Eastern Europe
 XBB.1.5.55	ORF1a:T3356I, USA/Canada
 HP.1	Alias of XBB.1.5.55.1, N:L13F, US/Mexico From sars-cov-2-variants/lineage-proposals#277
