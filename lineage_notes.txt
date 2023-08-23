@@ -3179,6 +3179,7 @@ GE.1.2	Alias of XBB.2.3.10.1.2, S:N148T, Kenya
 XBB.2.3.11	S:K478R, India, from #1866
 GS.1	Alias of XBB.2.3.11.1, S:213D, C4582T, C25075T, Australia, from #2023
 GS.2	Alias of XBB.2.3.11.2, S:T470N, Singapore/Brunei
+GS.3	Alias of XBB.2.3.11.3, S:R190S, USA/UK
 XBB.2.3.12	S:S494P, from #2029
 XBB.2.3.13	ORF1a:T1822I, Spain
 JA.1	Alias of XBB.2.3.13.1, S:F456L (T22928C), Spain/England/France, see sars-cov-2-variants/lineage-proposals#240
