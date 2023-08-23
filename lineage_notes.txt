@@ -3296,6 +3296,7 @@ XCF	Recombinant lineage of XBB* and FE.1 (XBB.1.18.1.1), possibly South America,
 XCF.1	S:F157L, USA, from sars-cov-2-variants/lineage-proposals#274
 XCF.2	S:S929I, Canada
 XCG	Recombinant lineage of BA.5.2* and XBB.1, Mexico
+XCH	Recombinant lineage of GK.1.3 and XBB.1.9 (or XBB.1.16), GK.1.3 Spike with ORF9b:I5T from donor, from #2173
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
