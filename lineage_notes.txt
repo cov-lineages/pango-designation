@@ -3180,7 +3180,7 @@ XBB.2.3.11	S:K478R, India, from #1866
 GS.1	Alias of XBB.2.3.11.1, S:213D, C4582T, C25075T, Australia, from #2023
 GS.2	Alias of XBB.2.3.11.2, S:T470N, Singapore/Brunei
 GS.3	Alias of XBB.2.3.11.3, S:R190S, USA/UK
-GS.4	Alias of XBB.2.3.11.4, M:A104V, ORF1a:A104V, France
+GS.4	Alias of XBB.2.3.11.4, M:A104V, ORF1a:A181T, France
 GS.4.1	Alias of XBB.2.3.11.4.1, S:N185D, ORF3a:G172C, France
 XBB.2.3.12	S:S494P, from #2029
 XBB.2.3.13	ORF1a:T1822I, Spain
