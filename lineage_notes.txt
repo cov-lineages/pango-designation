@@ -2845,7 +2845,7 @@ XBB.1.5.100	S:V1122M, USA/Mexico
 HY.1	Alias of XBB.1.5.100.1, S:478R, US/Mexico From sars-cov-2-variants/lineage-proposals#453
 XBB.1.5.101	ORF7a:E3Q, C14877T, Scandinavia/Poland/Vietnam
 XBB.1.5.102	C6896T, C14085T, C19488T, Brazil-Amazonas
-JD.1	Alias of XBB.1.5.102, S:L455F, S:F456L (T22928C), A14634G, T28282C, Brazil, from #2071
+JD.1	Alias of XBB.1.5.102.1, S:L455F, S:F456L (T22928C), A14634G, T28282C, Brazil, from #2071
 XBB.1.6	USA, S:L216F, S:H146K, from issue #1428
 XBB.1.7	USA-NY, S:V608I
 XBB.1.8	Denmark, S:186insSGG, C3241T From #1455
