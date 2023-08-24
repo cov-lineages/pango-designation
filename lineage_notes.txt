@@ -3174,6 +3174,8 @@ XBB.2.3.5	S:K478N, found mainly in USA and India, from pango-designation issue #
 XBB.2.3.6	N:T166I, mainly Singapore
 GM.1	Alias of XBB.2.3.6.1, S:P621S, Singapore
 GM.2	Alias of XBB.2.3.6.2, S:G181R, Singapore
+GM.3	Alias of XBB.2.3.6.3, ORF1a:R4017K, Singapore
+GM.3.1	Alias of XBB.2.3.6.3.1, S:N388K, Japan
 XBB.2.3.7	ORF1a:T4087I
 XBB.2.3.8	C2013T, T16389C, S:478R, Singapore/SouthKorea from #1866
 HG.1	Alias of XBB.2.3.8.1, S:S98F, South Korea
