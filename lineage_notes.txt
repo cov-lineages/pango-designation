@@ -2946,6 +2946,7 @@ EG.2.1	Alias of XBB.1.9.2.2.1, S:F456L (T22930A), S:V327I, Indonesia
 EG.2.2	Alias of XBB.1.9.2.2.2, S:K304N, Indonesia/Japan
 EG.2.3	Alias of XBB.1.9.2.2.3, S:I742V, Indonesia/Singapore
 EG.2.4	Alias of XBB.1.9.2.2.4, S:K356T, ORF1a:G2265D, Singapore
+EG.2.5	Alias of XBB.1.9.2.2.4, S:Q675H, Indonesia
 EG.3	Alias of XBB.1.9.2.3, ORF1a:L2778F on N:L219F branch
 EG.4	Alias of XBB.1.9.2.4, C28651T
 EG.4.1	Alias of XBB.1.9.2.4.1, S:I870V, N:A119S
