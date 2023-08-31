@@ -1483,6 +1483,7 @@ FB.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1.1 S:D253G, Singapore/Taiwan/Japan From
 FB.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1.2 S:478R, USA/South Korea/Mongolia
 BQ.1.2.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2, S:K147E, S:R346T, S:V445A, West Africa from #1861
 JH.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.1, S:K182E, S:486A, S:S494P, S:E554K, from #2068
+JH.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.2, S:A484T, S:V486A, USA/Canada/Finland, from #2068
 BQ.1.2.3	Alias of B.1.1.529.5.3.1.1.1.1.1.2.3, E:V24L, Canada
 BQ.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.3, found globally, defined by S:E619Q, from issue #1082
 BQ.1.3.1	Alias of B.1.1.529.5.3.1.1.1.1.1.3.1, C2509T, Spain
