@@ -2986,6 +2986,7 @@ EG.10	Alias of XBB.1.9.2.10, S:A344T, S:R403K, Germany/Austria From sars-cov-2-v
 EG.10.1	Alias of XBB.1.9.2.10.1, S:S494P, S:A701V From sars-cov-2-variants/lineage-proposals#346
 EG.11	Alias of XBB.1.9.2.11, S:E554K, A26319G, Malaysia，from https://github.com/sars-cov-2-variants/lineage-proposals/issues/523
 EG.12	Alias of XBB.1.9.2.12, S:E554K, N:R195T, ORF1a:T4159I, Oman/Austria/Brunei/India
+EG.13	Alias of XBB.1.9.2.13, ORF1a:K789N
 XBB.1.9.3	ORF1b:G2005S, ORF1b:G1568C, Europe, from https://github.com/jmcbroome/auto-pango-designation/pull/193
 GD.1	Alias of XBB.1.9.3.1, S:Y453F, Mexico/USA, from #1897
 GD.2	Alias of XBB.1.9.3.2, S:L212S, Philippines
