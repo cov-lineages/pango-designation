@@ -3056,6 +3056,7 @@ XBB.1.16.12	S:Q52H, South Korea
 XBB.1.16.13	ORF1a:G519S, ORF1a:G1101D, India
 HF.1	XBB.1.16.13.1, S:K304N, South Korea/Japan from #2083
 HF.1.1	XBB.1.16.13.1.1, S:H1101Y, on N:A35T branch, South Korea/USA/Canada
+HF.1.2	XBB.1.16.13.1.2, S:A688V, on ORF1a:P1158S branch, USA
 XBB.1.16.14	S:L452Q, after A11782G, India/France/Canada, from sars-cov-2-variants/lineage-proposals#329
 XBB.1.16.15	S:K147N, S:P521S, T10756C, T14067C, on C27513T branch, from #2092
 XBB.1.16.16	S:Q613H, S:S412N, India-GJ/USA/Pakistan from sars-cov-2-variants/lineage-proposals#54
