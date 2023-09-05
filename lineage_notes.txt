@@ -910,6 +910,7 @@ FK.1.2.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2.2, ORF1a:D139N, ORF1a:R226K,
 FK.1.3	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3, ORF1b:M1839I, on C27804T>ORF1b:L2580I>N:G34E branch, Australia
 FK.1.3.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.1, S:E583D, Australia
 FK.1.3.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.2, C9391T, T13596C, Australia/Japan
+JL.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.2.1, S:E1111Q, Japan, from #2168
 FK.1.4	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.4, S:S704L, on C27804>ORF7a:Y40H branch, Australia
 FK.1.4.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.4.1, S:G181A, Australia/Puerto Rico From sars-cov-2-variants/lineage-proposals#88
 FK.1.5	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.5, G5155A, C12439T, Australia/New Zealand
@@ -1026,6 +1027,7 @@ BA.2.82	Alias of B.1.1.529.2.82, mainly found in Australia, Israel and Japan, fr
 BA.2.83	Alias of B.1.1.529.2.83, mainly found in India, from pango-designation issue #1053
 BA.2.85	Alias of B.1.1.529.2.85, mainly found in Japan, from pango-designation issue #983
 BA.2.86	Alias of B.1.1.529.2.86, from pango-designation issue #2183
+BA.2.86.1	Alias of B.1.1.529.2.86.1, ORF1a:K1973R, C12815T, mainly Europe, from #2236
 BA.3	Alias of B.1.1.529.3, from pango-designation issue #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from pango-designation issue #540
 BA.4	Alias of B.1.1.529.4, from pango-designation issue #517
@@ -1483,7 +1485,7 @@ FB.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1.1 S:D253G, Singapore/Taiwan/Japan From
 FB.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1.2 S:478R, USA/South Korea/Mongolia
 BQ.1.2.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2, S:K147E, S:R346T, S:V445A, West Africa from #1861
 JH.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.1, S:K182E, S:486A, S:S494P, S:E554K, from #2068
-JH.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.2, S:A484T, S:V486A, USA/Canada/Finland, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/650
+JH.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.2, S:A484K, S:V486A, USA/Canada/Finland, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/650
 BQ.1.2.3	Alias of B.1.1.529.5.3.1.1.1.1.1.2.3, E:V24L, Canada
 BQ.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.3, found globally, defined by S:E619Q, from issue #1082
 BQ.1.3.1	Alias of B.1.1.529.5.3.1.1.1.1.1.3.1, C2509T, Spain
@@ -2979,10 +2981,11 @@ HK.6	Alias of XBB.1.9.2.5.1.1.6, S:D253G, ORF1a:A1923T, UK/USA
 HK.7	Alias of XBB.1.9.2.5.1.1.7, S:N148T, China
 HK.8	Alias of XBB.1.9.2.5.1.1.8, S:L455F, on C11779T branch, China From #2230
 HK.9	Alias of XBB.1.9.2.5.1.1.9, S:R190K, on C11779T branch, England From sars-cov-2-variants/lineage-proposals#564
-HK.10	Alias of XBB.1.9.2.5.1.1.10, S:L455F, on C19983T branch, China/England/Denmark From sars-cov-2-variants/lineage-proposals#537
+HK.11	Alias of XBB.1.9.2.5.1.1.11, S:G184S, China/England/SouthKorea, from #2255
 EG.5.1.2	Alias of XBB.1.9.2.5.1.2, Japan, ORF1b:V1644I From sars-cov-2-variants/lineage-proposals#301
 EG.5.1.3	Alias of XBB.1.9.2.5.1.3, ORF1a:R542C, C22570T from https://github.com/sars-cov-2-variants/lineage-proposals/issues/222
 JG.1	Alias of XBB.1.9.2.5.1.3.1, S:T732I, France From sars-cov-2-variants/lineage-proposals#519
+JG.2	Alias of XBB.1.9.2.5.1.3.2, S:G75V, Europe, from #2249
 EG.5.1.4	Alias of XBB.1.9.2.5.1.4, ORF1b:K2557R from https://github.com/cov-lineages/pango-designation/issues/2117
 JJ.1	Alias of XBB.1.9.2.5.1.4.1, S:L455F, ORF3a:I47V, China/Japan From #2208
 EG.5.1.5	Alias of XBB.1.9.2.5.1.5, ORF1a:L3293I, ORF1b:T1274I, ORF1b:L2349V, Portugal
@@ -3003,7 +3006,7 @@ EG.10	Alias of XBB.1.9.2.10, S:A344T, S:R403K, Germany/Austria From sars-cov-2-v
 EG.10.1	Alias of XBB.1.9.2.10.1, S:S494P, S:A701V From sars-cov-2-variants/lineage-proposals#346
 EG.11	Alias of XBB.1.9.2.11, S:E554K, A26319G, Malaysia，from https://github.com/sars-cov-2-variants/lineage-proposals/issues/523
 EG.12	Alias of XBB.1.9.2.12, S:E554K, N:R195T, ORF1a:T4159I, Oman/Austria/Brunei/India
-EG.13	Alias of XBB.1.9.2.13, ORF1a:K789N
+EG.13	Alias of XBB.1.9.2.13, ORF1a:K798N
 XBB.1.9.3	ORF1b:G2005S, ORF1b:G1568C, Europe, from https://github.com/jmcbroome/auto-pango-designation/pull/193
 GD.1	Alias of XBB.1.9.3.1, S:Y453F, Mexico/USA, from #1897
 GD.2	Alias of XBB.1.9.3.2, S:L212S, Philippines
@@ -3075,6 +3078,7 @@ XBB.1.16.20	ORF7b:S31L
 XBB.1.16.21	ORF1a:V4072I
 XBB.1.16.22	ORF3a:E242Q, from #1893
 XBB.1.16.23	S:K304Q, India/USA/Japan/Singapore From sars-cov-2-variants/lineage-proposals#517
+XBB.1.16.24	S:K182E, S:V551I, S:E554K, on A25410G branch, India, from #2223
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from issue #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from issue #1712
 GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
@@ -3340,6 +3344,7 @@ XCH.1	S:T573I
 XCJ	Recombinant lineage of GM.2 with a little FP.1 (XBB.1.11.1.1) sandwich inserted in ORF1ab, from lineage-proposals#609
 XCK	Recombinant lineage of FL.1.5.1 (5' up to and including S:701) and BQ.1.2.2, from #2215
 XCL	Recombinant lineage of XBB (possibly XBB.1.5.68 or FY.4) from 5' up to 12468-15754, GK.2.1 onwards, Europe, from #2227
+XCM	Recombinant lineage of XBB.2.3 and DV.7.1 (breakpoint between 22017-22031), Spain/Italy, from sars-cov-2-variants/lineage-proposals#674
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
@@ -3422,6 +3427,7 @@ XCL	Recombinant lineage of XBB (possibly XBB.1.5.68 or FY.4) from 5' up to 12468
 *BF.7.25	Withdrawn: Invisible to pangolin as positions C29708T is part of masked regions 1-255 and 29674-29903. Alias of B.1.1.529.5.2.1.7.25, C29708T
 *BA.5.2.15	Withdrawn: Redesignated as CF.1, being a child of BA.5.2.27, B.1.1.529.5.2.15, found in USA and Mexico, from pango-designation issue #1054
 *BA.5.2.17	Withdrawn: Redesignated as BV.1, being a child of BA.5.2.20
+*BQ.1.1.33	Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
 *BA.5.4	Withdrawn: see issue #618. England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)).
 *B.1.3.1	Withdrawn: South Korean lineage
 *B.1.3.2	Withdrawn: Argentinian lineage
@@ -3621,4 +3627,5 @@ XCL	Recombinant lineage of XBB (possibly XBB.1.5.68 or FY.4) from 5' up to 12468
 *H.1	Withdrawn: Alias of B.1.1.67.1, South African lineage, split from B.1.1.10
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
-*BQ.1.1.33	Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
+*HK.10	Withdrawn unless lineage grows: Alias of XBB.1.9.2.5.1.1.10, S:L455F, on C19983T branch, China
+
