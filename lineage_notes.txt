@@ -2806,6 +2806,7 @@ GK.2.1	Alias of XBB.1.5.70.2.1, ORF1a:L624I, ORF1a:L3641S, ORF1b:S763C
 GK.2.2	Alias of XBB.1.5.70.2.2, S:E554D From sars-cov-2-variants/lineage-proposals#470
 GK.3	Alias of XBB.1.5.70.3, ORF1a:A876S, Brazil/USA/Canada
 GK.3.1	Alias of XBB.1.5.70.3.1, S:A475V, USA
+GK.3.2	Alias of XBB.1.5.70.3.2, S:T572I, USA, #2272
 XBB.1.5.71	S:V511I, Spain
 XBB.1.5.72	S:F456L (T22928C), ORF1a:G445S, T9823C, T10204C, South America
 XBB.1.5.73	T28271C, USA/Peru
