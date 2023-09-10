@@ -2902,6 +2902,7 @@ FL.4.7	Alias of XBB.1.9.1.4.7, S:L452R, Singapore, from sars-cov-2-variants/line
 FL.4.8	Alias of XBB.1.9.1.4.8, S:478R, Indonesia, from #2024
 FL.4.9	Alias of XBB.1.9.1.4.9, S:S254P, ORF3a:D173G, from #2081
 FL.4.10	Alias of XBB.1.9.1.4.10, S:V1129I, China, from #2087
+FL.4.11	Alias of XBB.1.9.1.4.11, S:D1259Y, N:T334I, China/Japan
 FL.5	Alias of XBB.1.9.1.5, N:T362I
 FL.5.1	Alias of XBB.1.9.1.5.1, S:M177T, from #2041
 FL.6	Alias of XBB.1.9.1.6, ORF1a:I849V, Bahrain/Egypt/Oman/Austria
