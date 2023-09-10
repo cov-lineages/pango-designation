@@ -3206,6 +3206,7 @@ GJ.1.1	Alias of XBB.2.3.3.1.1, S:A222V, N:R319H, ORF1a:V1915I From sars-cov-2-va
 GJ.1.2	Alias of XBB.2.3.3.1.2, ORF1b:V1110I, from #2059
 GJ.1.2.1	Alias of XBB.2.3.3.1.2.1, S:N450D, Singapore/Thailand/South Korea/USA/Spain From sars-cov-2-variants/lineage-proposals#446
 JE.1	Alias of XBB.2.3.3.1.2.1.1, S:478R, Singapore/SouthKorea/US From sars-cov-2-variants/lineage-proposals#597
+GJ.1.2.2	Alias of XBB.2.3.3.1.2.2, S:478R, Europe/US/Australia
 GJ.2	Alias of XBB.2.3.3.2, S:I1114S, Europe
 GJ.3	Alias of XBB.2.3.3.3, ORF1a:P971S, ORF1b:V2371L
 GJ.4	Alias of XBB.2.3.3.4, S:M153I，from #1902
