@@ -1,5 +1,316 @@
-  on:
-    workflow_dispatch:
-  jobs:
-    test:
-      runs-on: ubuntu-latest
+name: Collect Issue-Milestones
+
+on:
+  workflow_dispatch:
+  
+  schedule:
+    - cron: '0 0/12 * * *'
+        
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  SCRIPT_NAME: Issue Milestone Collector
+  SCRIPT_DIR: scripts/issue-milestone-collector
+
+  ALIAS_MAPPING_JSON: pango_designation/alias_key.json
+
+  DATA_DIR: data
+  
+  STREAM_NAME: github-api-milestones
+  STREAM_DIR: github-artifacts/api-payload
+  
+  MAPPING_NAME: mappings
+  MAPPING_DIR: github-artifacts/mappings
+
+  COMMIT_MESSAGE: Update via Issue Milestone Collector
+  COMMIT_AUTHOR: Issue Milestone Collector
+  COMMIT_AUTHOR_EMAIL: "action@github.com"
+
+concurrency: 
+  group: single-workflow
+  cancel-in-progress: true
+        
+jobs:
+
+  script-setup:
+    name: Script Setup
+    runs-on: ubuntu-latest
+    
+    steps:
+            
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+        ref: master
+
+    - name: Create Initial Artifact Files
+      run: |
+            mkdir -p -v $SCRIPT_DIR/$STREAM_DIR $SCRIPT_DIR/$MAPPING_DIR
+            touch $SCRIPT_DIR/{$STREAM_DIR,$MAPPING_DIR}/{cov-lineages_pango-designation,sars-cov-2-variants_lineage-proposals}.json
+            
+    - name: Upload Stream Artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: ${{ env.STREAM_NAME }}
+        path: ${{ env.SCRIPT_DIR }}/${{ env.STREAM_DIR }}
+
+    - name: Upload Mapping Artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: ${{ env.MAPPING_NAME }}
+        path: ${{ env.SCRIPT_DIR }}/${{ env.MAPPING_DIR }}
+        
+  github-api-request:
+    name: GitHub API Request
+    runs-on: ubuntu-latest
+    needs: script-setup
+        
+    concurrency: graphql
+
+    strategy:
+      fail-fast: false
+      matrix:
+        owner: [cov-lineages, sars-cov-2-variants]
+        include:
+          - repository: pango-designation
+            owner: cov-lineages
+          - repository: lineage-proposals
+            owner: sars-cov-2-variants
+    
+    steps:
+            
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+        ref: master
+
+    - name: Ensure Directory Structure
+      run: |
+            mkdir -p -v $SCRIPT_DIR/$STREAM_DIR $SCRIPT_DIR/$MAPPING_DIR
+
+    - name: Download Stream Artifacts
+      uses: actions/download-artifact@v3
+      with:
+        name: ${{ env.STREAM_NAME }}
+        path: ${{ env.SCRIPT_DIR }}/${{ env.STREAM_DIR }}
+
+    - name: Download Mappings Artifacts
+      uses: actions/download-artifact@v3
+      with:
+        name: ${{ env.MAPPING_NAME }}
+        path: ${{ env.SCRIPT_DIR }}/${{ env.MAPPING_DIR }}
+    
+    - name: GitHub CLI GraphQL Request
+      run: |
+            cd $SCRIPT_DIR/$STREAM_DIR
+            
+            gh api graphql \
+            --paginate \
+            --cache "1h" \
+            --header "Accept: application/vnd.github+json" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            --field owner=${{ matrix.owner }} \
+            --field repository=${{ matrix.repository }} \
+            --raw-field query='
+                query($owner: String!, $repository: String!, $endCursor: String) { 
+                  repository(owner: $owner, name: $repository) { 
+                    nameWithOwner
+                    milestones(first:100, after: $endCursor) {
+                      pageInfo {
+                        hasNextPage
+                        endCursor
+                      }
+                      nodes {
+                        number
+                        title
+                        progressPercentage
+                        issues(first: 10) {
+                          nodes {
+                            number,
+                            labels(first: 10) {
+                              nodes {
+                                name
+                              }
+                            },
+                            state,
+                            stateReason
+                          }
+                        }
+                      }
+                    }
+                  }
+                }' | jq '
+                  if (. | has("errors")) 
+                  then error("GitHub API Error: \(.errors)") 
+                  else . end' \
+                > ${{ matrix.owner }}_${{ matrix.repository }}.json
+                echo "Request Finished"
+
+    - name: Post-process JSON Stream  
+      run: |
+            # https://jqplay.org/s/UXZ31kBi_UE    All
+            # https://jqplay.org/s/p1WYXibKnyy    Lookup Test
+            
+            cat $SCRIPT_DIR/$STREAM_DIR/${{ matrix.owner }}_${{ matrix.repository }}.json
+            echo
+            jq --null-input \
+              'def lookup(KEY): 
+                  .[KEY] // error("MAPPING ERROR: \(KEY) does not exist within the mapper\nMAPPER:\n\(.)");
+              
+              [input | to_entries[] | if (.key == "A" or .key == "B" or (.key | startswith("X"))) then .value = .key else . end] 
+                | sort_by(.key) | from_entries as $mapper |
+              
+              [inputs | .data.repository 
+                | .nameWithOwner as $repo 
+                | .milestones.nodes 
+                | map(select(
+                  ((.progressPercentage == 100) or ((.progressPercentage != 100) and (.issues.nodes[].labels.nodes[].name | contains("designated")))) 
+                  and (.title | contains("withdrawn") | not) 
+                  and (.issues.nodes[]))
+                | (.title | splits(",? +|,")) as $pango
+                | { 
+                    ($pango | sub("^[A-Z]+"; $mapper | lookup($pango | split(".")[0]))): 
+                      [ {pango: $pango} 
+                      + { $repo, milestone: .number } 
+                      + (.issues.nodes[] | 
+                        { issue: .number, labels: ([.labels.nodes[].name] | join(", ")), state: .state, reason: .stateReason }) 
+                      ]
+                  }
+                ) | add 
+              ] | add ' \
+              $ALIAS_MAPPING_JSON $SCRIPT_DIR/$STREAM_DIR/${{ matrix.owner }}_${{ matrix.repository }}.json \
+              > $SCRIPT_DIR/$MAPPING_DIR/${{ matrix.owner }}_${{ matrix.repository }}.json
+            echo "Request Finished"
+          
+    - name: Upload Stream Artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: ${{ env.STREAM_NAME }}
+        path: ${{ env.SCRIPT_DIR }}/${{ env.STREAM_DIR }}
+
+    - name: Upload Mapping Artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: ${{ env.MAPPING_NAME }}
+        path: ${{ env.SCRIPT_DIR }}/${{ env.MAPPING_DIR }}
+
+  merge-mappings:
+    runs-on: ubuntu-latest
+    needs: github-api-request
+      
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+        ref: master
+
+    - name: Ensure Directory Structure
+      run: |
+            mkdir -p -v $SCRIPT_DIR/$STREAM_DIR $SCRIPT_DIR/$MAPPING_DIR
+
+    - name: Download Stream Artifacts
+      uses: actions/download-artifact@v3
+      with:
+        name: ${{ env.STREAM_NAME }}
+        path: ${{ env.SCRIPT_DIR }}/${{ env.STREAM_DIR }}
+
+    - name: Download Mapping Artifacts
+      uses: actions/download-artifact@v3
+      with:
+        name: ${{ env.MAPPING_NAME }}
+        path: ${{ env.SCRIPT_DIR }}/${{ env.MAPPING_DIR }}     
+      
+    - name: Post-process JSON Mappings
+      run: |
+            cd $SCRIPT_DIR
+
+            # https://jqplay.org/s/hMplWeL4VC5
+            
+            jq --null-input \
+            '[inputs | to_entries | sort] | add
+              | map(.value[] + {"unaliased": .key})
+              | group_by(.unaliased) | add | unique | sort_by(.repo, .issue)
+              | group_by(.unaliased)
+              | map({(.[].unaliased) : [.[]]}) | add' \
+            $MAPPING_DIR/*.json \
+            > $DATA_DIR/mappings.json
+
+    - name: Create TSV
+      run: |
+            cd $SCRIPT_DIR
+
+            # https://jqplay.org/s/wZi2JJnFp-i
+            
+            jq --null-input --raw-output \
+            '[inputs | to_entries] | add | sort
+              | map(.value[])
+              | [.[] | with_entries( .key |= ascii_upcase ) ]
+              | (.[0] | keys_unsorted | @tsv), (.[] | . | map(.) | @tsv)' \
+            $DATA_DIR/mappings.json \
+            > $DATA_DIR/mappings.tsv
+
+    - name: Update README.md
+      run: |
+            cd $SCRIPT_DIR
+
+            # https://jqplay.org/s/yamLR8O_qfT
+            # https://jqplay.org/s/JSwD4q_mlLI    With unaliased
+            # https://jqplay.org/s/vk554kUteJ4    Functions Test
+            
+            markdown_table=$(jq --null-input --raw-output \
+            'def chunk(N):
+                if . | length <= N
+                then [.]
+                else ([.[0:N]] + (.[N:] | chunk(N)))
+                end;
+                
+              def split_hierarchy(N):
+                . | split(".") as $split
+                | $split[0] as $base
+                | $split[1:] as $hierarchy
+                | [$base] + if ($split | length > 1) then ([$hierarchy | chunk(N) | map(join(".")) | join(" .")]) else [] end | join(".");
+              
+              [inputs | to_entries] | add | sort
+                | map(.value[] + {"lineage": (.key)})
+                | map_values(.repo as $repo | .
+                    + {"pango": ("`" + .pango + "`")}
+                    + {"unaliased_split": ("`" + (.unaliased | split_hierarchy(9)) + "`")}
+                    + {"source": (if $repo == "cov-lineages/pango-designation" then "main" else "2nd" end)}
+                    + {"labels": .labels | split(", ") |
+                        (if $repo == "cov-lineages/pango-designation"
+                        then map("https://github.com/\($repo)/labels/\(. | @uri | gsub("\\."; "%2E"))") | join(" ")
+                        else map("[\(.)](https://github.com/\($repo)/labels/\(. | @uri | gsub("\\."; "%2E")))") | join(", ")
+                        end)
+                    }
+                    + {"milestone": ("[⚑ \(.milestone)](https://github.com/\($repo)/milestone/\(.milestone)?closed=1)")}
+                    + {"issue": ("[#\(.issue)\(if .reason == "REOPENED" then " 🔵" elif (.reason | not) then " 🟠" elif .reason == "NOT_PLANNED" then " 🔴" else "" end)](https://github.com/\($repo)/issues/\(.issue))")}
+                ) as $data
+              | [["PANGO", "UNALIASED PANGO", "MILESTONE", "ISSUE", "LABELS", "REPO"] | join(" | ")]
+                  + [[":---", ":---", ":---:", ":---:", ":---", ":--"] | join(" | ")]
+                  + ($data | map(.pango + " | " + .unaliased_split + " | " + .milestone + " | " + .issue + " | " + .labels + " | " + .source)) | .[]' \
+            $DATA_DIR/mappings.json)
+            
+            echo -e "$markdown_table" > README.md
+            
+    - name: Commit and Push
+      run: |
+            gitStatus=$(git status --porcelain)
+            
+            # Check if empty
+            if [ -z "$gitStatus" ]; then
+              echo "No changes to commit"
+            else
+              echo "Changes detected:"
+              echo "$gitStatus"
+              echo
+              
+              echo "committing..."
+              git config user.name "$COMMIT_AUTHOR"
+              git config user.email "$COMMIT_AUTHOR_EMAIL"
+              git add --all
+              git commit -a -m "$COMMIT_MESSAGE"
+              git push
+            fi
+      
