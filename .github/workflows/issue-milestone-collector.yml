@@ -152,8 +152,6 @@ jobs:
             # https://jqplay.org/s/UXZ31kBi_UE    All
             # https://jqplay.org/s/p1WYXibKnyy    Lookup Test
             
-            cat $SCRIPT_DIR/$STREAM_DIR/${{ matrix.owner }}_${{ matrix.repository }}.json
-            echo
             jq --null-input \
               'def lookup(KEY): 
                   .[KEY] // error("MAPPING ERROR: \(KEY) does not exist within the mapper\nMAPPER:\n\(.)");
@@ -208,7 +206,7 @@ jobs:
 
     - name: Ensure Directory Structure
       run: |
-            mkdir -p -v $SCRIPT_DIR/$STREAM_DIR $SCRIPT_DIR/$MAPPING_DIR
+            mkdir -p -v $SCRIPT_DIR/$STREAM_DIR $SCRIPT_DIR/$MAPPING_DIR $SCRIPT_DIR/$DATA_DIR
 
     - name: Download Stream Artifacts
       uses: actions/download-artifact@v3
@@ -227,7 +225,7 @@ jobs:
             cd $SCRIPT_DIR
 
             # https://jqplay.org/s/hMplWeL4VC5
-            
+                    
             jq --null-input \
             '[inputs | to_entries | sort] | add
               | map(.value[] + {"unaliased": .key})
