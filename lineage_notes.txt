@@ -692,8 +692,8 @@ CM.5.2	Alias of B.1.1.529.2.3.20.5.2, S:G485D, USA/Australia, from pango-designa
 CM.6	Alias of B.1.1.529.2.3.20.6, global, ORF1a:G30A
 CM.6.1	Alias of B.1.1.529.2.3.20.6.1, S:A348S from pango-designation issue #1165
 CM.7	Alias of B.1.1.529.2.3.20.7, Japan/Singapore, S:F486S
-CM.7.1	Alias of B.1.1.529.2.3.20.7.1, S:K147E, Europe, from pango-designation issue #37
-CM.7.1.1	Alias of B.1.1.529.2.3.20.7.1, S:R403K, Europe, from pango-designation issue #37
+CM.7.1	Alias of B.1.1.529.2.3.20.7.1, S:K147E, Europe, from sars-cov-2-variants/lineage-proposals#37
+CM.7.1.1	Alias of B.1.1.529.2.3.20.7.1, S:R403K, Europe, from sars-cov-2-variants/lineage-proposals#37
 CM.8	Alias of B.1.1.529.2.3.20.8, S:G446S
 CM.8.1	Alias of B.1.1.529.2.3.20.8.1, Australia/England, S:F486S
 CM.8.1.1	Alias of B.1.1.529.2.3.20.8.1.1, Singapore/Malaysia, S:K147N
@@ -701,7 +701,7 @@ FV.1	Alias of B.1.1.529.2.3.20.8.1.1.1, S:R346T, M:E11Q, Singapore/SouthKorea/Ja
 CM.8.1.2	Alias of B.1.1.529.2.3.20.8.1.2, Germany/USA, S:K147I
 CM.8.1.3	Alias of B.1.1.529.2.3.20.8.1.3, USA, S:Y1272H
 CM.8.1.4	Alias of B.1.1.529.2.3.20.8.1.4, ORF1b:N1790D, Philippines, from pango-designation issue #1554
-CM.8.1.5	Alias of B.1.1.529.2.3.20.8.1.5, S:K150E, S:Y248H, N:A155V, Philippines, from pango-designation issue #293
+CM.8.1.5	Alias of B.1.1.529.2.3.20.8.1.5, S:K150E, S:Y248H, N:A155V, Philippines, from sars-cov-2-variants/lineage-proposals#293
 CM.9	Alias of B.1.1.529.2.3.20.9, USA/Canada/Israel, S:S256L
 CM.10	Alias of B.1.1.529.2.3.20.10, USA/South Korea/Singapore, S:K478T reversion, S:V445A
 CM.11	Alias of B.1.1.529.2.3.20.11, USA/South Korea, S:R346T, S:F486S, from pango-designation issue #1509
@@ -843,8 +843,8 @@ CJ.1	Alias of B.1.1.529.2.75.3.1.1.1.1, S:S486P, from pango-designation issue #1
 CJ.1.1	Alias of B.1.1.529.2.75.3.1.1.1.1.1, S:V445A, Singapore/Malaysia/Japan, from pango-designation issue #1384
 CJ.1.2	Alias of B.1.1.529.2.75.3.1.1.1.1.2, ORF1a:L2609F, Sweden/France/England
 CJ.1.3	Alias of B.1.1.529.2.75.3.1.1.1.1.3, A261G reversion, G4960A, C14790T, South Korea
-CJ.1.3.1	Alias of B.1.1.529.2.75.3.1.1.1.1.3.1, S:R214S, ORF1a:G3578S, South Korea/Japan, from pango-designation issue #287
-CJ.1.3.2	Alias of B.1.1.529.2.75.3.1.1.1.1.3.2, S:D936H, South Korea, from pango-designation issue #287
+CJ.1.3.1	Alias of B.1.1.529.2.75.3.1.1.1.1.3.1, S:R214S, ORF1a:G3578S, South Korea/Japan, from sars-cov-2-variants/lineage-proposals#287
+CJ.1.3.2	Alias of B.1.1.529.2.75.3.1.1.1.1.3.2, S:D936H, South Korea, from sars-cov-2-variants/lineage-proposals#287
 BM.1.1.2	Alias of B.1.1.529.2.75.3.1.1.2, England, S:T883I, S:S939F, S:P1079T
 BM.1.1.3	Alias of B.1.1.529.2.75.3.1.1.3, India, defined by ORF10:A8V
 CV.1	Alias of B.1.1.529.2.75.3.1.1.3.1, Ireland, S:L452R
@@ -875,7 +875,7 @@ DV.6	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.6, T15591C
 DV.6.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.6.1, S:Q613H, T15591C, Central Europe
 DV.6.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.6.2, S:Q613H, C6628T, Asia from pango-designation issue #2045
 DV.7	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7, S:L858I, ORF1a:A3548V, England, from pango-designation issue #2038
-DV.7.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1, S:L455F, S:F456L(T22928C), Spain/Austria, from pango-designation issue #135
+DV.7.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1, S:L455F, S:F456L(T22928C), Spain/Austria, from sars-cov-2-variants/lineage-proposals#135
 DV.7.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.1, S:K679R, Spain
 DV.7.1.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.2, ORF1a:A4162V, Spain/England
 DV.7.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.7.2, C703T, England
@@ -883,7 +883,7 @@ DV.8	Alias of B.1.1.529.2.75.3.4.1.1.1.1.1.8, S:Q613H, C8299T, C19602T, Sweden
 CH.1.1.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.2, defined by S:T883I, ORF1a:Y1846C, ORF1a:G2294S on T27576C branch
 CH.1.1.3	Alias of B.1.1.529.2.75.3.4.1.1.1.1.3, S:S255P, New Zealand/Australia/Hong Kong, from pango-designation issue #1405
 GQ.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.3.1, S:486P, ORF1a:H1545Q, ORF1b:V1520L, Australia/New Zealand, from pango-designation issue #1872
-GQ.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.3.1.1, S:G213E, New Zealand, from pango-designation issue #343
+GQ.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.3.1.1, S:G213E, New Zealand, from sars-cov-2-variants/lineage-proposals#343
 CH.1.1.4	Alias of B.1.1.529.2.75.3.4.1.1.1.1.4, S:H681R, Austria, from pango-designation issue #1370
 CH.1.1.5	Alias of B.1.1.529.2.75.3.4.1.1.1.1.5, ORF3a:P104S, found mainly in Denmark and UK, from pango-designation issue #1539
 CH.1.1.6	Alias of B.1.1.529.2.75.3.4.1.1.1.1.6, UK, defined by S:T732I
@@ -904,7 +904,7 @@ CH.1.1.16	Alias of B.1.1.529.2.75.3.4.1.1.1.1.16, S:613H, ORF3a:S26L, on C193T b
 CH.1.1.17	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17, M:S212G, on C21811T branch, from pango-designation issue #1753
 FK.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1, found mainly in New Zealand and Australia, from pango-designation issue #1718
 FK.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1, ORF1a:A1060T, on C27804T>ORF1b:L2580I>N:G34E branch, New Zealand, from pango-designation issue #1881
-FK.1.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1.1, S:V445A, Australia from pango-designation issue #368
+FK.1.1.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1.1, S:V445A, Australia from sars-cov-2-variants/lineage-proposals#368
 FK.1.1.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.1.2, C9223T, T23071G
 FK.1.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2, ORF1a:L384F, ORF1a:R550H
 FK.1.2.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.2.1, ORF1a:T891I, Germany/Denmark/Finland/Austria
@@ -914,7 +914,7 @@ FK.1.3.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.1, S:E583D, Australia
 FK.1.3.2	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.2, C9391T, T13596C, Australia/Japan
 JL.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.2.1, S:E1111Q, Japan, from pango-designation issue #2168
 FK.1.4	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.4, S:S704L, on C27804>ORF7a:Y40H branch, Australia
-FK.1.4.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.4.1, S:G181A, Australia/Puerto Rico from pango-designation issue #88
+FK.1.4.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.4.1, S:G181A, Australia/Puerto Rico from sars-cov-2-variants/lineage-proposals#88
 FK.1.5	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.5, G5155A, C12439T, Australia/New Zealand
 CH.1.1.18	Alias of B.1.1.529.2.75.3.4.1.1.1.1.18, S:K187T,from pango-designation issue #1747
 CH.1.1.19	Alias of B.1.1.529.2.75.3.4.1.1.1.1.19, C2773T, Europe
@@ -957,7 +957,7 @@ FR.1	Alias of B.1.1.529.2.75.5.1.2.3.1, S:K187E, N:T366I, Japan/Taiwan/USA, from
 FR.1.1	Alias of B.1.1.529.2.75.5.1.2.3.1.1, S:P82H, ORF1a:L293F, China from pango-designation issue #2006
 FR.1.2	Alias of B.1.1.529.2.75.5.1.2.3.1.2, S:R190M, China from pango-designation issue #2028
 FR.1.3	Alias of B.1.1.529.2.75.5.1.2.3.1.3, ORF1a:A206V, ORF1b:A517V, N:G34E, China, from pango-designation issue #2039
-FR.1.4	Alias of B.1.1.529.2.75.5.1.2.3.1.4, A3715G, C15960T, on shared T2372C, C7318T, ORF1a:L293F branch with FR.1.1, China, from pango-designation issue #256
+FR.1.4	Alias of B.1.1.529.2.75.5.1.2.3.1.4, A3715G, C15960T, on shared T2372C, C7318T, ORF1a:L293F branch with FR.1.1, China, from sars-cov-2-variants/lineage-proposals#256
 FR.2	Alias of B.1.1.529.2.75.5.1.2.3.2, ORF1a:Y1920H, ORF1b:I1799S, South Korea
 BN.1.2.4	Alias of B.1.1.529.2.75.5.1.2.4, ORF1b:D1746H
 BN.1.2.5	Alias of B.1.1.529.2.75.5.1.2.5, C3241T, C16833T, G22225A, South Korea
@@ -982,7 +982,7 @@ BN.1.3.9	Alias of B.1.1.529.2.75.5.1.3.9 S:V83F, from pango-designation issue #1
 BN.1.3.10	Alias of B.1.1.529.2.75.5.1.3.10 ORF1a:Q1918R, C13608T, Asia/Oceania
 BN.1.3.11	Alias of B.1.1.529.2.75.5.1.3.11 ORF1a:T568I, ORF1a:V1211F, South Korea
 BN.1.3.12	Alias of B.1.1.529.2.75.5.1.3.12 C14358T, T22672C, South Korea/Thailand/Germany
-BN.1.3.13	Alias of B.1.1.529.2.75.5.1.3.13 S:V445A, C3817T, C17818T, Taiwan/Japan/South Korea from pango-designation issue #218
+BN.1.3.13	Alias of B.1.1.529.2.75.5.1.3.13 S:V445A, C3817T, C17818T, Taiwan/Japan/South Korea from sars-cov-2-variants/lineage-proposals#218
 BN.1.4	Alias of B.1.1.529.2.75.5.1.4, India, 27501C
 BN.1.4.1	Alias of B.1.1.529.2.75.5.1.4.1, S:G261V & S:T678I, from pango-designation issue #1417
 BN.1.4.2	Alias of B.1.1.529.2.75.5.1.4.2, S:Q1113K
@@ -1489,7 +1489,7 @@ FB.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1.1 S:D253G, Singapore/Taiwan/Japan from
 FB.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.1.2 S:478R, USA/South Korea/Mongolia
 BQ.1.2.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2, S:K147E, S:R346T, S:V445A, West Africa from pango-designation issue #1861
 JH.1	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.1, S:K182E, S:486A, S:S494P, S:E554K, from pango-designation issue #2068
-JH.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.2, S:A484K, S:V486A, USA/Canada/Finland, from pango-designation issue #650
+JH.2	Alias of B.1.1.529.5.3.1.1.1.1.1.2.2.2, S:A484K, S:V486A, USA/Canada/Finland, from sars-cov-2-variants/lineage-proposals#650
 BQ.1.2.3	Alias of B.1.1.529.5.3.1.1.1.1.1.2.3, E:V24L, Canada
 BQ.1.3	Alias of B.1.1.529.5.3.1.1.1.1.1.3, found globally, defined by S:E619Q, from pango-designation issue #1082
 BQ.1.3.1	Alias of B.1.1.529.5.3.1.1.1.1.1.3.1, C2509T, Spain
@@ -2727,12 +2727,12 @@ EU.1	Alias of XBB.1.5.26.1, S:P521S, Germany/Netherlands, from pango-designation
 EU.1.1	Alias of XBB.1.5.26.1.1, S:I410V, Germany/Netherlands, from pango-designation issue #1688
 EU.1.1.1	Alias of XBB.1.5.26.1.1.1, C21646T, Germany
 EU.1.1.2	Alias of XBB.1.5.26.1.1.2, S:A1070S, Germany/Finland/Denmark/Sweden
-EU.1.1.3	Alias of XBB.1.5.26.1.1.3, S:F157L, Europe, from pango-designation issue #312
+EU.1.1.3	Alias of XBB.1.5.26.1.1.3, S:F157L, Europe, from sars-cov-2-variants/lineage-proposals#312
 XBB.1.5.27	S:K478R, on T11431C branch, USA
 XBB.1.5.28	S:K478R, on 17124C polytomy, USA
 XBB.1.5.29	S:A348V, USA-NE
 XBB.1.5.30	S:A348T, USA from pango-designation issue #1660
-HM.1	Alias of XBB.1.5.30.1, S:N481K, Canada/Australia, from pango-designation issue #59
+HM.1	Alias of XBB.1.5.30.1, S:N481K, Canada/Australia, from sars-cov-2-variants/lineage-proposals#59
 XBB.1.5.31	T24976C, USA
 XBB.1.5.32	ORF1a:T2823I, USA
 XBB.1.5.33	G370A, USA
@@ -2741,12 +2741,12 @@ XBB.1.5.35	S:N978S, USA, from pango-designation issue #1699
 XBB.1.5.36	C9442T, USA
 XBB.1.5.37	S:K1045R, Europe
 XBB.1.5.38	S:I666V, ORF1a:T403I
-GG.1	Alias of XBB.1.5.38.1 S:478R, Europe, from pango-designation issue #48
+GG.1	Alias of XBB.1.5.38.1 S:478R, Europe, from sars-cov-2-variants/lineage-proposals#48
 XBB.1.5.39	ORF1a:M3684T, USA/Canada
 FT.1	Alias of XBB.1.5.39.1, S:I197V, Canada, from pango-designation issue #1745
 FT.2	Alias of XBB.1.5.39.2, S:K1045N, Canada-QC/USA-NY
-FT.3	Alias of XBB.1.5.39.3, S:Q52H, USA from pango-designation issue #266
-FT.3.1	Alias of XBB.1.5.39.3.1, S:K478R, S:D1168H, Canada/USA from pango-designation issue #266
+FT.3	Alias of XBB.1.5.39.3, S:Q52H, USA from sars-cov-2-variants/lineage-proposals#266
+FT.3.1	Alias of XBB.1.5.39.3.1, S:K478R, S:D1168H, Canada/USA from sars-cov-2-variants/lineage-proposals#266
 FT.3.1.1	Alias of XBB.1.5.39.3.1.1, S:A348S, USA from pango-designation issue #2140
 FT.4	Alias of XBB.1.5.39.4, S:E180Q, Germany
 XBB.1.5.40	S:478I, USA
@@ -2756,7 +2756,7 @@ XBB.1.5.42	S:E281D, Asia/USA, from pango-designation issue #1933
 GR.1	Alias of XBB.1.5.42.1, S:445S, Vietnam from pango-designation issue #1966
 XBB.1.5.43	C18501T, Singapore/Malaysia/Indonesia
 XBB.1.5.44	S:K356T, S:T572I, USA, from pango-designation issue #1907
-HC.1	Alias of XBB.1.5.44.1, S:P631S, USA, from pango-designation issue #106
+HC.1	Alias of XBB.1.5.44.1, S:P631S, USA, from sars-cov-2-variants/lineage-proposals#106
 HC.2	Alias of XBB.1.5.44.2, S:F157L, Canada, from pango-designation issue #2202
 XBB.1.5.45	S:478R, C27425T, G28079T, India-GJ/MH, from pango-designation issue #1792
 XBB.1.5.46	C5770T, C15279T, Germany/France
@@ -2776,12 +2776,12 @@ XBB.1.5.51	ORF1a:D3009A, USA
 XBB.1.5.52	C3589T
 XBB.1.5.53	S:F140I, S:L582F, S:R403K, South Africa，from pango-designation issue #1804
 JB.1	Alias of XBB.1.5.53.1, S:N148T, South Africa
-JB.2	Alias of XBB.1.5.53.2, S:K478R, South Africa/USA from pango-designation issue #209
-JB.2.1	Alias of XBB.1.5.53.2.1, S:H245Y, S:E554D, South Africa from pango-designation issue #209
+JB.2	Alias of XBB.1.5.53.2, S:K478R, South Africa/USA from sars-cov-2-variants/lineage-proposals#209
+JB.2.1	Alias of XBB.1.5.53.2.1, S:H245Y, S:E554D, South Africa from sars-cov-2-variants/lineage-proposals#209
 XBB.1.5.54	C14358T,C20016T,C29311T, Central/Eastern Europe
 XBB.1.5.55	ORF1a:T3356I, USA/Canada
-HP.1	Alias of XBB.1.5.55.1, N:L13F, USA/Mexico from pango-designation issue #277
-HP.1.1	Alias of XBB.1.5.55.1.1, S:478R, Mexico from pango-designation issue #277
+HP.1	Alias of XBB.1.5.55.1, N:L13F, USA/Mexico from sars-cov-2-variants/lineage-proposals#277
+HP.1.1	Alias of XBB.1.5.55.1.1, S:478R, Mexico from sars-cov-2-variants/lineage-proposals#277
 XBB.1.5.56	S:A852S, USA
 XBB.1.5.57	A20379G, C28312T, pre-T17124C, probable Spike-donor of XBL, from pango-designation issue #1973
 XBB.1.5.58	S:704L, ORF1b:V1607I, ORF6:D6G, Guinea, from pango-designation issue #1860
@@ -2795,7 +2795,7 @@ XBB.1.5.65	C583T, Germany
 XBB.1.5.66	ORF1a:G519S, USA
 XBB.1.5.67	C21691T, USA
 XBB.1.5.68	S:P521T, ORF3a:L71I, C18501T, USA
-HZ.1	Alias of XBB.1.5.68.1, S:K478R, 23266T, USA from pango-designation issue #514
+HZ.1	Alias of XBB.1.5.68.1, S:K478R, 23266T, USA from sars-cov-2-variants/lineage-proposals#514
 HZ.2	Alias of XBB.1.5.68.2, ORF1a:H3580Y, USA
 HZ.3	Alias of XBB.1.5.68.3, ORF1a:I3693T, USA
 XBB.1.5.69	ORF1a:V2943I,C22513T, USA
@@ -2803,11 +2803,11 @@ XBB.1.5.70	S:L455F, S:F456L (T22928C), ORF1a:A4068S, Brazil, from pango-designat
 GK.1	Alias of XBB.1.5.70.1, S:S704L, Brazil, from pango-designation issue #2025
 GK.1.1	Alias of XBB.1.5.70.1.1, S:T573I, Brazil
 GK.1.2	Alias of XBB.1.5.70.1.2, S:N185D, Brazil from pango-designation issue #2093
-GK.1.3	Alias of XBB.1.5.70.1.3, ORF1a:E633A, ORF1b:D1130G, USA/Canada from pango-designation issue #179
-GK.1.4	Alias of XBB.1.5.70.1.4, S:478R, S:98F, Brazil from pango-designation issue #504
-GK.2	Alias of XBB.1.5.70.2, S:V511I, from pango-designation issue #300
+GK.1.3	Alias of XBB.1.5.70.1.3, ORF1a:E633A, ORF1b:D1130G, USA/Canada from sars-cov-2-variants/lineage-proposals#179
+GK.1.4	Alias of XBB.1.5.70.1.4, S:478R, S:98F, Brazil from sars-cov-2-variants/lineage-proposals#504
+GK.2	Alias of XBB.1.5.70.2, S:V511I, from sars-cov-2-variants/lineage-proposals#300
 GK.2.1	Alias of XBB.1.5.70.2.1, ORF1a:L624I, ORF1a:L3641S, ORF1b:S763C
-GK.2.2	Alias of XBB.1.5.70.2.2, S:E554D from pango-designation issue #470
+GK.2.2	Alias of XBB.1.5.70.2.2, S:E554D from sars-cov-2-variants/lineage-proposals#470
 GK.3	Alias of XBB.1.5.70.3, ORF1a:A876S, Brazil/USA/Canada
 GK.3.1	Alias of XBB.1.5.70.3.1, S:A475V, USA
 GK.3.2	Alias of XBB.1.5.70.3.2, S:T572I, USA, from pango-designation issue #2272
@@ -2824,7 +2824,7 @@ XBB.1.5.74	S:K462R, ORF1b:V728I, Peru, from pango-designation issue #1998
 XBB.1.5.75	C3695T, Peru/France
 XBB.1.5.76	ORF1a:T3696A, Chile
 XBB.1.5.77	T18732C, Colombia/USA
-HR.1	Alias of XBB.1.5.77.1, S:478R, N:I292V, Costa Rica/USA from pango-designation issue #323
+HR.1	Alias of XBB.1.5.77.1, S:478R, N:I292V, Costa Rica/USA from sars-cov-2-variants/lineage-proposals#323
 XBB.1.5.78	ORF1a:N460D, Mexico
 XBB.1.5.79	N:Q260L, Mexico/USA
 XBB.1.5.80	A16812G, C21812T, USA/Romania
@@ -2838,14 +2838,14 @@ HA.1	Alias of XBB.1.5.86.1, S:F456L (22930A), Brazil/Canada
 HA.2	Alias of XBB.1.5.86.2, S:P521S, Brazil
 XBB.1.5.87	S:478R, ORF1a:E1633K, ORF1a:M1588K, C9763T, C20946T, Indonesia
 XBB.1.5.88	C2299T, South Africa
-XBB.1.5.89	S:478R, S:554A, Canada/Italy/France, from pango-designation issue #175
+XBB.1.5.89	S:478R, S:554A, Canada/Italy/France, from sars-cov-2-variants/lineage-proposals#175
 XBB.1.5.90	S:P621S, ORF1ab:S6713L, Belgium/France, from pango-designation issue #1849
 XBB.1.5.91	S:P621S, USA
 XBB.1.5.92	ORF1a:T1168I, Ecuador
-HQ.1	Alias of XBB.1.5.92.1, S:E554K, Ecuador from pango-designation issue #170
-XBB.1.5.93	C337T, C19186T, USA from pango-designation issue #363
-HD.1	Alias of XBB.1.5.93.1, S:T346I, USA/Dominican Republic from pango-designation issue #363
-HD.1.1	Alias of XBB.1.5.93.1.1, S:K356T, Dominican Republic from pango-designation issue #363
+HQ.1	Alias of XBB.1.5.92.1, S:E554K, Ecuador from sars-cov-2-variants/lineage-proposals#170
+XBB.1.5.93	C337T, C19186T, USA from sars-cov-2-variants/lineage-proposals#363
+HD.1	Alias of XBB.1.5.93.1, S:T346I, USA/Dominican Republic from sars-cov-2-variants/lineage-proposals#363
+HD.1.1	Alias of XBB.1.5.93.1.1, S:K356T, Dominican Republic from sars-cov-2-variants/lineage-proposals#363
 XBB.1.5.94	S:Q613H, T25461C, France
 XBB.1.5.95	ORF1a:A1851V
 HS.1	Alias of XBB.1.5.95.1, S:478R, Mexico
@@ -2855,12 +2855,12 @@ XBB.1.5.97	S:T941S, C7834T, New Zealand/Australia
 XBB.1.5.98	S:E554K, ORF8:V32L, Ghana
 XBB.1.5.99	ORF1a:V1122A, ORF1a:T2121I, Slovakia/Austria
 XBB.1.5.100	S:V1122M, USA/Mexico
-HY.1	Alias of XBB.1.5.100.1, S:478R, USA/Mexico, from pango-designation issue #453
+HY.1	Alias of XBB.1.5.100.1, S:478R, USA/Mexico, from sars-cov-2-variants/lineage-proposals#453
 XBB.1.5.101	ORF7a:E3Q, C14877T, Scandinavia/Poland/Vietnam
 XBB.1.5.102	C6896T, C14085T, C19488T, Brazil-Amazonas
 JD.1	Alias of XBB.1.5.102.1, S:L455F, S:F456L (T22928C), A14634G, T28282C, Brazil, from pango-designation issue #2071
 JD.1.1	Alias of XBB.1.5.102.1.1, S:A475V, Brazil/USA/Spain, from pango-designation issue #2174
-JD.1.2	Alias of XBB.1.5.102.1.2, S:P1162S, Brazil, from pango-designation issue #136
+JD.1.2	Alias of XBB.1.5.102.1.2, S:P1162S, Brazil, from sars-cov-2-variants/lineage-proposals#136
 XBB.1.5.103	S:F456L (T22928C), S:180/184del, S:N185D, ORF1a:T1437I, ORF7b:C41W, T21357C, Argentina from pango-designation issue #2192
 XBB.1.5.104	S:K304Q, USA, from pango-designation issue #1798
 XBB.1.5.105	S:K304N, USA/Europe
@@ -2877,8 +2877,8 @@ FL.1.3	Alias of XBB.1.9.1.1.3, ORF1a:T1881I, ORF1b:M606I, South Korea
 FL.1.4	Alias of XBB.1.9.1.1.4, S:478R, S:Q1208H, Vietnam, from pango-designation issue #1985
 FL.1.5	Alias of XBB.1.9.1.1.5, S:456L (T22928C), ORF1b:K2557R, from pango-designation issue #2036
 FL.1.5.1	Alias of XBB.1.9.1.1.5.1, S:478R, from pango-designation issue #2036
-HN.1	Alias of XBB.1.9.1.1.5.1.1, S:A67S, Dominican Republic from pango-designation issue #408
-FL.1.5.2	Alias of XBB.1.9.1.1.5.2, S:N481K, S:H681R, England/France/Denmark from pango-designation issue #614
+HN.1	Alias of XBB.1.9.1.1.5.1.1, S:A67S, Dominican Republic from sars-cov-2-variants/lineage-proposals#408
+FL.1.5.2	Alias of XBB.1.9.1.1.5.2, S:N481K, S:H681R, England/France/Denmark from sars-cov-2-variants/lineage-proposals#614
 FL.1.6	Alias of XBB.1.9.1.1.6, S:N481K, S:Q1208H
 FL.1.7	Alias of XBB.1.9.1.1.7, S:478R, S:C1235F, Indonesia, from pango-designation issue #1985
 FL.2	Alias of XBB.1.9.1.2, T4579A
@@ -2888,7 +2888,7 @@ FL.2.2.1	Alias of XBB.1.9.1.2.2.1, S:T307I, Indonesia, from pango-designation is
 FL.2.3	Alias of XBB.1.9.1.2.3, ORF1b:K1383R, China, from pango-designation issue #2016
 FL.2.3.1	Alias of XBB.1.9.1.2.3.1, S:K356T, China
 FL.2.4	Alias of XBB.1.9.1.2.4, ORF8:S67F, China
-FL.2.5	Alias of XBB.1.9.1.2.5, S:Q314E，from pango-designation issue #342
+FL.2.5	Alias of XBB.1.9.1.2.5, S:Q314E，from sars-cov-2-variants/lineage-proposals#342
 FL.2.6	Alias of XBB.1.9.1.2.6, S:N641K, from pango-designation issue #2180
 FL.3	Alias of XBB.1.9.1.3, T1753C, England
 FL.3.1	Alias of XBB.1.9.1.3.1, ORF1a:T2264I, England
@@ -2897,13 +2897,13 @@ FL.3.3	Alias of XBB.1.9.1.3.3, ORF1a:A4285V,ORF1a:V2998I,ORF1a:E772K, England
 FL.3.4	Alias of XBB.1.9.1.3.4, G10642C, T26232C, England
 FL.4	Alias of XBB.1.9.1.4, ORF1b:V1092F
 FL.4.1	Alias of XBB.1.9.1.4.1, S:N450I
-FL.4.1.1	Alias of XBB.1.9.1.4.1.1, S:K478R, ORF1a:I2286T, Indonesia/Australia, from pango-designation issue #107
+FL.4.1.1	Alias of XBB.1.9.1.4.1.1, S:K478R, ORF1a:I2286T, Indonesia/Australia, from sars-cov-2-variants/lineage-proposals#107
 FL.4.2	Alias of XBB.1.9.1.4.2, ORF1a:T951I, China
-FL.4.3	Alias of XBB.1.9.1.4.3, S:A766S, G7393T, Myanmar from pango-designation issue #153
+FL.4.3	Alias of XBB.1.9.1.4.3, S:A766S, G7393T, Myanmar from sars-cov-2-variants/lineage-proposals#153
 FL.4.4	Alias of XBB.1.9.1.4.4, ORF1a:T1542I, T24544C, S:478T (reversion), Indonesia
 FL.4.5	Alias of XBB.1.9.1.4.5, ORF8:S67F, ORF1a:D1228G, C23635T, from pango-designation issue #2018
 FL.4.6	Alias of XBB.1.9.1.4.6, T5098C, C13965T, Australia/China
-FL.4.7	Alias of XBB.1.9.1.4.7, S:L452R, Singapore, from pango-designation issue #92
+FL.4.7	Alias of XBB.1.9.1.4.7, S:L452R, Singapore, from sars-cov-2-variants/lineage-proposals#92
 FL.4.8	Alias of XBB.1.9.1.4.8, S:478R, Indonesia, from pango-designation issue #2024
 FL.4.9	Alias of XBB.1.9.1.4.9, S:S254P, ORF3a:D173G, from pango-designation issue #2081
 FL.4.10	Alias of XBB.1.9.1.4.10, S:V1129I, China, from pango-designation issue #2087
@@ -2929,7 +2929,7 @@ FL.15	Alias of XBB.1.9.1.15, S:F456L (T22928C), ORF1a:E637K, Vietnam/China/South
 FL.16	Alias of XBB.1.9.1.16, S:D215V, C3511T, China, from pango-designation issue #2001
 FL.17	Alias of XBB.1.9.1.17, T3898C, C28333T
 FL.17.1	Alias of XBB.1.9.1.17.1, S:N74H, South Korea
-FL.17.2	Alias of XBB.1.9.1.17.2, S:L452R, ORF7a:V104L, from pango-designation issue #53
+FL.17.2	Alias of XBB.1.9.1.17.2, S:L452R, ORF7a:V104L, from sars-cov-2-variants/lineage-proposals#53
 FL.18	Alias of XBB.1.9.1.18, ORF1a:T2007I
 FL.18.1	Alias of XBB.1.9.1.18.1, N:T166I, A27507C, from pango-designation issue #2019
 FL.18.1.1	Alias of XBB.1.9.1.18.1.1, S:Y200C, S:478R, Australia/Indonesia, from pango-designation issue #2019
@@ -2939,11 +2939,11 @@ FL.20	Alias of XBB.1.9.1.20, S:F456L (22928C), S:Q52H, Spain, from pango-designa
 FL.20.1	Alias of XBB.1.9.1.20.1, S:L455W, Northern Ireland/England, from pango-designation issue #2145
 FL.21	Alias of XBB.1.9.1.21, A10564T
 FL.21.1	Alias of XBB.1.9.1.21.1, S:D1084N, South Korea from pango-designation issue #2143
-FL.21.2	Alias of XBB.1.9.1.21.2, ORF1a:V1019F, ORF1a:I2873M, China from pango-designation issue #187
+FL.21.2	Alias of XBB.1.9.1.21.2, ORF1a:V1019F, ORF1a:I2873M, China from sars-cov-2-variants/lineage-proposals#187
 FL.22	Alias of XBB.1.9.1.22, ORF1b:I1416V, T24184C
 FL.23	Alias of XBB.1.9.1.23, ORF1b:V1132I, Philippines
 FL.23.1	Alias of XBB.1.9.1.23.1, ORF1a:A2584V, C23185T, C8311T
-FL.24	Alias of XBB.1.9.1.24, S:Q613H, S:A688V, from pango-designation issue #284
+FL.24	Alias of XBB.1.9.1.24, S:Q613H, S:A688V, from sars-cov-2-variants/lineage-proposals#284
 FL.25	Alias of XBB.1.9.1.25, S:E554K, USA/England, from pango-designation issue #2040
 FL.26	Alias of XBB.1.9.1.26, C22264T
 FL.26.1	Alias of XBB.1.9.1.26.1, S:493L, Sweden
@@ -2964,22 +2964,22 @@ EG.1.7	Alias of XBB.1.9.2.1.7, S:E156V, Europe
 EG.1.8	Alias of XBB.1.9.2.1.8, S:S640F, ORF1b:D161G, ORF1b:P2321L, China
 EG.2	Alias of XBB.1.9.2.2, S:478R, Indonesia
 EG.2.1	Alias of XBB.1.9.2.2.1, S:F456L (T22930A), S:V327I, Indonesia
-EG.2.2	Alias of XBB.1.9.2.2.2, S:K304N, Indonesia/Japan from pango-designation issue #517
-EG.2.3	Alias of XBB.1.9.2.2.3, S:I742V, Indonesia/Singapore from pango-designation issue #587
-EG.2.4	Alias of XBB.1.9.2.2.4, S:K356T, ORF1a:G2265D, Singapore from pango-designation issue #586
-EG.2.5	Alias of XBB.1.9.2.2.4, S:Q675H, Indonesia from pango-designation issue #445
+EG.2.2	Alias of XBB.1.9.2.2.2, S:K304N, Indonesia/Japan from sars-cov-2-variants/lineage-proposals#517
+EG.2.3	Alias of XBB.1.9.2.2.3, S:I742V, Indonesia/Singapore from sars-cov-2-variants/lineage-proposals#587
+EG.2.4	Alias of XBB.1.9.2.2.4, S:K356T, ORF1a:G2265D, Singapore from sars-cov-2-variants/lineage-proposals#586
+EG.2.5	Alias of XBB.1.9.2.2.4, S:Q675H, Indonesia from sars-cov-2-variants/lineage-proposals#445
 EG.3	Alias of XBB.1.9.2.3, ORF1a:L2778F on N:L219F branch
 EG.4	Alias of XBB.1.9.2.4, C28651T
 EG.4.1	Alias of XBB.1.9.2.4.1, S:I870V, N:A119S
-EG.4.2	Alias of XBB.1.9.2.4.2, S:A623V, T14652C, China from pango-designation issue #46
+EG.4.2	Alias of XBB.1.9.2.4.2, S:A623V, T14652C, China from sars-cov-2-variants/lineage-proposals#46
 EG.4.3	Alias of XBB.1.9.2.4.3, S:Q613H
 EG.4.4	Alias of XBB.1.9.2.4.4, ORF1a:Y1465C, ORF1b:H873Y, Germany/Austria
 EG.5	Alias of XBB.1.9.2.5, S:F456L (T22930A), ORF1a:A690V, ORF1a:A3143V, Indonesia from pango-designation issue #1918
 EG.5.1	Alias of XBB.1.9.2.5.1, S:Q52H
 EG.5.1.1	Alias of XBB.1.9.2.5.1.1, China, from pango-designation issue #2020
-HK.1	Alias of XBB.1.9.2.5.1.1.1, S:G257V, China from pango-designation issue #359
-HK.2	Alias of XBB.1.9.2.5.1.1.2, S:Q14H, China from pango-designation issue #432
-HK.3	Alias of XBB.1.9.2.5.1.1.3, S:L455F, China from pango-designation issue #414
+HK.1	Alias of XBB.1.9.2.5.1.1.1, S:G257V, China from sars-cov-2-variants/lineage-proposals#359
+HK.2	Alias of XBB.1.9.2.5.1.1.2, S:Q14H, China from sars-cov-2-variants/lineage-proposals#432
+HK.3	Alias of XBB.1.9.2.5.1.1.3, S:L455F, China from sars-cov-2-variants/lineage-proposals#414
 HK.3.1	Alias of XBB.1.9.2.5.1.1.3.1, S:F157L, China, from pango-designation issue #2193
 HK.3.2	Alias of XBB.1.9.2.5.1.1.3.2, S:Q14K, China
 HK.3.3	Alias of XBB.1.9.2.5.1.1.3.3, S:S256L, N:P364L, China/Singapore
@@ -2988,33 +2988,33 @@ HK.5	Alias of XBB.1.9.2.5.1.1.5, S:Q677H, China
 HK.6	Alias of XBB.1.9.2.5.1.1.6, S:D253G, ORF1a:A1923T, UK/USA, from pango-designation issue #2184
 HK.7	Alias of XBB.1.9.2.5.1.1.7, S:N148T, China
 HK.8	Alias of XBB.1.9.2.5.1.1.8, S:L455F, on C11779T branch, China from pango-designation issue #2230
-HK.9	Alias of XBB.1.9.2.5.1.1.9, S:R190K, on C11779T branch, England from pango-designation issue #564
+HK.9	Alias of XBB.1.9.2.5.1.1.9, S:R190K, on C11779T branch, England from sars-cov-2-variants/lineage-proposals#564
 HK.11	Alias of XBB.1.9.2.5.1.1.11, S:G184S, China/England/SouthKorea, from pango-designation issue #2255
-EG.5.1.2	Alias of XBB.1.9.2.5.1.2, Japan, ORF1b:V1644I from pango-designation issue #301
-EG.5.1.3	Alias of XBB.1.9.2.5.1.3, ORF1a:R542C, C22570T from pango-designation issue #222
+EG.5.1.2	Alias of XBB.1.9.2.5.1.2, Japan, ORF1b:V1644I from sars-cov-2-variants/lineage-proposals#301
+EG.5.1.3	Alias of XBB.1.9.2.5.1.3, ORF1a:R542C, C22570T from sars-cov-2-variants/lineage-proposals#222
 JG.1	Alias of XBB.1.9.2.5.1.3.1, S:T732I, France, from pango-designation issue #2218
 JG.2	Alias of XBB.1.9.2.5.1.3.2, S:G75V, Europe, from pango-designation issue #2249
 EG.5.1.4	Alias of XBB.1.9.2.5.1.4, ORF1b:K2557R, from pango-designation issue #2117
 JJ.1	Alias of XBB.1.9.2.5.1.4.1, S:L455F, ORF3a:I47V, China/Japan from pango-designation issue #2208
 EG.5.1.5	Alias of XBB.1.9.2.5.1.5, ORF1a:L3293I, ORF1b:T1274I, ORF1b:L2349V, Portugal
-EG.5.1.6	Alias of XBB.1.9.2.5.1.6, S:F157L, ORF1a:S1857L, USA, from pango-designation issue #394
+EG.5.1.6	Alias of XBB.1.9.2.5.1.6, S:F157L, ORF1a:S1857L, USA, from sars-cov-2-variants/lineage-proposals#394
 HV.1	Alias of XBB.1.9.2.5.1.6.1, S:L452R, USA
 EG.5.1.7	Alias of XBB.1.9.2.5.1.7, S:K278N
 EG.5.1.8	Alias of XBB.1.9.2.5.1.8, S:L455F, China (most of it with C12100G)
 EG.5.2	Alias of XBB.1.9.2.5.2, N:L161F
-EG.5.2.1	Alias of XBB.1.9.2.5.2.1, S:S704L, USA from pango-designation issue #189
+EG.5.2.1	Alias of XBB.1.9.2.5.2.1, S:S704L, USA from sars-cov-2-variants/lineage-proposals#189
 EG.5.2.2	Alias of XBB.1.9.2.5.2.2, ORF1b:T239I, China
-EG.5.2.3	Alias of XBB.1.9.2.5.2.3, S:S704L, S:N1178D, Austria/USA from pango-designation issue #353
+EG.5.2.3	Alias of XBB.1.9.2.5.2.3, S:S704L, S:N1178D, Austria/USA from sars-cov-2-variants/lineage-proposals#353
 EG.6	Alias of XBB.1.9.2.6, C1684T, Israel
 EG.6.1	Alias of XBB.1.9.2.6.1, S:456L (T22928C), Israel/Japan/Canada from pango-designation issue #1950
 EG.6.1.1	Alias of XBB.1.9.2.6.1.1, S:484K, S:L242I
 EG.7	Alias of XBB.1.9.2.7, S:R403K, S:L513F, ORF1a:N2531S, Germany/England
 EG.8	Alias of XBB.1.9.2.8, ORF1a:S2303F, Europe
-EG.9	Alias of XBB.1.9.2.9, S:403K, ORF1a:T1474I, ORF1b:N969S from pango-designation issue #280
-EG.9.1	Alias of XBB.1.9.2.9.1, S:A344T, C13767T from pango-designation issue #57
-EG.10	Alias of XBB.1.9.2.10, S:A344T, S:R403K, Germany/Austria from pango-designation issue #346
-EG.10.1	Alias of XBB.1.9.2.10.1, S:S494P, S:A701V from pango-designation issue #346
-EG.11	Alias of XBB.1.9.2.11, S:E554K, A26319G, Malaysia，from pango-designation issue #523
+EG.9	Alias of XBB.1.9.2.9, S:403K, ORF1a:T1474I, ORF1b:N969S from sars-cov-2-variants/lineage-proposals#280
+EG.9.1	Alias of XBB.1.9.2.9.1, S:A344T, C13767T from sars-cov-2-variants/lineage-proposals#57
+EG.10	Alias of XBB.1.9.2.10, S:A344T, S:R403K, Germany/Austria from sars-cov-2-variants/lineage-proposals#346
+EG.10.1	Alias of XBB.1.9.2.10.1, S:S494P, S:A701V from sars-cov-2-variants/lineage-proposals#346
+EG.11	Alias of XBB.1.9.2.11, S:E554K, A26319G, Malaysia，from sars-cov-2-variants/lineage-proposals#523
 EG.12	Alias of XBB.1.9.2.12, S:E554K, N:R195T, ORF1a:T4159I, Oman/Austria/Brunei/India
 EG.13	Alias of XBB.1.9.2.13, ORF1a:K798N
 EG.14	Alias of XBB.1.9.2.14, Orf1b:K1383R, from pango-designation issue #2274
@@ -3032,12 +3032,12 @@ XBB.1.11.1	Indonesia/Malaysia/Singapore, S:S486P，from pango-designation issue 
 FP.1	Alias of XBB.1.11.1.1, A6616G, C21642T, following ORF1a:T2016I, Singapore, from pango-designation issue #1847
 FP.2	Alias of XBB.1.11.1.2, S:F186S, ORF1a:V3078I, Indonesia/Malaysia/Singapore
 FP.2.1	Alias of XBB.1.11.1.2.1, S:478R, ORF1a:I693T, ORF1a:T951A, ORF3a:W149C, Indonesia from pango-designation issue #2012
-FP.2.1.1	Alias of XBB.1.11.1.2.1.1, S:L452Q, USA/Austria from pango-designation issue #329
+FP.2.1.1	Alias of XBB.1.11.1.2.1.1, S:L452Q, USA/Austria from sars-cov-2-variants/lineage-proposals#329
 FP.2.1.2	Alias of XBB.1.11.1.2.1.2, S:P521S, Indonesia
 FP.3	Alias of XBB.1.11.1.3, S:478R, Indonesia/Malaysia from pango-designation issue #2021
 FP.4	Alias of XBB.1.11.1.4, C3241T, C2536T, Vietnam/South Korea/Japan
 XBB.1.12	Spain/Sweden/Germany, S:Y453F, ORF1a:S216F, ORF1a:A2832V
-XBB.1.12.1	S:Q613H, S:E1202Q, Argentina/Chile/Spain from pango-designation issue #336
+XBB.1.12.1	S:Q613H, S:E1202Q, Argentina/Chile/Spain from sars-cov-2-variants/lineage-proposals#336
 XBB.1.13	S:S490P from pango-designation issue #1487
 XBB.1.13.1	S:Q564E, S:N856K, Czechia
 XBB.1.14	S:G75V, S:E554K
@@ -3058,9 +3058,9 @@ GY.1	Alias of XBB.1.16.2.1, S:L84I, ORF1a:A4068S, China, from pango-designation 
 GY.2	Alias of XBB.1.16.2.2, S:T883I
 GY.2.1	Alias of XBB.1.16.2.2.1, S:S255F, South Korea
 GY.3	Alias of XBB.1.16.2.3, S:M177I, Thailand
-GY.4	Alias of XBB.1.16.2.4, S:N450K, C29095T, Laos, from pango-designation issue #345
+GY.4	Alias of XBB.1.16.2.4, S:N450K, C29095T, Laos, from sars-cov-2-variants/lineage-proposals#345
 GY.5	Alias of XBB.1.16.2.5, G9190C
-GY.6	Alias of XBB.1.16.2.6, ORF1a:V1765I from pango-designation issue #308
+GY.6	Alias of XBB.1.16.2.6, ORF1a:V1765I from sars-cov-2-variants/lineage-proposals#308
 GY.7	Alias of XBB.1.16.2.7, ORF1a:G3617C, G5515T, Thailand/Laos
 GY.8	Alias of XBB.1.16.2.8, S:F456L(T22928C), C25452T, Japan, from pango-designation issue #2148
 XBB.1.16.3	Defined by A2893C, India
@@ -3068,7 +3068,7 @@ XBB.1.16.4	Defined by S:T678I, India, from pango-designation issue #1903
 XBB.1.16.5	Defined by T9991C,C16332T, India, from pango-designation issue #1983
 XBB.1.16.6	S:F456L (T22930A), A12397G, USA/Canada/China
 JF.1	Alias of XBB.1.16.6.1, S:L455F, USA, from pango-designation issue #2207
-JF.2	Alias of XBB.1.16.6.2, S:Q675H, USA/Wales from pango-designation issue #457
+JF.2	Alias of XBB.1.16.6.2, S:Q675H, USA/Wales from sars-cov-2-variants/lineage-proposals#457
 XBB.1.16.7	S:T732I after T12214C, Singapore/Japan/SouthKorea
 XBB.1.16.8	S:T732I after C28531T, India/USA/China/Australia
 XBB.1.16.9	S:F456L (T22930G), ORF1a:S2500F, Canada/Sweden/SouthKorea/USA
@@ -3077,13 +3077,13 @@ XBB.1.16.11	S:P521T, India
 XBB.1.16.12	S:Q52H, South Korea
 XBB.1.16.13	ORF1a:G519S, ORF1a:G1101D, India
 HF.1	Alias of XBB.1.16.13.1, S:K304N, South Korea/Japan from pango-designation issue #2083
-HF.1.1	Alias of XBB.1.16.13.1.1, S:H1101Y, on N:A35T branch, South Korea/USA/Canada from pango-designation issue #521
+HF.1.1	Alias of XBB.1.16.13.1.1, S:H1101Y, on N:A35T branch, South Korea/USA/Canada from sars-cov-2-variants/lineage-proposals#521
 HF.1.2	Alias of XBB.1.16.13.1.2, S:A688V, on ORF1a:P1158S branch, USA
-XBB.1.16.14	S:L452Q, after A11782G, India/France/Canada, from pango-designation issue #329
+XBB.1.16.14	S:L452Q, after A11782G, India/France/Canada, from sars-cov-2-variants/lineage-proposals#329
 XBB.1.16.15	S:K147N, S:P521S, T10756C, T14067C, on C27513T branch, from pango-designation issue #2092
-XBB.1.16.16	S:Q613H, S:S412N, India-GJ/USA/Pakistan from pango-designation issue #54
-XBB.1.16.17	S:E554K, mainly in NZ, from pango-designation issue #354
-XBB.1.16.18	ORF7a:T39I from pango-designation issue #276
+XBB.1.16.16	S:Q613H, S:S412N, India-GJ/USA/Pakistan from sars-cov-2-variants/lineage-proposals#54
+XBB.1.16.17	S:E554K, mainly in NZ, from sars-cov-2-variants/lineage-proposals#354
+XBB.1.16.18	ORF7a:T39I from sars-cov-2-variants/lineage-proposals#276
 XBB.1.16.19	ORF1b:V839I
 XBB.1.16.20	ORF7b:S31L
 XBB.1.16.21	ORF1a:V4072I
@@ -3095,8 +3095,8 @@ XBB.1.17.1	Defined by S:215H, S:S486P, from pango-designation issue #1712
 GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
 GA.2	Alias of XBB.1.17.1.2, ORF3a:I179F, T6640C, Africa
 GA.3	Alias of XBB.1.17.1.3, ORF1b:A186V, Ghana
-GA.4	Alias of XBB.1.17.1.4, S:K356T, ORF1a:N1080D, ORF1a:S2553F, Nigeria from pango-designation issue #265
-GA.4.1	Alias of XBB.1.17.1.4.1, S:K478R, S:S704L, S:E554K, USA/Qatar from pango-designation issue #661
+GA.4	Alias of XBB.1.17.1.4, S:K356T, ORF1a:N1080D, ORF1a:S2553F, Nigeria from sars-cov-2-variants/lineage-proposals#265
+GA.4.1	Alias of XBB.1.17.1.4.1, S:K478R, S:S704L, S:E554K, USA/Qatar from sars-cov-2-variants/lineage-proposals#661
 GA.5	Alias of XBB.1.17.1.5, T23797C
 GA.6	Alias of XBB.1.17.1.6, ORF1a:I2138V, G8785A, Ghana
 GA.6.1	Alias of XBB.1.17.1.6.1, S:478R, A19767G, C29642T
@@ -3113,15 +3113,15 @@ FE.1.1.4	Alias of XBB.1.18.1.1.1.4, A4336G, T24073C, Brazil
 FE.1.2	Alias of XBB.1.18.1.1.2, A5488G
 XBB.1.19	Defined by S:486P, C541T, A10042G, T21363C, pre ORF8:8*, Pakistan, from pango-designation issue #1680
 XBB.1.19.1	Defined by S:E554K，Pakistan, from pango-designation issue #1765
-GW.1	Alias of XBB.1.19.1.1, ORF1a:D264N, N:M322V, China, from pango-designation issue #157
-GW.1.1	Alias of XBB.1.19.1.1.1, S:F456L(T22928C), China/Japan/Singapore, from pango-designation issue #355
+GW.1	Alias of XBB.1.19.1.1, ORF1a:D264N, N:M322V, China, from sars-cov-2-variants/lineage-proposals#157
+GW.1.1	Alias of XBB.1.19.1.1.1, S:F456L(T22928C), China/Japan/Singapore, from sars-cov-2-variants/lineage-proposals#355
 GW.2	Alias of XBB.1.19.1.2, S:D936G, USA
 GW.3	Alias of XBB.1.19.1.3, ORF1a:S100N, ORF1a:N3537S
 GW.4	Alias of XBB.1.19.1.4, ORF1a:M3280I
-GW.5	Alias of XBB.1.19.1.5, S:K478I, S:L455F, S:F456L(T22928C), Pakistan, from pango-designation issue #61
+GW.5	Alias of XBB.1.19.1.5, S:K478I, S:L455F, S:F456L(T22928C), Pakistan, from sars-cov-2-variants/lineage-proposals#61
 GW.5.1	Alias of XBB.1.19.1.5.1, ORF3a:W149C, Pakistan
 GW.5.1.1	Alias of XBB.1.19.1.5.1.1, S:A475V, S:F79S, Pakistan, from pango-designation issue #2277
-XBB.1.19.2	Defined by S:P521S, Pakistan from pango-designation issue #233
+XBB.1.19.2	Defined by S:P521S, Pakistan from sars-cov-2-variants/lineage-proposals#233
 XBB.1.20	Defined by C541T, ORF3a:A72V, ORF1a:P4312T, pre ORF8:8*, Malaysia
 XBB.1.21	Defined by S:486A, ORF1a:K1247R, Turkey, from pango-designation issue #1646
 XBB.1.22	Defined by S:486P, on 28297C branch, from pango-designation issue #1704
@@ -3138,16 +3138,16 @@ FY.3.2	Alias of XBB.1.22.1.3.2, ORF1a:E3764G, China, from pango-designation issu
 FY.3.3	Alias of XBB.1.22.1.3.3, ORF3a:V48F, China
 FY.4	Alias of XBB.1.22.1.4, S:Y451H, A8374G, C25517T, Kenya, from pango-designation issue #1979
 FY.4.1	Alias of XBB.1.22.1.4.1, S:S494P, Kenya from pango-designation issue #1979
-FY.4.1.1	Alias of XBB.1.22.1.4.1.1, S:S704L, from pango-designation issue #302
+FY.4.1.1	Alias of XBB.1.22.1.4.1.1, S:S704L, from sars-cov-2-variants/lineage-proposals#302
 FY.4.1.2	Alias of XBB.1.22.1.4.1.2, ORF1a:S2926F, Kenya
-FY.4.2	Alias of XBB.1.22.1.4.2, ORF1a:Y2171F, ORF1b:V2287I, Kenya/USA/Japan from pango-designation issue #487
+FY.4.2	Alias of XBB.1.22.1.4.2, ORF1a:Y2171F, ORF1b:V2287I, Kenya/USA/Japan from sars-cov-2-variants/lineage-proposals#487
 FY.5	Alias of XBB.1.22.1.5, S:478R, Indonesia, from pango-designation issue #1965
 FY.6	Alias of XBB.1.22.1.6, T2935C, ORF1a:A591V, France
-FY.7	Alias of XBB.1.22.1.7, S:G769A, S:D1168E, from pango-designation issue #257
+FY.7	Alias of XBB.1.22.1.7, S:G769A, S:D1168E, from sars-cov-2-variants/lineage-proposals#257
 XBB.1.22.2	Defined by ORF1a:L3829F, C15237T
 HU.1	Alias of XBB.1.22.2.1, S:K529N, France, from pango-designation issue #2136
 HU.1.1	Alias of XBB.1.22.2.1.1, S:E471Q, S:Y28H, France/USA，from pango-designation issue #2136
-HU.2	Alias of XBB.1.22.2.2, S:T76I, ORF1a:R24H, ORF1b:A1428V, Australia/New Zealand from pango-designation issue #364
+HU.2	Alias of XBB.1.22.2.2, S:T76I, ORF1a:R24H, ORF1b:A1428V, Australia/New Zealand from sars-cov-2-variants/lineage-proposals#364
 XBB.1.22.3	Defined by ORF1a:P3504L, ORF1b:H1838N, Japan
 XBB.1.23	Defined by E:S68F, on 28297C branch, South East Asia
 XBB.1.24	Defined by S:F486P, on T13704C branch, South East Asia from pango-designation issue #1654
@@ -3166,7 +3166,7 @@ FW.3	Alias of XBB.1.28.1.3, ORF1a:D2627N
 XBB.1.29	Defined by ORF1a:L3829F, S:A292S, Europe
 XBB.1.30	Defined by ORF1b:K2557R, South East Asia
 XBB.1.31	Defined by S:453F and S:478R, Indonesia/Singapore from pango-designation issue #1837
-XBB.1.31.1	S:E554K, Indonesia from pango-designation issue #141
+XBB.1.31.1	S:E554K, Indonesia from sars-cov-2-variants/lineage-proposals#141
 XBB.1.31.2	ORF1a:A1049V, Indonesia
 XBB.1.32	Defined by ORF1a:E148D, Philippines from pango-designation issue #1827
 XBB.1.32.1	S:Y453F, ORF1a:L642F, ORF1b:L2497I, Philippines/Thailand, from pango-designation issue #1908
@@ -3174,7 +3174,7 @@ XBB.1.33	Defined by S:A376T, found mainly in Italy, from pango-designation issue
 XBB.1.34	S:486P,S:681R, N:A50V, Uganda/Sudan, from pango-designation issue #1621
 XBB.1.34.1	S:E554K, ORF1b:P970L
 XBB.1.34.2	S:K182I, ORF8:C90F, ORF1a:G989C
-HB.1	Alias of XBB.1.34.2.1, S:F456L (22928C), USA/China/Canada, from pango-designation issue #217
+HB.1	Alias of XBB.1.34.2.1, S:F456L (22928C), USA/China/Canada, from sars-cov-2-variants/lineage-proposals#217
 XBB.1.35	ORF1a:V89A, Indonesia
 XBB.1.36	Defined by S:S490P, found mainly in Malaysia, Indonesia and Singapore, from pango-designation issue #1781
 XBB.1.37	Defined by A5371G, Indonesia/Russia from pango-designation issue #1929
@@ -3184,13 +3184,13 @@ XBB.1.38.1	S:T883I, Russia
 XBB.1.39	ORF1a:V2866M, Singapore/Malaysia
 XBB.1.40	S:Y453F, ORF1a:G519S, ORF1a:L2609F, ORF3a:P104S, Malaysia
 XBB.1.41	S:L335S, S:R403K, S:486P, possibly common in Central/West Africa, from pango-designation issue #1997
-XBB.1.41.1	S:478R, France from pango-designation issue #150
+XBB.1.41.1	S:478R, France from sars-cov-2-variants/lineage-proposals#150
 JC.1	Alias of XBB.1.41.1.1, S:K77R, Japan/Hawaii
-XBB.1.41.2	S:S494P, USA, from pango-designation issue #389
+XBB.1.41.2	S:S494P, USA, from sars-cov-2-variants/lineage-proposals#389
 XBB.1.42	S:486P, S:Q613H, on ORF1a:T4175I branch with XBB.1.9, Indonesia/Malaysia/China，from pango-designation issue #1954
-XBB.1.42.1	S:478R from pango-designation issue #198
+XBB.1.42.1	S:478R from sars-cov-2-variants/lineage-proposals#198
 XBB.1.42.2	C6040T, G9049A
-HL.1	Alias of XBB.1.42.2.1, S:E583D from pango-designation issue #352
+HL.1	Alias of XBB.1.42.2.1, S:E583D from sars-cov-2-variants/lineage-proposals#352
 HL.2	Alias of XBB.1.42.2.2, S:S929N, China
 XBB.1.43	G11071A, Indonesia, from pango-designation issue #2015
 XBB.1.43.1	S:486P, ORF1a:A2621V, A20713C, from pango-designation issue #2015
@@ -3202,7 +3202,7 @@ XBB.1.46	ORF1a:C1114F, Singapore/Malaysia
 XBB.1.47	ORF1a:T1761I, ORF1a:C2180Y, ORF1a:I2854V, Philippines/Singapore/Japan
 XBB.1.47.1	S:486P, S:A260V, S:V1122G, Japan/USA/Australia/Germany
 XBB.1.48	S:L455F, S:F456L (22928C), C2509T, Pakistan, from pango-designation issue #1681
-XBB.1.49	S:346S, S:486P, on C16648A, A27965G, pre ORF8:8* branch with XBB.1.33, Somalia from pango-designation issue #208
+XBB.1.49	S:346S, S:486P, on C16648A, A27965G, pre ORF8:8* branch with XBB.1.33, Somalia from sars-cov-2-variants/lineage-proposals#208
 XBB.2	Defined by S:D253G, from pango-designation issue #1173
 XBB.2.1	Defined by S:N764R (C23853G), two step mutation on top of C23854A (S:N764K defining of all Omicrons)
 XBB.2.2	Defined by S:Q613H
@@ -3210,14 +3210,14 @@ XBB.2.3	Defined by S:P521S and S:S486P, India/Indonesia/Singapore/USA，from pan
 XBB.2.3.1	S:D80Y, England/Sweden/India, from pango-designation issue #1775
 XBB.2.3.2	S:G184V, ORF1a:R2159W, India, from pango-designation issue #1776
 HH.1	Alias of XBB.2.3.2.1, ORF1a:T2977I, T20697C
-HH.1.1	Alias of XBB.2.3.2.1.1, S:G181A from pango-designation issue #183
+HH.1.1	Alias of XBB.2.3.2.1.1, S:G181A from sars-cov-2-variants/lineage-proposals#183
 HH.2	Alias of XBB.2.3.2.2, ORF1a:D48Y
 XBB.2.3.3	S:182N, India/USA from pango-designation issue #1810
 GJ.1	Alias of XBB.2.3.3.1, found mainly in China and USA, from pango-designation issue #2005
-GJ.1.1	Alias of XBB.2.3.3.1.1, S:A222V, N:R319H, ORF1a:V1915I from pango-designation issue #109
+GJ.1.1	Alias of XBB.2.3.3.1.1, S:A222V, N:R319H, ORF1a:V1915I from sars-cov-2-variants/lineage-proposals#109
 GJ.1.2	Alias of XBB.2.3.3.1.2, ORF1b:V1110I, from pango-designation issue #2059
-GJ.1.2.1	Alias of XBB.2.3.3.1.2.1, S:N450D, Singapore/Thailand/South Korea/USA/Spain from pango-designation issue #446
-JE.1	Alias of XBB.2.3.3.1.2.1.1, S:478R, Singapore/SouthKorea/USA from pango-designation issue #597
+GJ.1.2.1	Alias of XBB.2.3.3.1.2.1, S:N450D, Singapore/Thailand/South Korea/USA/Spain from sars-cov-2-variants/lineage-proposals#446
+JE.1	Alias of XBB.2.3.3.1.2.1.1, S:478R, Singapore/SouthKorea/USA from sars-cov-2-variants/lineage-proposals#597
 GJ.1.2.2	Alias of XBB.2.3.3.1.2.2, S:478R, Europe/USA/Australia
 GJ.1.2.3	Alias of XBB.2.3.3.1.2.3, S:T76I, Japan
 GJ.1.2.4	Alias of XBB.2.3.3.1.2.4, S:S255F, on ORF1a:H919Y branch, Japan/USA/South Korea
@@ -3232,26 +3232,26 @@ XBB.2.3.6	N:T166I, mainly Singapore
 GM.1	Alias of XBB.2.3.6.1, S:P621S, Singapore
 GM.2	Alias of XBB.2.3.6.2, S:G181R, Singapore
 GM.3	Alias of XBB.2.3.6.3, ORF1a:R4017K, Singapore
-GM.3.1	Alias of XBB.2.3.6.3.1, S:N388K, Japan from pango-designation issue #450
+GM.3.1	Alias of XBB.2.3.6.3.1, S:N388K, Japan from sars-cov-2-variants/lineage-proposals#450
 XBB.2.3.7	ORF1a:T4087I
 XBB.2.3.8	C2013T, T16389C, S:478R, Singapore/SouthKorea from pango-designation issue #1866
 HG.1	Alias of XBB.2.3.8.1, S:S98F, South Korea
-HG.2	Alias of XBB.2.3.8.2, S:T259I, South Korea/USA from pango-designation issue #652
+HG.2	Alias of XBB.2.3.8.2, S:T259I, South Korea/USA from sars-cov-2-variants/lineage-proposals#652
 XBB.2.3.9	S:S98F, C18744T, C19200T, India
 XBB.2.3.10	T5947C, India
 GE.1	Alias of XBB.2.3.10.1, S:K478R, from pango-designation issue #1866
-GE.1.1	Alias of XBB.2.3.10.1.1, S:E554K, Bangladesh/Singapore from pango-designation issue #367
-GE.1.2	Alias of XBB.2.3.10.1.2, S:N148T, Kenya from pango-designation issue #200
-GE.1.3	Alias of XBB.2.3.10.1.3, S:T732I from pango-designation issue #102
+GE.1.1	Alias of XBB.2.3.10.1.1, S:E554K, Bangladesh/Singapore from sars-cov-2-variants/lineage-proposals#367
+GE.1.2	Alias of XBB.2.3.10.1.2, S:N148T, Kenya from sars-cov-2-variants/lineage-proposals#200
+GE.1.3	Alias of XBB.2.3.10.1.3, S:T732I from sars-cov-2-variants/lineage-proposals#102
 XBB.2.3.11	S:K478R, India, from pango-designation issue #1866
 GS.1	Alias of XBB.2.3.11.1, S:213D, C4582T, C25075T, Australia, from pango-designation issue #2023
-GS.2	Alias of XBB.2.3.11.2, S:T470N, Singapore/Brunei from pango-designation issue #93
-GS.3	Alias of XBB.2.3.11.3, S:R190S, USA/UK from pango-designation issue #669
-GS.4	Alias of XBB.2.3.11.4, M:A104V, ORF1a:A181T, France from pango-designation issue #668
-GS.4.1	Alias of XBB.2.3.11.4.1, S:N185D, ORF3a:G172C, France from pango-designation issue #668
+GS.2	Alias of XBB.2.3.11.2, S:T470N, Singapore/Brunei from sars-cov-2-variants/lineage-proposals#93
+GS.3	Alias of XBB.2.3.11.3, S:R190S, USA/UK from sars-cov-2-variants/lineage-proposals#669
+GS.4	Alias of XBB.2.3.11.4, M:A104V, ORF1a:A181T, France from sars-cov-2-variants/lineage-proposals#668
+GS.4.1	Alias of XBB.2.3.11.4.1, S:N185D, ORF3a:G172C, France from sars-cov-2-variants/lineage-proposals#668
 XBB.2.3.12	S:S494P, from pango-designation issue #2029
 XBB.2.3.13	ORF1a:T1822I, Spain
-JA.1	Alias of XBB.2.3.13.1, S:F456L (T22928C), Spain/England/France, from pango-designation issue #240
+JA.1	Alias of XBB.2.3.13.1, S:F456L (T22928C), Spain/England/France, from sars-cov-2-variants/lineage-proposals#240
 XBB.2.3.14	ORF1a:Q998H
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany，from pango-designation issue #1603 and #1518
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
@@ -3299,8 +3299,8 @@ XBC.1.6.1	ORF8:P36L, Australia
 GT.1	Alias of XBC.1.6.1.1, S:I105V, C28333T, Australia
 XBC.1.6.2	ORF1a:D827N, Australia
 XBC.1.6.3	N:A173V, Australia
-HW.1	Alias of XBC.1.6.3.1, ORF1a:T1597I, ORF1a:A2123V, Australia from pango-designation issue #71
-HW.1.1	Alias of XBC.1.6.3.1.1, S:N460H, T16242A, C22120T, USA/Ireland from pango-designation issue #452
+HW.1	Alias of XBC.1.6.3.1, ORF1a:T1597I, ORF1a:A2123V, Australia from sars-cov-2-variants/lineage-proposals#71
+HW.1.1	Alias of XBC.1.6.3.1.1, S:N460H, T16242A, C22120T, USA/Ireland from sars-cov-2-variants/lineage-proposals#452
 XBC.1.6.4	ORF1a:V1117I, T20286C, Australia
 XBC.1.7	S:478R, S:444T, Philippines/Australia/Hong Kong
 XBC.2	Mostly Philippines, defined by S:K97R
@@ -3354,7 +3354,7 @@ XCC	Recombinant lineage of CH.1.1.1 and XBB.1.9.1, predominantly Pakistan, Austr
 XCD	Recombinant lineage of XBB.1* and BQ.1.1.25*, with S:R214H, S:478I, Indonesia, from pango-designation issue #2042
 XCE	Recombinant lineage of BQ.1* and FY.1 (XBB.1.22.1.1), Indonesia, South Korea, France, from pango-designation issue #123
 XCF	Recombinant lineage of XBB* and FE.1 (XBB.1.18.1.1), possibly South America, from pango-designation issue #2
-XCF.1	S:F157L, USA, from pango-designation issue #274
+XCF.1	S:F157L, USA, from sars-cov-2-variants/lineage-proposals#274
 XCF.2	S:S929I, Canada
 XCG	Recombinant lineage of BA.5.2* and XBB.1, Mexico
 XCH	Recombinant lineage of GK.1.3 and XBB.1.9 (or XBB.1.16), GK.1.3 Spike with ORF9b:I5T from donor, from pango-designation issue #2173
@@ -3362,7 +3362,7 @@ XCH.1	S:T573I, from pango-designation issue #2173
 XCJ	Recombinant lineage of GM.2 with a little FP.1 (XBB.1.11.1.1) sandwich inserted in ORF1ab, from pango-designation issue #609
 XCK	Recombinant lineage of FL.1.5.1 (5' up to and including S:701) and BQ.1.2.2, from pango-designation issue #2215
 XCL	Recombinant lineage of XBB (possibly XBB.1.5.68 or FY.4) from 5' up to 12468-15754, GK.2.1 onwards, Europe, from pango-designation issue #2227
-XCM	Recombinant lineage of XBB.2.3 and DV.7.1 (breakpoint between 22017-22031), Spain/Italy, from pango-designation issue #674
+XCM	Recombinant lineage of XBB.2.3 and DV.7.1 (breakpoint between 22017-22031), Spain/Italy, from sars-cov-2-variants/lineage-proposals#674
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
