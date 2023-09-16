@@ -955,7 +955,7 @@ BN.1.2.2	Alias of B.1.1.529.2.75.5.1.2.2, C29546T
 BN.1.2.3	Alias of B.1.1.529.2.75.5.1.2.3, C1471T
 FR.1	Alias of B.1.1.529.2.75.5.1.2.3.1, S:K187E, N:T366I, Japan/Taiwan/USA, from pango-designation issue #1814
 FR.1.1	Alias of B.1.1.529.2.75.5.1.2.3.1.1, S:P82H, ORF1a:L293F, China From pango-designation issue #2006
-FR.1.2	Alias of B.1.1.529.2.75.5.1.2.3.1.2, S:R190M, China from pango-designation issue #2028
+FR.1.2	Alias of B.1.1.529.2.75.5.1.2.3.1.2, S:R190M, China From pango-designation issue #2028
 FR.1.3	Alias of B.1.1.529.2.75.5.1.2.3.1.3, ORF1a:A206V, ORF1b:A517V, N:G34E, China, from pango-designation issue #2039
 FR.1.4	Alias of B.1.1.529.2.75.5.1.2.3.1.4, A3715G, C15960T, on shared T2372C, C7318T, ORF1a:L293F branch with FR.1.1, China, from sars-cov-2-variants/lineage-proposals#256
 FR.2	Alias of B.1.1.529.2.75.5.1.2.3.2, ORF1a:Y1920H, ORF1b:I1799S, South Korea
@@ -3251,7 +3251,7 @@ GS.4	Alias of XBB.2.3.11.4, M:A104V, ORF1a:A181T, France From sars-cov-2-variant
 GS.4.1	Alias of XBB.2.3.11.4.1, S:N185D, ORF3a:G172C, France From sars-cov-2-variants/lineage-proposals#668
 XBB.2.3.12	S:S494P, from pango-designation issue #2029
 XBB.2.3.13	ORF1a:T1822I, Spain
-JA.1	Alias of XBB.2.3.13.1, S:F456L (T22928C), Spain/England/France, From sars-cov-2-variants/lineage-proposals#240
+JA.1	Alias of XBB.2.3.13.1, S:F456L (T22928C), Spain/England/France, from sars-cov-2-variants/lineage-proposals#240
 XBB.2.3.14	ORF1a:Q998H
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany，from pango-designation issue #1603 and #1518
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
