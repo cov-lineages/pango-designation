@@ -346,7 +346,7 @@ B.1.1.255	UK lineage
 B.1.1.256	UK lineage
 B.1.1.258	USA (TX)
 B.1.1.261	Swedish/ Danish/ Faroe Islands lineage
-B.1.1.257	Mostly UK lineage with other northern european plUSA one singapore
+B.1.1.257	Mostly UK lineage with other northern european plus one singapore
 B.1.1.262	UK lineage
 B.1.1.263	UAE lineage (~95%)
 B.1.1.265	USA lineage
@@ -3451,7 +3451,7 @@ XCM	Recombinant lineage of XBB.2.3 and DV.7.1 (breakpoint between 22017-22031), 
 *B.1.3.2	Withdrawn: Argentinian lineage
 *B.1.3.3	Withdrawn: Israel lineage
 *B.1.3.4	Withdrawn: Israel/ UK lineage
-*B.1.5	Withdrawn: Reassigned to B.1 and additional sublineages as this lineage has lost monophyletic statUSA and split into multiple parts of the B.1 tree. Previously had a Spanish base, European lineage/ lots of Spanish sequences towards the basal end of the subtree and exports around the globe.
+*B.1.5	Withdrawn: Reassigned to B.1 and additional sublineages as this lineage has lost monophyletic status and split into multiple parts of the B.1 tree. Previously had a Spanish base, European lineage/ lots of Spanish sequences towards the basal end of the subtree and exports around the globe.
 *B.1.5.2	Withdrawn: Reassigned B.1.190, Netherlands lineage
 *B.1.5.5	Withdrawn: Reassigned B.1.225
 *B.1.5.6	Withdrawn: UK lineage reassigned B.1.223
