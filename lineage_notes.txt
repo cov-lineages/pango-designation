@@ -81,7 +81,7 @@ C.36.3	Alias of B.1.1.1.36.3, Europe and USA lineage, from pango-designation iss
 C.36.3.1	Alias of B.1.1.1.36.3.1, Europe and USA lineage, from pango-designation issue #80
 C.37	Alias of B.1.1.1.37, lineage in Peru, Chile, USA and Germany, from pango-designation issue #52
 C.37.1	Alias of B.1.1.1.37.1, lineage outside of South America, from pango-designation issue #158
-C.38	Alias of B.1.1.1.38, lineage in multiple countries, from pango-designation issue #150, formally B.1.1.527
+C.38	Alias of B.1.1.1.38, lineage in multiple countries, formally B.1.1.527, from pango-designation issue #150
 C.39	Alias of B.1.1.1.39, Chile and Peru lineage, From pango-designation issue #178
 C.40	Alias of B.1.1.1.40, Peru lineage, from pango-designation issue #203
 B.1.1.3	England Lineage
@@ -593,7 +593,7 @@ B.1.1.522	Belgium lineage
 B.1.1.523	Lineage in multiple countries, predominantly Russia, from pango-designation issue #69
 B.1.1.524	Predominantly Russia lineage, from pango-designation issue #85
 B.1.1.525	Predominantly Russia lineage, from pango-designation issue #85
-B.1.1.526	India lineage, from pango-designation issue #91, previously designated B.1.624
+B.1.1.526	India lineage, previously designated B.1.624, from pango-designation issue #91
 B.1.1.528	South Africa lineage, from pango-designation issue #177
 B.1.1.529	South Africa and Botswana lineage, from pango-designation issue #343
 BA.1	Alias of B.1.1.529.1, from pango-designation issue #361
@@ -814,10 +814,10 @@ BA.2.73	Alias of B.1.1.529.2.73, Puerto Rico and USA lineage, from pango-designa
 BA.2.74	Alias of B.1.1.529.2.74, mainly found in India, from pango-designation issue #775
 BA.2.75	Alias of B.1.1.529.2.75, mainly found in India, from pango-designation issue #773
 BA.2.75.1	Alias of B.1.1.529.2.75.1, mainly found in India, from pango-designation issue #856
-BL.1	Alias of B.1.1.529.2.75.1.1, mainly found in India, from pango-designation issue #944, S:R346T on polytomy
-BL.1.1	Alias of B.1.1.529.2.75.1.1.1, from pango-designation issue #1079, defined by S:G614S
-BL.1.2	Alias of B.1.1.529.2.75.1.1.2, mainly Austria, from pango-designation issue #1066, defined by S:G261D, S:V308L
-BL.1.3	Alias of B.1.1.529.2.75.1.1.3, Switzerland, Israel, Canada, from pango-designation issue #1124, defined by S:F490L
+BL.1	Alias of B.1.1.529.2.75.1.1, mainly found in India, S:R346T on polytomy, from pango-designation issue #944
+BL.1.1	Alias of B.1.1.529.2.75.1.1.1, defined by S:G614S, from pango-designation issue #1079
+BL.1.2	Alias of B.1.1.529.2.75.1.1.2, mainly Austria, defined by S:G261D, S:V308L, from pango-designation issue #1066
+BL.1.3	Alias of B.1.1.529.2.75.1.1.3, Switzerland, Israel, Canada, defined by S:F490L, from pango-designation issue #1124
 BL.1.4	Alias of B.1.1.529.2.75.1.1.4, India/England/New Zealand, defined by S:F490V
 BL.1.5	Alias of B.1.1.529.2.75.1.1.5, Japan, S:A475V
 BL.2	Alias of B.1.1.529.2.75.1.2, mainly found in India, defined by S:R346T on A26612T branch
@@ -1043,7 +1043,7 @@ BA.4.1.6	Alias of B.1.1.529.4.1.6, USA lineage
 BA.4.1.7	Alias of B.1.1.529.4.1.7, Australia lineage
 BA.4.1.8	Alias of B.1.1.529.4.1.8, mainly found in England, USA, South Africa and Mexico, from pango-designation issue #800
 BA.4.1.9	Alias of B.1.1.529.4.1.9, mainly found in Zambia, USA, England and Mexico, from pango-designation issue #926
-BA.4.1.10	Alias of B.1.1.529.4.1.10, mainly found in France, from pango-designation issue #1073, defined by S:N354D, S:R346T
+BA.4.1.10	Alias of B.1.1.529.4.1.10, mainly found in France, defined by S:N354D, S:R346T, from pango-designation issue #1073
 BA.4.1.11	Alias of B.1.1.529.4.1.11 found mainly in Denmark, from pango-designation issue #1606
 CS.1	Alias of B.1.1.529.4.1.10.1, Denmark, Netherlands, England, defined by S:K444R
 BA.4.2	Alias of B.1.1.529.4.2, USA lineage
@@ -1262,7 +1262,7 @@ CR.1.3	Alias of B.1.1.529.5.2.18.1.3, found mainly in Denmark and Japan, from pa
 CR.2	Alias of B.1.1.529.5.2.18.2, England, S:Y145H
 BA.5.2.19	Alias of B.1.1.529.5.2.19, mainly Scandinavia, defined by ORF3a:T14I on ORF1b:1050N branch, from pango-designation issue #916
 BA.5.2.20	Alias of B.1.1.529.5.2.20, mainly Indonesia, defined by C23707T on ORF1b:1050N branch to reduce unspecified BA.5.2
-BV.1	Alias of B.1.1.529.5.2.20.1, mainly found in Denmark, from pango-designation issue #1019, formerly BA.5.2.17
+BV.1	Alias of B.1.1.529.5.2.20.1, mainly found in Denmark, formerly BA.5.2.17, from pango-designation issue #1019
 BV.2	Alias of B.1.1.529.5.2.20.2, defined by S:K444N, From pango-designation issue #1122
 BA.5.2.21	Alias of B.1.1.529.5.2.21, mainly Indonesia, defined by C5284T on ORF1b:1050N branch to reduce unspecified BA.5.2
 CN.1	Alias of B.1.1.529.5.2.21.1, S:N450D, from pango-designation issue #1108
@@ -1580,7 +1580,7 @@ BA.5.5.3	Alias of B.1.1.529.5.5.3, USA lineage, from pango-designation issue #10
 BA.5.6	Alias of B.1.1.529.5.6, USA lineage, From pango-designation issue #738
 BA.5.6.1	Alias of B.1.1.529.5.6.1, Peru lineage
 BA.5.6.2	Alias of B.1.1.529.5.6.2, mainly found in USA, Belgium and Mexico, from pango-designation issue #903
-BW.1	Alias of B.1.1.529.5.6.2.1, Mexico lineage, from pango-designation issue #1059, defined by S:460K
+BW.1	Alias of B.1.1.529.5.6.2.1, Mexico lineage, defined by S:460K, from pango-designation issue #1059
 BW.1.1	Alias of B.1.1.529.5.6.2.1.1, Mexico lineage, defined by S:V486A, from pango-designation issue #1341
 BW.1.1.1	Alias of B.1.1.529.5.6.2.1.1.1, Mexico, ORF1a:L864F
 BW.1.1.2	Alias of B.1.1.529.5.6.2.1.1.2, Mexico, ORF1b:P1101S
@@ -3436,7 +3436,7 @@ XCM	Recombinant lineage of XBB.2.3 and DV.7.1 (breakpoint between 22017-22031), 
 *B.1.1.313	Withdrawn: English lineage
 *B.1.1.314	Withdrawn: Brazilian lineage, previously part of B.1.1.33
 *B.1.1.439	Withdrawn: Wales lineage, reassigned to B.1.1.29
-*B.1.1.527	Withdrawn: Lineage in multiple countries, from pango-designation issue #150, reassigned to C.38
+*B.1.1.527	Withdrawn: Lineage in multiple countries, reassigned to C.38, from pango-designation issue #150
 *BA.1.11	Withdrawn: Does not have a reliable defining mutation
 *BA.2.3.3	Withdrawn: Does not have a reliable defining mutation, from pango-designation issue #524
 *BA.2.36.1	Withdrawn: Redesignated as BA.2.82
