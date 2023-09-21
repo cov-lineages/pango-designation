@@ -2961,6 +2961,7 @@ FL.31.1	Alias of XBB.1.9.1.31.1, S:478R, S:D80H, S:Q613H, Morocco/Europe/US/Cana
 FL.32	Alias of XBB.1.9.1.32, S:E554Q, S:V6L
 FL.32.1	Alias of XBB.1.9.1.32.1, S:F456L, USA
 FL.33	Alias of XBB.1.9.1.33, ORF1b:A1377V
+FL.33.1	Alias of XBB.1.9.1.33.1, S:478R, Georgia
 XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore，from #1602
 EG.1	Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 EG.1.1	Alias of XBB.1.9.2.1.1, S:V70F and ORF1a:T403I, Luxembourg/Belgium/France
