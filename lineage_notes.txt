@@ -2940,6 +2940,7 @@ FL.19	Alias of XBB.1.9.1.19, T2377C, C17502T, T24505G, South Korea
 FL.19.1	Alias of XBB.1.9.1.19.1, S:F456L (22928C), ORF1b:A1877V, Spain/Italy/Puerto Rico, from #2138
 FL.20	Alias of XBB.1.9.1.20, S:F456L (22928C), S:Q52H, Spain, from #2072
 FL.20.1	Alias of XBB.1.9.1.20.1, S:L455W, Northern Ireland/England, from #2145
+FL.20.2	Alias of XBB.1.9.1.20.2, S:478R
 FL.21	Alias of XBB.1.9.1.21, A10564T
 FL.21.1	Alias of XBB.1.9.1.21.1, S:D1084N, South Korea From #2143
 FL.21.2	Alias of XBB.1.9.1.21.2, ORF1a:V1019F, ORF1a:I2873M, China From sars-cov-2-variants/lineage-proposals#187
