@@ -2920,6 +2920,7 @@ FL.9	Alias of XBB.1.9.1.9, C23707T, T29691C, England
 FL.10	Alias of XBB.1.9.1.10, ORF1a:C657Y
 FL.10.1	Alias of XBB.1.9.1.10.1, S:E554K, C4234T, 220bp deletion in ORF8, South Korea, from #2040
 FL.10.2	Alias of XBB.1.9.1.10.2, S:K356T, S:T523N, Canada/USA, from #2220
+FL.10.3	Alias of XBB.1.9.1.10.3, S:G181R
 FL.11	Alias of XBB.1.9.1.11, ORF1a:L349F, France/French Guiana, from #1947
 FL.12	Alias of XBB.1.9.1.12, ORF1a:C2210F
 FL.13	Alias of XBB.1.9.1.13, G4354A
