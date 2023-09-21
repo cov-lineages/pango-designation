@@ -3368,6 +3368,7 @@ XCJ	Recombinant lineage of GM.2 with a little FP.1 (XBB.1.11.1.1) sandwich inser
 XCK	Recombinant lineage of FL.1.5.1 (5' up to and including S:701) and BQ.1.2.2, from #2215
 XCL	Recombinant lineage of XBB (possibly XBB.1.5.68 or FY.4) from 5' up to 12468-15754, GK.2.1 onwards, Europe, from #2227
 XCM	Recombinant lineage of XBB.2.3 and DV.7.1 (breakpoint between 22017-22031), Spain/Italy, from sars-cov-2-variants/lineage-proposals#674
+XCN	Recombinant lineage of FR.1.1 and EG.5.1.1 (breakpoint between 22630-22663), China (Anhui/Shanghai), from sars-cov-2-variants/lineage-proposals#842
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
