@@ -2958,6 +2958,7 @@ FL.30	Alias of XBB.1.9.1.30, S:484K, Greece, from #2206
 FL.31	Alias of XBB.1.9.1.31, ORF1b:M657I
 FL.31.1	Alias of XBB.1.9.1.31.1, S:478R, S:D80H, S:Q613H, Morocco/Europe/US/Canada, from sars-cov-2-variants/lineage-proposals#836
 FL.32	Alias of XBB.1.9.1.32, S:E554Q, S:V6L
+FL.32.1	Alias of XBB.1.9.1.32.1, S:F456L, USA
 XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore，from #1602
 EG.1	Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 EG.1.1	Alias of XBB.1.9.2.1.1, S:V70F and ORF1a:T403I, Luxembourg/Belgium/France
