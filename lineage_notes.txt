@@ -3096,7 +3096,8 @@ HF.1.1	XBB.1.16.13.1.1, S:H1101Y, on N:A35T branch, South Korea/USA/Canada From 
 HF.1.2	XBB.1.16.13.1.2, S:A688V, on ORF1a:P1158S branch, USA
 XBB.1.16.14	S:L452Q, after A11782G, India/France/Canada, from sars-cov-2-variants/lineage-proposals#329
 XBB.1.16.15	S:K147N, S:P521S, T10756C, T14067C, on C27513T branch, from #2092
-JM.1	Alias of XBB.1.16.15, S:Q52H, England/Wales
+JM.1	Alias of XBB.1.16.15.1, S:Q52H, England/Wales
+JM.2	Alias of XBB.1.16.15.2, S:R78S, Europe/North America
 XBB.1.16.16	S:Q613H, S:S412N, India-GJ/USA/Pakistan from sars-cov-2-variants/lineage-proposals#54
 XBB.1.16.17	S:E554K, mainly in NZ, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/354
 XBB.1.16.18	ORF7a:T39I From sars-cov-2-variants/lineage-proposals#276
