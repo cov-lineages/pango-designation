@@ -11,4 +11,9 @@ repos:
         entry: python tests/test_duplicate_designations.py
         language: python
         files: lineages.csv
+    -   id: duplicate-lineage-in-notes
+        name: Test lineage_notes.txt for duplicate first column entries
+        entry: python tests/test_duplicate_lineage_in_notes.py
+        language: python
+        files: lineage_notes.txt
 
