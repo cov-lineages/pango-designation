@@ -2914,7 +2914,7 @@ FL.4.7	Alias of XBB.1.9.1.4.7, S:L452R, Singapore, from sars-cov-2-variants/line
 FL.4.8	Alias of XBB.1.9.1.4.8, S:478R, Indonesia, from #2024
 FL.4.9	Alias of XBB.1.9.1.4.9, S:S254P, ORF3a:D173G, from #2081
 FL.4.10	Alias of XBB.1.9.1.4.10, S:V1129I, China, from #2087
-FL.4.11	Alias of XBB.1.9.1.4.11, S:D1259Y, N:T334I, China/Japan
+FL.4.11	Alias of XBB.1.9.1.4.11, S:D1259Y, N:T334I, China/Japan，from #2074
 FL.5	Alias of XBB.1.9.1.5, N:T362I
 FL.5.1	Alias of XBB.1.9.1.5.1, S:M177T, from #2041
 FL.6	Alias of XBB.1.9.1.6, ORF1a:I849V, Bahrain/Egypt/Oman/Austria
@@ -2999,7 +2999,7 @@ HK.1	Alias of XBB.1.9.2.5.1.1.1, S:G257V, China from https://github.com/sars-cov
 HK.2	Alias of XBB.1.9.2.5.1.1.2, S:Q14H, China From sars-cov-2-variants/lineage-proposals#432
 HK.3	Alias of XBB.1.9.2.5.1.1.3, S:L455F, China from https://github.com/sars-cov-2-variants/lineage-proposals/issues/414
 HK.3.1	Alias of XBB.1.9.2.5.1.1.3.1, S:F157L, China, from #2193
-HK.3.2	Alias of XBB.1.9.2.5.1.1.3.2, S:Q14K, China
+HK.3.2	Alias of XBB.1.9.2.5.1.1.3.2, S:Q14K, China，from sars-cov-2-variants/lineage-proposals#730
 HK.3.3	Alias of XBB.1.9.2.5.1.1.3.3, S:S256L, N:P364L, China/Singapore
 HK.4	Alias of XBB.1.9.2.5.1.1.4, S:T883I, China
 HK.5	Alias of XBB.1.9.2.5.1.1.5, S:Q677H, China
@@ -3243,7 +3243,7 @@ JE.1	Alias of XBB.2.3.3.1.2.1.1, S:478R, Singapore/SouthKorea/US From sars-cov-2
 GJ.1.2.2	Alias of XBB.2.3.3.1.2.2, S:478R, Europe/US/Australia
 GJ.1.2.3	Alias of XBB.2.3.3.1.2.3, S:T76I, Japan
 GJ.1.2.4	Alias of XBB.2.3.3.1.2.4, S:S255F, on ORF1a:H919Y branch, Japan/USA/South Korea
-GJ.1.2.5	Alias of XBB.2.3.3.1.2.5, S:I834V, Singapore/South Korea/USA
+GJ.1.2.5	Alias of XBB.2.3.3.1.2.5, S:I834V, Singapore/South Korea/USA，from https://github.com/sars-cov-2-variants/lineage-proposals/issues/628
 GJ.2	Alias of XBB.2.3.3.2, S:I1114S, Europe
 GJ.3	Alias of XBB.2.3.3.3, ORF1a:P971S, ORF1b:V2371L
 GJ.4	Alias of XBB.2.3.3.4, S:M153I，from #1902
