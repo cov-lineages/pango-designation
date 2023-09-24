@@ -1,19 +1,18 @@
 repos:
--   repo: local
+  - repo: local
     hooks:
-    -   id: test-alias-json
+      - id: test-alias-json
         name: Test alias_key.json
         entry: python tests/test_alias_json.py
         language: python
         files: pango_designation/alias_key.json
-    -   id: lineages-csv-duplicates
+      - id: lineages-csv-duplicates
         name: Test lineages.csv for duplicates
         entry: python tests/test_duplicate_designations.py
         language: python
         files: lineages.csv
-    -   id: duplicate-lineage-in-notes
+      - id: duplicate-lineage-in-notes
         name: Test lineage_notes.txt for duplicate first column entries
         entry: python tests/test_duplicate_lineage_in_notes.py
         language: python
         files: lineage_notes.txt
-

@@ -3,7 +3,7 @@ name: JSON check
 on:
   push:
     paths:
-      - '**.json'
+      - "**.json"
   pull_request:
   workflow_dispatch:
 
@@ -11,8 +11,8 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: json-syntax-check
-        uses: limitusus/json-syntax-check@v1
+        uses: limitusus/json-syntax-check@v2
         with:
           pattern: "\\.json$"
