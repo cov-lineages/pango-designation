@@ -2,6 +2,8 @@ name: Check for duplicates
 
 on:
   push:
+    paths:
+      - lineages.csv
   pull_request:
   workflow_dispatch:
 

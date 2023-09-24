@@ -2,6 +2,8 @@ name: Analyze lineage notes
 
 on:
   push:
+    paths:
+      - lineage_notes.txt
   pull_request:
   workflow_dispatch:
 
