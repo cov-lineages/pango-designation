@@ -1,0 +1,8 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: test-alias-json
+        name: Test alias_key.json
+        entry: python tests/test_alias_json.py
+        language: python
+        files: pango_designation/alias_key.json
