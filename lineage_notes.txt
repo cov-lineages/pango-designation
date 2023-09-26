@@ -3023,6 +3023,7 @@ HV.1	Alias of XBB.1.9.2.5.1.6.1, S:L452R, USA
 EG.5.1.7	Alias of XBB.1.9.2.5.1.7, S:K278N
 EG.5.1.8	Alias of XBB.1.9.2.5.1.8, S:L455F, China (most of it with C12100G)
 EG.5.1.9	Alias of XBB.1.9.2.5.1.9, S:L176F (on ORF1a:D982G branch)
+EG.5.1.10	Alias of XBB.1.9.2.5.1.10, ORF1a:I3758V, Portugal/Spain
 EG.5.2	Alias of XBB.1.9.2.5.2, N:L161F
 EG.5.2.1	Alias of XBB.1.9.2.5.2.1, S:S704L, USA From sars-cov-2-variants/lineage-proposals#189
 EG.5.2.2	Alias of XBB.1.9.2.5.2.2, ORF1b:T239I, China
@@ -3389,7 +3390,7 @@ XCK	Recombinant lineage of FL.1.5.1 (5' up to and including S:701) and BQ.1.2.2,
 XCL	Recombinant lineage of XBB (possibly XBB.1.5.68 or FY.4) from 5' up to 12468-15754, GK.2.1 onwards, Europe, from #2227
 XCM	Recombinant lineage of XBB.2.3 and DV.7.1 (breakpoint between 22017-22031), Spain/Italy, from sars-cov-2-variants/lineage-proposals#674
 XCN	Recombinant lineage of FR.1.1 and EG.5.1.1 (breakpoint between 22630-22663), China (Anhui/Shanghai), from sars-cov-2-variants/lineage-proposals#842
-XCP	Recombinant lineage of EG.5.1 and JD.1.1 (breakpoint between 14190-14633), France/Denmark/England, from sars-cov-2-variants/lineage-proposals#772
+XCP	Recombinant lineage of EG.5.1.10 and JD.1.1 (breakpoint between 14190-14633), France/Denmark/England, from sars-cov-2-variants/lineage-proposals#772
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
