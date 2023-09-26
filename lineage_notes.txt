@@ -2764,6 +2764,7 @@ XBB.1.5.43	C18501T, Singapore/Malaysia/Indonesia
 XBB.1.5.44	S:K356T, S:T572I, USA, from #1907
 HC.1	Alias of XBB.1.5.44.1, S:P631S, USA, from sars-cov-2-variants/lineage-proposals#106
 HC.2	Alias of XBB.1.5.44.2, S:F157L, Canada, from #2202
+HC.3	Alias of XBB.1.5.44.3, S:P793S, USA
 XBB.1.5.45	S:478R, C27425T, G28079T, India-GJ/MH, from #1792
 XBB.1.5.46	C5770T, C15279T, Germany/France
 GB.1	Alias of XBB.1.5.46.1, S:L518V, France, from #1969
@@ -2973,6 +2974,7 @@ FL.33	Alias of XBB.1.9.1.33, ORF1b:A1377V
 FL.33.1	Alias of XBB.1.9.1.33.1, S:478R, Georgia
 FL.34	Alias of XBB.1.9.1.34, S:D1118Y
 FL.35	Alias of XBB.1.9.1.35, ORF8:S103L, South Africa
+FL.36	Alias of XBB.1.9.1.36, S:76I, S:190S, S:356T, S:572I, S:899S, S:1070T, England/US/Denmark, sars-cov-2-variants/lineage-proposals#805
 XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore，from #1602
 EG.1	Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
 EG.1.1	Alias of XBB.1.9.2.1.1, S:V70F and ORF1a:T403I, Luxembourg/Belgium/France
