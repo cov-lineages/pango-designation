@@ -2765,6 +2765,7 @@ XBB.1.5.44	S:K356T, S:T572I, USA, from #1907
 HC.1	Alias of XBB.1.5.44.1, S:P631S, USA, from sars-cov-2-variants/lineage-proposals#106
 HC.2	Alias of XBB.1.5.44.2, S:F157L, Canada, from #2202
 HC.3	Alias of XBB.1.5.44.3, S:P793S, USA
+HC.4	Alias of XBB.1.5.44.4, S:D1084H, ORF1a:A1352V, UK/Canada
 XBB.1.5.45	S:478R, C27425T, G28079T, India-GJ/MH, from #1792
 XBB.1.5.46	C5770T, C15279T, Germany/France
 GB.1	Alias of XBB.1.5.46.1, S:L518V, France, from #1969
