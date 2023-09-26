@@ -851,6 +851,7 @@ CV.1	Alias of B.1.1.529.2.75.3.1.1.3.1, Ireland, S:L452R
 CV.2	Alias of B.1.1.529.2.75.3.1.1.3.2, Chile, S:486P From #1374
 BM.1.1.4	Alias of B.1.1.529.2.75.3.1.1.4, S:K356T & S:T572I, from #1438
 EP.1	Alias of B.1.1.529.2.75.3.1.1.4.1, S:L452R, Bhutan, from #1676
+EP.1.1	Alias of B.1.1.529.2.75.3.1.1.4.1.1, ORF1a:P4120S, ORF8:Q18H, Bhutan
 EP.2	Alias of B.1.1.529.2.75.3.1.1.4.2, S:S1147L, N:G212S, Belgium/Europe
 BM.1.1.5	Alias of B.1.1.529.2.75.3.1.1.5, England/Belgium/France, S:N185S & S:L452R
 BM.2	Alias of B.1.1.529.2.75.3.2, mainly found in India (Telangana), defined by S:346T
