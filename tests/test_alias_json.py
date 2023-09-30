@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 import json
+from operator import is_
 import re
 
 SKIP_VALID_ALIAS = {
@@ -66,6 +67,9 @@ def are_keys_valid(json_data):
         if 'O' in key or 'I' in key:
             print(f"Key '{key}' contains illegal characters ('O' or 'I').")
             is_valid = False
+        if 'X' in key[1:]:
+            print(f"Key '{key}' contains illegal characters ('X' is only acceptable at start)")
+            is_valid = False
     return is_valid
 
 
@@ -74,12 +78,18 @@ def are_values_valid_pango_lineages(json_data):
     
     # Regex pattern for Pango lineage
     pango_lineage_pattern = re.compile(r'^([A-Z]+)(\.[1-9]\d*\.[1-9]\d*\.[1-9]\d*)+$')
-    valid_keys = json_data.keys()
+    valid_keys: list[str] = json_data.keys()
+    # Remove keys that are not A, B, or start with X
+    valid_keys = [key for key in valid_keys if key.startswith("X") or key in {"A", "B"}]
     
     for key, value in json_data.items():
-        # Skip the check if the value is a list
-        if isinstance(value, list):
-            continue
+        # If key starts with X, it's a recombinant: need a list
+        if key.startswith("X"):
+            if isinstance(value, list):
+                continue
+            else:
+                print(f"Invalid value for recombinant key {key}: {value}. Value must be a list")
+                is_valid = False
         
         if key in SKIP_VALID_ALIAS:
             continue
