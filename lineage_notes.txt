@@ -3264,6 +3264,7 @@ GJ.1.2.4	Alias of XBB.2.3.3.1.2.4, S:S255F, on ORF1a:H919Y branch, Japan/USA/Sou
 GJ.1.2.5	Alias of XBB.2.3.3.1.2.5, S:I834V, Singapore/South Korea/USA，on ORF1b:S997P branch, from sars-cov-2-variants/lineage-proposals#628
 GJ.1.2.6	Alias of XBB.2.3.3.1.2.6, S:478R, on ORF1b:S997P branch
 GJ.1.2.7	Alias of XBB.2.3.3.1.2.7, S:478R, T6511C, on ORF1a:H919Y branch
+GJ.1.2.8	Alias of XBB.2.3.3.1.2.8, S:T747I, USA
 GJ.2	Alias of XBB.2.3.3.2, S:I1114S, Europe
 GJ.3	Alias of XBB.2.3.3.3, ORF1a:P971S, ORF1b:V2371L
 GJ.4	Alias of XBB.2.3.3.4, S:M153I，from #1902
