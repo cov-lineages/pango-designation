@@ -1,0 +1,7 @@
+/Users/corneliusromer/code/pango-designation	bash utils/designation_helper.py JN.1
+/Users/corneliusromer/code/pango-designation	bash utils/designation_helper.py JN.1
+/Users/corneliusromer/code/pango-designation	bash utils/add_to_lineages.sh JN.1
+/Users/corneliusromer/code/pango-designation	gd
+/Users/corneliusromer/code/pango-designation	ga lineage_notes.txt lineages.csv pango_designation/alias_key.json; gc
+/Users/corneliusromer/code/pango-designation	gp
+/Users/corneliusromer/code/pango-designation	less ~/.global_command_log
