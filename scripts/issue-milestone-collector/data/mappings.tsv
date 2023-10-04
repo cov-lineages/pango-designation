@@ -1,0 +1,1030 @@
+PANGO	REPO	MILESTONE	ISSUE	LABELS	STATE	REASON	UNALIASED
+A.2.5.1	cov-lineages/pango-designation	25	33	designated	CLOSED	COMPLETED	A.2.5.1
+A.2.5.3	cov-lineages/pango-designation	89	168	designated	CLOSED	COMPLETED	A.2.5.3
+A.27	cov-lineages/pango-designation	6	11	designated	CLOSED	COMPLETED	A.27
+A.28	cov-lineages/pango-designation	10	12	designated	CLOSED	COMPLETED	A.28
+A.29	cov-lineages/pango-designation	48	78	designated	CLOSED	COMPLETED	A.29
+A.30	cov-lineages/pango-designation	69	138	designated	CLOSED	COMPLETED	A.30
+C.1	cov-lineages/pango-designation	1	2	proposed, designated	CLOSED	COMPLETED	B.1.1.1.1
+C.1.2	cov-lineages/pango-designation	71	139	designated	CLOSED	COMPLETED	B.1.1.1.1.2
+C.2.1	cov-lineages/pango-designation	18	32	designated	CLOSED	COMPLETED	B.1.1.1.2.1
+C.36.3	cov-lineages/pango-designation	50	80	designated	CLOSED	COMPLETED	B.1.1.1.36.3
+C.37	cov-lineages/pango-designation	34	52	designated	CLOSED	COMPLETED	B.1.1.1.37
+C.37.1	cov-lineages/pango-designation	82	158	designated	CLOSED	COMPLETED	B.1.1.1.37.1
+C.38	cov-lineages/pango-designation	78	150	designated	CLOSED	COMPLETED	B.1.1.1.38
+C.39	cov-lineages/pango-designation	100	178	designated	CLOSED	COMPLETED	B.1.1.1.39
+C.40	cov-lineages/pango-designation	113	203	designated	CLOSED	COMPLETED	B.1.1.1.40
+P.1	cov-lineages/pango-designation	47	77	designated	CLOSED	COMPLETED	B.1.1.28.1
+P.1.1	cov-lineages/pango-designation	21	28	designated	CLOSED	COMPLETED	B.1.1.28.1.1
+P.1.10	cov-lineages/pango-designation	96	179	designated	CLOSED	COMPLETED	B.1.1.28.1.10
+P.1.11	cov-lineages/pango-designation	99	164	designated	CLOSED	COMPLETED	B.1.1.28.1.11
+P.1.12	cov-lineages/pango-designation	121	212	designated	CLOSED	COMPLETED	B.1.1.28.1.12
+P.1.12.1	cov-lineages/pango-designation	210	282	designated	CLOSED	COMPLETED	B.1.1.28.1.12.1
+P.1.13	cov-lineages/pango-designation	131	231	designated	CLOSED	COMPLETED	B.1.1.28.1.13
+P.1.14	cov-lineages/pango-designation	131	231	designated	CLOSED	COMPLETED	B.1.1.28.1.14
+P.1.15	cov-lineages/pango-designation	131	231	designated	CLOSED	COMPLETED	B.1.1.28.1.15
+P.1.16	cov-lineages/pango-designation	131	231	designated	CLOSED	COMPLETED	B.1.1.28.1.16
+P.1.17	cov-lineages/pango-designation	131	231	designated	CLOSED	COMPLETED	B.1.1.28.1.17
+P.1.17.1	cov-lineages/pango-designation	131	231	designated	CLOSED	COMPLETED	B.1.1.28.1.17.1
+P.1.2	cov-lineages/pango-designation	37	56	designated	CLOSED	COMPLETED	B.1.1.28.1.2
+P.1.3	cov-lineages/pango-designation	72	141	designated	CLOSED	COMPLETED	B.1.1.28.1.3
+P.1.4	cov-lineages/pango-designation	72	141	designated	CLOSED	COMPLETED	B.1.1.28.1.4
+P.1.5	cov-lineages/pango-designation	72	141	designated	CLOSED	COMPLETED	B.1.1.28.1.5
+P.1.6	cov-lineages/pango-designation	72	141	designated	CLOSED	COMPLETED	B.1.1.28.1.6
+P.1.7	cov-lineages/pango-designation	72	141	designated	CLOSED	COMPLETED	B.1.1.28.1.7
+P.1.7.1	cov-lineages/pango-designation	196	326	designated	CLOSED	COMPLETED	B.1.1.28.1.7.1
+P.1.8	cov-lineages/pango-designation	99	164	designated	CLOSED	COMPLETED	B.1.1.28.1.8
+P.1.9	cov-lineages/pango-designation	95	174	designated	CLOSED	COMPLETED	B.1.1.28.1.9
+P.3	cov-lineages/pango-designation	14	27	proposed, designated	CLOSED	COMPLETED	B.1.1.28.3
+P.4	cov-lineages/pango-designation	49	68	designated	CLOSED	COMPLETED	B.1.1.28.4
+P.5	cov-lineages/pango-designation	56	86	designated	CLOSED	COMPLETED	B.1.1.28.5
+P.6	cov-lineages/pango-designation	75	148	designated	CLOSED	COMPLETED	B.1.1.28.6
+P.7	cov-lineages/pango-designation	84	29	designated	CLOSED	COMPLETED	B.1.1.28.7
+B.1.1.29	cov-lineages/pango-designation	29	50		CLOSED	COMPLETED	B.1.1.29
+B.1.1.316	cov-lineages/pango-designation	5	14		CLOSED	COMPLETED	B.1.1.316
+R.1	cov-lineages/pango-designation	7	17	proposed, designated	CLOSED	COMPLETED	B.1.1.316.1
+R.2	cov-lineages/pango-designation	8	18	proposed, designated	CLOSED	COMPLETED	B.1.1.316.2
+B.1.1.317	cov-lineages/pango-designation	85	53	not accepted	CLOSED	COMPLETED	B.1.1.317
+B.1.1.318	cov-lineages/pango-designation	9	15		CLOSED	COMPLETED	B.1.1.318
+AZ.1	cov-lineages/pango-designation	90	171	designated	CLOSED	COMPLETED	B.1.1.318.1
+AZ.2	cov-lineages/pango-designation	90	171	designated	CLOSED	COMPLETED	B.1.1.318.2
+AZ.2.1	cov-lineages/pango-designation	90	171	designated	CLOSED	COMPLETED	B.1.1.318.2.1
+AZ.3	cov-lineages/pango-designation	90	171	designated	CLOSED	COMPLETED	B.1.1.318.3
+AZ.4	cov-lineages/pango-designation	90	171	designated	CLOSED	COMPLETED	B.1.1.318.4
+AZ.5	cov-lineages/pango-designation	90	171	designated	CLOSED	COMPLETED	B.1.1.318.5
+AZ.6	cov-lineages/pango-designation	90	171	designated	CLOSED	COMPLETED	B.1.1.318.6
+N.10	cov-lineages/pango-designation	26	40	designated	CLOSED	COMPLETED	B.1.1.33.10
+N.9	cov-lineages/pango-designation	16	26	designated	CLOSED	COMPLETED	B.1.1.33.9
+AT.1	cov-lineages/pango-designation	30	47	designated	CLOSED	COMPLETED	B.1.1.370.1
+AT.1	cov-lineages/pango-designation	30	152	correction	CLOSED	COMPLETED	B.1.1.370.1
+AW.1	cov-lineages/pango-designation	51	103		CLOSED	COMPLETED	B.1.1.464.1
+AV.1	cov-lineages/pango-designation	42	73	designated	CLOSED	COMPLETED	B.1.1.482.1
+B.1.1.519	cov-lineages/pango-designation	67	111	correction	CLOSED	COMPLETED	B.1.1.519
+B.1.1.523	cov-lineages/pango-designation	46	69	designated	CLOSED	COMPLETED	B.1.1.523
+B.1.1.524	cov-lineages/pango-designation	55	85	designated	CLOSED	COMPLETED	B.1.1.524
+B.1.1.525	cov-lineages/pango-designation	55	85	designated	CLOSED	COMPLETED	B.1.1.525
+B.1.1.528	cov-lineages/pango-designation	104	177	designated	CLOSED	COMPLETED	B.1.1.528
+B.1.1.529	cov-lineages/pango-designation	161	343	designated	CLOSED	COMPLETED	B.1.1.529
+BA.1	cov-lineages/pango-designation	178	361	designated	CLOSED	COMPLETED	B.1.1.529.1
+BA.1.1	cov-lineages/pango-designation	216	360	designated	CLOSED	COMPLETED	B.1.1.529.1.1
+BC.2	cov-lineages/pango-designation	335	570	designated	CLOSED	COMPLETED	B.1.1.529.1.1.1.2
+BA.1.1.17	cov-lineages/pango-designation	259	452	designated	CLOSED	COMPLETED	B.1.1.529.1.1.17
+BA.1.14.1	cov-lineages/pango-designation	255	506	designated	CLOSED	COMPLETED	B.1.1.529.1.14.1
+BA.1.15.2	cov-lineages/pango-designation	256	508	designated	CLOSED	COMPLETED	B.1.1.529.1.15.2
+BA.1.15.3	cov-lineages/pango-designation	336	573	designated	CLOSED	COMPLETED	B.1.1.529.1.15.3
+BA.1.17.2	cov-lineages/pango-designation	235	462	designated	CLOSED	COMPLETED	B.1.1.529.1.17.2
+BD.1	cov-lineages/pango-designation	333	461	designated	CLOSED	COMPLETED	B.1.1.529.1.17.2.1
+BA.1.18	cov-lineages/pango-designation	229	474	designated	CLOSED	COMPLETED	B.1.1.529.1.18
+BA.1.19	cov-lineages/pango-designation	230	475	designated	CLOSED	COMPLETED	B.1.1.529.1.19
+BA.1.20	cov-lineages/pango-designation	252	375	designated	CLOSED	COMPLETED	B.1.1.529.1.20
+BA.1.21	cov-lineages/pango-designation	253	505	designated	CLOSED	COMPLETED	B.1.1.529.1.21
+BA.1.21.1	cov-lineages/pango-designation	254	409	designated	CLOSED	COMPLETED	B.1.1.529.1.21.1
+BA.1.22	cov-lineages/pango-designation	269	529	designated	CLOSED	COMPLETED	B.1.1.529.1.22
+BA.1.23	cov-lineages/pango-designation	321	663	designated	CLOSED	COMPLETED	B.1.1.529.1.23
+BA.1.24	cov-lineages/pango-designation	324	666	designated	CLOSED	COMPLETED	B.1.1.529.1.24
+BA.2	cov-lineages/pango-designation	178	361	designated	CLOSED	COMPLETED	B.1.1.529.2
+BA.2.10	cov-lineages/pango-designation	239	496	designated	CLOSED	COMPLETED	B.1.1.529.2.10
+BJ.1	cov-lineages/pango-designation	394	915	designated	CLOSED	COMPLETED	B.1.1.529.2.10.1.1
+BA.2.10.2	cov-lineages/pango-designation	286	569	designated	CLOSED	COMPLETED	B.1.1.529.2.10.2
+BA.2.10.3	cov-lineages/pango-designation	291	609	designated	CLOSED	COMPLETED	B.1.1.529.2.10.3
+BA.2.10.4	cov-lineages/pango-designation	396	898	designated, recommended	CLOSED	COMPLETED	B.1.1.529.2.10.4
+BA.2.11	cov-lineages/pango-designation	246	491	designated	CLOSED	COMPLETED	B.1.1.529.2.11
+BA.2.12	cov-lineages/pango-designation	249	499	accepted	CLOSED	COMPLETED	B.1.1.529.2.12
+BA.2.12.1	cov-lineages/pango-designation	249	499	accepted	CLOSED	COMPLETED	B.1.1.529.2.12.1
+BG.1	cov-lineages/pango-designation	348	679	designated	CLOSED	COMPLETED	B.1.1.529.2.12.1.1
+BG.2	cov-lineages/pango-designation	351	767	designated	CLOSED	COMPLETED	B.1.1.529.2.12.1.2
+BG.3	cov-lineages/pango-designation	354	784	designated	CLOSED	COMPLETED	B.1.1.529.2.12.1.3
+BG.5	cov-lineages/pango-designation	381	763	designated	CLOSED	COMPLETED	B.1.1.529.2.12.1.5
+BG.6	cov-lineages/pango-designation	387	836	designated	CLOSED	COMPLETED	B.1.1.529.2.12.1.6
+BG.7	cov-lineages/pango-designation	491	1157	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.2.12.1.7
+BA.2.12.2	cov-lineages/pango-designation	329	686	designated	CLOSED	COMPLETED	B.1.1.529.2.12.2
+BA.2.13	cov-lineages/pango-designation	251	531	designated	CLOSED	COMPLETED	B.1.1.529.2.13
+BA.2.13.1	cov-lineages/pango-designation	367	785	designated	CLOSED	COMPLETED	B.1.1.529.2.13.1
+BA.2.14	cov-lineages/pango-designation	262	512	designated	CLOSED	COMPLETED	B.1.1.529.2.14
+BA.2.15	cov-lineages/pango-designation	263	533	designated	CLOSED	COMPLETED	B.1.1.529.2.15
+BA.2.16	cov-lineages/pango-designation	264	534	designated	CLOSED	COMPLETED	B.1.1.529.2.16
+BA.2.17	cov-lineages/pango-designation	266	520	designated	CLOSED	COMPLETED	B.1.1.529.2.17
+BA.2.18	cov-lineages/pango-designation	268	528	designated	CLOSED	COMPLETED	B.1.1.529.2.18
+BA.2.19	cov-lineages/pango-designation	270	535	designated	CLOSED	COMPLETED	B.1.1.529.2.19
+BA.2.2	cov-lineages/pango-designation	218	430	designated	CLOSED	COMPLETED	B.1.1.529.2.2
+BA.2.2.1	cov-lineages/pango-designation	342	675	designated	CLOSED	COMPLETED	B.1.1.529.2.2.1
+BA.2.20	cov-lineages/pango-designation	271	544	designated	CLOSED	COMPLETED	B.1.1.529.2.20
+BA.2.21	cov-lineages/pango-designation	272	547	designated	CLOSED	COMPLETED	B.1.1.529.2.21
+BA.2.22	cov-lineages/pango-designation	273	562	designated	CLOSED	COMPLETED	B.1.1.529.2.22
+BA.2.23	cov-lineages/pango-designation	274	546	designated	CLOSED	COMPLETED	B.1.1.529.2.23
+BA.2.23.1	cov-lineages/pango-designation	283	532	designated	CLOSED	COMPLETED	B.1.1.529.2.23.1
+BA.2.24	cov-lineages/pango-designation	279	600		CLOSED	COMPLETED	B.1.1.529.2.24
+BA.2.3.1	cov-lineages/pango-designation	238	495	designated	CLOSED	COMPLETED	B.1.1.529.2.3.1
+BA.2.3.11	cov-lineages/pango-designation	334	605	designated	CLOSED	COMPLETED	B.1.1.529.2.3.11
+BA.2.3.16	cov-lineages/pango-designation	346	524	designated	CLOSED	COMPLETED	B.1.1.529.2.3.16
+BP.1	cov-lineages/pango-designation	432	1009	monitor, designated, BA.2	CLOSED	COMPLETED	B.1.1.529.2.3.16.1
+BA.2.3.17	cov-lineages/pango-designation	347	677	designated	CLOSED	COMPLETED	B.1.1.529.2.3.17
+BA.2.3.18	cov-lineages/pango-designation	349	687	designated	CLOSED	COMPLETED	B.1.1.529.2.3.18
+BA.2.3.19	cov-lineages/pango-designation	369	824	designated	CLOSED	COMPLETED	B.1.1.529.2.3.19
+BS.1	cov-lineages/pango-designation	445	1052	monitor, designated, recommended, BA.2	CLOSED	COMPLETED	B.1.1.529.2.3.2.1
+BS.1.1	cov-lineages/pango-designation	477	1097	BA.2	CLOSED	COMPLETED	B.1.1.529.2.3.2.1.1
+BA.2.3.20	cov-lineages/pango-designation	430	1013	designated, BA.2	CLOSED	COMPLETED	B.1.1.529.2.3.20
+CM.1	cov-lineages/pango-designation	500	1129	monitor, recommended, BA.2	CLOSED	COMPLETED	B.1.1.529.2.3.20.1
+CM.11	cov-lineages/pango-designation	603	1509	designated, recommended, BA.2.3.20/CM	CLOSED	COMPLETED	B.1.1.529.2.3.20.11
+CM.12	cov-lineages/pango-designation	606	1481	designated, recommended, BA.2.3.20/CM	CLOSED	COMPLETED	B.1.1.529.2.3.20.12
+CM.2.1	cov-lineages/pango-designation	557	1356	designated, BA.2.3.20/CM	CLOSED	COMPLETED	B.1.1.529.2.3.20.2.1
+CM.5.2	cov-lineages/pango-designation	572	1386	monitor, designated, BA.2.3.20/CM	CLOSED	COMPLETED	B.1.1.529.2.3.20.5.2
+CM.6.1	cov-lineages/pango-designation	633	1165	monitor, designated, BA.2	CLOSED	COMPLETED	B.1.1.529.2.3.20.6.1
+CM.7.1	sars-cov-2-variants/lineage-proposals	4	37	Saltation, Convergent evolution, S:403, designated	CLOSED	COMPLETED	B.1.1.529.2.3.20.7.1
+CM.7.1.1	sars-cov-2-variants/lineage-proposals	4	37	Saltation, Convergent evolution, S:403, designated	CLOSED	COMPLETED	B.1.1.529.2.3.20.7.1.1
+CM.8.1.4	cov-lineages/pango-designation	705	1554	designated, BA.2.3.20/CM	CLOSED	COMPLETED	B.1.1.529.2.3.20.8.1.4
+DD.1	cov-lineages/pango-designation	533	1287	monitor, designated, BA.2, Saltation	CLOSED	COMPLETED	B.1.1.529.2.3.21.1
+BA.2.3.22	cov-lineages/pango-designation	608	1462	designated, recommended, BA.2, Saltation	CLOSED	COMPLETED	B.1.1.529.2.3.22
+BA.2.3.5	cov-lineages/pango-designation	301	627	designated	CLOSED	COMPLETED	B.1.1.529.2.3.5
+BA.2.3.6	cov-lineages/pango-designation	306	633	designated	CLOSED	COMPLETED	B.1.1.529.2.3.6
+BA.2.3.7	cov-lineages/pango-designation	313	643	designated	CLOSED	COMPLETED	B.1.1.529.2.3.7
+BA.2.31.1	cov-lineages/pango-designation	464	819	BA.2	CLOSED	COMPLETED	B.1.1.529.2.31.1
+BA.2.35	cov-lineages/pango-designation	277	554	designated	CLOSED	COMPLETED	B.1.1.529.2.35
+BA.2.36	cov-lineages/pango-designation	278	565	designated	CLOSED	COMPLETED	B.1.1.529.2.36
+BA.2.36.1	cov-lineages/pango-designation	378	874	designated	CLOSED	COMPLETED	B.1.1.529.2.36.1
+BA.2.37	cov-lineages/pango-designation	280	572	designated	CLOSED	COMPLETED	B.1.1.529.2.37
+BA.2.38	cov-lineages/pango-designation	282	541	designated	CLOSED	COMPLETED	B.1.1.529.2.38
+BA.2.38	cov-lineages/pango-designation	282	581		CLOSED	COMPLETED	B.1.1.529.2.38
+BA.2.38	cov-lineages/pango-designation	282	582		CLOSED	COMPLETED	B.1.1.529.2.38
+BA.2.38.1	cov-lineages/pango-designation	363	809	designated	CLOSED	COMPLETED	B.1.1.529.2.38.1
+BA.2.38.2	cov-lineages/pango-designation	374	828	designated	CLOSED	COMPLETED	B.1.1.529.2.38.2
+BA.2.38.3	cov-lineages/pango-designation	391	840	designated	CLOSED	COMPLETED	B.1.1.529.2.38.3
+BH.1	cov-lineages/pango-designation	392	913	designated	CLOSED	COMPLETED	B.1.1.529.2.38.3.1
+BA.2.38.4	cov-lineages/pango-designation	505	746	designated, BA.2	CLOSED	COMPLETED	B.1.1.529.2.38.4
+BA.2.39	cov-lineages/pango-designation	281	575	designated	CLOSED	COMPLETED	B.1.1.529.2.39
+BA.2.40.1	cov-lineages/pango-designation	285	542	designated	CLOSED	COMPLETED	B.1.1.529.2.40.1
+BA.2.41	cov-lineages/pango-designation	287	586	designated	CLOSED	COMPLETED	B.1.1.529.2.41
+BA.2.42	cov-lineages/pango-designation	293	610	designated	CLOSED	COMPLETED	B.1.1.529.2.42
+BA.2.43	cov-lineages/pango-designation	294	612	designated	CLOSED	COMPLETED	B.1.1.529.2.43
+BA.2.44	cov-lineages/pango-designation	295	613	designated	CLOSED	COMPLETED	B.1.1.529.2.44
+BA.2.45	cov-lineages/pango-designation	297	616	designated	CLOSED	COMPLETED	B.1.1.529.2.45
+BA.2.46	cov-lineages/pango-designation	300	626	designated	CLOSED	COMPLETED	B.1.1.529.2.46
+BA.2.47	cov-lineages/pango-designation	305	631	designated	CLOSED	COMPLETED	B.1.1.529.2.47
+BA.2.48	cov-lineages/pango-designation	307	634	designated	CLOSED	COMPLETED	B.1.1.529.2.48
+BA.2.49	cov-lineages/pango-designation	312	640	designated	CLOSED	COMPLETED	B.1.1.529.2.49
+BA.2.50	cov-lineages/pango-designation	314	641	designated	CLOSED	COMPLETED	B.1.1.529.2.50
+BA.2.51	cov-lineages/pango-designation	315	644	designated	CLOSED	COMPLETED	B.1.1.529.2.51
+BA.2.52	cov-lineages/pango-designation	316	648	designated	CLOSED	COMPLETED	B.1.1.529.2.52
+BA.2.53	cov-lineages/pango-designation	317	651	designated	CLOSED	COMPLETED	B.1.1.529.2.53
+BA.2.54	cov-lineages/pango-designation	319	658	designated	CLOSED	COMPLETED	B.1.1.529.2.54
+BA.2.55	cov-lineages/pango-designation	320	660	designated	CLOSED	COMPLETED	B.1.1.529.2.55
+BA.2.56	cov-lineages/pango-designation	326	668	designated	CLOSED	COMPLETED	B.1.1.529.2.56
+BA.2.56.1	cov-lineages/pango-designation	344	745	designated	CLOSED	COMPLETED	B.1.1.529.2.56.1
+BA.2.59	cov-lineages/pango-designation	327	672	designated	CLOSED	COMPLETED	B.1.1.529.2.59
+BA.2.60	cov-lineages/pango-designation	332	683	designated	CLOSED	COMPLETED	B.1.1.529.2.60
+BA.2.71	cov-lineages/pango-designation	330	695	designated	CLOSED	COMPLETED	B.1.1.529.2.71
+BA.2.72	cov-lineages/pango-designation	331	698	designated	CLOSED	COMPLETED	B.1.1.529.2.72
+BA.2.73	cov-lineages/pango-designation	340	632	designated	CLOSED	COMPLETED	B.1.1.529.2.73
+BA.2.74	cov-lineages/pango-designation	352	775	designated	CLOSED	COMPLETED	B.1.1.529.2.74
+BA.2.75	cov-lineages/pango-designation	353	773	designated	CLOSED	COMPLETED	B.1.1.529.2.75
+BA.2.75.1	cov-lineages/pango-designation	390	856	designated	CLOSED	COMPLETED	B.1.1.529.2.75.1
+BL.1	cov-lineages/pango-designation	413	944	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.1.1
+BL.1.1	cov-lineages/pango-designation	453	1079	monitor, accepted, BA.2	CLOSED	COMPLETED	B.1.1.529.2.75.1.1.1
+BL.1.2	cov-lineages/pango-designation	454	1066	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.1.1.2
+BL.5	cov-lineages/pango-designation	530	1105	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.1.5
+BL.6	cov-lineages/pango-designation	599	1531	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.1.6
+BA.2.75.2	cov-lineages/pango-designation	406	963	designated	CLOSED	COMPLETED	B.1.1.529.2.75.2
+CA.1	cov-lineages/pango-designation	469	1063	monitor, BA.2.75, partially designated	CLOSED	COMPLETED	B.1.1.529.2.75.2.1
+CA.3	cov-lineages/pango-designation	510	1136	monitor, BA.2.75, low priority	CLOSED	COMPLETED	B.1.1.529.2.75.2.3
+CA.4	cov-lineages/pango-designation	547	1181	monitor, designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.2.4
+BA.2.75.3	cov-lineages/pango-designation	409	965	designated	CLOSED	COMPLETED	B.1.1.529.2.75.3
+BM.1.1.1	cov-lineages/pango-designation	461	1043	BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.1.1.1
+CJ.1	cov-lineages/pango-designation	496	1171	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.1.1.1.1
+CJ.1.1	cov-lineages/pango-designation	574	1384	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.1.1.1.1.1
+CV.2	cov-lineages/pango-designation	569	1374	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.1.1.3.2
+BM.1.1.4	cov-lineages/pango-designation	611	1438	designated, recommended, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.1.1.4
+BM.4	cov-lineages/pango-designation	441	957	monitor, designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4
+BM.4.1	cov-lineages/pango-designation	441	957	monitor, designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1
+CH.1	cov-lineages/pango-designation	495	1113	recommended, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1
+DV.1.1	cov-lineages/pango-designation	688	1720	designated, recommended, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.1.1.1
+DV.3.1	cov-lineages/pango-designation	666	1626	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.1.3.1
+DV.4	cov-lineages/pango-designation	661	1617	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.1.4
+DV.5	cov-lineages/pango-designation	698	1753	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.1.5
+DV.6.2	cov-lineages/pango-designation	771	2045	designated	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.1.6.2
+DV.7	cov-lineages/pango-designation	772	2038	designated	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.1.7
+DV.7.1.1	sars-cov-2-variants/lineage-proposals	120	732	designated, FLip, FCS, S:679	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.1
+DV.7.1.2	cov-lineages/pango-designation	818	2258		CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.1.7.1.2
+FS.1	cov-lineages/pango-designation	730	1816	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.12.1
+CH.1.1.15	cov-lineages/pango-designation	678	1726	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.15
+CH.1.1.16	cov-lineages/pango-designation	698	1753	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.16
+CH.1.1.17	cov-lineages/pango-designation	698	1753	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.17
+FK.1	cov-lineages/pango-designation	711	1718	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.17.1
+FK.1.1	cov-lineages/pango-designation	722	1881	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.17.1.1
+FK.1.1.1	sars-cov-2-variants/lineage-proposals	33	368	designated, S:445	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.17.1.1.1
+JL.1	sars-cov-2-variants/lineage-proposals	108	533	To be proposed, Convergent evolution, designated	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.2.1
+FK.1.4.1	sars-cov-2-variants/lineage-proposals	34	88	New mutations, designated	CLOSED	NOT_PLANNED	B.1.1.529.2.75.3.4.1.1.1.1.17.1.4.1
+CH.1.1.22	cov-lineages/pango-designation	709	1670	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.22
+CH.1.1.23	cov-lineages/pango-designation	720	1862	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.23
+CH.1.1.3	cov-lineages/pango-designation	578	1405	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.3
+GQ.1	cov-lineages/pango-designation	782	1872	BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.3.1
+JP.1	sars-cov-2-variants/lineage-proposals	132	655	S:403, Apparently slow, designated	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.31.1
+CH.1.1.32	cov-lineages/pango-designation	821	2150		CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.32
+CH.1.1.32	sars-cov-2-variants/lineage-proposals	134	327	New mutations, designated	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.32
+CH.1.1.4	cov-lineages/pango-designation	600	1370	monitor, designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.4
+CH.1.1.5	cov-lineages/pango-designation	615	1539	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.1.1.5
+CH.3	cov-lineages/pango-designation	566	1375	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.3
+CH.3.1	cov-lineages/pango-designation	577	1421	BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.4.1.1.3.1
+BM.5	cov-lineages/pango-designation	460	1047	BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.3.5
+BR.2	cov-lineages/pango-designation	469	1063	monitor, BA.2.75, partially designated	CLOSED	COMPLETED	B.1.1.529.2.75.4.2
+BR.2.1	cov-lineages/pango-designation	546	1292	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.4.2.1
+BR.3	cov-lineages/pango-designation	469	1063	monitor, BA.2.75, partially designated	CLOSED	COMPLETED	B.1.1.529.2.75.4.3
+BR.4	cov-lineages/pango-designation	501	1179	monitor, BA.2.75, potential artefact	CLOSED	COMPLETED	B.1.1.529.2.75.4.4
+BR.5	cov-lineages/pango-designation	624	1345	recommended, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.4.5
+BN.1	cov-lineages/pango-designation	431	994	monitor, designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.5.1
+BN.1.1	cov-lineages/pango-designation	509	1176	BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.1
+BN.1.2.1	cov-lineages/pango-designation	517	1238	designated	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.2.1
+FR.1	cov-lineages/pango-designation	729	1814	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.2.3.1
+FR.1.1	cov-lineages/pango-designation	765	2006	designated	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.2.3.1.1
+FR.1.2	cov-lineages/pango-designation	764	2028	designated	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.2.3.1.2
+FR.1.3	cov-lineages/pango-designation	795	2039	designated	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.2.3.1.3
+BN.1.2.7	cov-lineages/pango-designation	787	1923	monitor, designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.2.7
+BN.1.3.1	cov-lineages/pango-designation	525	1257	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.3.1
+BN.1.3.13	sars-cov-2-variants/lineage-proposals	59	218	Convergent evolution, partially designated	CLOSED	NOT_PLANNED	B.1.1.529.2.75.5.1.3.13
+BN.1.3.2	cov-lineages/pango-designation	583	1397	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.3.2
+BN.1.3.5	cov-lineages/pango-designation	640	1516	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.3.5
+BN.1.3.9	cov-lineages/pango-designation	707	1748	designated, BA.2.75, partially designated	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.3.9
+BN.1.4.1	cov-lineages/pango-designation	612	1417	designated, recommended, BA.2.75, Saltation	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.4.1
+BN.1.7	cov-lineages/pango-designation	549	1310	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.7
+BN.1.9	cov-lineages/pango-designation	563	1327	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.5.1.9
+BN.2	cov-lineages/pango-designation	435	1021		CLOSED	COMPLETED	B.1.1.529.2.75.5.2
+BY.1.2.1	cov-lineages/pango-designation	523	1184	monitor, designated, BA.2.75, low priority	CLOSED	COMPLETED	B.1.1.529.2.75.6.1.2.1
+BA.2.75.8	cov-lineages/pango-designation	466	1085	BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.8
+BA.2.75.9	cov-lineages/pango-designation	478	1098	monitor, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.9
+CB.1	cov-lineages/pango-designation	478	1098	monitor, BA.2.75	CLOSED	COMPLETED	B.1.1.529.2.75.9.1
+BA.2.76	cov-lineages/pango-designation	358	787	designated	CLOSED	COMPLETED	B.1.1.529.2.76
+BA.2.76.1	cov-lineages/pango-designation	397	899	designated, recommended	CLOSED	COMPLETED	B.1.1.529.2.76.1
+BA.2.76.2	cov-lineages/pango-designation	407	939	designated	CLOSED	COMPLETED	B.1.1.529.2.76.2
+BA.2.77	cov-lineages/pango-designation	360	732	designated	CLOSED	COMPLETED	B.1.1.529.2.77
+BA.2.79	cov-lineages/pango-designation	364	812	designated	CLOSED	COMPLETED	B.1.1.529.2.79
+BA.2.8	cov-lineages/pango-designation	228	486	designated	CLOSED	COMPLETED	B.1.1.529.2.8
+BA.2.80	cov-lineages/pango-designation	365	733	designated	CLOSED	COMPLETED	B.1.1.529.2.80
+BA.2.83	cov-lineages/pango-designation	458	1053	accepted, BA.2	CLOSED	COMPLETED	B.1.1.529.2.83
+BA.2.84	cov-lineages/pango-designation	464	819	BA.2	CLOSED	COMPLETED	B.1.1.529.2.84
+BA.2.85	cov-lineages/pango-designation	479	983	designated, BA.2	CLOSED	COMPLETED	B.1.1.529.2.85
+BA.2.86	cov-lineages/pango-designation	803	2183	designated, BA.2, Saltation	CLOSED	COMPLETED	B.1.1.529.2.86
+BA.2.9	cov-lineages/pango-designation	236	432	designated	CLOSED	COMPLETED	B.1.1.529.2.9
+BA.2.9.1	cov-lineages/pango-designation	250	530	designated	CLOSED	COMPLETED	B.1.1.529.2.9.1
+BA.2.9.3	cov-lineages/pango-designation	304	630	designated	CLOSED	COMPLETED	B.1.1.529.2.9.3
+BA.2.9.4	cov-lineages/pango-designation	310	635	designated	CLOSED	COMPLETED	B.1.1.529.2.9.4
+BA.2.9.6	cov-lineages/pango-designation	393	671	designated	CLOSED	COMPLETED	B.1.1.529.2.9.6
+BA.2.9.7	cov-lineages/pango-designation	529	864	designated, BA.2	CLOSED	COMPLETED	B.1.1.529.2.9.7
+BA.3	cov-lineages/pango-designation	198	367	designated	CLOSED	COMPLETED	B.1.1.529.3
+BA.3.1	cov-lineages/pango-designation	276	540	designated, accepted	CLOSED	COMPLETED	B.1.1.529.3.1
+BA.4	cov-lineages/pango-designation	248	517	accepted	CLOSED	COMPLETED	B.1.1.529.4
+BA.4.1	cov-lineages/pango-designation	296	548	designated	CLOSED	COMPLETED	B.1.1.529.4.1
+BA.4.1.1	cov-lineages/pango-designation	325	667	designated	CLOSED	COMPLETED	B.1.1.529.4.1.1
+BA.4.1.11	cov-lineages/pango-designation	643	1606	designated, BA.4	CLOSED	COMPLETED	B.1.1.529.4.1.11
+BA.4.1.2	cov-lineages/pango-designation	338	614	designated	CLOSED	COMPLETED	B.1.1.529.4.1.2
+BA.4.1.8	cov-lineages/pango-designation	382	800	designated	CLOSED	COMPLETED	B.1.1.529.4.1.8
+BA.4.1.9	cov-lineages/pango-designation	426	926	designated, BA.4	CLOSED	COMPLETED	B.1.1.529.4.1.9
+BA.4.6	cov-lineages/pango-designation	361	741	designated	CLOSED	COMPLETED	B.1.1.529.4.6
+BA.4.6.1	cov-lineages/pango-designation	437	900	designated, BA.4	CLOSED	COMPLETED	B.1.1.529.4.6.1
+BA.4.6.2	cov-lineages/pango-designation	492	1198	designated, BA.4	CLOSED	COMPLETED	B.1.1.529.4.6.2
+BA.4.6.3	cov-lineages/pango-designation	494	1195	monitor, recommended, BA.4	CLOSED	COMPLETED	B.1.1.529.4.6.3
+BA.4.7	cov-lineages/pango-designation	366	777	designated	CLOSED	COMPLETED	B.1.1.529.4.7
+BA.4.8	cov-lineages/pango-designation	412	670	designated	CLOSED	COMPLETED	B.1.1.529.4.8
+BA.5	cov-lineages/pango-designation	248	517	accepted	CLOSED	COMPLETED	B.1.1.529.5
+BK.1	cov-lineages/pango-designation	402	901	designated	CLOSED	COMPLETED	B.1.1.529.5.1.10.1
+BA.5.1.11	cov-lineages/pango-designation	404	908	designated	CLOSED	COMPLETED	B.1.1.529.5.1.11
+BA.5.1.12	cov-lineages/pango-designation	420	902	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.12
+BA.5.1.13	cov-lineages/pango-designation	415	955	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.13
+DL.1	cov-lineages/pango-designation	644	1376	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.15.1
+BA.5.1.18	cov-lineages/pango-designation	427	930	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.18
+BA.5.1.19	cov-lineages/pango-designation	436	999	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.19
+BA.5.1.2	cov-lineages/pango-designation	356	790	designated	CLOSED	COMPLETED	B.1.1.529.5.1.2
+BA.5.1.20	cov-lineages/pango-designation	442	1000	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.20
+BA.5.1.21	cov-lineages/pango-designation	447	958	BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.21
+BT.2	cov-lineages/pango-designation	512	1192	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.21.2
+BA.5.1.22	cov-lineages/pango-designation	473	1135	BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.22
+DH.1	cov-lineages/pango-designation	545	1242	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.22.1
+BA.5.1.23	cov-lineages/pango-designation	473	1135	BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.23
+BA.5.1.24	cov-lineages/pango-designation	473	1135	BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.24
+BA.5.1.25	cov-lineages/pango-designation	473	1135	BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.25
+DJ.1	cov-lineages/pango-designation	559	1245	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.25.1
+DJ.1.1.1	cov-lineages/pango-designation	639	1407	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.25.1.1.1
+DJ.1.2	cov-lineages/pango-designation	570	1379	designated	CLOSED	COMPLETED	B.1.1.529.5.1.25.1.2
+DJ.1.3	cov-lineages/pango-designation	584	1409	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.25.1.3
+BA.5.1.26	cov-lineages/pango-designation	482	869	monitor, BA.5	CLOSED	NOT_PLANNED	B.1.1.529.5.1.26
+BA.5.1.29	cov-lineages/pango-designation	488	1060	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.29
+CL.1	cov-lineages/pango-designation	499	1187	recommended, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.29.1
+BA.5.1.3	cov-lineages/pango-designation	357	765	designated	CLOSED	COMPLETED	B.1.1.529.5.1.3
+BA.5.1.31	cov-lineages/pango-designation	555	991	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.31
+BA.5.1.32	cov-lineages/pango-designation	617	1488	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.32
+EQ.1	cov-lineages/pango-designation	670	1522	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.1.33.1
+BA.5.1.4	cov-lineages/pango-designation	362	801	designated	CLOSED	COMPLETED	B.1.1.529.5.1.4
+BA.5.1.5	cov-lineages/pango-designation	371	835	designated	CLOSED	COMPLETED	B.1.1.529.5.1.5
+BA.5.1.9	cov-lineages/pango-designation	389	786	designated	CLOSED	COMPLETED	B.1.1.529.5.1.9
+BA.5.10	cov-lineages/pango-designation	403	936	designated	CLOSED	COMPLETED	B.1.1.529.5.10
+BA.5.10.1	cov-lineages/pango-designation	457	1031	BA.5	CLOSED	COMPLETED	B.1.1.529.5.10.1
+DF.1	cov-lineages/pango-designation	542	1270	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.10.1.1
+DF.1.1	cov-lineages/pango-designation	593	1494	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.10.1.1.1
+BA.5.11	cov-lineages/pango-designation	537	1277	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.11
+BA.5.12	cov-lineages/pango-designation	665	1640	designated	CLOSED	COMPLETED	B.1.1.529.5.12
+BA.5.2	cov-lineages/pango-designation	298	551	designated	CLOSED	COMPLETED	B.1.1.529.5.2
+BA.5.2.1	cov-lineages/pango-designation	308	657	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1
+BF.1	cov-lineages/pango-designation	309	618	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1.1
+BF.10.1	cov-lineages/pango-designation	581	1442	designated, recommended, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.10.1
+BF.11	cov-lineages/pango-designation	377	837	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1.11
+BF.12	cov-lineages/pango-designation	380	752	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1.12
+BF.13	cov-lineages/pango-designation	398	883	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1.13
+BF.14	cov-lineages/pango-designation	400	843	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1.14
+BF.15	cov-lineages/pango-designation	411	893	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1.15
+BF.16	cov-lineages/pango-designation	419	942	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.16
+BF.22	cov-lineages/pango-designation	429	1010	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.22
+BF.23	cov-lineages/pango-designation	450	1036	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.23
+BF.26	cov-lineages/pango-designation	474	1142		CLOSED	COMPLETED	B.1.1.529.5.2.1.26
+BF.27	cov-lineages/pango-designation	475	1140		CLOSED	COMPLETED	B.1.1.529.5.2.1.27
+BF.28	cov-lineages/pango-designation	476	1141		CLOSED	COMPLETED	B.1.1.529.5.2.1.28
+BF.29	cov-lineages/pango-designation	506	1162	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.29
+BF.3.1	cov-lineages/pango-designation	379	825	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1.3.1
+BF.32	cov-lineages/pango-designation	527	1250	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.32
+BF.34	cov-lineages/pango-designation	543	1233	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.34
+BF.4	cov-lineages/pango-designation	355	788	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1.4
+BF.42	cov-lineages/pango-designation	719	1855	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.42
+BF.5.1	cov-lineages/pango-designation	587	1475	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.5.1
+BF.5.2	cov-lineages/pango-designation	588	1476	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.5.2
+BF.5.3	cov-lineages/pango-designation	645	1526	designated, recommended, BA.5, Saltation	CLOSED	COMPLETED	B.1.1.529.5.2.1.5.3
+BF.6	cov-lineages/pango-designation	368	821	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1.6
+BF.7	cov-lineages/pango-designation	370	827	designated	CLOSED	COMPLETED	B.1.1.529.5.2.1.7
+BF.7.1	cov-lineages/pango-designation	486	1132	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.7.1
+BF.7.14	cov-lineages/pango-designation	596	1470	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.7.14
+BF.7.14.1	cov-lineages/pango-designation	622	1580	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.7.14.1
+BF.7.14.3	cov-lineages/pango-designation	627	1573	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.7.14.3
+BF.7.14.7	cov-lineages/pango-designation	667	1672	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.7.14.7
+BF.7.15	cov-lineages/pango-designation	601	1358	monitor, designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.7.15
+BF.7.2	cov-lineages/pango-designation	507	1216		CLOSED	COMPLETED	B.1.1.529.5.2.1.7.2
+BF.7.4.1	cov-lineages/pango-designation	526	1253	BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.7.4.1
+BF.7.4.3	cov-lineages/pango-designation	679	1743	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.7.4.3
+BF.7.5.1	cov-lineages/pango-designation	551	1317	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.1.7.5.1
+BF.7.7	cov-lineages/pango-designation	516	1147	BA.5, low priority	CLOSED	COMPLETED	B.1.1.529.5.2.1.7.7
+BA.5.2.13	cov-lineages/pango-designation	438	959	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.13
+BA.5.2.14	cov-lineages/pango-designation	443	1002	designated, accepted, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.14
+BA.5.2.15	cov-lineages/pango-designation	446	1054	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.15
+BA.5.2.16	cov-lineages/pango-designation	451	1065	recommended, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.16
+BU.1	cov-lineages/pango-designation	451	1065	recommended, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.16.1
+BA.5.2.17	cov-lineages/pango-designation	449	1019	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.17
+BA.5.2.18	cov-lineages/pango-designation	452	1025	BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.18
+CR.1.3	cov-lineages/pango-designation	580	1355	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.18.1.3
+BA.5.2.19	cov-lineages/pango-designation	459	916	monitor, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.19
+BV.2	cov-lineages/pango-designation	497	1122	recommended, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.20.2
+CN.1	cov-lineages/pango-designation	502	1108	BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.21.1
+CN.2	cov-lineages/pango-designation	573	1404	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.21.2
+BA.5.2.22	cov-lineages/pango-designation	465	945	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.22
+BA.5.2.23	cov-lineages/pango-designation	467	1090	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.23
+CK.1	cov-lineages/pango-designation	498	1120	monitor, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.24.1
+CK.1.1	cov-lineages/pango-designation	589	1452	designated, BA.2.75	CLOSED	COMPLETED	B.1.1.529.5.2.24.1.1
+CK.1.2	cov-lineages/pango-designation	607	1467	designated, recommended, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.24.1.2
+CK.2	cov-lineages/pango-designation	519	1190	designated, recommended, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.24.2
+CK.2.1	cov-lineages/pango-designation	521	1125	monitor, BA.5	CLOSED	NOT_PLANNED	B.1.1.529.5.2.24.2.1
+CK.2.1.1	cov-lineages/pango-designation	519	1190	designated, recommended, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.24.2.1.1
+DG.1	cov-lineages/pango-designation	544	1288	monitor, BA.5, partially designated	CLOSED	COMPLETED	B.1.1.529.5.2.24.2.1.1.1
+CK.3	cov-lineages/pango-designation	553	1121	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.24.3
+BA.5.2.25	cov-lineages/pango-designation	471	1111	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.25
+DB.1	cov-lineages/pango-designation	539	1258	monitor, designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.25.1
+DB.3	cov-lineages/pango-designation	664	1613	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.25.3
+BA.5.2.26	cov-lineages/pango-designation	472	1133	BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.26
+CG.1	cov-lineages/pango-designation	483	1126	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.26.1
+BA.5.2.27	cov-lineages/pango-designation	472	1133	BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.27
+BA.5.2.28	cov-lineages/pango-designation	472	1133	BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.28
+BA.5.2.29	cov-lineages/pango-designation	480	1050	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.29
+BA.5.2.34	cov-lineages/pango-designation	503	992	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.34
+BA.5.2.36	cov-lineages/pango-designation	524	1203	designated, BA.5, low priority	CLOSED	COMPLETED	B.1.1.529.5.2.36
+CT.1	cov-lineages/pango-designation	524	1203	designated, BA.5, low priority	CLOSED	COMPLETED	B.1.1.529.5.2.36.1
+BA.5.2.37	cov-lineages/pango-designation	514	1117	monitor, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.37
+BA.5.2.38	cov-lineages/pango-designation	540	1254	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.38
+DA.1	cov-lineages/pango-designation	540	1254	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.38.1
+BA.5.2.39	cov-lineages/pango-designation	538	1279	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.39
+BA.5.2.41	cov-lineages/pango-designation	552	1328	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.41
+BA.5.2.42	cov-lineages/pango-designation	560	1266	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.42
+BA.5.2.43	cov-lineages/pango-designation	562	1312	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.43
+BA.5.2.45	cov-lineages/pango-designation	567	1383	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.45
+BA.5.2.46	cov-lineages/pango-designation	590	1446	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.46
+BA.5.2.47	cov-lineages/pango-designation	594	1496	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.47
+BA.5.2.48	cov-lineages/pango-designation	597	1471	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.48
+DY.1	cov-lineages/pango-designation	629	1479	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.48.1
+DY.1.1	cov-lineages/pango-designation	638	1599	designated	CLOSED	COMPLETED	B.1.1.529.5.2.48.1.1
+DY.2	cov-lineages/pango-designation	659	1478	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.48.2
+BA.5.2.49	cov-lineages/pango-designation	613	1480	recommended, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.49
+BA.5.2.50	cov-lineages/pango-designation	618	1542	designated, UShER not clean, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.50
+BA.5.2.6	cov-lineages/pango-designation	408	870	designated	CLOSED	COMPLETED	B.1.1.529.5.2.6
+CP.7	cov-lineages/pango-designation	672	1473	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.6.7
+CP.8.1	cov-lineages/pango-designation	701	1627	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.6.8.1
+BA.5.2.63	cov-lineages/pango-designation	652	1636	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.63
+BA.5.2.7	cov-lineages/pango-designation	410	924	designated	CLOSED	COMPLETED	B.1.1.529.5.2.7
+CY.1	cov-lineages/pango-designation	528	1247	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.7.1
+CY.2	cov-lineages/pango-designation	671	1474	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.2.7.2
+BA.5.3	cov-lineages/pango-designation	299	550	designated	CLOSED	COMPLETED	B.1.1.529.5.3
+BE.1	cov-lineages/pango-designation	303	625	designated	CLOSED	COMPLETED	B.1.1.529.5.3.1.1
+BE.1.1.1	cov-lineages/pango-designation	421	931	designated, accepted, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1
+BQ.1	cov-lineages/pango-designation	444	993	designated, accepted, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1
+BQ.1.1	cov-lineages/pango-designation	444	993	designated, accepted, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1
+BQ.1.1.2	cov-lineages/pango-designation	515	1209	monitor, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.2
+DU.1	cov-lineages/pango-designation	614	1540	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.2.1
+ER.1	cov-lineages/pango-designation	675	1492	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.22.1
+ER.1.1	cov-lineages/pango-designation	676	1715	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.22.1.1
+BQ.1.1.25	cov-lineages/pango-designation	564	1350	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.25
+EH.1	cov-lineages/pango-designation	658	1648	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.28.1
+BQ.1.1.32	cov-lineages/pango-designation	592	1402	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.32
+DT.1	cov-lineages/pango-designation	604	1484	designated, recommended, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.32.1
+DT.2	cov-lineages/pango-designation	642	1612	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.32.2
+BQ.1.1.34	cov-lineages/pango-designation	605	1483	designated, recommended, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.34
+ET.1	cov-lineages/pango-designation	681	1732	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.35.1
+BQ.1.1.37	cov-lineages/pango-designation	620	1571	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.37
+BQ.1.1.38	cov-lineages/pango-designation	621	1419	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.38
+EW.1	cov-lineages/pango-designation	699	1786	designated	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.38.1
+BQ.1.1.39	cov-lineages/pango-designation	625	1385	designated, Saltation, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.39
+FQ.1	cov-lineages/pango-designation	725	1797	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.39.1
+BQ.1.1.41	cov-lineages/pango-designation	630	1291	BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.41
+EZ.1	cov-lineages/pango-designation	710	1673	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.43.1
+BQ.1.1.45	cov-lineages/pango-designation	628	1512	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.45
+EN.1	cov-lineages/pango-designation	668	1696	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.46.1
+DN.1.1	cov-lineages/pango-designation	585	1463	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.5.1.1
+DN.1.1.1	cov-lineages/pango-designation	632	1548	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.5.1.1.1
+BQ.1.1.50	cov-lineages/pango-designation	648	1577	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.50
+EA.1	cov-lineages/pango-designation	650	1635	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.52.1
+BQ.1.1.60	cov-lineages/pango-designation	651	1426	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.60
+ES.1	cov-lineages/pango-designation	677	1722	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.65.1
+BQ.1.1.70	cov-lineages/pango-designation	649	1445	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.70
+BQ.1.1.71	cov-lineages/pango-designation	673	1713	designated, partially designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.71
+BQ.1.1.73	cov-lineages/pango-designation	712	1740	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.73
+BQ.1.1.74	cov-lineages/pango-designation	715	1817	partially designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.1.74
+BQ.1.10.1	cov-lineages/pango-designation	508	1189	monitor, BA.5, potential artefact	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.10.1
+BQ.1.11.1	cov-lineages/pango-designation	623	1581	BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.11.1
+BQ.1.13.1	cov-lineages/pango-designation	586	1400	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.13.1
+BQ.1.2.1	cov-lineages/pango-designation	626	1392	BA.5, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.2.1
+FB.1	cov-lineages/pango-designation	703	1714	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.2.1.1
+BQ.1.2.2	cov-lineages/pango-designation	742	1861	designated, recommended, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.2.2
+JH.1	cov-lineages/pango-designation	807	2068	designated	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.2.2.1
+JH.2	cov-lineages/pango-designation	807	2068	designated	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.2.2.2
+JH.2	sars-cov-2-variants/lineage-proposals	96	650	Deletions/Truncations/Frameshifted, S:486, designated, S:484K, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.2.2.2
+BQ.1.24	cov-lineages/pango-designation	541	1240	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.24
+BQ.1.25.1	cov-lineages/pango-designation	582	1451	designated	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.25.1
+BQ.1.26	cov-lineages/pango-designation	550	1315	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.26
+BQ.1.26.1	cov-lineages/pango-designation	568	1369	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.26.1
+BQ.1.28	cov-lineages/pango-designation	591	1415	designated, BA.5, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.28
+BQ.1.32	cov-lineages/pango-designation	680	1731	designated, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.32
+BQ.1.8	cov-lineages/pango-designation	489	1202	recommended, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.8
+FF.1	cov-lineages/pango-designation	700	1523	designated, Saltation, BQ.1	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.1.1.1.8.2.1
+BE.1.2	cov-lineages/pango-designation	395	923	designated, recommended	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.2
+BE.1.2.1	cov-lineages/pango-designation	468	1095	BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.2.1
+DW.1	cov-lineages/pango-designation	619	1564	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.1.2.1.1
+BE.10	cov-lineages/pango-designation	575	1411	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.10
+BE.3	cov-lineages/pango-designation	359	723	designated	CLOSED	COMPLETED	B.1.1.529.5.3.1.3
+BE.4	cov-lineages/pango-designation	481	1115	BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.4
+BE.4.1	cov-lineages/pango-designation	481	1115	BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.4.1
+BE.4.1.1	cov-lineages/pango-designation	481	1115	BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.4.1.1
+CQ.2	cov-lineages/pango-designation	520	1232	monitor, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.4.1.1.2
+BE.4.2	cov-lineages/pango-designation	493	1114	monitor, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.4.2
+BE.5	cov-lineages/pango-designation	534	1281	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.5
+BE.7	cov-lineages/pango-designation	535	1280	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.7
+BE.8	cov-lineages/pango-designation	536	1278	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.8
+BE.9	cov-lineages/pango-designation	548	1302	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.1.9
+BA.5.3.2	cov-lineages/pango-designation	339	697	designated	CLOSED	COMPLETED	B.1.1.529.5.3.2
+BA.5.3.5	cov-lineages/pango-designation	487	1042	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.3.5
+BA.5.5	cov-lineages/pango-designation	318	656	designated	CLOSED	COMPLETED	B.1.1.529.5.5
+BA.5.5.1	cov-lineages/pango-designation	401	873	designated	CLOSED	COMPLETED	B.1.1.529.5.5.1
+BA.5.5.2	cov-lineages/pango-designation	428	938	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.5.2
+BA.5.5.3	cov-lineages/pango-designation	433	1015	designated, accepted, BA.5	CLOSED	COMPLETED	B.1.1.529.5.5.3
+BA.5.6	cov-lineages/pango-designation	425	738	not accepted	CLOSED	COMPLETED	B.1.1.529.5.6
+BA.5.6.2	cov-lineages/pango-designation	399	903	designated	CLOSED	COMPLETED	B.1.1.529.5.6.2
+BW.1.1	cov-lineages/pango-designation	558	1341	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.6.2.1.1
+BA.5.6.3	cov-lineages/pango-designation	490	1118	monitor, designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.6.3
+BA.5.6.4	cov-lineages/pango-designation	513	1191	designated, BA.5	CLOSED	COMPLETED	B.1.1.529.5.6.4
+BA.5.8	cov-lineages/pango-designation	375	743	designated	CLOSED	COMPLETED	B.1.1.529.5.8
+BA.5.9	cov-lineages/pango-designation	376	753	designated	CLOSED	COMPLETED	B.1.1.529.5.9
+Q.1	cov-lineages/pango-designation	86	39	designated	CLOSED	COMPLETED	B.1.1.7.1
+Q.2	cov-lineages/pango-designation	87	79	designated	CLOSED	COMPLETED	B.1.1.7.2
+Q.3	cov-lineages/pango-designation	88	92	designated	CLOSED	COMPLETED	B.1.1.7.3
+Q.4	cov-lineages/pango-designation	93	176	designated	CLOSED	COMPLETED	B.1.1.7.4
+Q.5	cov-lineages/pango-designation	103	165	designated	CLOSED	COMPLETED	B.1.1.7.5
+Q.6	cov-lineages/pango-designation	106	183	designated	CLOSED	COMPLETED	B.1.1.7.6
+Q.7	cov-lineages/pango-designation	106	183	designated	CLOSED	COMPLETED	B.1.1.7.7
+Q.8	cov-lineages/pango-designation	105	197	designated	CLOSED	COMPLETED	B.1.1.7.8
+B.1.177.88	cov-lineages/pango-designation	27	19	designated	CLOSED	COMPLETED	B.1.177.88
+B.1.214.1	cov-lineages/pango-designation	12	21		CLOSED	COMPLETED	B.1.214.1
+B.1.214.2	cov-lineages/pango-designation	11	20		CLOSED	COMPLETED	B.1.214.2
+B.1.214.4	cov-lineages/pango-designation	23	43		CLOSED	COMPLETED	B.1.214.4
+B.1.243.1	cov-lineages/pango-designation	19	35	designated	CLOSED	COMPLETED	B.1.243.1
+B.1.243.2	cov-lineages/pango-designation	108	169	designated	CLOSED	COMPLETED	B.1.243.2
+B.1.351.3	cov-lineages/pango-designation	41	65	designated	CLOSED	COMPLETED	B.1.351.3
+B.1.351.4	cov-lineages/pango-designation	68	134	not accepted	CLOSED	COMPLETED	B.1.351.4
+B.1.351.5	cov-lineages/pango-designation	120	211	designated	CLOSED	COMPLETED	B.1.351.5
+B.1.400.1	cov-lineages/pango-designation	59	94	designated	CLOSED	COMPLETED	B.1.400.1
+B.1.415.1	cov-lineages/pango-designation	81	157	designated	CLOSED	COMPLETED	B.1.415.1
+B.1.429	cov-lineages/pango-designation	2	3	proposed, designated	CLOSED	COMPLETED	B.1.429
+B.1.429.1	cov-lineages/pango-designation	24	37	designated	CLOSED	COMPLETED	B.1.429.1
+B.1.438	cov-lineages/pango-designation	33	48	correction	CLOSED	COMPLETED	B.1.438
+B.1.466.2	cov-lineages/pango-designation	15	30	proposed	CLOSED	COMPLETED	B.1.466.2
+B.1.525	cov-lineages/pango-designation	3	4	proposed, designated	CLOSED	COMPLETED	B.1.525
+B.1.526	cov-lineages/pango-designation	4	6	proposed, designated	CLOSED	COMPLETED	B.1.526
+B.1.526	cov-lineages/pango-designation	4	45	urgent, correction	CLOSED	COMPLETED	B.1.526
+B.1.575.1	cov-lineages/pango-designation	40	64	correction	CLOSED	COMPLETED	B.1.575.1
+B.1.575.2	cov-lineages/pango-designation	60	116	designated	CLOSED	COMPLETED	B.1.575.2
+B.1.616	cov-lineages/pango-designation	17	31	designated	CLOSED	COMPLETED	B.1.616
+B.1.617	cov-lineages/pango-designation	20	38	designated	CLOSED	COMPLETED	B.1.617
+B.1.617	cov-lineages/pango-designation	20	49	correction	CLOSED	COMPLETED	B.1.617
+B.1.617.1	cov-lineages/pango-designation	52	55	duplicate	CLOSED	COMPLETED	B.1.617.1
+B.1.617.2	cov-lineages/pango-designation	62	113	correction	CLOSED	COMPLETED	B.1.617.2
+B.1.617.2	cov-lineages/pango-designation	62	135	correction	CLOSED	COMPLETED	B.1.617.2
+AY.1	cov-lineages/pango-designation	53	95	designated	CLOSED	COMPLETED	B.1.617.2.1
+AY.10	cov-lineages/pango-designation	97	180	designated	CLOSED	COMPLETED	B.1.617.2.10
+AY.102	cov-lineages/pango-designation	140	272	designated	CLOSED	COMPLETED	B.1.617.2.102
+AY.102.1	cov-lineages/pango-designation	195	325	designated	CLOSED	COMPLETED	B.1.617.2.102.1
+AY.102.2	cov-lineages/pango-designation	200	330	designated	CLOSED	COMPLETED	B.1.617.2.102.2
+AY.104	cov-lineages/pango-designation	145	289		CLOSED	COMPLETED	B.1.617.2.104
+AY.106	cov-lineages/pango-designation	147	287	designated	CLOSED	COMPLETED	B.1.617.2.106
+AY.11	cov-lineages/pango-designation	91	142	designated	CLOSED	COMPLETED	B.1.617.2.11
+AY.112	cov-lineages/pango-designation	185	283	designated	CLOSED	COMPLETED	B.1.617.2.112
+AY.112.1	cov-lineages/pango-designation	185	283	designated	CLOSED	COMPLETED	B.1.617.2.112.1
+AY.112.2	cov-lineages/pango-designation	231	385		CLOSED	COMPLETED	B.1.617.2.112.2
+AY.112.3	cov-lineages/pango-designation	244	388	designated	CLOSED	COMPLETED	B.1.617.2.112.3
+AY.119.1	cov-lineages/pango-designation	176	336	designated	CLOSED	COMPLETED	B.1.617.2.119.1
+AY.119.2	cov-lineages/pango-designation	187	288	designated	CLOSED	COMPLETED	B.1.617.2.119.2
+AY.12	cov-lineages/pango-designation	92	170	designated	CLOSED	COMPLETED	B.1.617.2.12
+AY.121	cov-lineages/pango-designation	165	344	designated	CLOSED	COMPLETED	B.1.617.2.121
+AY.121.1	cov-lineages/pango-designation	165	344	designated	CLOSED	COMPLETED	B.1.617.2.121.1
+AY.122	cov-lineages/pango-designation	152	320	designated	CLOSED	COMPLETED	B.1.617.2.122
+AY.122.1	cov-lineages/pango-designation	152	320	designated	CLOSED	COMPLETED	B.1.617.2.122.1
+AY.122.2	cov-lineages/pango-designation	184	273	designated	CLOSED	COMPLETED	B.1.617.2.122.2
+AY.122.3	cov-lineages/pango-designation	209	371	designated	CLOSED	COMPLETED	B.1.617.2.122.3
+AY.122.6	cov-lineages/pango-designation	245	394	designated	CLOSED	COMPLETED	B.1.617.2.122.6
+AY.123	cov-lineages/pango-designation	159	306	designated	CLOSED	COMPLETED	B.1.617.2.123
+AY.123.1	cov-lineages/pango-designation	205	354	designated	CLOSED	COMPLETED	B.1.617.2.123.1
+AY.124	cov-lineages/pango-designation	160	281	designated	CLOSED	COMPLETED	B.1.617.2.124
+AY.124.1	cov-lineages/pango-designation	181	345	designated	CLOSED	COMPLETED	B.1.617.2.124.1
+AY.125	cov-lineages/pango-designation	163	328	designated	CLOSED	COMPLETED	B.1.617.2.125
+AY.126	cov-lineages/pango-designation	167	253	designated	CLOSED	COMPLETED	B.1.617.2.126
+AY.127	cov-lineages/pango-designation	175	342	designated	CLOSED	COMPLETED	B.1.617.2.127
+AY.127.1	cov-lineages/pango-designation	204	352	designated	CLOSED	COMPLETED	B.1.617.2.127.1
+AY.127.3	cov-lineages/pango-designation	247	525	designated	CLOSED	COMPLETED	B.1.617.2.127.3
+AY.128	cov-lineages/pango-designation	191	309	designated	CLOSED	COMPLETED	B.1.617.2.128
+AY.129	cov-lineages/pango-designation	197	329	designated	CLOSED	COMPLETED	B.1.617.2.129
+AY.13	cov-lineages/pango-designation	107	198	designated	CLOSED	COMPLETED	B.1.617.2.13
+AY.130	cov-lineages/pango-designation	203	351	designated	CLOSED	COMPLETED	B.1.617.2.130
+AY.131	cov-lineages/pango-designation	211	373	designated	CLOSED	COMPLETED	B.1.617.2.131
+AY.132	cov-lineages/pango-designation	214	379	designated	CLOSED	COMPLETED	B.1.617.2.132
+AY.133	cov-lineages/pango-designation	215	380	designated	CLOSED	COMPLETED	B.1.617.2.133
+AY.14	cov-lineages/pango-designation	107	198	designated	CLOSED	COMPLETED	B.1.617.2.14
+AY.15	cov-lineages/pango-designation	107	198	designated	CLOSED	COMPLETED	B.1.617.2.15
+AY.16	cov-lineages/pango-designation	107	198	designated	CLOSED	COMPLETED	B.1.617.2.16
+AY.17	cov-lineages/pango-designation	107	198	designated	CLOSED	COMPLETED	B.1.617.2.17
+AY.18	cov-lineages/pango-designation	107	198	designated	CLOSED	COMPLETED	B.1.617.2.18
+AY.19	cov-lineages/pango-designation	107	198	designated	CLOSED	COMPLETED	B.1.617.2.19
+AY.2	cov-lineages/pango-designation	54	107	designated	CLOSED	COMPLETED	B.1.617.2.2
+AY.20	cov-lineages/pango-designation	107	198	designated	CLOSED	COMPLETED	B.1.617.2.20
+AY.20.1	cov-lineages/pango-designation	153	318	designated	CLOSED	COMPLETED	B.1.617.2.20.1
+AY.21	cov-lineages/pango-designation	107	198	designated	CLOSED	COMPLETED	B.1.617.2.21
+AY.22	cov-lineages/pango-designation	107	198	designated	CLOSED	COMPLETED	B.1.617.2.22
+AY.23	cov-lineages/pango-designation	98	175	designated	CLOSED	COMPLETED	B.1.617.2.23
+AY.23.1	cov-lineages/pango-designation	132	237	designated	CLOSED	COMPLETED	B.1.617.2.23.1
+AY.23.2	cov-lineages/pango-designation	171	266	designated	CLOSED	COMPLETED	B.1.617.2.23.2
+AY.24	cov-lineages/pango-designation	98	175	designated	CLOSED	COMPLETED	B.1.617.2.24
+AY.25	cov-lineages/pango-designation	101	181	designated	CLOSED	COMPLETED	B.1.617.2.25
+AY.25.1	cov-lineages/pango-designation	174	313	designated	CLOSED	COMPLETED	B.1.617.2.25.1
+AY.25.1.1	cov-lineages/pango-designation	193	355	designated	CLOSED	COMPLETED	B.1.617.2.25.1.1
+AY.26	cov-lineages/pango-designation	109	188	designated	CLOSED	COMPLETED	B.1.617.2.26
+AY.26.1	cov-lineages/pango-designation	183	278	designated	CLOSED	COMPLETED	B.1.617.2.26.1
+AY.27	cov-lineages/pango-designation	110	196	designated	CLOSED	COMPLETED	B.1.617.2.27
+AY.28	cov-lineages/pango-designation	111	199	designated	CLOSED	COMPLETED	B.1.617.2.28
+AY.29	cov-lineages/pango-designation	115	208	designated	CLOSED	COMPLETED	B.1.617.2.29
+AY.29.1	cov-lineages/pango-designation	129	224	designated	CLOSED	COMPLETED	B.1.617.2.29.1
+AY.29.2	cov-lineages/pango-designation	222	381	designated	CLOSED	COMPLETED	B.1.617.2.29.2
+AY.3	cov-lineages/pango-designation	63	121	designated	CLOSED	COMPLETED	B.1.617.2.3
+AY.3.1	cov-lineages/pango-designation	73	147	designated	CLOSED	COMPLETED	B.1.617.2.3.1
+AY.3.2	cov-lineages/pango-designation	192	312	designated	CLOSED	COMPLETED	B.1.617.2.3.2
+AY.3.3	cov-lineages/pango-designation	206	365	designated	CLOSED	COMPLETED	B.1.617.2.3.3
+AY.30	cov-lineages/pango-designation	116	207	designated	CLOSED	COMPLETED	B.1.617.2.30
+AY.31	cov-lineages/pango-designation	117	206	designated	CLOSED	COMPLETED	B.1.617.2.31
+AY.32	cov-lineages/pango-designation	118	209	designated	CLOSED	COMPLETED	B.1.617.2.32
+AY.33	cov-lineages/pango-designation	119	215	designated	CLOSED	COMPLETED	B.1.617.2.33
+AY.33	cov-lineages/pango-designation	119	219	designated	CLOSED	COMPLETED	B.1.617.2.33
+AY.33.1	cov-lineages/pango-designation	208	370	designated	CLOSED	COMPLETED	B.1.617.2.33.1
+AY.33.2	cov-lineages/pango-designation	257	403	designated	CLOSED	COMPLETED	B.1.617.2.33.2
+AY.34	cov-lineages/pango-designation	123	217	designated	CLOSED	COMPLETED	B.1.617.2.34
+AY.34.1	cov-lineages/pango-designation	168	255	designated	CLOSED	COMPLETED	B.1.617.2.34.1
+AY.34.1.1	cov-lineages/pango-designation	168	255	designated	CLOSED	COMPLETED	B.1.617.2.34.1.1
+AY.34.2	cov-lineages/pango-designation	172	269	designated	CLOSED	COMPLETED	B.1.617.2.34.2
+AY.35	cov-lineages/pango-designation	123	217	designated	CLOSED	COMPLETED	B.1.617.2.35
+AY.36	cov-lineages/pango-designation	124	225	designated	CLOSED	COMPLETED	B.1.617.2.36
+AY.36.1	cov-lineages/pango-designation	217	434	designated	CLOSED	COMPLETED	B.1.617.2.36.1
+AY.37	cov-lineages/pango-designation	125	228	designated	CLOSED	COMPLETED	B.1.617.2.37
+AY.38	cov-lineages/pango-designation	126	229	designated	CLOSED	COMPLETED	B.1.617.2.38
+AY.39	cov-lineages/pango-designation	130	234	designated	CLOSED	COMPLETED	B.1.617.2.39
+AY.39.1	cov-lineages/pango-designation	130	234	designated	CLOSED	COMPLETED	B.1.617.2.39.1
+AY.39.1.1	cov-lineages/pango-designation	130	234	designated	CLOSED	COMPLETED	B.1.617.2.39.1.1
+AY.39.1.2	cov-lineages/pango-designation	190	307	designated	CLOSED	COMPLETED	B.1.617.2.39.1.2
+AY.39.1.3	cov-lineages/pango-designation	202	339	designated	CLOSED	COMPLETED	B.1.617.2.39.1.3
+AY.39.1.4	cov-lineages/pango-designation	265	438	designated	CLOSED	COMPLETED	B.1.617.2.39.1.4
+AY.39.2	cov-lineages/pango-designation	141	295	designated	CLOSED	COMPLETED	B.1.617.2.39.2
+AY.39.4	cov-lineages/pango-designation	258	406	designated	CLOSED	COMPLETED	B.1.617.2.39.4
+AY.4	cov-lineages/pango-designation	97	180	designated	CLOSED	COMPLETED	B.1.617.2.4
+AY.4.1	cov-lineages/pango-designation	122	214	designated	CLOSED	COMPLETED	B.1.617.2.4.1
+AY.4.10	cov-lineages/pango-designation	212	332	designated	CLOSED	COMPLETED	B.1.617.2.4.10
+AY.4.2	cov-lineages/pango-designation	127	223	designated	CLOSED	COMPLETED	B.1.617.2.4.2
+AY.4.2.1	cov-lineages/pango-designation	149	248	designated	CLOSED	COMPLETED	B.1.617.2.4.2.1
+AY.4.2.2	cov-lineages/pango-designation	166	249	designated	CLOSED	COMPLETED	B.1.617.2.4.2.2
+AY.4.2.3	cov-lineages/pango-designation	173	356	designated	CLOSED	COMPLETED	B.1.617.2.4.2.3
+AY.4.2.5	cov-lineages/pango-designation	261	543	designated	CLOSED	COMPLETED	B.1.617.2.4.2.5
+AY.4.3	cov-lineages/pango-designation	128	222	designated	CLOSED	COMPLETED	B.1.617.2.4.3
+AY.4.4	cov-lineages/pango-designation	132	237	designated	CLOSED	COMPLETED	B.1.617.2.4.4
+AY.4.5	cov-lineages/pango-designation	133	241	designated	CLOSED	COMPLETED	B.1.617.2.4.5
+AY.4.6	cov-lineages/pango-designation	170	264	designated	CLOSED	COMPLETED	B.1.617.2.4.6
+AY.4.7	cov-lineages/pango-designation	188	291	designated	CLOSED	COMPLETED	B.1.617.2.4.7
+AY.4.8	cov-lineages/pango-designation	189	304	designated	CLOSED	COMPLETED	B.1.617.2.4.8
+AY.4.9	cov-lineages/pango-designation	212	332	designated	CLOSED	COMPLETED	B.1.617.2.4.9
+AY.40	cov-lineages/pango-designation	132	237	designated	CLOSED	COMPLETED	B.1.617.2.40
+AY.41	cov-lineages/pango-designation	132	237	designated	CLOSED	COMPLETED	B.1.617.2.41
+AY.42	cov-lineages/pango-designation	134	239	designated	CLOSED	COMPLETED	B.1.617.2.42
+AY.42.1	cov-lineages/pango-designation	201	331	designated	CLOSED	COMPLETED	B.1.617.2.42.1
+AY.43	cov-lineages/pango-designation	135	240	designated	CLOSED	COMPLETED	B.1.617.2.43
+AY.43.1	cov-lineages/pango-designation	154	319	designated	CLOSED	COMPLETED	B.1.617.2.43.1
+AY.43.2	cov-lineages/pango-designation	154	319	designated	CLOSED	COMPLETED	B.1.617.2.43.2
+AY.43.3	cov-lineages/pango-designation	162	337	designated	CLOSED	COMPLETED	B.1.617.2.43.3
+AY.43.4	cov-lineages/pango-designation	164	317	designated	CLOSED	COMPLETED	B.1.617.2.43.4
+AY.43.5	cov-lineages/pango-designation	177	335	designated	CLOSED	COMPLETED	B.1.617.2.43.5
+AY.43.6	cov-lineages/pango-designation	194	315	designated	CLOSED	COMPLETED	B.1.617.2.43.6
+AY.43.7	cov-lineages/pango-designation	213	378	designated	CLOSED	COMPLETED	B.1.617.2.43.7
+AY.44	cov-lineages/pango-designation	136	242	designated	CLOSED	COMPLETED	B.1.617.2.44
+AY.45	cov-lineages/pango-designation	137	246	designated	CLOSED	COMPLETED	B.1.617.2.45
+AY.46	cov-lineages/pango-designation	138	247	designated	CLOSED	COMPLETED	B.1.617.2.46
+AY.46.1	cov-lineages/pango-designation	138	247	designated	CLOSED	COMPLETED	B.1.617.2.46.1
+AY.46.2	cov-lineages/pango-designation	138	247	designated	CLOSED	COMPLETED	B.1.617.2.46.2
+AY.46.3	cov-lineages/pango-designation	138	247	designated	CLOSED	COMPLETED	B.1.617.2.46.3
+AY.46.4	cov-lineages/pango-designation	138	247	designated	CLOSED	COMPLETED	B.1.617.2.46.4
+AY.46.5	cov-lineages/pango-designation	138	247	designated	CLOSED	COMPLETED	B.1.617.2.46.5
+AY.46.6	cov-lineages/pango-designation	138	247	designated	CLOSED	COMPLETED	B.1.617.2.46.6
+AY.46.6.1	cov-lineages/pango-designation	207	369	designated	CLOSED	COMPLETED	B.1.617.2.46.6.1
+AY.47	cov-lineages/pango-designation	139	254	designated	CLOSED	COMPLETED	B.1.617.2.47
+AY.5	cov-lineages/pango-designation	97	180	designated	CLOSED	COMPLETED	B.1.617.2.5
+AY.5.5	cov-lineages/pango-designation	182	363	correction	CLOSED	COMPLETED	B.1.617.2.5.5
+AY.5.7	cov-lineages/pango-designation	234	387		CLOSED	COMPLETED	B.1.617.2.5.7
+AY.58	cov-lineages/pango-designation	144	286	designated	CLOSED	COMPLETED	B.1.617.2.58
+AY.6	cov-lineages/pango-designation	97	180	designated	CLOSED	COMPLETED	B.1.617.2.6
+AY.63	cov-lineages/pango-designation	144	286	designated	CLOSED	COMPLETED	B.1.617.2.63
+AY.66	cov-lineages/pango-designation	142	271		CLOSED	COMPLETED	B.1.617.2.66
+AY.69	cov-lineages/pango-designation	143	260	designated	CLOSED	COMPLETED	B.1.617.2.69
+AY.7	cov-lineages/pango-designation	97	180	designated	CLOSED	COMPLETED	B.1.617.2.7
+AY.8	cov-lineages/pango-designation	97	180	designated	CLOSED	COMPLETED	B.1.617.2.8
+AY.9	cov-lineages/pango-designation	97	180	designated	CLOSED	COMPLETED	B.1.617.2.9
+AY.9.2.2	cov-lineages/pango-designation	186	284	designated	CLOSED	COMPLETED	B.1.617.2.9.2.2
+AY.98.1.1	cov-lineages/pango-designation	290	604	designated	CLOSED	COMPLETED	B.1.617.2.98.1.1
+AY.99	cov-lineages/pango-designation	157	258	designated	CLOSED	COMPLETED	B.1.617.2.99
+AY.99.1	cov-lineages/pango-designation	157	258	designated	CLOSED	COMPLETED	B.1.617.2.99.1
+AY.99.2	cov-lineages/pango-designation	157	258	designated	CLOSED	COMPLETED	B.1.617.2.99.2
+B.1.618	cov-lineages/pango-designation	28	46	designated	CLOSED	COMPLETED	B.1.618
+B.1.619	cov-lineages/pango-designation	31	44	designated	CLOSED	COMPLETED	B.1.619
+B.1.619	cov-lineages/pango-designation	31	149	correction	CLOSED	COMPLETED	B.1.619
+B.1.619.1	cov-lineages/pango-designation	76	160	designated	CLOSED	COMPLETED	B.1.619.1
+B.1.620	cov-lineages/pango-designation	32	54	designated	CLOSED	COMPLETED	B.1.620
+B.1.621	cov-lineages/pango-designation	35	57	designated	CLOSED	COMPLETED	B.1.621
+B.1.621.1	cov-lineages/pango-designation	64	115		CLOSED	COMPLETED	B.1.621.1
+BB.1	cov-lineages/pango-designation	199	232	designated	CLOSED	COMPLETED	B.1.621.1.1
+BB.2	cov-lineages/pango-designation	199	232	designated	CLOSED	COMPLETED	B.1.621.1.2
+B.1.622	cov-lineages/pango-designation	36	58	designated	CLOSED	COMPLETED	B.1.622
+B.1.623	cov-lineages/pango-designation	43	25	designated	CLOSED	COMPLETED	B.1.623
+B.1.624	cov-lineages/pango-designation	57	91	designated	CLOSED	COMPLETED	B.1.624
+B.1.625	cov-lineages/pango-designation	58	93	designated	CLOSED	COMPLETED	B.1.625
+B.1.626	cov-lineages/pango-designation	61	118	designated	CLOSED	COMPLETED	B.1.626
+B.1.626	cov-lineages/pango-designation	61	136	duplicate	CLOSED	COMPLETED	B.1.626
+B.1.627	cov-lineages/pango-designation	65	130	designated	CLOSED	COMPLETED	B.1.627
+B.1.628	cov-lineages/pango-designation	77	143	correction	CLOSED	COMPLETED	B.1.628
+B.1.629	cov-lineages/pango-designation	66	132	designated	CLOSED	COMPLETED	B.1.629
+B.1.630	cov-lineages/pango-designation	70	137	designated	CLOSED	COMPLETED	B.1.630
+B.1.631	cov-lineages/pango-designation	74	146	designated	CLOSED	COMPLETED	B.1.631
+B.1.632	cov-lineages/pango-designation	79	156	designated	CLOSED	COMPLETED	B.1.632
+B.1.633	cov-lineages/pango-designation	80	155	designated	CLOSED	COMPLETED	B.1.633
+B.1.634	cov-lineages/pango-designation	83	159	designated	CLOSED	COMPLETED	B.1.634
+B.1.635	cov-lineages/pango-designation	83	159	designated	CLOSED	COMPLETED	B.1.635
+B.1.636	cov-lineages/pango-designation	94	173	designated	CLOSED	COMPLETED	B.1.636
+B.1.637	cov-lineages/pango-designation	102	154	comment, designated	CLOSED	COMPLETED	B.1.637
+B.1.637.1	cov-lineages/pango-designation	180	353	designated	CLOSED	COMPLETED	B.1.637.1
+B.1.638	cov-lineages/pango-designation	114	205	designated	CLOSED	COMPLETED	B.1.638
+B.1.639	cov-lineages/pango-designation	148	161	designated	CLOSED	COMPLETED	B.1.639
+B.1.640	cov-lineages/pango-designation	151	297	designated	CLOSED	COMPLETED	B.1.640
+B.1.640.1	cov-lineages/pango-designation	179	362	designated	CLOSED	COMPLETED	B.1.640.1
+B.1.640.2	cov-lineages/pango-designation	179	362	designated	CLOSED	COMPLETED	B.1.640.2
+B.1.641	cov-lineages/pango-designation	232	453	designated	CLOSED	COMPLETED	B.1.641
+B.59	cov-lineages/pango-designation	112	194	correction	CLOSED	COMPLETED	B.59
+XA	cov-lineages/pango-designation	38	63	designated	CLOSED	COMPLETED	XA
+XAA	cov-lineages/pango-designation	322	664	designated	CLOSED	COMPLETED	XAA
+XAB	cov-lineages/pango-designation	323	665	designated	CLOSED	COMPLETED	XAB
+XAC	cov-lineages/pango-designation	328	590	designated	CLOSED	COMPLETED	XAC
+XAD	cov-lineages/pango-designation	337	607	designated, recombinant	CLOSED	COMPLETED	XAD
+XAE	cov-lineages/pango-designation	341	637	designated	CLOSED	COMPLETED	XAE
+XAF	cov-lineages/pango-designation	343	676	designated	CLOSED	COMPLETED	XAF
+XAG	cov-lineages/pango-designation	345	709	designated	CLOSED	COMPLETED	XAG
+XAH	cov-lineages/pango-designation	350	755	designated	CLOSED	COMPLETED	XAH
+XAJ	cov-lineages/pango-designation	372	826	designated	CLOSED	COMPLETED	XAJ
+XAK	cov-lineages/pango-designation	373	823	designated	CLOSED	COMPLETED	XAK
+XAL	cov-lineages/pango-designation	383	757	designated, recombinant	CLOSED	COMPLETED	XAL
+XAM	cov-lineages/pango-designation	384	759	designated, recombinant	CLOSED	COMPLETED	XAM
+XAN	cov-lineages/pango-designation	385	771	designated, recombinant	CLOSED	COMPLETED	XAN
+XAP	cov-lineages/pango-designation	386	789	designated, recombinant	CLOSED	COMPLETED	XAP
+XAQ	cov-lineages/pango-designation	388	798	designated, recombinant	CLOSED	COMPLETED	XAQ
+XAR	cov-lineages/pango-designation	405	860	designated, recombinant	CLOSED	COMPLETED	XAR
+XAS	cov-lineages/pango-designation	414	882	designated, recombinant	CLOSED	COMPLETED	XAS
+XAT	cov-lineages/pango-designation	416	885	designated, recombinant	CLOSED	COMPLETED	XAT
+XAU	cov-lineages/pango-designation	417	894	designated, recombinant	CLOSED	COMPLETED	XAU
+XAV	cov-lineages/pango-designation	418	911	designated, recombinant	CLOSED	COMPLETED	XAV
+XAW	cov-lineages/pango-designation	422	895	designated, recombinant	CLOSED	COMPLETED	XAW
+XAY	cov-lineages/pango-designation	448	844	monitor, designated, recombinant	CLOSED	COMPLETED	XAY
+XAY.1	cov-lineages/pango-designation	511	1208	monitor, recombinant sublineage	CLOSED	COMPLETED	XAY.1
+XAY.1.1	cov-lineages/pango-designation	531	1255	monitor, designated, recombinant sublineage	CLOSED	COMPLETED	XAY.1.1
+XAY.2.3	cov-lineages/pango-designation	737	1896	designated, recombinant sublineage	CLOSED	COMPLETED	XAY.2.3
+XAZ	cov-lineages/pango-designation	424	797	designated, recombinant	CLOSED	COMPLETED	XAZ
+XB	cov-lineages/pango-designation	158	189	designated	CLOSED	COMPLETED	XB
+XBA	cov-lineages/pango-designation	448	844	monitor, designated, recombinant	CLOSED	COMPLETED	XBA
+XBB	cov-lineages/pango-designation	455	1058	accepted, recombinant	CLOSED	COMPLETED	XBB
+XBB.1	cov-lineages/pango-designation	484	1088	designated, recombinant sublineage	CLOSED	COMPLETED	XBB.1
+XBB.1.11	cov-lineages/pango-designation	636	1490	monitor, recombinant sublineage	CLOSED	COMPLETED	XBB.1.11
+XBB.1.11.1	cov-lineages/pango-designation	636	1490	monitor, recombinant sublineage	CLOSED	COMPLETED	XBB.1.11.1
+FP.1	cov-lineages/pango-designation	718	1847	designated, XBB	CLOSED	COMPLETED	XBB.1.11.1.1
+FP.2.1	cov-lineages/pango-designation	762	2012		CLOSED	COMPLETED	XBB.1.11.1.2.1
+FP.2.1.1	sars-cov-2-variants/lineage-proposals	51	329	Convergent evolution, Multiple lineages, S:452, designated	CLOSED	COMPLETED	XBB.1.11.1.2.1.1
+FP.3	cov-lineages/pango-designation	763	2021		CLOSED	COMPLETED	XBB.1.11.1.3
+XBB.1.13	cov-lineages/pango-designation	647	1487	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.13
+XBB.1.16	cov-lineages/pango-designation	674	1723	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.16
+XBB.1.16.10	cov-lineages/pango-designation	784	1984	monitor, designated	CLOSED	COMPLETED	XBB.1.16.10
+HF.1	cov-lineages/pango-designation	802	2083		CLOSED	COMPLETED	XBB.1.16.13.1
+HF.1.1	sars-cov-2-variants/lineage-proposals	99	521	New mutations, designated, partially designated	CLOSED	NOT_PLANNED	XBB.1.16.13.1.1
+XBB.1.16.14	sars-cov-2-variants/lineage-proposals	51	329	Convergent evolution, Multiple lineages, S:452, designated	CLOSED	COMPLETED	XBB.1.16.14
+JM.1	sars-cov-2-variants/lineage-proposals	130	569	S:478, designated, S:521, S:52	CLOSED	COMPLETED	XBB.1.16.15.1
+XBB.1.16.17	sars-cov-2-variants/lineage-proposals	20	354	designated, S:554	CLOSED	COMPLETED	XBB.1.16.17
+XBB.1.16.18	sars-cov-2-variants/lineage-proposals	43	276	Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.16.18
+XBB.1.16.2	cov-lineages/pango-designation	741	1802	monitor, XBB	CLOSED	COMPLETED	XBB.1.16.2
+GY.1	cov-lineages/pango-designation	786	2066	designated	CLOSED	COMPLETED	XBB.1.16.2.1
+GY.4	sars-cov-2-variants/lineage-proposals	6	345	designated, S:450	CLOSED	COMPLETED	XBB.1.16.2.4
+GY.6	sars-cov-2-variants/lineage-proposals	7	308	S:456, Mutations outside spike, designated, Double Nuc mutations	CLOSED	NOT_PLANNED	XBB.1.16.2.6
+GY.8	sars-cov-2-variants/lineage-proposals	63	460	S:456, designated	CLOSED	COMPLETED	XBB.1.16.2.8
+XBB.1.16.23	sars-cov-2-variants/lineage-proposals	100	517	To be proposed, Multiple lineages, designated, S:304, partially designated	CLOSED	COMPLETED	XBB.1.16.23
+XBB.1.16.24	sars-cov-2-variants/lineage-proposals	106	672	Saltation, S:478, designated, S:554, combo	CLOSED	COMPLETED	XBB.1.16.24
+XBB.1.16.4	cov-lineages/pango-designation	747	1903	monitor, designated, XBB	CLOSED	COMPLETED	XBB.1.16.4
+XBB.1.16.5	cov-lineages/pango-designation	749	1983	designated, UShER not clean	CLOSED	COMPLETED	XBB.1.16.5
+JF.1	sars-cov-2-variants/lineage-proposals	79	531	S:456, designated, S:455, FLip	CLOSED	COMPLETED	XBB.1.16.6.1
+JF.2	sars-cov-2-variants/lineage-proposals	80	457	Rapid review needed, S:456, S:478, designated, S:675, combo	CLOSED	COMPLETED	XBB.1.16.6.2
+GA.4	sars-cov-2-variants/lineage-proposals	25	265	Convergent evolution, S:356, designated	CLOSED	COMPLETED	XBB.1.17.1.4
+GA.4.1	sars-cov-2-variants/lineage-proposals	67	661	designated	CLOSED	COMPLETED	XBB.1.17.1.4.1
+XBB.1.19	cov-lineages/pango-designation	685	1680	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.19
+XBB.1.19.1	cov-lineages/pango-designation	686	1765	designated	CLOSED	NOT_PLANNED	XBB.1.19.1
+GW.1	sars-cov-2-variants/lineage-proposals	13	157	Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.19.1.1
+GW.1.1	sars-cov-2-variants/lineage-proposals	97	355	S:456, Emerged in an undersampled area, designated	CLOSED	COMPLETED	XBB.1.19.1.1.1
+GW.5	cov-lineages/pango-designation	797	2142		CLOSED	COMPLETED	XBB.1.19.1.5
+GW.5	sars-cov-2-variants/lineage-proposals	46	61	Saltation, To be proposed, Rapid review needed, designated	CLOSED	COMPLETED	XBB.1.19.1.5
+GW.5.1.1	sars-cov-2-variants/lineage-proposals	119	643	To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475	OPEN		XBB.1.19.1.5.1.1
+XBB.1.19.2	sars-cov-2-variants/lineage-proposals	47	233	Apparently slow, designated, S:521	CLOSED	COMPLETED	XBB.1.19.2
+XBB.1.21	cov-lineages/pango-designation	693	1646	designated, XBB	CLOSED	COMPLETED	XBB.1.21
+XBB.1.22	cov-lineages/pango-designation	695	1704	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.22
+XBB.1.22.1	cov-lineages/pango-designation	695	1704	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.22.1
+FY.2	cov-lineages/pango-designation	745	1859	monitor, designated, XBB	CLOSED	COMPLETED	XBB.1.22.1.2
+FY.2.1	sars-cov-2-variants/lineage-proposals	22	234	New mutations, designated	CLOSED	COMPLETED	XBB.1.22.1.2.1
+FY.3.2	cov-lineages/pango-designation	806	2000	designated	CLOSED	COMPLETED	XBB.1.22.1.3.2
+FY.4	cov-lineages/pango-designation	746	1979	designated	CLOSED	COMPLETED	XBB.1.22.1.4
+FY.4.1.1	sars-cov-2-variants/lineage-proposals	21	302	Convergent evolution, designated	CLOSED	COMPLETED	XBB.1.22.1.4.1.1
+FY.4.2	sars-cov-2-variants/lineage-proposals	61	487	New mutations, To be proposed, designated, partially designated	CLOSED	COMPLETED	XBB.1.22.1.4.2
+FY.5	cov-lineages/pango-designation	775	1965	monitor, designated, XBB, Recommend if grows, reviewed	CLOSED	COMPLETED	XBB.1.22.1.5
+FY.7	sars-cov-2-variants/lineage-proposals	26	257	Saltation, Apparently slow, designated	CLOSED	COMPLETED	XBB.1.22.1.7
+HU.1	sars-cov-2-variants/lineage-proposals	64	173	New mutations, designated	CLOSED	COMPLETED	XBB.1.22.2.1
+HU.1.1	sars-cov-2-variants/lineage-proposals	64	173	New mutations, designated	CLOSED	COMPLETED	XBB.1.22.2.1.1
+HU.2	sars-cov-2-variants/lineage-proposals	50	364	Saltation, designated	CLOSED	COMPLETED	XBB.1.22.2.2
+XBB.1.27	cov-lineages/pango-designation	697	1654	monitor, designated, recombinant sublineage	CLOSED	COMPLETED	XBB.1.27
+XBB.1.28	cov-lineages/pango-designation	714	1757	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.28
+XBB.1.31	cov-lineages/pango-designation	716	1837	designated, XBB	CLOSED	COMPLETED	XBB.1.31
+XBB.1.31.1	sars-cov-2-variants/lineage-proposals	48	141	Mutations outside spike, designated	CLOSED	NOT_PLANNED	XBB.1.31.1
+XBB.1.32	cov-lineages/pango-designation	754	1827	designated, XBB, Recommend if grows	CLOSED	COMPLETED	XBB.1.32
+XBB.1.32.1	cov-lineages/pango-designation	754	1827	designated, XBB, Recommend if grows	CLOSED	COMPLETED	XBB.1.32.1
+XBB.1.33	cov-lineages/pango-designation	726	1879	designated, recommended, Saltation, XBB	CLOSED	COMPLETED	XBB.1.33
+XBB.1.34	cov-lineages/pango-designation	727	1621	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.34
+XBB.1.36	cov-lineages/pango-designation	738	1781	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.36
+XBB.1.37	cov-lineages/pango-designation	751	1929	designated, XBB, Recommend if grows	CLOSED	COMPLETED	XBB.1.37
+XBB.1.37.1	cov-lineages/pango-designation	751	1929	designated, XBB, Recommend if grows	CLOSED	COMPLETED	XBB.1.37.1
+XBB.1.4.1	cov-lineages/pango-designation	561	1352	designated, recombinant sublineage	CLOSED	COMPLETED	XBB.1.4.1
+XBB.1.4.2	cov-lineages/pango-designation	783	2031		CLOSED	COMPLETED	XBB.1.4.2
+XBB.1.41	cov-lineages/pango-designation	759	1997	designated	CLOSED	COMPLETED	XBB.1.41
+XBB.1.41.1	sars-cov-2-variants/lineage-proposals	9	150	Convergent evolution, S:478, designated	CLOSED	COMPLETED	XBB.1.41.1
+XBB.1.41.2	sars-cov-2-variants/lineage-proposals	68	389	Convergent evolution, designated	CLOSED	COMPLETED	XBB.1.41.2
+XBB.1.42	cov-lineages/pango-designation	767	1954	designated, recombinant, XBB	CLOSED	COMPLETED	XBB.1.42
+HL.1	sars-cov-2-variants/lineage-proposals	14	352	New mutations	CLOSED	COMPLETED	XBB.1.42.2.1
+XBB.1.43	cov-lineages/pango-designation	766	2015	designated	CLOSED	COMPLETED	XBB.1.43
+XBB.1.43.1	cov-lineages/pango-designation	766	2015	designated	CLOSED	COMPLETED	XBB.1.43.1
+XBB.1.44.1	cov-lineages/pango-designation	773	2043	designated	CLOSED	COMPLETED	XBB.1.44.1
+XBB.1.45.1	cov-lineages/pango-designation	781	1937	recommended, XBB	CLOSED	COMPLETED	XBB.1.45.1
+XBB.1.5.10	cov-lineages/pango-designation	646	1614	monitor, designated, XBB	CLOSED	COMPLETED	XBB.1.5.10
+HY.1	sars-cov-2-variants/lineage-proposals	55	453	S:478, Multiple lineages, designated, partially designated, s:1122	OPEN	REOPENED	XBB.1.5.100.1
+JD.1	cov-lineages/pango-designation	804	2071	designated	CLOSED	COMPLETED	XBB.1.5.102.1
+JD.1	cov-lineages/pango-designation	804	2203	designated	CLOSED	COMPLETED	XBB.1.5.102.1
+JD.1.1	cov-lineages/pango-designation	808	2174	designated	CLOSED	COMPLETED	XBB.1.5.102.1.1
+JD.1.1.1	sars-cov-2-variants/lineage-proposals	135	864	Emerged in an undersampled area, designated, FLip, S:475, S:248	CLOSED	COMPLETED	XBB.1.5.102.1.1.1
+JD.1.1.2	sars-cov-2-variants/lineage-proposals	136	754	designated, FLip, S:475, S:583	CLOSED	COMPLETED	XBB.1.5.102.1.1.2
+JD.1.2	sars-cov-2-variants/lineage-proposals	110	136	designated, FLip	CLOSED	COMPLETED	XBB.1.5.102.1.2
+XBB.1.5.103	cov-lineages/pango-designation	809	2192	designated	CLOSED	COMPLETED	XBB.1.5.103
+XBB.1.5.106	sars-cov-2-variants/lineage-proposals	123	351	New mutations, Emerged in an undersampled area, designated	CLOSED	COMPLETED	XBB.1.5.106
+EK.1	cov-lineages/pango-designation	660	1638	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.5.13.1
+EK.3	cov-lineages/pango-designation	702	1684	designated, XBB	CLOSED	COMPLETED	XBB.1.5.13.3
+GF.1	cov-lineages/pango-designation	758	1921	designated, XBB	CLOSED	COMPLETED	XBB.1.5.24.1
+XBB.1.5.25	cov-lineages/pango-designation	683	1643	monitor, designated, potential artefact, recombinant sublineage	CLOSED	COMPLETED	XBB.1.5.25
+XBB.1.5.26	cov-lineages/pango-designation	691	1688	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.5.26
+EU.1	cov-lineages/pango-designation	691	1688	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.5.26.1
+EU.1.1	cov-lineages/pango-designation	691	1688	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.5.26.1.1
+XBB.1.5.30	cov-lineages/pango-designation	743	1660	designated, XBB.1.5	CLOSED	COMPLETED	XBB.1.5.30
+HM.1	sars-cov-2-variants/lineage-proposals	112	59	Multiple lineages, designated	CLOSED	NOT_PLANNED	XBB.1.5.30.1
+FT.1	cov-lineages/pango-designation	732	1745	designated, XBB.1.5	CLOSED	COMPLETED	XBB.1.5.39.1
+FT.3	sars-cov-2-variants/lineage-proposals	39	266	To be proposed, Rapid review needed, S:478, designated	CLOSED	COMPLETED	XBB.1.5.39.3
+FT.3.1	sars-cov-2-variants/lineage-proposals	39	266	To be proposed, Rapid review needed, S:478, designated	CLOSED	COMPLETED	XBB.1.5.39.3.1
+FT.3.1.1	cov-lineages/pango-designation	799	2140	designated	CLOSED	COMPLETED	XBB.1.5.39.3.1.1
+XBB.1.5.41	cov-lineages/pango-designation	733	1941	partially designated	CLOSED	COMPLETED	XBB.1.5.41
+XBB.1.5.42	cov-lineages/pango-designation	734	1933	designated, XBB.1.5	CLOSED	COMPLETED	XBB.1.5.42
+GR.1	cov-lineages/pango-designation	778	1966	designated, XBB.1.5	CLOSED	COMPLETED	XBB.1.5.42.1
+XBB.1.5.44	cov-lineages/pango-designation	736	1907	designated, XBB.1.5	CLOSED	COMPLETED	XBB.1.5.44
+HC.2	sars-cov-2-variants/lineage-proposals	86	433	New mutations, designated	CLOSED	COMPLETED	XBB.1.5.44.2
+XBB.1.5.45	cov-lineages/pango-designation	756	1792	XBB.1.5	CLOSED	NOT_PLANNED	XBB.1.5.45
+GB.1	cov-lineages/pango-designation	750	1969	designated	CLOSED	COMPLETED	XBB.1.5.46.1
+GB.2	cov-lineages/pango-designation	779	1891	designated, XBB.1.5	CLOSED	COMPLETED	XBB.1.5.46.2
+XBB.1.5.53	cov-lineages/pango-designation	740	1804	designated, XBB.1.5	CLOSED	COMPLETED	XBB.1.5.53
+JB.2	sars-cov-2-variants/lineage-proposals	74	209	Saltation, S:478, Small clusters ??, designated, S:554	CLOSED	COMPLETED	XBB.1.5.53.2
+JB.2.1	sars-cov-2-variants/lineage-proposals	74	209	Saltation, S:478, Small clusters ??, designated, S:554	CLOSED	COMPLETED	XBB.1.5.53.2.1
+HP.1	sars-cov-2-variants/lineage-proposals	53	277	S:478, Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.5.55.1
+HP.1.1	sars-cov-2-variants/lineage-proposals	53	277	S:478, Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.5.55.1.1
+XBB.1.5.57	cov-lineages/pango-designation	748	1973	designated	CLOSED	COMPLETED	XBB.1.5.57
+HZ.1	sars-cov-2-variants/lineage-proposals	57	514	S:478, designated	CLOSED	COMPLETED	XBB.1.5.68.1
+XBB.1.5.70	cov-lineages/pango-designation	757	1982	designated, Saltation, XBB.1.5	CLOSED	COMPLETED	XBB.1.5.70
+GK.1.3	sars-cov-2-variants/lineage-proposals	8	179	Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.5.70.1.3
+GK.1.4	sars-cov-2-variants/lineage-proposals	81	504	S:456, S:478, designated, S:455, FLip	CLOSED	COMPLETED	XBB.1.5.70.1.4
+GK.2	sars-cov-2-variants/lineage-proposals	88	300	Convergent evolution, designated	CLOSED	COMPLETED	XBB.1.5.70.2
+GK.2.1.1	sars-cov-2-variants/lineage-proposals	133	716	New mutations, designated, FLip	CLOSED	COMPLETED	XBB.1.5.70.2.1.1
+GK.2.2	sars-cov-2-variants/lineage-proposals	98	470	designated, S:554, combo, FLip	CLOSED	COMPLETED	XBB.1.5.70.2.2
+GK.2.3	sars-cov-2-variants/lineage-proposals	121	813	S:356, designated, FLip	CLOSED	COMPLETED	XBB.1.5.70.2.3
+GK.3.2	sars-cov-2-variants/lineage-proposals	113	677	designated, FLip	CLOSED	COMPLETED	XBB.1.5.70.3.2
+GK.4	cov-lineages/pango-designation	819	2276	potential artefact	CLOSED	COMPLETED	XBB.1.5.70.4
+HR.1	sars-cov-2-variants/lineage-proposals	45	323	designated	CLOSED	COMPLETED	XBB.1.5.77.1
+XBB.1.5.90	cov-lineages/pango-designation	792	1849	designated, XBB.1.5	CLOSED	COMPLETED	XBB.1.5.90
+HQ.1	sars-cov-2-variants/lineage-proposals	89	170	designated, S:554	CLOSED	COMPLETED	XBB.1.5.92.1
+XBB.1.5.93	sars-cov-2-variants/lineage-proposals	31	363	S:356, designated, S:346	CLOSED	COMPLETED	XBB.1.5.93
+HD.1	sars-cov-2-variants/lineage-proposals	31	363	S:356, designated, S:346	CLOSED	COMPLETED	XBB.1.5.93.1
+HD.1.1	sars-cov-2-variants/lineage-proposals	31	363	S:356, designated, S:346	CLOSED	COMPLETED	XBB.1.5.93.1.1
+HS.1.1	cov-lineages/pango-designation	815	2237	designated	CLOSED	COMPLETED	XBB.1.5.95.1.1
+XBB.1.6	cov-lineages/pango-designation	579	1428	designated, recombinant sublineage	CLOSED	COMPLETED	XBB.1.6
+XBB.1.8	cov-lineages/pango-designation	598	1455	designated, XBB	CLOSED	COMPLETED	XBB.1.8
+FL.1	cov-lineages/pango-designation	728	1808	designated, XBB	CLOSED	COMPLETED	XBB.1.9.1.1
+HN.1	sars-cov-2-variants/lineage-proposals	35	408	New mutations, Rapid review needed, designated	CLOSED	COMPLETED	XBB.1.9.1.1.5.1.1
+FL.1.5.2	sars-cov-2-variants/lineage-proposals	71	614	S:456, S:490, designated, combo	CLOSED	COMPLETED	XBB.1.9.1.1.5.2
+FL.1.6	sars-cov-2-variants/lineage-proposals	112	59	Multiple lineages, designated	CLOSED	NOT_PLANNED	XBB.1.9.1.1.6
+FL.10.1	cov-lineages/pango-designation	793	2040		CLOSED	COMPLETED	XBB.1.9.1.10.1
+FL.11	cov-lineages/pango-designation	752	1947	designated, XBB	CLOSED	COMPLETED	XBB.1.9.1.11
+FL.13.1	cov-lineages/pango-designation	761	1996		CLOSED	COMPLETED	XBB.1.9.1.13.1
+FL.13.2	cov-lineages/pango-designation	789	2073	designated	CLOSED	COMPLETED	XBB.1.9.1.13.2
+FL.15	cov-lineages/pango-designation	760	1994	designated	CLOSED	COMPLETED	XBB.1.9.1.15
+FL.15.1	sars-cov-2-variants/lineage-proposals	139	646	To be proposed, designated, FLip, S:475	CLOSED	COMPLETED	XBB.1.9.1.15.1
+FL.15.1.1	sars-cov-2-variants/lineage-proposals	139	646	To be proposed, designated, FLip, S:475	CLOSED	COMPLETED	XBB.1.9.1.15.1.1
+FL.15.2	sars-cov-2-variants/lineage-proposals	138	578	To be proposed, S:456, designated, S:14, combo	CLOSED	COMPLETED	XBB.1.9.1.15.2
+FL.16	cov-lineages/pango-designation	777	2001	designated	CLOSED	COMPLETED	XBB.1.9.1.16
+FL.18.1	cov-lineages/pango-designation	790	2019	designated	CLOSED	COMPLETED	XBB.1.9.1.18.1
+FL.19.1	cov-lineages/pango-designation	800	2138	designated	CLOSED	COMPLETED	XBB.1.9.1.19.1
+FL.2.3	cov-lineages/pango-designation	774	2016	designated	CLOSED	COMPLETED	XBB.1.9.1.2.3
+FL.2.5	sars-cov-2-variants/lineage-proposals	65	342	New mutations, Apparently slow, designated	CLOSED	NOT_PLANNED	XBB.1.9.1.2.5
+FL.2.6	cov-lineages/pango-designation	810	2180	designated	CLOSED	COMPLETED	XBB.1.9.1.2.6
+FL.20	cov-lineages/pango-designation	791	2072	designated	CLOSED	COMPLETED	XBB.1.9.1.20
+FL.20.1	cov-lineages/pango-designation	796	2145		CLOSED	COMPLETED	XBB.1.9.1.20.1
+FL.20.2	sars-cov-2-variants/lineage-proposals	125	571	S:456, S:478, S:452, designated, S:52, combo	CLOSED	COMPLETED	XBB.1.9.1.20.2
+FL.21.1	cov-lineages/pango-designation	798	2143		CLOSED	COMPLETED	XBB.1.9.1.21.1
+FL.21.2	sars-cov-2-variants/lineage-proposals	49	187	Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.9.1.21.2
+FL.25	cov-lineages/pango-designation	793	2040		CLOSED	COMPLETED	XBB.1.9.1.25
+FL.29	sars-cov-2-variants/lineage-proposals	27	119	New mutations, Convergent evolution, S:490, designated	CLOSED	COMPLETED	XBB.1.9.1.29
+FL.30	cov-lineages/pango-designation	814	2206	designated	CLOSED	COMPLETED	XBB.1.9.1.30
+FL.31.1	sars-cov-2-variants/lineage-proposals	128	836	Rapid review needed, S:478, Emerged in an undersampled area, S:613, High local prevalence, designated	CLOSED	COMPLETED	XBB.1.9.1.31.1
+FL.32	sars-cov-2-variants/lineage-proposals	129	719	S:456, designated, S:554, combo	CLOSED	COMPLETED	XBB.1.9.1.32
+FL.32.1	sars-cov-2-variants/lineage-proposals	129	719	S:456, designated, S:554, combo	CLOSED	COMPLETED	XBB.1.9.1.32.1
+FL.33.1	sars-cov-2-variants/lineage-proposals	126	828	help wanted, Unclear tree, S:478, designated	CLOSED	COMPLETED	XBB.1.9.1.33.1
+FL.36	sars-cov-2-variants/lineage-proposals	137	805	Saltation, S:356, designated, S:572	CLOSED	COMPLETED	XBB.1.9.1.36
+FL.4.11	sars-cov-2-variants/lineage-proposals	115	140	help wanted, Unclear tree, designated	CLOSED	COMPLETED	XBB.1.9.1.4.11
+FL.4.3	sars-cov-2-variants/lineage-proposals	11	153	New mutations, designated	CLOSED	COMPLETED	XBB.1.9.1.4.3
+EG.1	cov-lineages/pango-designation	654	1664	designated, XBB	CLOSED	COMPLETED	XBB.1.9.2.1
+EG.1.2	cov-lineages/pango-designation	744	1711	designated, XBB	CLOSED	COMPLETED	XBB.1.9.2.1.2
+EG.10	sars-cov-2-variants/lineage-proposals	38	346	Rapid review needed, S:403, designated	CLOSED	COMPLETED	XBB.1.9.2.10
+EG.10.1	sars-cov-2-variants/lineage-proposals	38	346	Rapid review needed, S:403, designated	CLOSED	COMPLETED	XBB.1.9.2.10.1
+EG.11	sars-cov-2-variants/lineage-proposals	62	523	designated, S:554	CLOSED	COMPLETED	XBB.1.9.2.11
+EG.2.2	sars-cov-2-variants/lineage-proposals	100	517	To be proposed, Multiple lineages, designated, S:304, partially designated	CLOSED	COMPLETED	XBB.1.9.2.2.2
+EG.2.3	sars-cov-2-variants/lineage-proposals	92	587	New mutations, S:478, designated	CLOSED	COMPLETED	XBB.1.9.2.2.3
+EG.2.4	sars-cov-2-variants/lineage-proposals	91	586	S:478, S:356, designated	CLOSED	COMPLETED	XBB.1.9.2.2.4
+EG.2.5	sars-cov-2-variants/lineage-proposals	95	445	S:478, designated, S:675	CLOSED	COMPLETED	XBB.1.9.2.2.5
+EG.4.2	sars-cov-2-variants/lineage-proposals	5	46	New mutations, Apparently slow	CLOSED	COMPLETED	XBB.1.9.2.4.2
+EG.5	cov-lineages/pango-designation	735	1918	designated, XBB	CLOSED	COMPLETED	XBB.1.9.2.5
+EG.5.1.1	cov-lineages/pango-designation	785	2020	designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.1
+HK.1	sars-cov-2-variants/lineage-proposals	23	359	New mutations, Rapid review needed	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.1
+HK.11	sars-cov-2-variants/lineage-proposals	105	575	New mutations, S:456, designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.11
+HK.2	sars-cov-2-variants/lineage-proposals	32	432	New mutations, Rapid review needed, designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.2
+HK.3	sars-cov-2-variants/lineage-proposals	19	414	To be proposed, Rapid review needed, designated, S:455	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.3
+HK.3.1	sars-cov-2-variants/lineage-proposals	82	580	designated, FLip	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.3.1
+HK.3.2	sars-cov-2-variants/lineage-proposals	117	730	designated, S:14, FLip	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.3.2
+HK.3.3	sars-cov-2-variants/lineage-proposals	114	744	designated, FLip, S:256	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.3.3
+HK.8	cov-lineages/pango-designation	817	2230	designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.8
+HK.9	sars-cov-2-variants/lineage-proposals	102	564	New mutations, designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.9
+EG.5.1.2	sars-cov-2-variants/lineage-proposals	52	301	New mutations, To be proposed, designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.2
+EG.5.1.3	sars-cov-2-variants/lineage-proposals	24	222	Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.3
+JG.1	sars-cov-2-variants/lineage-proposals	94	519	Convergent evolution, designated, partially designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.3.1
+JG.2	sars-cov-2-variants/lineage-proposals	107	602	S:456, designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.3.2
+JG.3	cov-lineages/pango-designation	820	2231		CLOSED	COMPLETED	XBB.1.9.2.5.1.3.3
+JG.3	sars-cov-2-variants/lineage-proposals	122	664	S:456, designated, S:455, S:704, FLip	CLOSED	COMPLETED	XBB.1.9.2.5.1.3.3
+EG.5.1.4	cov-lineages/pango-designation	801	2117	designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.4
+EG.5.1.4	sars-cov-2-variants/lineage-proposals	18	428	To be proposed, Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.4
+JJ.1	cov-lineages/pango-designation	816	2208	designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.4.1
+EG.5.1.6	sars-cov-2-variants/lineage-proposals	15	394	Convergent evolution, designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.6
+EG.5.1.8	sars-cov-2-variants/lineage-proposals	118	537	To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip	CLOSED	COMPLETED	XBB.1.9.2.5.1.8
+EG.5.2.1	sars-cov-2-variants/lineage-proposals	42	189	Rapid review needed, Convergent evolution, designated	CLOSED	COMPLETED	XBB.1.9.2.5.2.1
+EG.5.2.3	sars-cov-2-variants/lineage-proposals	41	353	New mutations, recombinant, Rapid review needed, designated	CLOSED	COMPLETED	XBB.1.9.2.5.2.3
+EG.6.1	cov-lineages/pango-designation	768	1950	XBB	CLOSED	COMPLETED	XBB.1.9.2.6.1
+EG.6.1.1	sars-cov-2-variants/lineage-proposals	111	546	designated, S:484K	CLOSED	COMPLETED	XBB.1.9.2.6.1.1
+EG.9	sars-cov-2-variants/lineage-proposals	37	280	New mutations, Rapid review needed, designated	CLOSED	COMPLETED	XBB.1.9.2.9
+EG.9.1	sars-cov-2-variants/lineage-proposals	36	57	Convergent evolution, S:403, designated	CLOSED	COMPLETED	XBB.1.9.2.9.1
+XBB.2.3	cov-lineages/pango-designation	641	1603	designated, recommended, XBB	CLOSED	COMPLETED	XBB.2.3
+XBB.2.3.1	cov-lineages/pango-designation	706	1775	designated, XBB	CLOSED	COMPLETED	XBB.2.3.1
+GE.1.1	sars-cov-2-variants/lineage-proposals	69	367	S:478, designated, S:554, S:521	CLOSED	COMPLETED	XBB.2.3.10.1.1
+GE.1.2	sars-cov-2-variants/lineage-proposals	70	200	S:478, Emerged in an undersampled area, designated	CLOSED	COMPLETED	XBB.2.3.10.1.2
+GE.1.3	sars-cov-2-variants/lineage-proposals	76	102	New mutations, designated	CLOSED	COMPLETED	XBB.2.3.10.1.3
+GS.1	cov-lineages/pango-designation	780	2023	designated	CLOSED	COMPLETED	XBB.2.3.11.1
+GS.2	sars-cov-2-variants/lineage-proposals	72	93	New mutations, Apparently slow, designated	CLOSED	NOT_PLANNED	XBB.2.3.11.2
+GS.3	sars-cov-2-variants/lineage-proposals	73	669	S:478, designated	CLOSED	COMPLETED	XBB.2.3.11.3
+GS.4	sars-cov-2-variants/lineage-proposals	83	668	S:478, Mutations outside spike, designated	CLOSED	COMPLETED	XBB.2.3.11.4
+GS.4.1	sars-cov-2-variants/lineage-proposals	83	668	S:478, Mutations outside spike, designated	CLOSED	COMPLETED	XBB.2.3.11.4.1
+GS.5	sars-cov-2-variants/lineage-proposals	131	768	New mutations, designated, S:521	CLOSED	COMPLETED	XBB.2.3.11.5
+JA.1	sars-cov-2-variants/lineage-proposals	66	240	S:456, designated	CLOSED	COMPLETED	XBB.2.3.13.1
+XBB.2.3.2	cov-lineages/pango-designation	704	1776	designated, XBB	CLOSED	COMPLETED	XBB.2.3.2
+XBB.2.3.3	cov-lineages/pango-designation	717	1810	designated, XBB	CLOSED	COMPLETED	XBB.2.3.3
+GJ.1	cov-lineages/pango-designation	769	2005	designated	CLOSED	COMPLETED	XBB.2.3.3.1
+GJ.1.1	sars-cov-2-variants/lineage-proposals	12	109	New mutations, designated	CLOSED	COMPLETED	XBB.2.3.3.1.1
+GJ.1.2	cov-lineages/pango-designation	788	2059	designated	CLOSED	COMPLETED	XBB.2.3.3.1.2
+GJ.1.2.1	sars-cov-2-variants/lineage-proposals	56	446	Rapid review needed, designated, S:450	CLOSED	COMPLETED	XBB.2.3.3.1.2.1
+JE.1	sars-cov-2-variants/lineage-proposals	77	597	S:478, designated, S:450, combo	CLOSED	COMPLETED	XBB.2.3.3.1.2.1.1
+GJ.1.2.5	sars-cov-2-variants/lineage-proposals	116	628	New mutations, designated	CLOSED	COMPLETED	XBB.2.3.3.1.2.5
+XBB.2.3.4	cov-lineages/pango-designation	723	1822	XBB	CLOSED	COMPLETED	XBB.2.3.4
+XBB.2.3.5	cov-lineages/pango-designation	721	1846	designated, XBB	CLOSED	COMPLETED	XBB.2.3.5
+GM.3.1	sars-cov-2-variants/lineage-proposals	85	450	S:453, designated	CLOSED	COMPLETED	XBB.2.3.6.3.1
+HG.2	sars-cov-2-variants/lineage-proposals	78	652	New mutations, S:478, designated, S:521, combo	CLOSED	COMPLETED	XBB.2.3.8.2
+XBB.2.4	cov-lineages/pango-designation	641	1603	designated, recommended, XBB	CLOSED	COMPLETED	XBB.2.4
+XBB.2.9	cov-lineages/pango-designation	755	1877	designated, recommended, XBB	CLOSED	COMPLETED	XBB.2.9
+XBB.4	cov-lineages/pango-designation	518	1175	monitor, designated, recombinant sublineage	CLOSED	COMPLETED	XBB.4
+XBB.6.1	cov-lineages/pango-designation	635	1459	XBB	CLOSED	COMPLETED	XBB.6.1
+XBC	cov-lineages/pango-designation	470	1100	designated, recombinant	CLOSED	COMPLETED	XBC
+XBC.1	cov-lineages/pango-designation	485	1130	designated, recombinant sublineage	CLOSED	COMPLETED	XBC.1
+XBC.1.5	cov-lineages/pango-designation	669	1671	designated	CLOSED	COMPLETED	XBC.1.5
+XBC.1.6	cov-lineages/pango-designation	682	1755	designated, recommended, recombinant sublineage	CLOSED	COMPLETED	XBC.1.6
+HW.1	sars-cov-2-variants/lineage-proposals	58	71	To be proposed, Stepwise evolution	CLOSED	COMPLETED	XBC.1.6.3.1
+HW.1.1	sars-cov-2-variants/lineage-proposals	54	452	New mutations, Rapid review needed, designated	CLOSED	COMPLETED	XBC.1.6.3.1.1
+XBC.2.1	cov-lineages/pango-designation	694	1538	designated, recombinant sublineage	CLOSED	COMPLETED	XBC.2.1
+XBD	cov-lineages/pango-designation	504	1137	recommended, recombinant	CLOSED	COMPLETED	XBD
+XBE	cov-lineages/pango-designation	522	1246	designated, recombinant	CLOSED	COMPLETED	XBE
+XBF	cov-lineages/pango-designation	532	1259	designated, recombinant	CLOSED	COMPLETED	XBF
+XBF.1.1	cov-lineages/pango-designation	731	1651	monitor, designated, recombinant sublineage	CLOSED	COMPLETED	XBF.1.1
+XBF.8.1	cov-lineages/pango-designation	731	1651	monitor, designated, recombinant sublineage	CLOSED	COMPLETED	XBF.8.1
+XBG	cov-lineages/pango-designation	554	896	designated, recombinant	CLOSED	COMPLETED	XBG
+XBH	cov-lineages/pango-designation	556	1229	designated, recombinant	CLOSED	COMPLETED	XBH
+XBJ	cov-lineages/pango-designation	565	1268	designated, recommended, recombinant	CLOSED	COMPLETED	XBJ
+XBJ.1.1	cov-lineages/pango-designation	696	1591	designated, help wanted, recombinant sublineage, Saltation	CLOSED	COMPLETED	XBJ.1.1
+XBK	cov-lineages/pango-designation	576	1418	designated, recommended, recombinant, BA.2.75	CLOSED	COMPLETED	XBK
+XBK.1	cov-lineages/pango-designation	662	1551	designated, recombinant sublineage	CLOSED	COMPLETED	XBK.1
+XBL	cov-lineages/pango-designation	602	1532	designated, recommended, recombinant	CLOSED	COMPLETED	XBL
+XBM	cov-lineages/pango-designation	610	1441	designated, recommended, recombinant	CLOSED	COMPLETED	XBM
+XBN	cov-lineages/pango-designation	616	1296	designated, recombinant	CLOSED	COMPLETED	XBN
+XBP	cov-lineages/pango-designation	631	1393	designated, recombinant	CLOSED	COMPLETED	XBP
+XBQ	cov-lineages/pango-designation	653	1440	designated, recombinant	CLOSED	COMPLETED	XBQ
+XBR	cov-lineages/pango-designation	655	1637	designated, recombinant	CLOSED	COMPLETED	XBR
+XBS	cov-lineages/pango-designation	656	1567	designated, recombinant	CLOSED	COMPLETED	XBS
+XBT	cov-lineages/pango-designation	657	1576	designated, recommended, recombinant	CLOSED	COMPLETED	XBT
+XBU	cov-lineages/pango-designation	684	1425	monitor, designated, recombinant	CLOSED	COMPLETED	XBU
+XBV	cov-lineages/pango-designation	687	1460	monitor, designated, recombinant	CLOSED	COMPLETED	XBV
+XBW	cov-lineages/pango-designation	689	1505	designated, recommended, recombinant	CLOSED	COMPLETED	XBW
+XBY	cov-lineages/pango-designation	690	1653	monitor, designated, recombinant	CLOSED	COMPLETED	XBY
+XBY	cov-lineages/pango-designation	690	1669	monitor, designated, recombinant	CLOSED	COMPLETED	XBY
+XBZ	cov-lineages/pango-designation	708	1666	designated, recombinant	CLOSED	COMPLETED	XBZ
+XC	cov-lineages/pango-designation	169	263	designated	CLOSED	COMPLETED	XC
+XCA	cov-lineages/pango-designation	713	1752	designated, recombinant	CLOSED	COMPLETED	XCA
+XCB	cov-lineages/pango-designation	724	1668	designated, recombinant	CLOSED	COMPLETED	XCB
+XCC	cov-lineages/pango-designation	739	1876	designated, recombinant	CLOSED	COMPLETED	XCC
+XCD	cov-lineages/pango-designation	770	2042	designated, recombinant	CLOSED	COMPLETED	XCD
+XCE	sars-cov-2-variants/lineage-proposals	1	123	recombinant, To be proposed, designated	CLOSED	COMPLETED	XCE
+XCF	sars-cov-2-variants/lineage-proposals	2	2	Convergent evolution, S:456, designated	CLOSED	COMPLETED	XCF
+XCH	cov-lineages/pango-designation	805	2173	designated	CLOSED	COMPLETED	XCH
+XCJ	sars-cov-2-variants/lineage-proposals	84	609	recombinant, To be proposed, designated	CLOSED	COMPLETED	XCJ
+XCK	cov-lineages/pango-designation	812	2215	designated, recombinant	CLOSED	COMPLETED	XCK
+XCL	cov-lineages/pango-designation	813	2227	designated, recombinant	CLOSED	COMPLETED	XCL
+XCM	sars-cov-2-variants/lineage-proposals	109	674	recombinant, Rapid review needed, S:452, S:444, No S:486P, FLip, S:858	CLOSED	COMPLETED	XCM
+XCN	sars-cov-2-variants/lineage-proposals	127	842	recombinant, S:456, S:356, designated, S:82, S:187, s:631	CLOSED	COMPLETED	XCN
+XD	cov-lineages/pango-designation	219	444	designated	CLOSED	COMPLETED	XD
+XE	cov-lineages/pango-designation	220	454	designated	CLOSED	COMPLETED	XE
+XF	cov-lineages/pango-designation	221	445	designated	CLOSED	COMPLETED	XF
+XG	cov-lineages/pango-designation	223	447	designated	CLOSED	COMPLETED	XG
+XH	cov-lineages/pango-designation	224	448	designated	CLOSED	COMPLETED	XH
+XJ	cov-lineages/pango-designation	225	449	designated	CLOSED	COMPLETED	XJ
+XK	cov-lineages/pango-designation	226	460	designated	CLOSED	COMPLETED	XK
+XL	cov-lineages/pango-designation	227	464	designated	CLOSED	COMPLETED	XL
+XM	cov-lineages/pango-designation	233	472	designated	CLOSED	COMPLETED	XM
+XN	cov-lineages/pango-designation	237	480	designated	CLOSED	COMPLETED	XN
+XP	cov-lineages/pango-designation	240	481	designated	CLOSED	COMPLETED	XP
+XQ	cov-lineages/pango-designation	241	468	designated	CLOSED	COMPLETED	XQ
+XR	cov-lineages/pango-designation	242	469	designated	CLOSED	COMPLETED	XR
+XS	cov-lineages/pango-designation	243	471	designated	CLOSED	COMPLETED	XS
+XT	cov-lineages/pango-designation	260	478	designated, recombinant	CLOSED	COMPLETED	XT
+XU	cov-lineages/pango-designation	267	522	designated, recombinant	CLOSED	COMPLETED	XU
+XV	cov-lineages/pango-designation	288	463	designated, recombinant	CLOSED	COMPLETED	XV
+XW	cov-lineages/pango-designation	289	591	designated, recombinant	CLOSED	COMPLETED	XW
+XY	cov-lineages/pango-designation	292	606	designated, recombinant	CLOSED	COMPLETED	XY
+XZ	cov-lineages/pango-designation	311	636	designated	CLOSED	COMPLETED	XZ
