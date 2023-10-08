@@ -1238,8 +1238,8 @@
       "milestone": 118,
       "issue": 537,
       "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
-      "state": "CLOSED",
-      "reason": "COMPLETED"
+      "state": "OPEN",
+      "reason": "REOPENED"
     }
   ],
   "XBB.1.19.1.5.1.1": [

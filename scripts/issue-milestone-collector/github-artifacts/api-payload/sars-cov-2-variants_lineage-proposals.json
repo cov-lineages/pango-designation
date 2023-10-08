@@ -2821,7 +2821,7 @@
           {
             "number": 118,
             "title": "EG.5.1.8",
-            "progressPercentage": 100,
+            "progressPercentage": 0,
             "issues": {
               "nodes": [
                 {
@@ -2851,8 +2851,8 @@
                       }
                     ]
                   },
-                  "state": "CLOSED",
-                  "stateReason": "COMPLETED"
+                  "state": "OPEN",
+                  "stateReason": "REOPENED"
                 }
               ]
             }
