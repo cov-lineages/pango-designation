@@ -9702,8 +9702,8 @@
       "milestone": 55,
       "issue": 453,
       "labels": "S:478, Multiple lineages, designated, partially designated, s:1122",
-      "state": "OPEN",
-      "reason": "REOPENED",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.5.100.1"
     }
   ],

@@ -1248,7 +1248,7 @@
           {
             "number": 55,
             "title": "HY.1",
-            "progressPercentage": 0,
+            "progressPercentage": 100,
             "issues": {
               "nodes": [
                 {
@@ -1272,8 +1272,8 @@
                       }
                     ]
                   },
-                  "state": "OPEN",
-                  "stateReason": "REOPENED"
+                  "state": "CLOSED",
+                  "stateReason": "COMPLETED"
                 }
               ]
             }
