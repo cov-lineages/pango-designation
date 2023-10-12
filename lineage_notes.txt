@@ -3445,6 +3445,7 @@ XCL	Recombinant lineage of XBB (possibly XBB.1.5.68 or FY.4) from 5' up to 12468
 XCM	Recombinant lineage of XBB.2.3 and DV.7.1 (breakpoint between 22017-22031), Spain/Italy, from sars-cov-2-variants/lineage-proposals#674
 XCN	Recombinant lineage of FR.1.1 and EG.5.1.1 (breakpoint between 22630-22663), China (Anhui/Shanghai), from sars-cov-2-variants/lineage-proposals#842
 XCP	Recombinant lineage of EG.5.1.10 and JD.1.1 (breakpoint between 14190-14633), France/Denmark/England, from sars-cov-2-variants/lineage-proposals#772
+XCQ	Recombinant lineage of XBB.2.3 and XBB.1.5 (breakpoint between 23123-27431), Guatemala, from #2289
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
