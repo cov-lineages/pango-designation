@@ -1037,9 +1037,9 @@ BA.2.85	Alias of B.1.1.529.2.85, mainly found in Japan, from #983
 BA.2.86	Alias of B.1.1.529.2.86, from #2183
 BA.2.86.1	Alias of B.1.1.529.2.86.1, ORF1a:K1973R, C12815T, mainly Europe, from #2236
 JN.1	Alias of B.1.1.529.2.86.1.1, S:L455S, ORF1a:R3821K, ORF7b:F19L, Europe
-JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America
+JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America，from #2284
 JN.3	Alias of B.1.1.529.2.86.1.3, ORF1a:T2087I, Europe
-BA.2.86.2	Alias of B.1.1.529.2.86.2, ORF7a:E22D, South Africa/Botswana
+BA.2.86.2	Alias of B.1.1.529.2.86.2, ORF7a:E22D, South Africa/Botswana，from sars-cov-2-variants/lineage-proposals/issues/756
 BA.2.86.3	Alias of B.1.1.529.2.86.3, C222T, C1960T, T12775C, South Africa
 JQ.1	Alias of B.1.1.529.2.86.3.1, S:T95I, Denmark/France/South Africa
 BA.3	Alias of B.1.1.529.3, from #367
@@ -2667,6 +2667,8 @@ XAY.1	South Africa/USA lineage with 4 AA substitutions including S:D253G, from #
 XAY.1.1	South Africa with S:R346T and ORF1a:K2108N, from #1255
 XAY.1.1.1	Europe, S:D1153Y, from #1569
 GL.1	Alias of XAY.1.1.1.1, Europe, S:D420N, C19441T, from #2032
+GL.2	Alias of XAY.1.1.1.2, ORF1a:S723P, South Korea/Japan/HongKong
+GL.3	Alias of XAY.1.1.1.3, ORF1a:P1640S, Germany
 XAY.1.1.2	Germany/South Africa, C14838T
 XAY.1.1.3	Germany/China/Luxembourg, C6040T, C8290T, T15153C
 XAY.1.2	Europe, ORF1a:T3646I
