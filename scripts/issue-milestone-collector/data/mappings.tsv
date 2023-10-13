@@ -1014,6 +1014,7 @@ XCK	cov-lineages/pango-designation	812	2215	designated, recombinant	CLOSED	COMPL
 XCL	cov-lineages/pango-designation	813	2227	designated, recombinant	CLOSED	COMPLETED	XCL
 XCM	sars-cov-2-variants/lineage-proposals	109	674	recombinant, Rapid review needed, S:452, S:444, No S:486P, FLip, S:858	CLOSED	COMPLETED	XCM
 XCN	sars-cov-2-variants/lineage-proposals	127	842	recombinant, S:456, S:356, designated, S:82, S:187, s:631	CLOSED	COMPLETED	XCN
+XCQ	cov-lineages/pango-designation	822	2289		CLOSED	COMPLETED	XCQ
 XD	cov-lineages/pango-designation	219	444	designated	CLOSED	COMPLETED	XD
 XE	cov-lineages/pango-designation	220	454	designated	CLOSED	COMPLETED	XE
 XF	cov-lineages/pango-designation	221	445	designated	CLOSED	COMPLETED	XF
