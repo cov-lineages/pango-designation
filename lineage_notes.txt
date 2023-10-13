@@ -2667,6 +2667,7 @@ XAY.1	South Africa/US lineage with 4 AA substitutions including S:D253G, from #1
 XAY.1.1	South Africa with S:R346T and ORF1a:K2108N, from issue #1255
 XAY.1.1.1	Europe, S:D1153Y, #1569
 GL.1	Alias of XAY.1.1.1.1, Europe, S:D420N, C19441T, from issue #2032
+GL.2	Alias of XAY.1.1.1.2, ORF1a:S723P, South Korea/Japan/HongKong
 XAY.1.1.2	Germany/South Africa, C14838T
 XAY.1.1.3	Germany/China/Luxembourg, C6040T, C8290T, T15153C
 XAY.1.2	Europe, ORF1a:T3646I
