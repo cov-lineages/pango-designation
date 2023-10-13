@@ -3194,6 +3194,7 @@ GW.5.1	Alias of XBB.1.19.1.5.1, ORF3a:W149C, Pakistan
 GW.5.1.1	Alias of XBB.1.19.1.5.1.1, S:A475V, S:F79S, Pakistan, from #2277
 GW.5.2	Alias of XBB.1.19.1.5.2, N:T379I
 GW.5.3	Alias of XBB.1.19.1.5.3, T20310C, C28519T
+GW.5.3.1	Alias of XBB.1.19.1.5.3.1, S:A475V, S:G184A
 XBB.1.19.2	Defined by S:P521S, Pakistan, from sars-cov-2-variants/lineage-proposals#233
 XBB.1.20	Defined by ORF3a:A72V, ORF1a:P4312T on C541T, pre ORF8:8* branch, Malaysia
 XBB.1.21	Defined by S:486A, ORF1a:K1247R, Turkey, from #1646
