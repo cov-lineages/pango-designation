@@ -3390,6 +3390,9 @@ HW.1.1	Alias of XBC.1.6.3.1.1, S:N460H, T16242A, C22120T, USA/Ireland, from sars
 HW.1.2	Alias of XBC.1.6.3.1.2, G15957A, Australia
 HW.1.3	Alias of XBC.1.6.3.1.3, N:T391I, Australia
 XBC.1.6.4	ORF1a:V1117I, T20286C, Australia
+XBC.1.6.5	ORF7a:Q90*, C1594T, C15601T, Australia
+XBC.1.6.6	T8707C, C26735T, Australia
+JT.1	Alias of XBC.1.6.6.1, S:V445A
 XBC.1.7	S:478R, S:444T, Philippines/Australia/Hong Kong
 XBC.2	Mostly Philippines, defined by S:K97R
 XBC.2.1	S:K444T, Australia, from #1538
