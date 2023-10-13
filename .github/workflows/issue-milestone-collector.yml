@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   
   schedule:
-    - cron: '0 0/12 * * *'
+    - cron: '0 3 * * *'
         
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -311,4 +311,4 @@ jobs:
               git commit -a -m "$COMMIT_MESSAGE"
               git push
             fi
-      
+

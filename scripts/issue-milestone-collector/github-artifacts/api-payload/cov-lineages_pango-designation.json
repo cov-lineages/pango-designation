@@ -17898,7 +17898,7 @@
       "milestones": {
         "pageInfo": {
           "hasNextPage": false,
-          "endCursor": "Y3Vyc29yOnYyOpHOAJfyjw=="
+          "endCursor": "Y3Vyc29yOnYyOpHOAJk-1g=="
         },
         "nodes": [
           {
@@ -18328,6 +18328,23 @@
               "nodes": [
                 {
                   "number": 2150,
+                  "labels": {
+                    "nodes": []
+                  },
+                  "state": "CLOSED",
+                  "stateReason": "COMPLETED"
+                }
+              ]
+            }
+          },
+          {
+            "number": 822,
+            "title": "XCQ",
+            "progressPercentage": 100,
+            "issues": {
+              "nodes": [
+                {
+                  "number": 2289,
                   "labels": {
                     "nodes": []
                   },

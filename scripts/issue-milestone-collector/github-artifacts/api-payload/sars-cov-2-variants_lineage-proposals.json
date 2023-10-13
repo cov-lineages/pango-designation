@@ -1248,7 +1248,7 @@
           {
             "number": 55,
             "title": "HY.1",
-            "progressPercentage": 0,
+            "progressPercentage": 100,
             "issues": {
               "nodes": [
                 {
@@ -1272,8 +1272,8 @@
                       }
                     ]
                   },
-                  "state": "OPEN",
-                  "stateReason": "REOPENED"
+                  "state": "CLOSED",
+                  "stateReason": "COMPLETED"
                 }
               ]
             }
@@ -2424,7 +2424,7 @@
       "milestones": {
         "pageInfo": {
           "hasNextPage": false,
-          "endCursor": "Y3Vyc29yOnYyOpHOAJgvgA=="
+          "endCursor": "Y3Vyc29yOnYyOpHOAJihdg=="
         },
         "nodes": [
           {
@@ -2821,7 +2821,7 @@
           {
             "number": 118,
             "title": "EG.5.1.8",
-            "progressPercentage": 100,
+            "progressPercentage": 0,
             "issues": {
               "nodes": [
                 {
@@ -2851,8 +2851,8 @@
                       }
                     ]
                   },
-                  "state": "CLOSED",
-                  "stateReason": "COMPLETED"
+                  "state": "OPEN",
+                  "stateReason": "REOPENED"
                 }
               ]
             }
@@ -3474,6 +3474,126 @@
                       },
                       {
                         "name": "S:475"
+                      }
+                    ]
+                  },
+                  "state": "CLOSED",
+                  "stateReason": "COMPLETED"
+                }
+              ]
+            }
+          },
+          {
+            "number": 140,
+            "title": "GJ.5 GJ.5.1",
+            "progressPercentage": 100,
+            "issues": {
+              "nodes": [
+                {
+                  "number": 429,
+                  "labels": {
+                    "nodes": [
+                      {
+                        "name": "S:478"
+                      },
+                      {
+                        "name": "designated"
+                      }
+                    ]
+                  },
+                  "state": "CLOSED",
+                  "stateReason": "COMPLETED"
+                }
+              ]
+            }
+          },
+          {
+            "number": 141,
+            "title": "JE.1.1",
+            "progressPercentage": 100,
+            "issues": {
+              "nodes": [
+                {
+                  "number": 827,
+                  "labels": {
+                    "nodes": [
+                      {
+                        "name": "S:478"
+                      },
+                      {
+                        "name": "designated"
+                      },
+                      {
+                        "name": "S:521"
+                      },
+                      {
+                        "name": "S:450"
+                      },
+                      {
+                        "name": "S:52"
+                      }
+                    ]
+                  },
+                  "state": "CLOSED",
+                  "stateReason": "COMPLETED"
+                }
+              ]
+            }
+          },
+          {
+            "number": 142,
+            "title": "GJ.1.2.6 GJ.1.2.7",
+            "progressPercentage": 0,
+            "issues": {
+              "nodes": [
+                {
+                  "number": 726,
+                  "labels": {
+                    "nodes": [
+                      {
+                        "name": "S:478"
+                      },
+                      {
+                        "name": "Multiple lineages"
+                      },
+                      {
+                        "name": "designated"
+                      },
+                      {
+                        "name": "S:521"
+                      },
+                      {
+                        "name": "partially designated"
+                      }
+                    ]
+                  },
+                  "state": "OPEN",
+                  "stateReason": null
+                }
+              ]
+            }
+          },
+          {
+            "number": 143,
+            "title": "JD.1.1.3",
+            "progressPercentage": 100,
+            "issues": {
+              "nodes": [
+                {
+                  "number": 896,
+                  "labels": {
+                    "nodes": [
+                      {
+                        "name": "designated"
+                      },
+                      {
+                        "name": "FLip"
+                      },
+                      {
+                        "name": "S:475"
+                      },
+                      {
+                        "name": "S:470"
                       }
                     ]
                   },

@@ -9810,5 +9810,16 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "XCQ": [
+    {
+      "pango": "XCQ",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 822,
+      "issue": 2289,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
