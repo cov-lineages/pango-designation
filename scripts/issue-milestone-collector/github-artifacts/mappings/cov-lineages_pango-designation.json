@@ -9821,5 +9821,16 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "XCR": [
+    {
+      "pango": "XCR",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 823,
+      "issue": 2323,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
