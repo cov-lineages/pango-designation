@@ -3282,12 +3282,13 @@ XBB.1.38.1	S:T883I, Russia
 XBB.1.39	ORF1a:V2866M, Singapore/Malaysia
 XBB.1.40	S:Y453F, ORF1a:G519S, ORF1a:L2609F, ORF3a:P104S, Malaysia
 XBB.1.41	S:L335S, S:R403K, S:486P, possibly common  in Central/West Africa, from #1997
-XBB.1.41.1	S:478R, France, from sars-cov-2-variants/lineage-proposals#150
+XBB.1.41.1	S:478R, Africa, from sars-cov-2-variants/lineage-proposals#150
 JC.1	Alias of XBB.1.41.1.1, S:K77R, Japan/Hawaii
 JC.2	Alias of XBB.1.41.1.2, S:D339R, ORF1a:V1056L, Greece
 JC.3	Alias of XBB.1.41.1.3, S:N703I, South Africa
 JC.4	Alias of XBB.1.41.1.4, S:N148S
 JC.5	Alias of XBB.1.41.1.5, ORF1a:P1220L, N:H300Y
+JC.6	Alias of XBB.1.41.1.6, S:I1227V, South Africa
 XBB.1.41.2	S:S494P, USA, from sars-cov-2-variants/lineage-proposals#389
 XBB.1.42	S:486P, S:Q613H, on ORF1a:T4175I branch with XBB.1.9, Indonesia/Malaysia/China，from #1954
 XBB.1.42.1	S:478R from https://github.com/sars-cov-2-variants/lineage-proposals/issues/198
