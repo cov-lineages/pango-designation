@@ -3218,6 +3218,7 @@ GA.7	Alias of XBB.1.17.1.7, ORF1a:T1429I, Cote d'Ivoire
 GA.7.1	Alias of XBB.1.17.1.7.1, S:P521S, S:N148T, S:S494P, S:Q218R
 GA.7.2	Alias of XBB.1.17.1.7.2, S:H245Y
 GA.8	Alias of XBB.1.17.1.8, C3619T, C27389T, Congo
+GA.8.1	Alias of XBB.1.17.1.8.1, S:K182E, S:S494P, S:E554K, France/Belgium
 XBB.1.17.2	Defined by ORF1a:A698S, Russia, from issue #1712
 XBB.1.18	Defined by A8001G, Brazil
 XBB.1.18.1	Defined by S:F486P, Brazil
