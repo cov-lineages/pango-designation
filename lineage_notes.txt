@@ -2818,6 +2818,7 @@ XBB.1.5.69	ORF1a:V2943I,C22513T, USA
 XBB.1.5.70	S:L455F, S:F456L (T22928C), ORF1a:A4068S, Brazil, from #1982
 GK.1	Alias of XBB.1.5.70.1, S:S704L, Brazil, from #2025
 GK.1.1	Alias of XBB.1.5.70.1.1, S:T573I, Brazil
+GK.1.1.1	Alias of XBB.1.5.70.1.1.1, C28432T
 GK.1.2	Alias of XBB.1.5.70.1.2, S:N185D, Brazil
 GK.1.2.1	Alias of XBB.1.5.70.1.2.1, S:A475V, ORF1a:D147G, ORF1a:D2592Y, ORF1a:T4175I, ORF1b:N1426K, Brazil/Colombia
 GK.1.3	Alias of XBB.1.5.70.1.3, ORF1a:E633A, ORF1b:D1130G, USA/Canada, from sars-cov-2-variants/lineage-proposals#179
@@ -3476,7 +3477,7 @@ XCM	Recombinant lineage of XBB.2.3 and DV.7.1 (breakpoint between 22017-22031), 
 XCN	Recombinant lineage of FR.1.1 and EG.5.1.1 (breakpoint between 22630-22663), China (Anhui/Shanghai), from sars-cov-2-variants/lineage-proposals#842
 XCP	Recombinant lineage of EG.5.1.10 and JD.1.1 (breakpoint between 14190-14633), France/Denmark/England, from sars-cov-2-variants/lineage-proposals#772
 XCQ	Recombinant lineage of XBB.2.3 and XBB.1.5 (breakpoint between 23123-27431), Guatemala, from #2289
-XCR	Recombinant lineage of GK.1.1 and FU.1 (breakpoint between 23674-24372), USA, from #2323
+XCR	Recombinant lineage of GK.1.1.1 and FU.1 (breakpoint between 23674-24372), USA, from #2323
 XCS	Recombinant lineage of GK.1.9 and XBB.1.16.25 (breakpoint between 223674-25044), USA, from #2311
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
