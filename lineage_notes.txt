@@ -3021,6 +3021,7 @@ FL.33	Alias of XBB.1.9.1.33, ORF1b:A1377V
 FL.33.1	Alias of XBB.1.9.1.33.1, S:478R, Georgia, from sars-cov-2-variants/lineage-proposals#828
 FL.34	Alias of XBB.1.9.1.34, S:D1118Y
 FL.35	Alias of XBB.1.9.1.35, ORF8:S103L, South Africa
+FL.35.1	Alias of XBB.1.9.1.35.1, S:478R, South Africa
 FL.36	Alias of XBB.1.9.1.36, S:76I, S:190S, S:356T, S:572I, S:899S, S:1070T, England/US/Denmark, sars-cov-2-variants/lineage-proposals#805
 XBB.1.9.2	S:F486P (after 27507C, 16878T), Indonesia/Singapore，from #1602
 EG.1	Alias of XBB.1.9.2.1, S:Q613H on N:L219F branch, from #1664 and https://github.com/jmcbroome/auto-pango-designation/pull/193
@@ -3068,6 +3069,7 @@ HK.7	Alias of XBB.1.9.2.5.1.1.7, S:N148T, China
 HK.8	Alias of XBB.1.9.2.5.1.1.8, S:L455F, on C11779T branch, China, from #2230
 HK.9	Alias of XBB.1.9.2.5.1.1.9, S:R190K, on C11779T branch, England, from sars-cov-2-variants/lineage-proposals#564
 HK.11	Alias of XBB.1.9.2.5.1.1.11, S:G184S, China/England/SouthKorea, from #2255
+HK.11.1	Alias of XBB.1.9.2.5.1.1.11.1, S:L455F (G22927T)
 HK.12	Alias of XBB.1.9.2.5.1.1.12, S:K356T, China/Singapore
 HK.13	Alias of XBB.1.9.2.5.1.1.13, S:L455F (G22927C), China
 HK.13.1	Alias of XBB.1.9.2.5.1.1.13.1, C13378T, A24604G
