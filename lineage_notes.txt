@@ -3214,6 +3214,7 @@ GA.4.3	Alias of XBB.1.17.1.4.3, S:F186L, S:L585F, Greece/Romania
 GA.5	Alias of XBB.1.17.1.5, T23797C
 GA.6	Alias of XBB.1.17.1.6, ORF1a:I2138V, G8785A, Ghana
 GA.6.1	Alias of XBB.1.17.1.6.1, S:478R, A19767G, C29642T
+GA.7	Alias of XBB.1.17.1.7, ORF1a:T1429I, Cote d'Ivoire
 XBB.1.17.2	Defined by ORF1a:A698S, Russia, from issue #1712
 XBB.1.18	Defined by A8001G, Brazil
 XBB.1.18.1	Defined by S:F486P, Brazil
