@@ -3290,6 +3290,7 @@ JC.4	Alias of XBB.1.41.1.4, S:N148S
 JC.5	Alias of XBB.1.41.1.5, ORF1a:P1220L, N:H300Y
 JC.6	Alias of XBB.1.41.1.6, S:I1227V, South Africa
 XBB.1.41.2	S:S494P, USA, from sars-cov-2-variants/lineage-proposals#389
+XBB.1.41.3	C17850T, C25276T, C29416G, Africa
 XBB.1.42	S:486P, S:Q613H, on ORF1a:T4175I branch with XBB.1.9, Indonesia/Malaysia/China，from #1954
 XBB.1.42.1	S:478R from https://github.com/sars-cov-2-variants/lineage-proposals/issues/198
 XBB.1.42.2	C6040T, G9049A
