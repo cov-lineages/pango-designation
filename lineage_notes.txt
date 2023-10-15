@@ -2839,6 +2839,7 @@ GK.8	Alias of XBB.1.5.70.8, ORF:E55Q, Brazil
 GK.8.1	Alias of XBB.1.5.70.8.1, S:N185I, S:A475V
 GK.9	Alias of XBB.1.5.70.9, S:T307S, Brazil
 GK.10	Alias of XBB.1.5.70.10, S:E554G, Brazil
+GK.11	Alias of XBB.1.5.70.11, S:T883I, Brazil
 XBB.1.5.71	S:V511I, Spain
 XBB.1.5.72	S:F456L (T22928C), ORF1a:G445S, T9823C, T10204C, South America
 XBB.1.5.73	T28271C, USA/Peru
