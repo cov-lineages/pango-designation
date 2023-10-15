@@ -2819,6 +2819,7 @@ XBB.1.5.70	S:L455F, S:F456L (T22928C), ORF1a:A4068S, Brazil, from #1982
 GK.1	Alias of XBB.1.5.70.1, S:S704L, Brazil, from #2025
 GK.1.1	Alias of XBB.1.5.70.1.1, S:T573I, Brazil
 GK.1.2	Alias of XBB.1.5.70.1.2, S:N185D, Brazil
+GK.1.2.1	Alias of XBB.1.5.70.1.2.1, S:A475V, ORF1a:D147G, ORF1a:D2592Y, ORF1a:T4175I, ORF1b:N1426K, Brazil/Colombia
 GK.1.3	Alias of XBB.1.5.70.1.3, ORF1a:E633A, ORF1b:D1130G, USA/Canada, from sars-cov-2-variants/lineage-proposals#179
 GK.1.4	Alias of XBB.1.5.70.1.4, S:478R, S:98F, Brazil, from sars-cov-2-variants/lineage-proposals#504
 GK.1.5	Alias of XBB.1.5.70.1.5, S:F186L, ORF1a:T1597I, Brazil
