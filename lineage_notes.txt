@@ -2827,6 +2827,7 @@ GK.1.6	Alias of XBB.1.5.70.1.6, ORF3a:V50I, Colombia
 GK.1.6.1	Alias of XBB.1.5.70.1.6.1, S:A475V, ORF1a:I114V, Colombia
 GK.1.7	Alias of XBB.1.5.70.1.7, S:F186L, T11695C, Europe
 GK.1.8	Alias of XBB.1.5.70.1.8, S:E554K, S:A475V, Brazil
+GK.1.9	Alias of XBB.1.5.70.1.9, C17010T, USA
 GK.2	Alias of XBB.1.5.70.2, S:V511I, from sars-cov-2-variants/lineage-proposals#300
 GK.2.1	Alias of XBB.1.5.70.2.1, ORF1a:L624I, ORF1a:L3641S, ORF1b:S763C
 GK.2.1.1	Alias of XBB.1.5.70.2.1.1, S:P1162S , from sars-cov-2-variants/lineage-proposals#716
