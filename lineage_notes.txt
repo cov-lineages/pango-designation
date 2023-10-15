@@ -2974,6 +2974,7 @@ FL.13.3	Alias of XBB.1.9.1.13.3, T19110C
 FL.13.3.1	Alias of XBB.1.9.1.13.3.1, S:E154Q, England
 FL.13.4	Alias of XBB.1.9.1.13.4, S:K182E, S:F456L (T22928C), Pakistan
 FL.13.4.1	Alias of XBB.1.9.1.13.4.1, S:Q14H, S:A484T
+FL.13.5	Alias of XBB.1.9.1.13.5, S:F456L (T22928C), ORF1a:T1000I, ORF1a:L2527M, Chile/Argentina
 FL.14	Alias of XBB.1.9.1.14, S:V1122M, C29311T, C22978T, Russia/Finland
 FL.15	Alias of XBB.1.9.1.15, S:F456L (T22928C), ORF1a:E637K, Vietnam/China/South Korea, from #1994
 FL.15.1	Alias of XBB.1.9.1.15.1, S:L455F, ORF1a:T2007I, on ORF1a:S2185N branch, from #2293
