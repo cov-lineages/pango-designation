@@ -3477,6 +3477,7 @@ XCN	Recombinant lineage of FR.1.1 and EG.5.1.1 (breakpoint between 22630-22663),
 XCP	Recombinant lineage of EG.5.1.10 and JD.1.1 (breakpoint between 14190-14633), France/Denmark/England, from sars-cov-2-variants/lineage-proposals#772
 XCQ	Recombinant lineage of XBB.2.3 and XBB.1.5 (breakpoint between 23123-27431), Guatemala, from #2289
 XCR	Recombinant lineage of GK.1.1 and FU.1 (breakpoint between 23674-24372), USA, from #2323
+XCS	Recombinant lineage of GK.1.9 and XBB.1.16.25 (breakpoint between 223674-25044), USA, from #2311
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
