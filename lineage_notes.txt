@@ -3003,6 +3003,7 @@ FL.27	Alias of XBB.1.9.1.27, ORF1a:V3747I
 FL.28	Alias of XBB.1.9.1.28, S:K478R, ORF1a:S1520F, ORF3a:R68I, Spain
 FL.29	Alias of XBB.1.9.1.29, S:490S, ORF1b:I2331V from #2030
 FL.30	Alias of XBB.1.9.1.30, S:484K, Greece, from #2206
+FL.30.1	Alias of XBB.1.9.1.30.1, S:A852S, Greece
 FL.31	Alias of XBB.1.9.1.31, ORF1b:M657I
 FL.31.1	Alias of XBB.1.9.1.31.1, S:478R, S:D80H, S:Q613H, Morocco/Europe/US/Canada, from sars-cov-2-variants/lineage-proposals#836
 FL.32	Alias of XBB.1.9.1.32, S:E554Q, S:V6L, from sars-cov-2-variants/lineage-proposals#719
