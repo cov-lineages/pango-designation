@@ -3445,6 +3445,8 @@ XBC.1.6.5	ORF7a:Q90*, C1594T, C15601T, Australia
 XBC.1.6.6	T8707C, C26735T, Australia
 JT.1	Alias of XBC.1.6.6.1, S:V445A
 XBC.1.7	S:478R, S:444T, Philippines/Australia/Hong Kong
+XBC.1.7.1	S:N185S, Philiippines
+XBC.1.7.2	S:T299I, Australia
 XBC.2	Mostly Philippines, defined by S:K97R
 XBC.2.1	S:K444T, Australia, from #1538
 XBD	Recombinant lineage of BA.2.75.2 and BF.5, India and world, from pango-designation issue #1137
