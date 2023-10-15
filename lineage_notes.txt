@@ -3334,6 +3334,8 @@ HH.4	Alias of XBB.2.3.2.4, S:A845S, India
 HH.5	Alias of XBB.2.3.2.5, S:K147N, India
 HH.6	Alias of XBB.2.3.2.6, S:K478R, ORF1a:D935E, India
 HH.7	Alias of XBB.2.3.2.7, ORF1a:T1788M, India
+HH.8	Alias of XBB.2.3.2.8, S:Q607R
+HH.8.1	Alias of XBB.2.3.2.8.1, S:K478R
 XBB.2.3.3	S:182N, India/USA, from #1810
 GJ.1	Alias of XBB.2.3.3.1, found mainly in China and USA, from pango-designation issue #2005
 GJ.1.1	Alias of XBB.2.3.3.1.1, S:A222V, N:R319H, ORF1a:V1915I, from sars-cov-2-variants/lineage-proposals#109
