@@ -3363,6 +3363,7 @@ JS.1	Alias of XBB.2.3.15.1, S:S256T
 JS.2	Alias of XBB.2.3.15.2, S:T323I
 XBB.2.3.16	S:K478N, USA
 XBB.2.3.17	S:N450D, USA
+XBB.2.3.18	S:F456L (T22930A), S:N450D, S:1231A, India
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany，from #1603 and #1518
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
 XBB.2.6	Mostly Peru, C5144T, T5731A
