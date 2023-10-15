@@ -3339,6 +3339,7 @@ XBB.2.3.7	ORF1a:T4087I
 XBB.2.3.8	C2013T, T16389C, S:478R, Singapore/SouthKorea from #1866
 HG.1	Alias of XBB.2.3.8.1, S:S98F, South Korea
 HG.2	Alias of XBB.2.3.8.2, S:T259I, South Korea/USA, from sars-cov-2-variants/lineage-proposals#652
+HG.3	Alias of XBB.2.3.8.3, S:S255F, South Korea
 XBB.2.3.9	S:S98F, C18744T, C19200T, India
 XBB.2.3.10	T5947C, India
 GE.1	Alias of XBB.2.3.10.1, S:K478R, from #1866
