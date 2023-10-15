@@ -2862,6 +2862,7 @@ XBB.1.5.73	T28271C, USA/Peru
 GN.1	Alias of XBB.1.5.73.1, S:F456L (22928C), Peru/Costa Rica
 GN.1.1	Alias of XBB.1.5.73.1.1, ORF1b:A1643V, Peru
 GN.1.2	Alias of XBB.1.5.73.1.2, S:Q321L
+GN.1.3	Alias of XBB.1.5.73.1.3, S:L455F (G22927T)
 GN.2	Alias of XBB.1.5.73.2, ORF3a:A99G, Peru
 GN.3	Alias of XBB.1.5.73.3, C27143T, Peru
 GN.4	Alias of XBB.1.5.73.4, ORF1a:Q3966L, Peru
