@@ -3354,6 +3354,7 @@ GS.3	Alias of XBB.2.3.11.3, S:R190S, USA/UK, from sars-cov-2-variants/lineage-pr
 GS.4	Alias of XBB.2.3.11.4, M:A104V, ORF1a:A181T, France, from sars-cov-2-variants/lineage-proposals#668
 GS.4.1	Alias of XBB.2.3.11.4.1, S:N185D, ORF3a:G172C, France, from sars-cov-2-variants/lineage-proposals#668
 GS.5	Alias of XBB.2.3.11.5, M:A104V, S:Q218H, from sars-cov-2-variants/lineage-proposals#768
+GS.6	Alias of XBB.2.3.11.6, S:A845S, Wales
 XBB.2.3.12	S:S494P, from #2029
 XBB.2.3.13	ORF1a:T1822I, Spain
 JA.1	Alias of XBB.2.3.13.1, S:F456L (T22928C), Spain/England/France, see sars-cov-2-variants/lineage-proposals#240
