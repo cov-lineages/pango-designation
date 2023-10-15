@@ -979,8 +979,8 @@ GJ.1.2.1	sars-cov-2-variants/lineage-proposals	56	446	Rapid review needed, desig
 JE.1	sars-cov-2-variants/lineage-proposals	77	597	S:478, designated, S:450, combo	CLOSED	COMPLETED	XBB.2.3.3.1.2.1.1
 JE.1.1	sars-cov-2-variants/lineage-proposals	141	827	S:478, designated, S:521, S:450, S:52	CLOSED	COMPLETED	XBB.2.3.3.1.2.1.1.1
 GJ.1.2.5	sars-cov-2-variants/lineage-proposals	116	628	New mutations, designated	CLOSED	COMPLETED	XBB.2.3.3.1.2.5
-GJ.1.2.6	sars-cov-2-variants/lineage-proposals	142	726	S:478, Multiple lineages, designated, S:521, partially designated	OPEN		XBB.2.3.3.1.2.6
-GJ.1.2.7	sars-cov-2-variants/lineage-proposals	142	726	S:478, Multiple lineages, designated, S:521, partially designated	OPEN		XBB.2.3.3.1.2.7
+GJ.1.2.6	sars-cov-2-variants/lineage-proposals	142	726	S:478, Multiple lineages, designated, S:521, partially designated	CLOSED	COMPLETED	XBB.2.3.3.1.2.6
+GJ.1.2.7	sars-cov-2-variants/lineage-proposals	142	726	S:478, Multiple lineages, designated, S:521, partially designated	CLOSED	COMPLETED	XBB.2.3.3.1.2.7
 GJ.5	sars-cov-2-variants/lineage-proposals	140	429	S:478, designated	CLOSED	COMPLETED	XBB.2.3.3.5
 GJ.5.1	sars-cov-2-variants/lineage-proposals	140	429	S:478, designated	CLOSED	COMPLETED	XBB.2.3.3.5.1
 XBB.2.3.4	cov-lineages/pango-designation	723	1822	XBB	CLOSED	COMPLETED	XBB.2.3.4
@@ -997,6 +997,8 @@ XBC.1.5	cov-lineages/pango-designation	669	1671	designated	CLOSED	COMPLETED	XBC.
 XBC.1.6	cov-lineages/pango-designation	682	1755	designated, recommended, recombinant sublineage	CLOSED	COMPLETED	XBC.1.6
 HW.1	sars-cov-2-variants/lineage-proposals	58	71	To be proposed, Stepwise evolution	CLOSED	COMPLETED	XBC.1.6.3.1
 HW.1.1	sars-cov-2-variants/lineage-proposals	54	452	New mutations, Rapid review needed, designated	CLOSED	COMPLETED	XBC.1.6.3.1.1
+XBC.1.6.5	sars-cov-2-variants/lineage-proposals	165	479	Truncated Orf(3-10), Apparently slow, designated	CLOSED	COMPLETED	XBC.1.6.5
+JT.1	sars-cov-2-variants/lineage-proposals	164	203	Convergent evolution, Apparently slow, designated, S:445	CLOSED	COMPLETED	XBC.1.6.6.1
 XBC.2.1	cov-lineages/pango-designation	694	1538	designated, recombinant sublineage	CLOSED	COMPLETED	XBC.2.1
 XBD	cov-lineages/pango-designation	504	1137	recommended, recombinant	CLOSED	COMPLETED	XBD
 XBE	cov-lineages/pango-designation	522	1246	designated, recombinant	CLOSED	COMPLETED	XBE

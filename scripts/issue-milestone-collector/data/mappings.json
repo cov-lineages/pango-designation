@@ -11736,8 +11736,8 @@
       "milestone": 142,
       "issue": 726,
       "labels": "S:478, Multiple lineages, designated, S:521, partially designated",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.2.3.3.1.2.6"
     }
   ],
@@ -11748,8 +11748,8 @@
       "milestone": 142,
       "issue": 726,
       "labels": "S:478, Multiple lineages, designated, S:521, partially designated",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.2.3.3.1.2.7"
     }
   ],
@@ -11943,6 +11943,30 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBC.1.6.3.1.1"
+    }
+  ],
+  "XBC.1.6.5": [
+    {
+      "pango": "XBC.1.6.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 165,
+      "issue": 479,
+      "labels": "Truncated Orf(3-10), Apparently slow, designated",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBC.1.6.5"
+    }
+  ],
+  "XBC.1.6.6.1": [
+    {
+      "pango": "JT.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 164,
+      "issue": 203,
+      "labels": "Convergent evolution, Apparently slow, designated, S:445",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBC.1.6.6.1"
     }
   ],
   "XBC.2.1": [
