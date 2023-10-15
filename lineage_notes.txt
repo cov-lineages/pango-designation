@@ -3429,6 +3429,7 @@ XBB.2.3.17	S:N450D, USA
 XBB.2.3.18	S:F456L (T22930A), S:N450D, S:1231A, India
 XBB.2.3.19	S:G184V, ORF1a:P1786L, India
 JY.1	Alias of XBB.2.3.19.1, S:E654K, S:K478T (rev), India
+JY.1.1	Alias of XBB.2.3.19.1, S:T1117K
 XBB.2.3.20	N:A267S, S:210del, Bangladesh, from sars-cov-2-variants/lineage-proposals#328
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany，from #1603 and #1518
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
