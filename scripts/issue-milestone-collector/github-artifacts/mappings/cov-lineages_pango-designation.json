@@ -9832,5 +9832,27 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "XBB.1.5.70.1.2.1": [
+    {
+      "pango": "GK.1.2.1",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 824,
+      "issue": 2314,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XCS": [
+    {
+      "pango": "XCS",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 825,
+      "issue": 2311,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
