@@ -3276,6 +3276,8 @@ FY.4.1.2	Alias of XBB.1.22.1.4.1.2, ORF1a:S2926F, Kenya
 FY.4.2	Alias of XBB.1.22.1.4.2, ORF1a:Y2171F, ORF1b:V2287I, Kenya/USA/Japan, from sars-cov-2-variants/lineage-proposals#487
 FY.5	Alias of XBB.1.22.1.5, S:478R, Indonesia, from #1965
 FY.6	Alias of XBB.1.22.1.6, ORF1a:A591V
+FY.6.1	Alias of XBB.1.22.1.6.1, S:S939F, Japan
+FY.6.2	Alias of XBB.1.22.1.6.2, ORF1a:A3143V, ins_S:216:SLQGN, Japan
 FY.7	Alias of XBB.1.22.1.7, S:G769A, S:D1168E, from https://github.com/sars-cov-2-variants/lineage-proposals/issues/257
 FY.8	Alias of XBB.1.22.1.8, S:T572I
 XBB.1.22.2	Defined by ORF1a:L3829F, C15237T
