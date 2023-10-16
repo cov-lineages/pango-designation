@@ -3263,6 +3263,8 @@ FY.1	Alias of XBB.1.22.1.1, Defined by ORF1b:D1782N
 FY.1.1	Alias of XBB.1.22.1.1.1, S:A83S, Malaysia/Japan
 FY.1.2	Alias of XBB.1.22.1.1.2, S:T572I, ORF1b:P218L, Europe
 FY.1.3	Alias of XBB.1.22.1.1.3, S:E583D, South Korea
+FY.1.4	Alias of XBB.1.22.1.1.3, S:478R, S:D1084G, USA
+FY.1.4.1	Alias of XBB.1.22.1.1.4.1, S:I569T, S:N185S, USA
 FY.2	Alias of XBB.1.22.1.2, S:I197T, ORF1b:S997P, Indonesia, from #1859
 FY.2.1	Alias of XBB.1.22.1.2.1, S:A684V, from #2080
 FY.3	Alias of XBB.1.22.1.3, ORF1a:E750K, C23191T, China
