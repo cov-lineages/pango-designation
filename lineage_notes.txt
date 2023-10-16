@@ -3357,7 +3357,7 @@ HH.3	Alias of XBB.2.3.2.3, S:D1260Y, Japan
 HH.4	Alias of XBB.2.3.2.4, S:A845S, India
 HH.5	Alias of XBB.2.3.2.5, S:K147N, India
 HH.6	Alias of XBB.2.3.2.6, S:K478R, ORF1a:D935E, India
-HH.7	Alias of XBB.2.3.2.7, ORF1a:T1788M, India
+HH.7	Alias of XBB.2.3.2.7, ORF1a:T1788M, India from #1962
 HH.8	Alias of XBB.2.3.2.8, S:Q607R
 HH.8.1	Alias of XBB.2.3.2.8.1, S:K478R
 XBB.2.3.3	S:182N, India/USA, from #1810
