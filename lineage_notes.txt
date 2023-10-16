@@ -2938,6 +2938,7 @@ HN.2	Alias of XBB.1.9.1.1.5.1.2, ORF1b:P223S
 HN.2.1	Alias of XBB.1.9.1.1.5.1.2.1, S:Q836R
 HN.3	Alias of XBB.1.9.1.1.5.1.3, S:S494P
 HN.3.1	Alias of XBB.1.9.1.1.5.1.3.1, S:E554D
+HN.4	Alias of XBB.1.9.1.1.5.1.4, ORF1a:T403I
 FL.1.5.2	Alias of XBB.1.9.1.1.5.2, S:N481K, S:H681R, England/France/Denmark, from sars-cov-2-variants/lineage-proposals#614
 FL.1.6	Alias of XBB.1.9.1.1.6, S:N481K, S:Q1208H, from sars-cov-2-variants/lineage-proposals#59
 FL.1.7	Alias of XBB.1.9.1.1.7, S:478R, S:C1235F, Indonesia, from #1985
