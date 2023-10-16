@@ -2850,7 +2850,7 @@ GK.5	Alias of XBB.1.5.70.5, S:G181V, Brazil
 GK.5.1	Alias of XBB.1.5.70.5.1, S:E180K
 GK.6	Alias of XBB.1.5.70.6, S:N556K, S:E583A
 GK.7	Alias of XBB.1.5.70.7, N:D3G
-GK.8	Alias of XBB.1.5.70.8, ORF:E55Q, Brazil
+GK.8	Alias of XBB.1.5.70.8, ORF6:E55Q, Brazil
 GK.8.1	Alias of XBB.1.5.70.8.1, S:N185I, S:A475V
 GK.9	Alias of XBB.1.5.70.9, S:T307S, Brazil
 GK.10	Alias of XBB.1.5.70.10, S:E554G, Brazil
