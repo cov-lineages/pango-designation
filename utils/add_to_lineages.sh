@@ -26,6 +26,7 @@ tsv-select -f1 ~/Downloads/nextstrain_fetch* \
   | sed 's/hCoV-19\///g' \
   | sed 's/|.*//g' \
   | sed "s/\$/,${lineage}/" \
+  | sed '/USA\/NY-GBW-H10/d' \
   | tail -n +2 \
   >>lineages.csv
 
