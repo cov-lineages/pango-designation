@@ -9241,6 +9241,18 @@
       "unaliased": "XBB.1.17.1.4.1"
     }
   ],
+  "XBB.1.17.1.4.1.3": [
+    {
+      "pango": "GA.4.1.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 214,
+      "issue": 968,
+      "labels": "Insertion, designated, s:180-185",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.17.1.4.1.3"
+    }
+  ],
   "XBB.1.17.1.4.3": [
     {
       "pango": "GA.4.3",
@@ -9263,6 +9275,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.17.1.7.1"
+    }
+  ],
+  "XBB.1.18.1.1.1.5": [
+    {
+      "pango": "FE.1.1.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 203,
+      "issue": 556,
+      "labels": "S:456, Emerged in an undersampled area, designated, S:554",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.18.1.1.1.5"
     }
   ],
   "XBB.1.19": [
@@ -9419,6 +9443,18 @@
       "unaliased": "XBB.1.22.1"
     }
   ],
+  "XBB.1.22.1.1.4": [
+    {
+      "pango": "FY.1.4",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 209,
+      "issue": 165,
+      "labels": "Convergent evolution, S:478, designated",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.22.1.1.4"
+    }
+  ],
   "XBB.1.22.1.2": [
     {
       "pango": "FY.2",
@@ -9503,6 +9539,42 @@
       "unaliased": "XBB.1.22.1.5"
     }
   ],
+  "XBB.1.22.1.5.1": [
+    {
+      "pango": "FY.5.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 211,
+      "issue": 929,
+      "labels": "S:478, Multiple lineages, partially designated, S:572",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "XBB.1.22.1.5.1"
+    }
+  ],
+  "XBB.1.22.1.5.1.1": [
+    {
+      "pango": "FY.5.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 212,
+      "issue": 790,
+      "labels": "S:478, designated, S:572, S:153, S:186, S:247",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.22.1.5.1.1"
+    }
+  ],
+  "XBB.1.22.1.6.2": [
+    {
+      "pango": "FY.6.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 208,
+      "issue": 637,
+      "labels": "recombinant, Insertion, designated, It can not compete",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
+      "unaliased": "XBB.1.22.1.6.2"
+    }
+  ],
   "XBB.1.22.1.7": [
     {
       "pango": "FY.7",
@@ -9513,6 +9585,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.22.1.7"
+    }
+  ],
+  "XBB.1.22.1.8": [
+    {
+      "pango": "FY.8",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 207,
+      "issue": 635,
+      "labels": "New mutations, designated",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.22.1.8"
     }
   ],
   "XBB.1.22.2.1": [
@@ -10735,6 +10819,54 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.9.1.1.5.1.1"
+    }
+  ],
+  "XBB.1.9.1.1.5.1.2": [
+    {
+      "pango": "HN.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 213,
+      "issue": 676,
+      "labels": "To be proposed, S:456, S:478, Mutations outside spike, partially designated",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "XBB.1.9.1.1.5.1.2"
+    }
+  ],
+  "XBB.1.9.1.1.5.1.2.1": [
+    {
+      "pango": "HN.2.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 213,
+      "issue": 676,
+      "labels": "To be proposed, S:456, S:478, Mutations outside spike, partially designated",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "XBB.1.9.1.1.5.1.2.1"
+    }
+  ],
+  "XBB.1.9.1.1.5.1.3.1": [
+    {
+      "pango": "HN.3.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 206,
+      "issue": 383,
+      "labels": "S:456, S:478, designated, s:494, S:253",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.9.1.1.5.1.3.1"
+    }
+  ],
+  "XBB.1.9.1.1.5.1.5": [
+    {
+      "pango": "HN.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 204,
+      "issue": 936,
+      "labels": "S:456, S:478, Multiple lineages, partially designated, 554k",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "XBB.1.9.1.1.5.1.5"
     }
   ],
   "XBB.1.9.1.1.5.2": [
@@ -12999,6 +13131,18 @@
       "unaliased": "XCY"
     }
   ],
+  "XCZ": [
+    {
+      "pango": "XCZ",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 202,
+      "issue": 839,
+      "labels": "recombinant, designated, FLip, ORF9b, XCZ",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XCZ"
+    }
+  ],
   "XD": [
     {
       "pango": "XD",
@@ -13009,6 +13153,42 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XD"
+    }
+  ],
+  "XDA": [
+    {
+      "pango": "XDA",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 215,
+      "issue": 862,
+      "labels": "recombinant, S:456, S:478, designated, S:554, ORF9b, 701, s:182, XDA",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDA"
+    }
+  ],
+  "XDB": [
+    {
+      "pango": "XDB",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 216,
+      "issue": 969,
+      "labels": "recombinant, S:456, designated, TRS??, XDB",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDB"
+    }
+  ],
+  "XDC": [
+    {
+      "pango": "XDC",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 217,
+      "issue": 902,
+      "labels": "recombinant, FLip, ORF9b, XDC",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDC"
     }
   ],
   "XE": [

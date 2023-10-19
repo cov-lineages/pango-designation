@@ -771,8 +771,10 @@ JF.1	sars-cov-2-variants/lineage-proposals	79	531	S:456, designated, S:455, FLip
 JF.2	sars-cov-2-variants/lineage-proposals	80	457	Rapid review needed, S:456, S:478, designated, S:675, combo	CLOSED	COMPLETED	XBB.1.16.6.2
 GA.4	sars-cov-2-variants/lineage-proposals	25	265	Convergent evolution, S:356, designated	CLOSED	COMPLETED	XBB.1.17.1.4
 GA.4.1	sars-cov-2-variants/lineage-proposals	67	661	designated	CLOSED	COMPLETED	XBB.1.17.1.4.1
+GA.4.1.3	sars-cov-2-variants/lineage-proposals	214	968	Insertion, designated, s:180-185	CLOSED	COMPLETED	XBB.1.17.1.4.1.3
 GA.4.3	sars-cov-2-variants/lineage-proposals	159	908	S:356, designated, S:704, S:186, S:585	CLOSED	COMPLETED	XBB.1.17.1.4.3
 GA.7.1	sars-cov-2-variants/lineage-proposals	194	755	Saltation, Deletions/Truncations/Frameshifted, Emerged in an undersampled area, designated, S:521, s:494, s:218	CLOSED	COMPLETED	XBB.1.17.1.7.1
+FE.1.1.5	sars-cov-2-variants/lineage-proposals	203	556	S:456, Emerged in an undersampled area, designated, S:554	CLOSED	COMPLETED	XBB.1.18.1.1.1.5
 XBB.1.19	cov-lineages/pango-designation	685	1680	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.19
 XBB.1.19.1	cov-lineages/pango-designation	686	1765	designated	CLOSED	NOT_PLANNED	XBB.1.19.1
 GW.1	sars-cov-2-variants/lineage-proposals	13	157	Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.19.1.1
@@ -786,6 +788,7 @@ XBB.1.19.2	sars-cov-2-variants/lineage-proposals	47	233	Apparently slow, designa
 XBB.1.21	cov-lineages/pango-designation	693	1646	designated, XBB	CLOSED	COMPLETED	XBB.1.21
 XBB.1.22	cov-lineages/pango-designation	695	1704	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.22
 XBB.1.22.1	cov-lineages/pango-designation	695	1704	designated, recommended, XBB	CLOSED	COMPLETED	XBB.1.22.1
+FY.1.4	sars-cov-2-variants/lineage-proposals	209	165	Convergent evolution, S:478, designated	CLOSED	COMPLETED	XBB.1.22.1.1.4
 FY.2	cov-lineages/pango-designation	745	1859	monitor, designated, XBB	CLOSED	COMPLETED	XBB.1.22.1.2
 FY.2.1	sars-cov-2-variants/lineage-proposals	22	234	New mutations, designated	CLOSED	COMPLETED	XBB.1.22.1.2.1
 FY.3.2	cov-lineages/pango-designation	806	2000	designated	CLOSED	COMPLETED	XBB.1.22.1.3.2
@@ -793,7 +796,11 @@ FY.4	cov-lineages/pango-designation	746	1979	designated	CLOSED	COMPLETED	XBB.1.2
 FY.4.1.1	sars-cov-2-variants/lineage-proposals	21	302	Convergent evolution, designated	CLOSED	COMPLETED	XBB.1.22.1.4.1.1
 FY.4.2	sars-cov-2-variants/lineage-proposals	61	487	New mutations, To be proposed, designated, partially designated	CLOSED	COMPLETED	XBB.1.22.1.4.2
 FY.5	cov-lineages/pango-designation	775	1965	monitor, designated, XBB, Recommend if grows, reviewed	CLOSED	COMPLETED	XBB.1.22.1.5
+FY.5.1	sars-cov-2-variants/lineage-proposals	211	929	S:478, Multiple lineages, partially designated, S:572	OPEN		XBB.1.22.1.5.1
+FY.5.1.1	sars-cov-2-variants/lineage-proposals	212	790	S:478, designated, S:572, S:153, S:186, S:247	CLOSED	COMPLETED	XBB.1.22.1.5.1.1
+FY.6.2	sars-cov-2-variants/lineage-proposals	208	637	recombinant, Insertion, designated, It can not compete	CLOSED	NOT_PLANNED	XBB.1.22.1.6.2
 FY.7	sars-cov-2-variants/lineage-proposals	26	257	Saltation, Apparently slow, designated	CLOSED	COMPLETED	XBB.1.22.1.7
+FY.8	sars-cov-2-variants/lineage-proposals	207	635	New mutations, designated	CLOSED	COMPLETED	XBB.1.22.1.8
 HU.1	sars-cov-2-variants/lineage-proposals	64	173	New mutations, designated	CLOSED	COMPLETED	XBB.1.22.2.1
 HU.1.1	sars-cov-2-variants/lineage-proposals	64	173	New mutations, designated	CLOSED	COMPLETED	XBB.1.22.2.1.1
 HU.2	sars-cov-2-variants/lineage-proposals	50	364	Saltation, designated	CLOSED	COMPLETED	XBB.1.22.2.2
@@ -896,6 +903,10 @@ XBB.1.8	cov-lineages/pango-designation	598	1455	designated, XBB	CLOSED	COMPLETED
 FL..30.1	sars-cov-2-variants/lineage-proposals	179	232	Rapid review needed, designated, S:484K	CLOSED	COMPLETED	XBB.1.9.1..30.1
 FL.1	cov-lineages/pango-designation	728	1808	designated, XBB	CLOSED	COMPLETED	XBB.1.9.1.1
 HN.1	sars-cov-2-variants/lineage-proposals	35	408	New mutations, Rapid review needed, designated	CLOSED	COMPLETED	XBB.1.9.1.1.5.1.1
+HN.2	sars-cov-2-variants/lineage-proposals	213	676	To be proposed, S:456, S:478, Mutations outside spike, partially designated	OPEN		XBB.1.9.1.1.5.1.2
+HN.2.1	sars-cov-2-variants/lineage-proposals	213	676	To be proposed, S:456, S:478, Mutations outside spike, partially designated	OPEN		XBB.1.9.1.1.5.1.2.1
+HN.3.1	sars-cov-2-variants/lineage-proposals	206	383	S:456, S:478, designated, s:494, S:253	CLOSED	COMPLETED	XBB.1.9.1.1.5.1.3.1
+HN.5	sars-cov-2-variants/lineage-proposals	204	936	S:456, S:478, Multiple lineages, partially designated, 554k	OPEN		XBB.1.9.1.1.5.1.5
 FL.1.5.2	sars-cov-2-variants/lineage-proposals	71	614	S:456, S:490, designated, combo	CLOSED	COMPLETED	XBB.1.9.1.1.5.2
 FL.1.6	sars-cov-2-variants/lineage-proposals	112	59	Multiple lineages, designated	CLOSED	NOT_PLANNED	XBB.1.9.1.1.6
 FL.10.1	cov-lineages/pango-designation	793	2040		CLOSED	COMPLETED	XBB.1.9.1.10.1
@@ -1085,7 +1096,11 @@ XCT	sars-cov-2-variants/lineage-proposals	184	811	recombinant, designated, FLip,
 XCU	sars-cov-2-variants/lineage-proposals	186	935	recombinant, designated, Deltacron, s:180-185, XCU	CLOSED	COMPLETED	XCU
 XCV	sars-cov-2-variants/lineage-proposals	195	600	recombinant, S:456, designated, XCV	CLOSED	COMPLETED	XCV
 XCY	sars-cov-2-variants/lineage-proposals	201	887	recombinant, designated, S:52, FLip, S:475, XCY	CLOSED	COMPLETED	XCY
+XCZ	sars-cov-2-variants/lineage-proposals	202	839	recombinant, designated, FLip, ORF9b, XCZ	CLOSED	COMPLETED	XCZ
 XD	cov-lineages/pango-designation	219	444	designated	CLOSED	COMPLETED	XD
+XDA	sars-cov-2-variants/lineage-proposals	215	862	recombinant, S:456, S:478, designated, S:554, ORF9b, 701, s:182, XDA	CLOSED	COMPLETED	XDA
+XDB	sars-cov-2-variants/lineage-proposals	216	969	recombinant, S:456, designated, TRS??, XDB	CLOSED	COMPLETED	XDB
+XDC	sars-cov-2-variants/lineage-proposals	217	902	recombinant, FLip, ORF9b, XDC	CLOSED	COMPLETED	XDC
 XE	cov-lineages/pango-designation	220	454	designated	CLOSED	COMPLETED	XE
 XF	cov-lineages/pango-designation	221	445	designated	CLOSED	COMPLETED	XF
 XG	cov-lineages/pango-designation	223	447	designated	CLOSED	COMPLETED	XG
