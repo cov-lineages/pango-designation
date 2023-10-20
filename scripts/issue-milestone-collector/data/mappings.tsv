@@ -1017,6 +1017,7 @@ XBB.2.3.18	sars-cov-2-variants/lineage-proposals	173	738	S:456, Emerged in an un
 JY.1	sars-cov-2-variants/lineage-proposals	188	731	S:478, Emerged in an undersampled area, Reversions, designated, S:654, PLPro	CLOSED	COMPLETED	XBB.2.3.19.1
 XBB.2.3.2	cov-lineages/pango-designation	704	1776	designated, XBB	CLOSED	COMPLETED	XBB.2.3.2
 HH.2.1	sars-cov-2-variants/lineage-proposals	187	236	To be proposed, Multiple lineages, designated	CLOSED	COMPLETED	XBB.2.3.2.2.1
+HH.5	sars-cov-2-variants/lineage-proposals	218	438	New mutations, designated	CLOSED	COMPLETED	XBB.2.3.2.5
 HH.6	sars-cov-2-variants/lineage-proposals	187	236	To be proposed, Multiple lineages, designated	CLOSED	COMPLETED	XBB.2.3.2.6
 HH.8.1	sars-cov-2-variants/lineage-proposals	187	236	To be proposed, Multiple lineages, designated	CLOSED	COMPLETED	XBB.2.3.2.8.1
 XBB.2.3.20	sars-cov-2-variants/lineage-proposals	196	328	Truncated Orf(3-10), High local prevalence, Apparently slow, designated, Broadened	CLOSED	NOT_PLANNED	XBB.2.3.20

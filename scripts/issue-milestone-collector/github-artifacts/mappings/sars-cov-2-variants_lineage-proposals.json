@@ -2451,5 +2451,16 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "XBB.2.3.2.5": [
+    {
+      "pango": "HH.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 218,
+      "issue": 438,
+      "labels": "New mutations, designated",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
