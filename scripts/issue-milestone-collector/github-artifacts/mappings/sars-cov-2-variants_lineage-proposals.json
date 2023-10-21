@@ -1942,8 +1942,8 @@
       "milestone": 173,
       "issue": 738,
       "labels": "S:456, Emerged in an undersampled area, designated, S:450",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "COMPLETED"
     }
   ],
   "XBB.2.3.3.6": [
@@ -2393,8 +2393,8 @@
       "milestone": 213,
       "issue": 676,
       "labels": "To be proposed, S:456, S:478, Mutations outside spike, partially designated",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "COMPLETED"
     }
   ],
   "XBB.1.9.1.1.5.1.2.1": [
@@ -2404,8 +2404,8 @@
       "milestone": 213,
       "issue": 676,
       "labels": "To be proposed, S:456, S:478, Mutations outside spike, partially designated",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "COMPLETED"
     }
   ],
   "XBB.1.17.1.4.1.3": [
