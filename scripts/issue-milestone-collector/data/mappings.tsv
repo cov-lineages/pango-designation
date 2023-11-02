@@ -928,7 +928,7 @@ FL.2.5	sars-cov-2-variants/lineage-proposals	65	342	New mutations, Apparently sl
 FL.2.6	cov-lineages/pango-designation	810	2180	designated	CLOSED	COMPLETED	XBB.1.9.1.2.6
 FL.20	cov-lineages/pango-designation	791	2072	designated	CLOSED	COMPLETED	XBB.1.9.1.20
 FL.20.1	cov-lineages/pango-designation	796	2145		CLOSED	COMPLETED	XBB.1.9.1.20.1
-FL.20.2	sars-cov-2-variants/lineage-proposals	125	571	S:456, S:478, S:452, designated, S:52, combo	CLOSED	COMPLETED	XBB.1.9.1.20.2
+FL.20.2	sars-cov-2-variants/lineage-proposals	125	571	S:456, S:478, S:452, designated, S:52, partially designated, combo	OPEN	REOPENED	XBB.1.9.1.20.2
 FL.21.1	cov-lineages/pango-designation	798	2143		CLOSED	COMPLETED	XBB.1.9.1.21.1
 FL.21.2	sars-cov-2-variants/lineage-proposals	49	187	Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.9.1.21.2
 FL.23.2	sars-cov-2-variants/lineage-proposals	185	381	Convergent evolution, Emerged in an undersampled area, Apparently slow, designated	CLOSED	NOT_PLANNED	XBB.1.9.1.23.2

@@ -11127,9 +11127,9 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 125,
       "issue": 571,
-      "labels": "S:456, S:478, S:452, designated, S:52, combo",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
+      "labels": "S:456, S:478, S:452, designated, S:52, partially designated, combo",
+      "state": "OPEN",
+      "reason": "REOPENED",
       "unaliased": "XBB.1.9.1.20.2"
     }
   ],
