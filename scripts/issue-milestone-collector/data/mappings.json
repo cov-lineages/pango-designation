@@ -12143,7 +12143,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 173,
       "issue": 738,
-      "labels": "S:456, Emerged in an undersampled area, designated, S:450",
+      "labels": "S:456, Emerged in an undersampled area, designated, S:450, partially designated",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.2.3.18"

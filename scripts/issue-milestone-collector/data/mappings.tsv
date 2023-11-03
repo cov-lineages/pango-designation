@@ -1013,7 +1013,7 @@ GS.5	sars-cov-2-variants/lineage-proposals	131	768	New mutations, designated, S:
 JA.1	sars-cov-2-variants/lineage-proposals	66	240	S:456, designated	CLOSED	COMPLETED	XBB.2.3.13.1
 XBB.2.3.15	sars-cov-2-variants/lineage-proposals	162	722	To be proposed, S:521, S:323	CLOSED	COMPLETED	XBB.2.3.15
 JS.2	sars-cov-2-variants/lineage-proposals	162	722	To be proposed, S:521, S:323	CLOSED	COMPLETED	XBB.2.3.15.2
-XBB.2.3.18	sars-cov-2-variants/lineage-proposals	173	738	S:456, Emerged in an undersampled area, designated, S:450	CLOSED	COMPLETED	XBB.2.3.18
+XBB.2.3.18	sars-cov-2-variants/lineage-proposals	173	738	S:456, Emerged in an undersampled area, designated, S:450, partially designated	CLOSED	COMPLETED	XBB.2.3.18
 JY.1	sars-cov-2-variants/lineage-proposals	188	731	S:478, Emerged in an undersampled area, Reversions, designated, S:654, PLPro	CLOSED	COMPLETED	XBB.2.3.19.1
 XBB.2.3.2	cov-lineages/pango-designation	704	1776	designated, XBB	CLOSED	COMPLETED	XBB.2.3.2
 HH.2.1	sars-cov-2-variants/lineage-proposals	187	236	To be proposed, Multiple lineages, designated	CLOSED	COMPLETED	XBB.2.3.2.2.1
