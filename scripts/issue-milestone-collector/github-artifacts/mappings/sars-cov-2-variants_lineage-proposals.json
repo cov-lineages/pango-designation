@@ -1671,83 +1671,6 @@
       "reason": "COMPLETED"
     }
   ],
-  "XBB.1.9.2.5.1.8": [
-    {
-      "pango": "EG.5.1.8",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 157,
-      "issue": 537,
-      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
-      "state": "OPEN",
-      "reason": "REOPENED"
-    }
-  ],
-  "XBB.1.9.2.5.1.1.13": [
-    {
-      "pango": "HK.13",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 157,
-      "issue": 537,
-      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
-      "state": "OPEN",
-      "reason": "REOPENED"
-    }
-  ],
-  "XBB.1.9.2.5.1.1.1.1": [
-    {
-      "pango": "HK.1.1",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 157,
-      "issue": 537,
-      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
-      "state": "OPEN",
-      "reason": "REOPENED"
-    }
-  ],
-  "XBB.1.9.2.5.1.1.14": [
-    {
-      "pango": "HK.14",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 157,
-      "issue": 537,
-      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
-      "state": "OPEN",
-      "reason": "REOPENED"
-    }
-  ],
-  "XBB.1.9.2.5.1.11.1.1": [
-    {
-      "pango": "JR.1.1",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 157,
-      "issue": 537,
-      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
-      "state": "OPEN",
-      "reason": "REOPENED"
-    }
-  ],
-  "XBB.1.9.2.5.1.1.2.1": [
-    {
-      "pango": "HK.2.1",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 157,
-      "issue": 537,
-      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
-      "state": "OPEN",
-      "reason": "REOPENED"
-    }
-  ],
-  "XBB.1.9.2.5.1.1.11.1": [
-    {
-      "pango": "HK.11.1",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 157,
-      "issue": 537,
-      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
-      "state": "OPEN",
-      "reason": "REOPENED"
-    }
-  ],
   "XBB.1.9.2.5.1.1.15": [
     {
       "pango": "HK.15",
@@ -2461,6 +2384,116 @@
       "labels": "New mutations, designated",
       "state": "CLOSED",
       "reason": "COMPLETED"
+    }
+  ],
+  "": [
+    {
+      "pango": "",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 220,
+      "issue": 537,
+      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "XBB.1.9.2.5.1.8": [
+    {
+      "pango": "EG.5.1.8",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 220,
+      "issue": 537,
+      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "XBB.1.9.2.5.1.1.13": [
+    {
+      "pango": "HK.13",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 220,
+      "issue": 537,
+      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "XBB.1.9.2.5.1.1.1.1": [
+    {
+      "pango": "HK.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 220,
+      "issue": 537,
+      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "XBB.1.9.2.5.1.1.14": [
+    {
+      "pango": "HK.14",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 220,
+      "issue": 537,
+      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "XBB.1.9.2.5.1.11.1.1": [
+    {
+      "pango": "JR.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 220,
+      "issue": 537,
+      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "XBB.1.9.2.5.1.1.2.1": [
+    {
+      "pango": "HK.2.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 220,
+      "issue": 537,
+      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "XBB.1.9.2.5.1.1.11.1": [
+    {
+      "pango": "HK.11.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 220,
+      "issue": 537,
+      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "XBB.1.9.2.5.1.1.20": [
+    {
+      "pango": "HK.20",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 220,
+      "issue": 537,
+      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "XBB.1.9.2.5.1.1.20.1": [
+    {
+      "pango": "HK.20.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 220,
+      "issue": 537,
+      "labels": "To be proposed, S:456, Multiple lineages, designated, S:455, partially designated, FLip",
+      "state": "OPEN",
+      "reason": "REOPENED"
     }
   ]
 }
