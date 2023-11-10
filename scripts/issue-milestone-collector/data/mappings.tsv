@@ -797,7 +797,7 @@ FY.4	cov-lineages/pango-designation	746	1979	designated	CLOSED	COMPLETED	XBB.1.2
 FY.4.1.1	sars-cov-2-variants/lineage-proposals	21	302	Convergent evolution, designated	CLOSED	COMPLETED	XBB.1.22.1.4.1.1
 FY.4.2	sars-cov-2-variants/lineage-proposals	61	487	New mutations, To be proposed, designated, partially designated	CLOSED	COMPLETED	XBB.1.22.1.4.2
 FY.5	cov-lineages/pango-designation	775	1965	monitor, designated, XBB, Recommend if grows, reviewed	CLOSED	COMPLETED	XBB.1.22.1.5
-FY.5.1	sars-cov-2-variants/lineage-proposals	211	929	To be proposed, S:478, Multiple lineages, partially designated, S:572	OPEN		XBB.1.22.1.5.1
+FY.5.1	sars-cov-2-variants/lineage-proposals	211	929	To be proposed, S:478, Multiple lineages, partially designated, S:572	CLOSED	COMPLETED	XBB.1.22.1.5.1
 FY.5.1.1	sars-cov-2-variants/lineage-proposals	212	790	S:478, designated, S:572, S:153, S:186, S:247	CLOSED	COMPLETED	XBB.1.22.1.5.1.1
 FY.6.2	sars-cov-2-variants/lineage-proposals	208	637	recombinant, Insertion, designated, It can not compete	CLOSED	NOT_PLANNED	XBB.1.22.1.6.2
 FY.7	sars-cov-2-variants/lineage-proposals	26	257	Saltation, Apparently slow, designated	CLOSED	COMPLETED	XBB.1.22.1.7

@@ -9558,8 +9558,8 @@
       "milestone": 211,
       "issue": 929,
       "labels": "To be proposed, S:478, Multiple lineages, partially designated, S:572",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.22.1.5.1"
     }
   ],
