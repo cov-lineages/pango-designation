@@ -2912,6 +2912,7 @@ JD.1.1.1	Alias of XBB.1.5.102.1.1.1, S:Y248H, from sars-cov-2-variants/lineage-p
 JD.1.1.2	Alias of XBB.1.5.102.1.1.2, S:E583D, Ireland/UK, from sars-cov-2-variants/lineage-proposals#754
 JD.1.1.3	Alias of XBB.1.5.102.1.1.3, S:T470N, ORF1a:V1584M, France/Denmark, from sars-cov-2-variants/lineage-proposals#896
 JD.1.2	Alias of XBB.1.5.102.1.2, S:P1162S, Brazil, from sars-cov-2-variants/lineage-proposals#136
+JD.1.2.1	Alias of XBB.1.5.102.1.2.1, S:E554Q, from sars-cov-2-variants/lineage-proposals#870
 JD.2	Alias of XBB.1.5.102.2, ORF1b:H2388Y, G4255A, Brazil
 JD.2.1	Alias of XBB.1.5.102.2.1, S:E554K, Brazil
 XBB.1.5.103	S:F456L (T22928C), S:180/184del, S:N185D, ORF1a:T1437I, ORF7b:C41W, T21357C, Argentina, from #2192
