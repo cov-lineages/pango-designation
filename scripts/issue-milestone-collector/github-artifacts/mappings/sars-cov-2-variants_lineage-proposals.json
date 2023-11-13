@@ -2495,5 +2495,60 @@
       "state": "OPEN",
       "reason": "REOPENED"
     }
+  ],
+  "B.1.1.529.2.86.1.4": [
+    {
+      "pango": "JN.4",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 221,
+      "issue": 1009,
+      "labels": "designated, S:475, BA.2.86",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XCT.1": [
+    {
+      "pango": "XCT.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 222,
+      "issue": 989,
+      "labels": "S:452, S:444, designated, S:704, FLip",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.1.9.2.5.1.1.21": [
+    {
+      "pango": "HK.21",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 223,
+      "issue": 1014,
+      "labels": "To be proposed, Rapid review needed, S:456, Multiple lineages, designated, S:52, partially designated, S:470",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "XBB.1.5.102.1.2.1": [
+    {
+      "pango": "JD.1.2.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 224,
+      "issue": 870,
+      "labels": "designated, S:554, FLip",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.1.16.26": [
+    {
+      "pango": "XBB.1.16.26",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 225,
+      "issue": 685,
+      "labels": "S:456, S:478, designated, S:455, FLip",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
