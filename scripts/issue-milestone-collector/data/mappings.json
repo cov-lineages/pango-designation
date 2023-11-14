@@ -10684,8 +10684,8 @@
       "milestone": 168,
       "issue": 907,
       "labels": "Rapid review needed, TRS??, partially designated, FLip, S:446, S:472",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
       "unaliased": "XBB.1.5.70.7"
     }
   ],

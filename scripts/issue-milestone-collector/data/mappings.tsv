@@ -891,7 +891,7 @@ GK.4	cov-lineages/pango-designation	819	2276	potential artefact	CLOSED	COMPLETED
 GK.5	sars-cov-2-variants/lineage-proposals	171	736	designated, FLip, s:180-185	CLOSED	COMPLETED	XBB.1.5.70.5
 GK.5.1	sars-cov-2-variants/lineage-proposals	171	736	designated, FLip, s:180-185	CLOSED	COMPLETED	XBB.1.5.70.5.1
 GK.6	sars-cov-2-variants/lineage-proposals	167	715	designated, combo, FLip, S:583, S:556	CLOSED	COMPLETED	XBB.1.5.70.6
-GK.7	sars-cov-2-variants/lineage-proposals	168	907	Rapid review needed, TRS??, partially designated, FLip, S:446, S:472	OPEN		XBB.1.5.70.7
+GK.7	sars-cov-2-variants/lineage-proposals	168	907	Rapid review needed, TRS??, partially designated, FLip, S:446, S:472	CLOSED	NOT_PLANNED	XBB.1.5.70.7
 GK.8	sars-cov-2-variants/lineage-proposals	170	909	designated, partially designated, FLip, S:475, s:180-185	CLOSED	COMPLETED	XBB.1.5.70.8
 GK.8.1	sars-cov-2-variants/lineage-proposals	170	909	designated, partially designated, FLip, S:475, s:180-185	CLOSED	COMPLETED	XBB.1.5.70.8.1
 GN.1.3	sars-cov-2-variants/lineage-proposals	200	816	designated, FLip	CLOSED	COMPLETED	XBB.1.5.73.1.3
