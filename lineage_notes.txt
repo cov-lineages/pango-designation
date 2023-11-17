@@ -1049,6 +1049,7 @@ JN.5	Alias of B.1.1.529.2.86.1.5, N:T135I
 JN.6	Alias of B.1.1.529.2.86.1.6, S:V193L
 JN.7	Alias of B.1.1.529.2.86.1.7, S:G594S, Denmark
 JN.8	Alias of B.1.1.529.2.86.1.8, S:T299I, Sweden/Denmark
+JN.9	Alias of B.1.1.529.2.86.1.9, S:M1229I, Netherlands
 BA.2.86.2	Alias of B.1.1.529.2.86.2, ORF7a:E22D, South Africa/Botswana，from sars-cov-2-variants/lineage-proposals/issues/756
 BA.2.86.3	Alias of B.1.1.529.2.86.3, C222T, C1960T, T12775C, South Africa
 JQ.1	Alias of B.1.1.529.2.86.3.1, S:T95I, Denmark/France/South Africa, from sars-cov-2-variants/lineage-proposals#906
