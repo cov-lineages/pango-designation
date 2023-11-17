@@ -1044,6 +1044,7 @@ BA.2.86.1	Alias of B.1.1.529.2.86.1, ORF1a:K1973R, mostly with C12815T, mainly E
 JN.1	Alias of B.1.1.529.2.86.1.1, S:L455S, ORF1a:R3821K, ORF7b:F19L, Europe
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America，from #2284
 JN.3	Alias of B.1.1.529.2.86.1.3, ORF1a:T2087I, Europe, from sars-cov-2-variants/lineage-proposals#892
+JN.3.1	Alias of B.1.1.529.2.86.1.3.1, S:L922F, ORf7a:T28I, Spain
 JN.4	Alias of B.1.1.529.2.86.1.4, S:A475V, lacking C12815T of most BA.2.86.1, Belgium/Netherlands/Denmark
 JN.5	Alias of B.1.1.529.2.86.1.5, N:T135I
 JN.6	Alias of B.1.1.529.2.86.1.6, S:V193L
@@ -2879,6 +2880,7 @@ XBB.1.5.75	C3695T, Peru/France
 XBB.1.5.76	ORF1a:T3696A, Chile
 XBB.1.5.77	T18732C, Colombia/USA
 HR.1	Alias of XBB.1.5.77.1, S:478R, N:I292V, Costa Rica/USA, from sars-cov-2-variants/lineage-proposals#323
+HR.1.1	Alias of XBB.1.5.77.1.1, S:K304N, Costa Rica, from #2372
 XBB.1.5.78	ORF1a:N460D, Mexico
 XBB.1.5.79	N:Q260L, Mexico/USA
 XBB.1.5.80	A16812G, C21812T, USA/Romania
