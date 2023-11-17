@@ -2294,8 +2294,8 @@
       "milestone": 211,
       "issue": 929,
       "labels": "To be proposed, S:478, Multiple lineages, partially designated, S:572",
-      "state": "CLOSED",
-      "reason": "COMPLETED"
+      "state": "OPEN",
+      "reason": "REOPENED"
     }
   ],
   "XBB.1.22.1.5.1.1": [
@@ -2513,7 +2513,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 222,
       "issue": 989,
-      "labels": "S:452, S:444, designated, S:704, FLip",
+      "labels": "designated, S:704, FLip, XCT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
