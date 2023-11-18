@@ -3231,6 +3231,18 @@
       "unaliased": "B.1.1.529.2.86.1.4"
     }
   ],
+  "B.1.1.529.2.86.1.7": [
+    {
+      "pango": "JN.7",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 230,
+      "issue": 856,
+      "labels": "designated, BA.2.86, S:594",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.7"
+    }
+  ],
   "B.1.1.529.2.86.2": [
     {
       "pango": "BA.2.86.2",
@@ -10485,6 +10497,18 @@
       "unaliased": "XBB.1.5.70"
     }
   ],
+  "XBB.1.5.70.1.10": [
+    {
+      "pango": "GK.1.10",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 229,
+      "issue": 814,
+      "labels": "partially designated, FLip, S:475, ORF9b",
+      "state": "OPEN",
+      "reason": "REOPENED",
+      "unaliased": "XBB.1.5.70.1.10"
+    }
+  ],
   "XBB.1.5.70.1.2.1": [
     {
       "pango": "GK.1.2.1",
@@ -10735,6 +10759,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.5.77.1"
+    }
+  ],
+  "XBB.1.5.77.1.1": [
+    {
+      "pango": "HR.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 231,
+      "issue": 623,
+      "labels": "S:478, designated, S:304, combo",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.5.77.1.1"
     }
   ],
   "XBB.1.5.90": [
@@ -11885,6 +11921,30 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.9.2.5.1.3.3.1"
+    }
+  ],
+  "XBB.1.9.2.5.1.3.3.2": [
+    {
+      "pango": "JG.3.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 228,
+      "issue": 1036,
+      "labels": "designated, S:450, S:52, S:704, FLip",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.9.2.5.1.3.3.2"
+    }
+  ],
+  "XBB.1.9.2.5.1.3.3.3": [
+    {
+      "pango": "JG.3.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 227,
+      "issue": 983,
+      "labels": "designated, S:52, S:704, FLip, S:83, 2nuc mutation",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.9.2.5.1.3.3.3"
     }
   ],
   "XBB.1.9.2.5.1.4": [
@@ -13297,6 +13357,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XDC"
+    }
+  ],
+  "XDD": [
+    {
+      "pango": "XDD",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 226,
+      "issue": 1024,
+      "labels": "recombinant, designated, BA.2.86, JN.1, XDD",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDD"
     }
   ],
   "XE": [
