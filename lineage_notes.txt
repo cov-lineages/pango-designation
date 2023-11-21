@@ -1056,6 +1056,7 @@ JN.10	Alias of B.1.1.529.2.86.1.10, S:A475V, on T3565C branch with JN.1, Spain/F
 BA.2.86.2	Alias of B.1.1.529.2.86.2, ORF7a:E22D, South Africa/Botswana，from sars-cov-2-variants/lineage-proposals/issues/756
 BA.2.86.3	Alias of B.1.1.529.2.86.3, C222T, C1960T, T12775C, South Africa
 JQ.1	Alias of B.1.1.529.2.86.3.1, S:T95I, Denmark/France/South Africa, from sars-cov-2-variants/lineage-proposals#906
+BA.2.86.4	Alias of B.1.1.529.2.86.4, S:A222V, ORF1a:V3892A
 BA.3	Alias of B.1.1.529.3, from #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from #540
 BA.4	Alias of B.1.1.529.4, from #517
