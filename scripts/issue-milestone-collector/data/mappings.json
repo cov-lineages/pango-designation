@@ -12600,8 +12600,8 @@
       "milestone": 142,
       "issue": 726,
       "labels": "S:478, Multiple lineages, designated, S:521, partially designated",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
+      "state": "OPEN",
+      "reason": "REOPENED",
       "unaliased": "XBB.2.3.3.1.2.6"
     }
   ],
@@ -12612,8 +12612,8 @@
       "milestone": 142,
       "issue": 726,
       "labels": "S:478, Multiple lineages, designated, S:521, partially designated",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
+      "state": "OPEN",
+      "reason": "REOPENED",
       "unaliased": "XBB.2.3.3.1.2.7"
     }
   ],
