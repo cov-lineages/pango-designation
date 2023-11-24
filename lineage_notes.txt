@@ -3096,6 +3096,7 @@ HK.3.5	Alias of XBB.1.9.2.5.1.1.3.5, S:P174S, Singapore, from sars-cov-2-variant
 HK.3.6	Alias of XBB.1.9.2.5.1.1.3.6, S:G181R, China, from sars-cov-2-variants/lineage-proposals#809
 HK.3.7	Alias of XBB.1.9.2.5.1.1.3.7, S:V171I, Singapore/China, from sars-cov-2-variants/lineage-proposals#793
 HK.3.8	Alias of XBB.1.9.2.5.1.1.3.8, S:E554K, China/Sweden, from #2377
+HK.3.9	Alias of XBB.1.9.2.5.1.1.3.9, S:T732I, Australia
 HK.4	Alias of XBB.1.9.2.5.1.1.4, S:T883I, China
 HK.5	Alias of XBB.1.9.2.5.1.1.5, S:Q677H, China
 HK.6	Alias of XBB.1.9.2.5.1.1.6, S:D253G, ORF1a:A1923T, UK/USA, from #2184
