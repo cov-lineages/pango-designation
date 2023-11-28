@@ -3171,6 +3171,7 @@ EG.5.1.15	Alias of XBB.1.9.2.5.1.15, ORF1a:T753I
 EG.5.1.16	Alias of XBB.1.9.2.5.1.16, ORF1b:A2431V
 EG.5.1.17	Alias of XBB.1.9.2.5.1.17, S:L455F (G22927C), China
 EG.5.1.18	Alias of XBB.1.9.2.5.1.18, ORF1a:G3002S, ORF3a:S220I
+EG.5.1.19	Alias of XBB.1.9.2.5.1.19, S:L455F, ORF1b:K1383R, ORF3a:M260K
 EG.5.2	Alias of XBB.1.9.2.5.2, N:L161F
 EG.5.2.1	Alias of XBB.1.9.2.5.2.1, S:S704L, USA, from sars-cov-2-variants/lineage-proposals#189
 EG.5.2.2	Alias of XBB.1.9.2.5.2.2, ORF1b:T239I, China
