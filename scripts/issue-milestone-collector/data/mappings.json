@@ -11817,6 +11817,18 @@
       "unaliased": "XBB.1.9.2.5.1.1.24.1"
     }
   ],
+  "XBB.1.9.2.5.1.1.25": [
+    {
+      "pango": "HK.25",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 252,
+      "issue": 986,
+      "labels": "Saltation, S:356, designated, TRS??, S:681",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.9.2.5.1.1.25"
+    }
+  ],
   "XBB.1.9.2.5.1.1.3": [
     {
       "pango": "HK.3",
