@@ -3170,6 +3170,7 @@ EG.5.1.12	Alias of XBB.1.9.2.5.1.12, T26972C, C28909T
 EG.5.1.13	Alias of XBB.1.9.2.5.1.13, C12439T
 EG.5.1.14	Alias of XBB.1.9.2.5.1.14, C16017T, C19524T
 EG.5.1.15	Alias of XBB.1.9.2.5.1.15, ORF1a:T753I
+EG.5.1.16	Alias of XBB.1.9.2.5.1.16, ORF1b:A2431V
 EG.5.2	Alias of XBB.1.9.2.5.2, N:L161F
 EG.5.2.1	Alias of XBB.1.9.2.5.2.1, S:S704L, USA, from sars-cov-2-variants/lineage-proposals#189
 EG.5.2.2	Alias of XBB.1.9.2.5.2.2, ORF1b:T239I, China
