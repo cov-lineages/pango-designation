@@ -3172,6 +3172,7 @@ EG.5.1.10	Alias of XBB.1.9.2.5.1.10, ORF1a:I3758V, Portugal/Spain
 EG.5.1.11	Alias of XBB.1.9.2.5.1.11, S:K182Q, Indonesia
 JR.1	Alias of XBB.1.9.2.5.1.11.1, S:478R, ORF3a:Y91C, Indonesia
 JR.1.1	Alias of XBB.1.9.2.5.1.11.1.1, S:L455F (G22927C), from sars-cov-2-variants/lineage-proposals#537
+JR.1.1.1	Alias of XBB.1.9.2.5.1.11.1.1.1, S:K356Q, Thailand
 EG.5.1.12	Alias of XBB.1.9.2.5.1.12, T26972C, C28909T
 EG.5.1.13	Alias of XBB.1.9.2.5.1.13, C12439T
 EG.5.1.14	Alias of XBB.1.9.2.5.1.14, C16017T, C19524T
