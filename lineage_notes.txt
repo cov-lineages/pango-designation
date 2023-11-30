@@ -3196,6 +3196,7 @@ EG.9	Alias of XBB.1.9.2.9, S:403K, ORF1a:T1474I, ORF1b:N969S, from sars-cov-2-va
 EG.9.1	Alias of XBB.1.9.2.9.1, S:A344T, C13767T, from sars-cov-2-variants/lineage-proposals#57
 EG.10	Alias of XBB.1.9.2.10, S:A344T, S:R403K, Germany/Austria, from sars-cov-2-variants/lineage-proposals#346
 EG.10.1	Alias of XBB.1.9.2.10.1, S:S494P, S:A701V, from sars-cov-2-variants/lineage-proposals#346
+EG.10.1.1	Alias of XBB.1.9.2.10.1.1, ORF1a:V2703L, ORF1a:V3683I, ORF1b:P1570S
 EG.11	Alias of XBB.1.9.2.11, S:E554K, A26319G, Malaysia, from sars-cov-2-variants/lineage-proposals#523
 EG.12	Alias of XBB.1.9.2.12, S:E554K, N:R195T, ORF1a:T4159I, Oman/Austria/Brunei/India
 EG.13	Alias of XBB.1.9.2.13, ORF1a:K798N
