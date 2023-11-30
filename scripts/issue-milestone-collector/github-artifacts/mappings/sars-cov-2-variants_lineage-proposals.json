@@ -1304,8 +1304,8 @@
       "milestone": 125,
       "issue": 571,
       "labels": "S:456, S:478, S:452, designated, S:52, partially designated, combo",
-      "state": "OPEN",
-      "reason": "REOPENED"
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
     }
   ],
   "XBB.1.9.1.33.1": [
@@ -2635,8 +2635,8 @@
       "milestone": 229,
       "issue": 814,
       "labels": "partially designated, FLip, S:475, ORF9b",
-      "state": "OPEN",
-      "reason": "REOPENED"
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
     }
   ],
   "B.1.1.529.2.86.1.7": [

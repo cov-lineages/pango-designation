@@ -10588,8 +10588,8 @@
       "milestone": 229,
       "issue": 814,
       "labels": "partially designated, FLip, S:475, ORF9b",
-      "state": "OPEN",
-      "reason": "REOPENED",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
       "unaliased": "XBB.1.5.70.1.10"
     }
   ],
@@ -11320,8 +11320,8 @@
       "milestone": 125,
       "issue": 571,
       "labels": "S:456, S:478, S:452, designated, S:52, partially designated, combo",
-      "state": "OPEN",
-      "reason": "REOPENED",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
       "unaliased": "XBB.1.9.1.20.2"
     }
   ],
