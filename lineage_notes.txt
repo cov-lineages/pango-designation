@@ -976,6 +976,7 @@ BN.1.2.4	Alias of B.1.1.529.2.75.5.1.2.4, ORF1b:D1746H
 BN.1.2.5	Alias of B.1.1.529.2.75.5.1.2.5, C3241T, C16833T, G22225A, South Korea
 BN.1.2.6	Alias of B.1.1.529.2.75.5.1.2.6, ORF1b:A1326S, South Korea
 BN.1.2.7	Alias of B.1.1.529.2.75.5.1.2.7, N:N8S, C16332T, Taiwan, from #1923
+BN.1.2.8	Alias of B.1.1.529.2.75.5.1.2.8, S:N703K, Russia
 BN.1.3	Alias of B.1.1.529.2.75.5.1.3, India, ORF3a:T229I
 BN.1.3.1	Alias of B.1.1.529.2.75.5.1.3.1, found mainly in Israel, England and Denmark, from #1257
 DS.1	Alias of B.1.1.529.2.75.5.1.3.1.1, USA/Ireland/Austria, S:F486S, S:R403K
