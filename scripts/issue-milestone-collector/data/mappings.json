@@ -9205,6 +9205,30 @@
       "unaliased": "XBB.1.16.2.1"
     }
   ],
+  "XBB.1.16.2.1.1": [
+    {
+      "pango": "GY.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 263,
+      "issue": 804,
+      "labels": "designated, FLip, FLippeR",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.16.2.1.1"
+    }
+  ],
+  "XBB.1.16.2.1.1.1": [
+    {
+      "pango": "GY.1.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 263,
+      "issue": 804,
+      "labels": "designated, FLip, FLippeR",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.16.2.1.1.1"
+    }
+  ],
   "XBB.1.16.2.4": [
     {
       "pango": "GY.4",
@@ -9717,6 +9741,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.22.1.8"
+    }
+  ],
+  "XBB.1.22.1.8.1": [
+    {
+      "pango": "FY.8.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 262,
+      "issue": 1002,
+      "labels": "S:478, designated, S:521, S:572, S:200",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.22.1.8.1"
     }
   ],
   "XBB.1.22.2.1": [
@@ -12103,6 +12139,18 @@
       "state": "OPEN",
       "reason": "REOPENED",
       "unaliased": "XBB.1.9.2.5.1.11.1.1"
+    }
+  ],
+  "XBB.1.9.2.5.1.11.1.1.1": [
+    {
+      "pango": "JR.1.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 261,
+      "issue": 1015,
+      "labels": "S:478, S:356, designated, S:52, FLip",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.9.2.5.1.11.1.1.1"
     }
   ],
   "XBB.1.9.2.5.1.16": [
