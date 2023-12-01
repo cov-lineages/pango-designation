@@ -3560,6 +3560,9 @@ XBC.1.2.1	Denmark, ORF1b:T132I
 XBC.1.3	Philippines/Australia, C25614T
 XBC.1.3.1	ORF1a:Q455K, ORF1a:T4174I, ORF1a:V2061A, ORF1b:S759N, Australia/New Zealand
 KD.1	Alias of XBC.1.3.1.1, S:R346S, Australia
+KD.2	Alias of XBC.1.3.1.2, ORF1a:M3661L, ORF1a:M3934I, Australia/New Zealand
+KD.3	Alias of XBC.1.3.1.3, C10519T, C19524T, New Zealand
+KD.4	Alias of XBC.1.3.1.4, ORF1a:K394R, ORF1a:L730F, ORF1a:T965I, Australia/Japan
 XBC.1.4	Australia, S:G184S, from #1622
 XBC.1.5	Philippines/South Korea/Japan, ORF1a:T708I after A10042C, from #1671
 XBC.1.6	S:346S, S:M452R, found in Australia, from #1755
