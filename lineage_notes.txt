@@ -3024,6 +3024,7 @@ FL.14	Alias of XBB.1.9.1.14, S:V1122M, C29311T, C22978T, Russia/Finland
 FL.15	Alias of XBB.1.9.1.15, S:F456L (T22928C), ORF1a:E637K, Vietnam/China/South Korea, from #1994
 FL.15.1	Alias of XBB.1.9.1.15.1, S:L455F, ORF1a:T2007I, on ORF1a:S2185N branch, from #2293
 FL.15.1.1	Alias of XBB.1.9.1.15.1.1, S:A475V, Canada/Romania/Belgium, from sars-cov-2-variants/lineage-proposals#646
+KF.1	Alias of XBB.1.9.1.15.1.1.1, S:P251H, Australia/Canada
 FL.15.2	Alias of XBB.1.9.1.15.2, S:Q14H, C1684T, China, from sars-cov-2-variants/lineage-proposals#578
 FL.15.3	Alias of XBB.1.9.1.15.3, S:G181V, North America
 FL.15.4	Alias of XBB.1.9.1.15.4, S:Q14H, on G6819A branch, from #2359
