@@ -3381,6 +3381,7 @@ FY.5.2	Alias of XBB.1.22.1.5.2, S:L176F, Indonesia, on A6019G branch
 FY.5.3	Alias of XBB.1.22.1.5.3, S:A222V, Singapore/Japan, on A6019G branch
 FY.5.4	Alias of XBB.1.22.1.5.4, S:T572I, ORF1a:D3009N, ORF1a:Y4077C on A6019G branch
 FY.5.5	Alias of XBB.1.22.1.5.5, ORF1a:M2796I
+FY.5.5.1	Alias of XBB.1.22.1.5.5.1, S:T572I
 FY.6	Alias of XBB.1.22.1.6, ORF1a:A591V
 FY.6.1	Alias of XBB.1.22.1.6.1, S:S939F, Japan
 FY.6.2	Alias of XBB.1.22.1.6.2, ORF1a:A3143V, ins_S:216:SLQGN, Japan, from sars-cov-2-variants/lineage-proposals#637
