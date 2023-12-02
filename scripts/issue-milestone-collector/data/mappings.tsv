@@ -1091,6 +1091,8 @@ XBB.4	cov-lineages/pango-designation	518	1175	monitor, designated, recombinant s
 XBB.6.1	cov-lineages/pango-designation	635	1459	XBB	CLOSED	COMPLETED	XBB.6.1
 XBC	cov-lineages/pango-designation	470	1100	designated, recombinant	CLOSED	COMPLETED	XBC
 XBC.1	cov-lineages/pango-designation	485	1130	designated, recombinant sublineage	CLOSED	COMPLETED	XBC.1
+XBC.1.3.1	sars-cov-2-variants/lineage-proposals	265	542	Truncated Orf(3-10), High local prevalence, designated	CLOSED	NOT_PLANNED	XBC.1.3.1
+KD.1	sars-cov-2-variants/lineage-proposals	264	673	To be proposed, Truncated Orf(3-10), designated, S:346	CLOSED	COMPLETED	XBC.1.3.1.1
 XBC.1.5	cov-lineages/pango-designation	669	1671	designated	CLOSED	COMPLETED	XBC.1.5
 XBC.1.6	cov-lineages/pango-designation	682	1755	designated, recommended, recombinant sublineage	CLOSED	COMPLETED	XBC.1.6
 HW.1	sars-cov-2-variants/lineage-proposals	58	71	To be proposed, Stepwise evolution	CLOSED	COMPLETED	XBC.1.6.3.1

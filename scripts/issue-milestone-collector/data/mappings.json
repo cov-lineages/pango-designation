@@ -13073,6 +13073,30 @@
       "unaliased": "XBC.1"
     }
   ],
+  "XBC.1.3.1": [
+    {
+      "pango": "XBC.1.3.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 265,
+      "issue": 542,
+      "labels": "Truncated Orf(3-10), High local prevalence, designated",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
+      "unaliased": "XBC.1.3.1"
+    }
+  ],
+  "XBC.1.3.1.1": [
+    {
+      "pango": "KD.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 264,
+      "issue": 673,
+      "labels": "To be proposed, Truncated Orf(3-10), designated, S:346",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBC.1.3.1.1"
+    }
+  ],
   "XBC.1.5": [
     {
       "pango": "XBC.1.5",
