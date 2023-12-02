@@ -3154,6 +3154,7 @@ HK.30	Alias of XBB.1.9.2.5.1.1.30, T26609C, China
 HK.31	Alias of XBB.1.9.2.5.1.1.31, ORF1a:G604S
 HK.32	Alias of XBB.1.9.2.5.1.1.32, S:Q14R, ORF1a:S2193F, China
 HK.33	Alias of XBB.1.9.2.5.1.1.33, S:L455F on C2644T branch, North America
+HK.34	Alias of XBB.1.9.2.5.1.1.34, S:F186S, ORF1a:V3660M, on C2644T branch, Singapore
 EG.5.1.2	Alias of XBB.1.9.2.5.1.2, Japan, ORF1b:V1644I, from sars-cov-2-variants/lineage-proposals#301
 EG.5.1.3	Alias of XBB.1.9.2.5.1.3, ORF1a:R542C, C22570T, from sars-cov-2-variants/lineage-proposals#222
 JG.1	Alias of XBB.1.9.2.5.1.3.1, S:T732I, France, from #2218
