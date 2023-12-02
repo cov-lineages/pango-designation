@@ -3260,6 +3260,7 @@ GY.5	Alias of XBB.1.16.2.5, G9190C
 GY.6	Alias of XBB.1.16.2.6, ORF1a:V1765I, from sars-cov-2-variants/lineage-proposals#308
 GY.7	Alias of XBB.1.16.2.7, ORF1a:G3617C, G5515T, Thailand/Laos
 GY.8	Alias of XBB.1.16.2.8, S:F456L(T22928C), C25452T, Japan, from #2148
+GY.9	Alias of XBB.1.16.2.9, S:F186S, Europe
 XBB.1.16.3	Defined by A2893C, India
 XBB.1.16.4	Defined by S:T678I, India, from #1903
 XBB.1.16.5	Defined by T9991C,C16332T, India, from #1983
