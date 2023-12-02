@@ -3340,6 +3340,7 @@ GW.5	Alias of XBB.1.19.1.5, S:K478I, S:L455F, S:F456L(T22928C), Pakistan, from #
 GW.5.1	Alias of XBB.1.19.1.5.1, ORF3a:W149C, Pakistan
 GW.5.1.1	Alias of XBB.1.19.1.5.1.1, S:A475V, S:F79S, Pakistan, from #2277
 KE.1	Alias of XBB.1.19.1.5.1.1.1, S:F186S, England/Wales
+KE.2	Alias of XBB.1.19.1.5.1.1.2, S:S704L, UK
 GW.5.2	Alias of XBB.1.19.1.5.2, N:T379I
 GW.5.3	Alias of XBB.1.19.1.5.3, T20310C, C28519T, from sars-cov-2-variants/lineage-proposals#815
 GW.5.3.1	Alias of XBB.1.19.1.5.3.1, S:A475V, S:G184A, from sars-cov-2-variants/lineage-proposals#815
