@@ -3112,6 +3112,8 @@ HK.3.8	Alias of XBB.1.9.2.5.1.1.3.8, S:E554K, China/Sweden, from #2377
 HK.3.9	Alias of XBB.1.9.2.5.1.1.3.9, S:T732I, Australia
 HK.3.10	Alias of XBB.1.9.2.5.1.1.3.10, S:A1078S
 HK.3.11	Alias of XBB.1.9.2.5.1.1.3.11, S:F186S, China
+HK.3.12	Alias of XBB.1.9.2.5.1.1.3.12, S:A688T, USA
+HK.3.13	Alias of XBB.1.9.2.5.1.1.3.13, S:Q14R, China
 HK.4	Alias of XBB.1.9.2.5.1.1.4, S:T883I, China
 HK.5	Alias of XBB.1.9.2.5.1.1.5, S:Q677H, China
 HK.6	Alias of XBB.1.9.2.5.1.1.6, S:D253G, ORF1a:A1923T, on T14988C branch UK/USA, from #2184
