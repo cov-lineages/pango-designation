@@ -3388,6 +3388,7 @@ FY.6.2	Alias of XBB.1.22.1.6.2, ORF1a:A3143V, ins_S:216:SLQGN, Japan, from sars-
 FY.7	Alias of XBB.1.22.1.7, S:G769A, S:D1168E, from sars-cov-2-variants/lineage-proposals#257
 FY.8	Alias of XBB.1.22.1.8, S:T572I, from sars-cov-2-variants/lineage-proposals#635
 FY.8.1	Alias of XBB.1.22.1.8.1, S:478R, T4579A
+FY.8.1.1	Alias of XBB.1.22.1.8.1.1, S:P521Q, ORF1b:V1149L
 FY.9	Alias of XBB.1.22.1.9, S:Q675K, ORF1a:D220E, ORF1a:C667Y, Indonesia from #2053
 XBB.1.22.2	Defined by ORF1a:L3829F, C15237T
 HU.1	Alias of XBB.1.22.2.1, S:K529N, France, from #2136
