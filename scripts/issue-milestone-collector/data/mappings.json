@@ -10720,8 +10720,8 @@
       "milestone": 229,
       "issue": 814,
       "labels": "partially designated, FLip, S:475, ORF9b",
-      "state": "CLOSED",
-      "reason": "NOT_PLANNED",
+      "state": "OPEN",
+      "reason": "REOPENED",
       "unaliased": "XBB.1.5.70.1.10"
     }
   ],
@@ -12567,6 +12567,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.9.2.5.1.6.1.3"
+    }
+  ],
+  "XBB.1.9.2.5.1.6.1.4": [
+    {
+      "pango": "HV.1.4",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 268,
+      "issue": 957,
+      "labels": "partially designated, spike diversity, HV.1",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "XBB.1.9.2.5.1.6.1.4"
     }
   ],
   "XBB.1.9.2.5.1.6.1.5": [
