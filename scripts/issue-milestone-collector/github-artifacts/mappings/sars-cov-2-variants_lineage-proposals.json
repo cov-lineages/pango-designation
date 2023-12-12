@@ -3265,5 +3265,16 @@
       "state": "CLOSED",
       "reason": "NOT_PLANNED"
     }
+  ],
+  "XDH": [
+    {
+      "pango": "XDH",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 284,
+      "issue": 128,
+      "labels": "recombinant, Emerged in an undersampled area, High local prevalence, XDH",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
