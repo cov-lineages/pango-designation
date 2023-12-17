@@ -3677,6 +3677,7 @@ XCE	Recombinant lineage of BQ.1* and FY.1 (XBB.1.22.1.1), Indonesia, South Korea
 XCF	Recombinant lineage of XBB* and FE.1 (XBB.1.18.1.1), possibly South America, from sars-cov-2-variants/lineage-proposals#2
 XCF.1	S:F157L, USA, from sars-cov-2-variants/lineage-proposals#274
 XCF.2	S:S929I, Canada
+XCF.3	S:R78M
 XCG	Recombinant lineage of BA.5.2* and XBB.1, Mexico
 XCH	Recombinant lineage of GK.1.3 and XBB.1.9 (or XBB.1.16), GK.1.3 Spike with ORF9b:I5T from donor, from #2173
 XCH.1	S:T573I, from #2173
