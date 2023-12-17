@@ -3064,6 +3064,7 @@ FL.23.1	Alias of XBB.1.9.1.23.1, ORF1a:A2584V, C23185T, C8311T
 FL.23.2	Alias of XBB.1.9.1.23.2, S:S494P, ORF1a:P2256S, Philippines, from sars-cov-2-variants/lineage-proposals#381
 FL.23.2.1	Alias of XBB.1.9.1.23.2.1, S:P521T, Philippines
 FL.24	Alias of XBB.1.9.1.24, S:Q613H, S:A688V, from sars-cov-2-variants/lineage-proposals#284
+FL.24.1	Alias of XBB.1.9.1.24.1, S:478R, T9139C, C24919T, Russia
 FL.25	Alias of XBB.1.9.1.25, S:E554K, USA/England, from #2040
 FL.26	Alias of XBB.1.9.1.26, C22264T
 FL.26.1	Alias of XBB.1.9.1.26.1, S:493L, Sweden
