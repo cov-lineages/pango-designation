@@ -3308,6 +3308,8 @@ XBB.1.16.25	ORF1a:K510E, C16611T, A29221G
 XBB.1.16.26	S:L455F, S:F456L, China, from sars-cov-2-variants/lineage-proposals#685
 XBB.1.16.27	S:F456L, S:E554K, ORF1a:A3889T, France, from #2345
 XBB.1.16.28	S:V1230A, S:Q613H, S:Q675K, Russia
+XBB.1.16.29	S:T883I, on C7765T branch, TrinidadTobago
+XBB.1.16.30	S:E554Q, on C7765T branch, USA/Germany
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from #1712
 GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
