@@ -2951,6 +2951,7 @@ XBB.1.5.107	C24130T, Argentina/Uruguay/Bolivia
 JZ.1	Alias of XBB.1.5.107.1, S:F456L (T22928C), Argentina/Brazil, from sars-cov-2-variants/lineage-proposals#224
 XBB.1.5.108	S:F456L, S:K304N 
 XBB.1.5.109	S:F456L, ORF1a:T654A
+XBB.1.5.110	ORF1aT4129I, Mexico
 XBB.1.6	USA, S:L216F, S:H146K, from #1428
 XBB.1.7	USA-NY, S:V608I
 XBB.1.8	Denmark, S:186insSGG, C3241T, from #1455
