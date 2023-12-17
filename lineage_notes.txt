@@ -2936,6 +2936,7 @@ JD.1.1.4	Alias of XBB.1.5.102.1.1.4, S:E554G, Australia, from #2380
 JD.1.1.5	Alias of XBB.1.5.102.1.1.5, S:Q677R, USA/Canada, from sars-cov-2-variants/lineage-proposals#1079
 JD.1.1.6	Alias of XBB.1.5.102.1.1.6, S:M153V, Brazil
 JD.1.1.7	Alias of XBB.1.5.102.1.1.7, ORF1b:R2257S
+JD.1.1.8	Alias of XBB.1.5.102.1.1.8, ORF1a:N1094K, without C19185T, Brazil
 JD.1.2	Alias of XBB.1.5.102.1.2, S:P1162S, Brazil, from sars-cov-2-variants/lineage-proposals#136
 JD.1.2.1	Alias of XBB.1.5.102.1.2.1, S:E554Q, from sars-cov-2-variants/lineage-proposals#870
 JD.2	Alias of XBB.1.5.102.2, ORF1b:H2388Y, G4255A, Brazil
