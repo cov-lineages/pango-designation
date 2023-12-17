@@ -2986,6 +2986,7 @@ KC.1	Alias of XBB.1.9.1.1.5.2.1, S:S490P, ORF1a:T4129I, ORF1a:S723F, Europe, fro
 KC.1.1	Alias of XBB.1.9.1.1.5.2.1.1, S:V1228L, England
 FL.1.6	Alias of XBB.1.9.1.1.6, S:N481K, S:Q1208H, from sars-cov-2-variants/lineage-proposals#59
 FL.1.7	Alias of XBB.1.9.1.1.7, S:478R, S:C1235F, Indonesia, from #1985
+FL.1.8	Alias of XBB.1.9.1.1.8, S:K478R, S:P521T, M:I8V, Russia
 FL.2	Alias of XBB.1.9.1.2, T4579A
 FL.2.1	Alias of XBB.1.9.1.2.1, C10228T, Germany, global
 FL.2.2	Alias of XBB.1.9.1.2.2, S:T478R, Indonesia, from #1927
