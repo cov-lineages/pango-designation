@@ -3564,6 +3564,7 @@ JY.1	Alias of XBB.2.3.19.1, S:E654K, S:K478T (rev), India, from sars-cov-2-varia
 JY.1.1	Alias of XBB.2.3.19.1.1, S:T1117K
 XBB.2.3.20	N:A267S, S:210del, Bangladesh, from sars-cov-2-variants/lineage-proposals#328
 XBB.2.3.21	S:T883I, ORF1a:D3042N, 670T reversion, Japan
+XBB.2.3.22	S:S937T, ORF8:K94T, Romania/Bulgaria
 XBB.2.4	Defined by S:S486P, Spain/Denmark/Germany, from #1603 and #1518
 XBB.2.5	S:Q613H, from https://github.com/jmcbroome/auto-pango-designation/pull/193
 XBB.2.6	Mostly Peru, C5144T, T5731A
