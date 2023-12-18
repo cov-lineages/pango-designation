@@ -9854,5 +9854,16 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "XBB.1.5.109": [
+    {
+      "pango": "XBB.1.5.109",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 826,
+      "issue": 2262,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
