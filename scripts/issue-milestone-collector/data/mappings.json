@@ -9541,6 +9541,18 @@
       "unaliased": "XBB.1.16.28"
     }
   ],
+  "XBB.1.16.29": [
+    {
+      "pango": "XBB.1.16.29",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 372,
+      "issue": 524,
+      "labels": "To be proposed, designated, S:883",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.16.29"
+    }
+  ],
   "XBB.1.16.30": [
     {
       "pango": "XBB.1.16.30",

@@ -797,6 +797,7 @@ XBB.1.16.24	sars-cov-2-variants/lineage-proposals	106	672	Saltation, S:478, desi
 XBB.1.16.26	sars-cov-2-variants/lineage-proposals	225	685	S:456, S:478, designated, S:455, FLip	CLOSED	COMPLETED	XBB.1.16.26
 XBB.1.16.27	sars-cov-2-variants/lineage-proposals	243	922	S:456, designated, 554k	CLOSED	COMPLETED	XBB.1.16.27
 XBB.1.16.28	sars-cov-2-variants/lineage-proposals	287	1000	S:478, Emerged in an undersampled area, S:613, High local prevalence, designated, S:675, S:1230	CLOSED	COMPLETED	XBB.1.16.28
+XBB.1.16.29	sars-cov-2-variants/lineage-proposals	372	524	To be proposed, designated, S:883	CLOSED	COMPLETED	XBB.1.16.29
 XBB.1.16.30	sars-cov-2-variants/lineage-proposals	289	554	S:478, designated, S:554	CLOSED	NOT_PLANNED	XBB.1.16.30
 XBB.1.16.4	cov-lineages/pango-designation	747	1903	monitor, designated, XBB	CLOSED	COMPLETED	XBB.1.16.4
 XBB.1.16.5	cov-lineages/pango-designation	749	1983	designated, UShER not clean	CLOSED	COMPLETED	XBB.1.16.5
