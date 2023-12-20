@@ -3515,6 +3515,7 @@ GJ.1.2.1	Alias of XBB.2.3.3.1.2.1, S:N450D, Singapore/Thailand/South Korea/USA/S
 JE.1	Alias of XBB.2.3.3.1.2.1.1, S:478R, Singapore/SouthKorea/USA, from sars-cov-2-variants/lineage-proposals#597
 JE.1.1	Alias of XBB.2.3.3.1.2.1.1.1, S:Q52R, from sars-cov-2-variants/lineage-proposals#827
 JE.1.1.1	Alias of XBB.2.3.3.1.2.1.1.1.1, S:V1122A, from #2390
+KH.1	Alias of XBB.2.3.3.1.2.1.1.1.1.1, S:E554K, on N:L13F, ORF1a:R135S (reversion) branch, from #2390
 GJ.1.2.2	Alias of XBB.2.3.3.1.2.2, S:478R, Europe/USA/Australia
 GJ.1.2.3	Alias of XBB.2.3.3.1.2.3, S:T76I, Japan, on ORF1b:S997P branch
 GJ.1.2.4	Alias of XBB.2.3.3.1.2.4, S:S255F, on ORF1a:H919Y branch, Japan/USA/South Korea
