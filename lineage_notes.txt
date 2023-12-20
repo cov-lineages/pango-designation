@@ -3302,6 +3302,7 @@ JF.1.1.1	Alias of XBB.1.16.6.1.1.1, S:A475V, ORF2a:P2005S, Canada
 JF.1.1.2	Alias of XBB.1.16.6.1.1.2, S:V1264L
 JF.2	Alias of XBB.1.16.6.2, S:Q675H, USA/Wales, from sars-cov-2-variants/lineage-proposals#457
 JF.3	Alias of XBB.1.16.6.3, S:L455F, S:Q14H, S:S810L, USA/Australia
+JF.4	Alias of XBB.1.16.6.4, ORF1a:S212L, ORF8:A15V
 XBB.1.16.7	S:T732I after T12214C, Singapore/Japan/SouthKorea
 XBB.1.16.8	S:T732I after C28531T, India/USA/China/Australia
 XBB.1.16.9	S:F456L (T22930G), ORF1a:S2500F, Canada/Sweden/SouthKorea/USA
