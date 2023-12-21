@@ -3338,6 +3338,7 @@ XBB.1.16.28	S:V1230A, S:Q613H, S:Q675K, Russia
 XBB.1.16.29	S:T883I, on C7765T branch, TrinidadTobago
 XBB.1.16.30	S:E554Q, on C7765T branch, USA/Germany
 XBB.1.16.31	T9004C, on C7765T branch
+XBB.1.16.32	S:S490P, South Africa/USA
 XBB.1.17	Defined by T27995C and ORF1a:L469F, from #1712
 XBB.1.17.1	Defined by S:215H, S:S486P, from #1712
 GA.1	Alias of XBB.1.17.1.1, ORF1a:G728C
