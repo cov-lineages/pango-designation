@@ -4310,5 +4310,27 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "XBB.2.3.3.1.2.1.1.1.1": [
+    {
+      "pango": "JE.1.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 374,
+      "issue": 1116,
+      "labels": "S:478, Emerged in an undersampled area, Reversions, designated, S:554, S:521, S:450, S:52, s:1122, 2nuc mutation",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.2.3.3.1.2.1.1.1.1.1": [
+    {
+      "pango": "KH.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 374,
+      "issue": 1116,
+      "labels": "S:478, Emerged in an undersampled area, Reversions, designated, S:554, S:521, S:450, S:52, s:1122, 2nuc mutation",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }

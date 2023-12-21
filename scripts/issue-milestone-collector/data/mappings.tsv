@@ -1175,6 +1175,8 @@ GJ.1.2	sars-cov-2-variants/lineage-proposals	326	112	To be proposed, Mutations o
 GJ.1.2.1	sars-cov-2-variants/lineage-proposals	56	446	Rapid review needed, designated, S:450	CLOSED	COMPLETED	XBB.2.3.3.1.2.1
 JE.1	sars-cov-2-variants/lineage-proposals	77	597	S:478, designated, S:450, combo	CLOSED	COMPLETED	XBB.2.3.3.1.2.1.1
 JE.1.1	sars-cov-2-variants/lineage-proposals	141	827	S:478, designated, S:521, S:450, S:52	CLOSED	COMPLETED	XBB.2.3.3.1.2.1.1.1
+JE.1.1.1	sars-cov-2-variants/lineage-proposals	374	1116	S:478, Emerged in an undersampled area, Reversions, designated, S:554, S:521, S:450, S:52, s:1122, 2nuc mutation	CLOSED	COMPLETED	XBB.2.3.3.1.2.1.1.1.1
+KH.1	sars-cov-2-variants/lineage-proposals	374	1116	S:478, Emerged in an undersampled area, Reversions, designated, S:554, S:521, S:450, S:52, s:1122, 2nuc mutation	CLOSED	COMPLETED	XBB.2.3.3.1.2.1.1.1.1.1
 GJ.1.2.5	sars-cov-2-variants/lineage-proposals	116	628	New mutations, designated	CLOSED	COMPLETED	XBB.2.3.3.1.2.5
 GJ.1.2.6	sars-cov-2-variants/lineage-proposals	142	726	S:478, Multiple lineages, designated, S:521, partially designated	CLOSED	NOT_PLANNED	XBB.2.3.3.1.2.6
 GJ.1.2.7	sars-cov-2-variants/lineage-proposals	142	726	S:478, Multiple lineages, designated, S:521, partially designated	CLOSED	NOT_PLANNED	XBB.2.3.3.1.2.7
