@@ -9601,6 +9601,18 @@
       "unaliased": "XBB.1.16.6.1"
     }
   ],
+  "XBB.1.16.6.1.1.1": [
+    {
+      "pango": "JF.1.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 375,
+      "issue": 643,
+      "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "XBB.1.16.6.1.1.1"
+    }
+  ],
   "XBB.1.16.6.2": [
     {
       "pango": "JF.2",
@@ -9795,7 +9807,7 @@
     {
       "pango": "GW.5.1.1",
       "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 119,
+      "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
       "state": "OPEN",
@@ -11197,6 +11209,16 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.5.70.1.2.1"
+    },
+    {
+      "pango": "GK.1.2.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 375,
+      "issue": 643,
+      "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "XBB.1.5.70.1.2.1"
     }
   ],
   "XBB.1.5.70.1.3": [
@@ -11227,7 +11249,7 @@
     {
       "pango": "GK.1.6",
       "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 119,
+      "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
       "state": "OPEN",
@@ -11239,12 +11261,36 @@
     {
       "pango": "GK.1.6.1",
       "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 119,
+      "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
       "state": "OPEN",
       "reason": null,
       "unaliased": "XBB.1.5.70.1.6.1"
+    }
+  ],
+  "XBB.1.5.70.1.8": [
+    {
+      "pango": "GK.1.8",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 375,
+      "issue": 643,
+      "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "XBB.1.5.70.1.8"
+    }
+  ],
+  "XBB.1.5.70.1.8.1": [
+    {
+      "pango": "GK.1.8.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 376,
+      "issue": 1127,
+      "labels": "S:554, FLip, S:475, S:222, S:187",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.5.70.1.8.1"
     }
   ],
   "XBB.1.5.70.10": [
@@ -11319,6 +11365,18 @@
       "unaliased": "XBB.1.5.70.2.4"
     }
   ],
+  "XBB.1.5.70.3.1": [
+    {
+      "pango": "GK.3.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 375,
+      "issue": 643,
+      "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "XBB.1.5.70.3.1"
+    }
+  ],
   "XBB.1.5.70.3.2": [
     {
       "pango": "GK.3.2",
@@ -11340,6 +11398,16 @@
       "labels": "potential artefact",
       "state": "CLOSED",
       "reason": "COMPLETED",
+      "unaliased": "XBB.1.5.70.4"
+    },
+    {
+      "pango": "GK.4",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 375,
+      "issue": 643,
+      "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
+      "state": "OPEN",
+      "reason": null,
       "unaliased": "XBB.1.5.70.4"
     }
   ],
@@ -11407,11 +11475,11 @@
     {
       "pango": "GK.8.1",
       "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 170,
-      "issue": 909,
-      "labels": "designated, partially designated, FLip, S:475, s:180-185",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
+      "milestone": 375,
+      "issue": 643,
+      "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
+      "state": "OPEN",
+      "reason": null,
       "unaliased": "XBB.1.5.70.8.1"
     }
   ],
@@ -12095,6 +12163,30 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.9.1.2.6"
+    }
+  ],
+  "XBB.1.9.1.2.7": [
+    {
+      "pango": "FL.2.7",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 377,
+      "issue": 552,
+      "labels": "S:478, Emerged in an undersampled area",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
+      "unaliased": "XBB.1.9.1.2.7"
+    }
+  ],
+  "XBB.1.9.1.2.7.1": [
+    {
+      "pango": "FL.2.7.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 377,
+      "issue": 552,
+      "labels": "S:478, Emerged in an undersampled area",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
+      "unaliased": "XBB.1.9.1.2.7.1"
     }
   ],
   "XBB.1.9.1.20": [
@@ -12935,7 +13027,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 237,
       "issue": 955,
-      "labels": "Rapid review needed, designated, partially designated, spike diversity, HK.3.2",
+      "labels": "To be proposed, Rapid review needed, designated, partially designated, spike diversity, HK.3.2",
       "state": "OPEN",
       "reason": null,
       "unaliased": "XBB.1.9.2.5.1.1.3.2.1"
