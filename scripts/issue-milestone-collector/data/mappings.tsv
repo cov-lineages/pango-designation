@@ -937,6 +937,7 @@ XBB.1.5.57	cov-lineages/pango-designation	748	1973	designated	CLOSED	COMPLETED	X
 HZ.1	sars-cov-2-variants/lineage-proposals	57	514	S:478, designated	CLOSED	COMPLETED	XBB.1.5.68.1
 XBB.1.5.70	cov-lineages/pango-designation	757	1982	designated, Saltation, XBB.1.5	CLOSED	COMPLETED	XBB.1.5.70
 GK.1.10	sars-cov-2-variants/lineage-proposals	229	814	partially designated, FLip, S:475, ORF9b	OPEN	REOPENED	XBB.1.5.70.1.10
+GK.1.11	sars-cov-2-variants/lineage-proposals	375	643	To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475	OPEN		XBB.1.5.70.1.11
 GK.1.2.1	cov-lineages/pango-designation	824	2314		CLOSED	COMPLETED	XBB.1.5.70.1.2.1
 GK.1.2.1	sars-cov-2-variants/lineage-proposals	375	643	To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475	OPEN		XBB.1.5.70.1.2.1
 GK.1.3	sars-cov-2-variants/lineage-proposals	8	179	Mutations outside spike, designated	CLOSED	COMPLETED	XBB.1.5.70.1.3
@@ -944,7 +945,7 @@ GK.1.4	sars-cov-2-variants/lineage-proposals	81	504	S:456, S:478, designated, S:
 GK.1.6	sars-cov-2-variants/lineage-proposals	375	643	To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475	OPEN		XBB.1.5.70.1.6
 GK.1.6.1	sars-cov-2-variants/lineage-proposals	375	643	To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475	OPEN		XBB.1.5.70.1.6.1
 GK.1.8	sars-cov-2-variants/lineage-proposals	375	643	To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475	OPEN		XBB.1.5.70.1.8
-GK.1.8.1	sars-cov-2-variants/lineage-proposals	376	1127	S:554, FLip, S:475, S:222, S:187	CLOSED	COMPLETED	XBB.1.5.70.1.8.1
+GK.1.8.1	sars-cov-2-variants/lineage-proposals	376	1127	designated, S:554, FLip, S:475, S:222, S:187	CLOSED	COMPLETED	XBB.1.5.70.1.8.1
 GK.10	sars-cov-2-variants/lineage-proposals	172	761	designated, S:554, FLip	CLOSED	NOT_PLANNED	XBB.1.5.70.10
 GK.2	sars-cov-2-variants/lineage-proposals	88	300	Convergent evolution, designated	CLOSED	COMPLETED	XBB.1.5.70.2
 GK.2.1.1	sars-cov-2-variants/lineage-proposals	133	716	New mutations, designated, FLip	CLOSED	COMPLETED	XBB.1.5.70.2.1.1
@@ -1019,8 +1020,8 @@ FL.2.3	sars-cov-2-variants/lineage-proposals	299	78	Mutations outside spike, des
 FL.2.5	sars-cov-2-variants/lineage-proposals	65	342	New mutations, Apparently slow, designated	CLOSED	NOT_PLANNED	XBB.1.9.1.2.5
 FL.2.6	cov-lineages/pango-designation	810	2180	designated	CLOSED	COMPLETED	XBB.1.9.1.2.6
 FL.2.6	sars-cov-2-variants/lineage-proposals	350	520	New mutations, Emerged in an undersampled area, designated	CLOSED	COMPLETED	XBB.1.9.1.2.6
-FL.2.7	sars-cov-2-variants/lineage-proposals	377	552	S:478, Emerged in an undersampled area	CLOSED	NOT_PLANNED	XBB.1.9.1.2.7
-FL.2.7.1	sars-cov-2-variants/lineage-proposals	377	552	S:478, Emerged in an undersampled area	CLOSED	NOT_PLANNED	XBB.1.9.1.2.7.1
+FL.2.7	sars-cov-2-variants/lineage-proposals	377	552	S:478, Emerged in an undersampled area, designated	CLOSED	NOT_PLANNED	XBB.1.9.1.2.7
+FL.2.7.1	sars-cov-2-variants/lineage-proposals	377	552	S:478, Emerged in an undersampled area, designated	CLOSED	NOT_PLANNED	XBB.1.9.1.2.7.1
 FL.20	cov-lineages/pango-designation	791	2072	designated	CLOSED	COMPLETED	XBB.1.9.1.20
 FL.20	sars-cov-2-variants/lineage-proposals	316	95	To be proposed, Convergent evolution, S:456, designated	CLOSED	COMPLETED	XBB.1.9.1.20
 FL.20.1	cov-lineages/pango-designation	796	2145		CLOSED	COMPLETED	XBB.1.9.1.20.1
