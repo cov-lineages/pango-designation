@@ -3305,7 +3305,7 @@ XBB.1.16.5	Defined by T9991C,C16332T, India, from #1983
 XBB.1.16.6	S:F456L (T22930A), A12397G, USA/Canada/China
 JF.1	Alias of XBB.1.16.6.1, S:L455F, USA, from #2207
 JF.1.1	Alias of XBB.1.16.6.1.1, ORF1a:S2030L
-JF.1.1.1	Alias of XBB.1.16.6.1.1.1, S:A475V, ORF2a:P2005S, Canada
+JF.1.1.1	Alias of XBB.1.16.6.1.1.1, S:A475V, ORF1a:P2005S, Canada
 JF.1.1.2	Alias of XBB.1.16.6.1.1.2, S:V1264L
 JF.2	Alias of XBB.1.16.6.2, S:Q675H, USA/Wales, from sars-cov-2-variants/lineage-proposals#457
 JF.3	Alias of XBB.1.16.6.3, S:L455F, S:Q14H, S:S810L, USA/Australia
