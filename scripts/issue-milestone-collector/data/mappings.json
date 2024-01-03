@@ -11193,7 +11193,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 229,
       "issue": 814,
-      "labels": "partially designated, FLip, S:475, ORF9b",
+      "labels": "Rapid review needed, partially designated, FLip, S:475, ORF9b",
       "state": "OPEN",
       "reason": "REOPENED",
       "unaliased": "XBB.1.5.70.1.10"
@@ -12872,8 +12872,8 @@
       "milestone": 223,
       "issue": 1014,
       "labels": "To be proposed, Rapid review needed, S:456, Multiple lineages, designated, S:52, partially designated, S:470",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
       "unaliased": "XBB.1.9.2.5.1.1.21"
     }
   ],
@@ -13016,8 +13016,8 @@
       "milestone": 271,
       "issue": 601,
       "labels": "S:456, Multiple lineages, S:14, partially designated",
-      "state": "OPEN",
-      "reason": "REOPENED",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.9.2.5.1.1.3.13"
     }
   ],
@@ -13148,8 +13148,8 @@
       "milestone": 271,
       "issue": 601,
       "labels": "S:456, Multiple lineages, S:14, partially designated",
-      "state": "OPEN",
-      "reason": "REOPENED",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.9.2.5.1.1.32"
     }
   ],
