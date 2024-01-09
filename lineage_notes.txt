@@ -2993,6 +2993,7 @@ HN.4.2	Alias of XBB.1.9.1.1.5.1.4.2, S:Q14H, Georgia/Russia
 HN.5	Alias of XBB.1.9.1.1.5.1.5, S:E554K, from sars-cov-2-variants/lineage-proposals#936
 HN.6	Alias of XBB.1.9.1.1.5.1.6, ORF1a:D1933A
 HN.7	Alias of XBB.1.9.1.1.5.1.7, C6388T, T20028C, C20115T, Europe
+HN.8	Alias of XBB.1.9.1.1.5.1.8, S:ins248KRD, ORF1a:E2042D, not requiring S:494P, Haiti/USA, from #2438
 FL.1.5.2	Alias of XBB.1.9.1.1.5.2, S:N481K, S:H681R, England/France/Denmark, from sars-cov-2-variants/lineage-proposals#614
 KC.1	Alias of XBB.1.9.1.1.5.2.1, S:S490P, ORF1a:T4129I, ORF1a:S723F, Europe, from sars-cov-2-variants/lineage-proposals#614
 KC.1.1	Alias of XBB.1.9.1.1.5.2.1.1, S:V1228L, England
