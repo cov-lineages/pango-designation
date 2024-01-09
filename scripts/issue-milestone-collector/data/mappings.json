@@ -3313,9 +3313,9 @@
     {
       "pango": "JN.1.1",
       "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 254,
+      "milestone": 378,
       "issue": 987,
-      "labels": "Multiple lineages, S:455, partially designated, BA.2.86, Orf6, JN.1",
+      "labels": "Multiple lineages, designated, S:455, BA.2.86, Orf6, JN.1",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.1"
@@ -3343,6 +3343,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.2"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.4": [
+    {
+      "pango": "JN.1.4",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 378,
+      "issue": 987,
+      "labels": "Multiple lineages, designated, S:455, BA.2.86, Orf6, JN.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.4"
     }
   ],
   "B.1.1.529.2.86.1.10": [
@@ -15293,6 +15305,28 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XDK"
+    }
+  ],
+  "XDL": [
+    {
+      "pango": "XDL",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 827,
+      "issue": 2351,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDL"
+    },
+    {
+      "pango": "XDL",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 379,
+      "issue": 914,
+      "labels": "recombinant, designated, FLip",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDL"
     }
   ],
   "XE": [
