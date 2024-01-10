@@ -3225,6 +3225,8 @@ HV.1.4	Alias of XBB.1.9.2.5.1.6.1.4, S:A1078S, USA, from sars-cov-2-variants/lin
 HV.1.5	Alias of XBB.1.9.2.5.1.6.1.5, S:L1265F, USA/Canada, from sars-cov-2-variants/lineage-proposals#957
 HV.1.6	Alias of XBB.1.9.2.5.1.6.1.6, ORF1a:T1794I, ORF1a:P2018S, Canada/USA
 HV.1.6.1	Alias of XBB.1.9.2.5.1.6.1.6.1, S:S704L, Canada, from sars-cov-2-variants/lineage-proposals#957
+KL.1	Alias of XBB.1.9.2.5.1.6.1.6.1.1, S:K444N, Canada
+KL.1.1	Alias of XBB.1.9.2.5.1.6.1.6.1.1.1, S:H1101Y, Canada
 HV.1.7	Alias of XBB.1.9.2.5.1.6.1.7, S:S221L, Canada, from sars-cov-2-variants/lineage-proposals#957
 HV.1.8	Alias of XBB.1.9.2.5.1.6.1.8, S:T208M, USA
 HV.1.9	Alias of XBB.1.9.2.5.1.6.1.9, S:N211I, S:T1117I, New Zealand
