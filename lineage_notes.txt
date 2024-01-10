@@ -2960,6 +2960,7 @@ JD.1.1.5	Alias of XBB.1.5.102.1.1.5, S:Q677R, USA/Canada, from sars-cov-2-varian
 JD.1.1.6	Alias of XBB.1.5.102.1.1.6, S:M153V, Brazil
 JD.1.1.7	Alias of XBB.1.5.102.1.1.7, ORF1b:R2257S
 JD.1.1.8	Alias of XBB.1.5.102.1.1.8, ORF1a:N1094K, without C19185T, Brazil
+KK.1	Alias of XBB.1.5.102.1.1.8.1, S:D1153H, Brazil/USA
 JD.1.2	Alias of XBB.1.5.102.1.2, S:P1162S, Brazil, from sars-cov-2-variants/lineage-proposals#136
 JD.1.2.1	Alias of XBB.1.5.102.1.2.1, S:E554Q, from sars-cov-2-variants/lineage-proposals#870
 JD.1.2.2	Alias of XBB.1.5.102.1.2.2, S:A1078T, Brazil
