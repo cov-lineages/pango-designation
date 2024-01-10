@@ -3002,17 +3002,6 @@
       "reason": "NOT_PLANNED"
     }
   ],
-  "B.1.1.529.2.86.1.1.1.1": [
-    {
-      "pango": "JN.1.1.1",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 266,
-      "issue": 1097,
-      "labels": "To be proposed, Multiple lineages, partially designated, BA.2.86, S:572, JN.1",
-      "state": "OPEN",
-      "reason": null
-    }
-  ],
   "B.1.1.529.2.86.1.1.2": [
     {
       "pango": "JN.1.2",
@@ -3071,6 +3060,28 @@
   "XBB.1.9.2.5.1.6.1.4": [
     {
       "pango": "HV.1.4",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 268,
+      "issue": 957,
+      "labels": "partially designated, spike diversity, HV.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "XBB.1.9.2.5.1.6.1.8": [
+    {
+      "pango": "HV.1.8",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 268,
+      "issue": 957,
+      "labels": "partially designated, spike diversity, HV.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "XBB.1.9.2.5.1.6.1.9": [
+    {
+      "pango": "HV.1.9",
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 268,
       "issue": 957,
@@ -4450,6 +4461,182 @@
       "milestone": 379,
       "issue": 914,
       "labels": "recombinant, designated, FLip",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.1.9.2.5.1.6.1.10": [
+    {
+      "pango": "HV.1.10",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 380,
+      "issue": 1044,
+      "labels": "Convergent evolution, S:456, Apparently slow, S:452, designated, s:157",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.5": [
+    {
+      "pango": "JN.1.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 381,
+      "issue": 1143,
+      "labels": "High local prevalence, designated, Double Nuc mutations, BA.2.86, JN.1, NSP13",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.1.2": [
+    {
+      "pango": "JN.1.1.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 382,
+      "issue": 1147,
+      "labels": "S:456, partially designated, BA.2.86, JN.1, S:181, SLip",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.2.5": [
+    {
+      "pango": "JN.2.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 383,
+      "issue": 1173,
+      "labels": "designated, S:455, BA.2.86",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.2.2": [
+    {
+      "pango": "JN.2.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 384,
+      "issue": 1179,
+      "labels": "designated, BA.2.86, S:572, NSP6",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDD.1": [
+    {
+      "pango": "XDD.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 385,
+      "issue": 1203,
+      "labels": "designated, XDD, 704L, JN.1 Spike, s:584",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDD.1.1": [
+    {
+      "pango": "XDD.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 385,
+      "issue": 1203,
+      "labels": "designated, XDD, 704L, JN.1 Spike, s:584",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDD.2": [
+    {
+      "pango": "XDD.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 386,
+      "issue": 1176,
+      "labels": "designated, S:307, XDD",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.9": [
+    {
+      "pango": "JN.1.9",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 387,
+      "issue": 1096,
+      "labels": "designated, BA.2.86, S:183, JN.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.1.1": [
+    {
+      "pango": "JN.1.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 389,
+      "issue": 1097,
+      "labels": "To be proposed, Multiple lineages, partially designated, BA.2.86, S:572, JN.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.1.8.1": [
+    {
+      "pango": "JN.1.8.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 389,
+      "issue": 1097,
+      "labels": "To be proposed, Multiple lineages, partially designated, BA.2.86, S:572, JN.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.1.7": [
+    {
+      "pango": "JN.1.7",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 389,
+      "issue": 1097,
+      "labels": "To be proposed, Multiple lineages, partially designated, BA.2.86, S:572, JN.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.1.1.3": [
+    {
+      "pango": "JN.1.1.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 390,
+      "issue": 1089,
+      "labels": "Multiple lineages, Apparently slow, S:346, partially designated, JN.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.1.6.1": [
+    {
+      "pango": "JN.1.6.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 390,
+      "issue": 1089,
+      "labels": "Multiple lineages, Apparently slow, S:346, partially designated, JN.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.2.3": [
+    {
+      "pango": "JN.2.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 391,
+      "issue": 1181,
+      "labels": "designated, BA.2.86, S:193",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.1.9.1.1.5.1.8": [
+    {
+      "pango": "HN.8",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 392,
+      "issue": 996,
+      "labels": "To be proposed, S:456, S:478, Insertion, High local prevalence, Apparently slow, S:248, spike diversity",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
