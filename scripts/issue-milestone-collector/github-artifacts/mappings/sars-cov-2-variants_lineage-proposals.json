@@ -4493,7 +4493,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 382,
       "issue": 1147,
-      "labels": "S:456, partially designated, BA.2.86, JN.1, S:181, SLip",
+      "labels": "S:456, Apparently slow, partially designated, BA.2.86, JN.1, S:181, SLip",
       "state": "OPEN",
       "reason": null
     }

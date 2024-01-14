@@ -278,7 +278,7 @@ BA.2.85	cov-lineages/pango-designation	479	983	designated, BA.2	CLOSED	COMPLETED
 BA.2.86	cov-lineages/pango-designation	803	2183	designated, BA.2, Saltation	CLOSED	COMPLETED	B.1.1.529.2.86
 JN.1.1	sars-cov-2-variants/lineage-proposals	378	987	Multiple lineages, designated, S:455, BA.2.86, Orf6, JN.1	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.1
 JN.1.1.1	sars-cov-2-variants/lineage-proposals	389	1097	To be proposed, Multiple lineages, partially designated, BA.2.86, S:572, JN.1	OPEN		B.1.1.529.2.86.1.1.1.1
-JN.1.1.2	sars-cov-2-variants/lineage-proposals	382	1147	S:456, partially designated, BA.2.86, JN.1, S:181, SLip	OPEN		B.1.1.529.2.86.1.1.1.2
+JN.1.1.2	sars-cov-2-variants/lineage-proposals	382	1147	S:456, Apparently slow, partially designated, BA.2.86, JN.1, S:181, SLip	OPEN		B.1.1.529.2.86.1.1.1.2
 JN.1.1.3	sars-cov-2-variants/lineage-proposals	390	1089	Multiple lineages, Apparently slow, S:346, partially designated, JN.1	OPEN		B.1.1.529.2.86.1.1.1.3
 JN.1.10	sars-cov-2-variants/lineage-proposals	399	1135	Multiple lineages, designated, partially designated, BA.2.86, S:95	OPEN		B.1.1.529.2.86.1.1.10
 JN.1.11	cov-lineages/pango-designation	834	2446		CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11
