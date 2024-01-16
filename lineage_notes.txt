@@ -3777,6 +3777,7 @@ XDK	Recombinant lineage of XBB.1.16.11 (likely) and JN.1.1.1 (breakpoint between
 XDL	Recombinant lineage of EG.5.1.1 and non-EG.5 (breakpoint between 25573-29624) with S:L455F and S:I1114T, China, from #2351
 XDM	Recombinant lineage of XDA, GW.5, XDA (breakpoints between 22107-22926 and 24047-25838), from sars-cov-2-variants/lineage-proposals#1163
 XDN	Recombinant lineage of JN.1.1 and JD.1 (breakpoint between 24379 and 24989), from #2448
+XDP	Recombinant lineage of JN.1.4 and FL.15 (breakpoint between 26834 and 27809), from #2451
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
