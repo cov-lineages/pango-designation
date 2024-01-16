@@ -1073,7 +1073,9 @@ JN.2.3	Alias of B.1.1.529.2.86.1.2.3, S:V193L, from #2442
 JN.2.4	Alias of B.1.1.529.2.86.1.2.4, S:L242F, Sweden
 JN.2.5	Alias of B.1.1.529.2.86.1.2.5, S:L455S, Canada, USA, Lithuania
 JN.3	Alias of B.1.1.529.2.86.1.3, ORF1a:T2087I, Europe, from sars-cov-2-variants/lineage-proposals#892
-JN.3.1	Alias of B.1.1.529.2.86.1.3.1, S:L922F, ORf7a:T28I, Spain
+JN.3.1	Alias of B.1.1.529.2.86.1.3.1, S:L922F, ORF7a:T28I, Spain
+JN.3.2	Alias of B.1.1.529.2.86.1.3.2, N:H300Y, ORF1a:P892S, from #2445
+JN.3.2.1	Alias of B.1.1.529.2.86.1.3.2.1, S:F456V, N:S327L, Germany, from #2445
 JN.4	Alias of B.1.1.529.2.86.1.4, S:A475V, lacking C12815T of most BA.2.86.1, Belgium/Netherlands/Denmark, from sars-cov-2-variants/lineage-proposals#1009
 JN.5	Alias of B.1.1.529.2.86.1.5, N:T135I
 JN.5.1	Alias of B.1.1.529.2.86.1.5.1, S:A475S, T2950A, A28052G, C29541T, England/Belgium, from sars-cov-2-variants/lineage-proposals#954
