@@ -1120,7 +1120,7 @@ HK.3.12	sars-cov-2-variants/lineage-proposals	272	886	designated, S:52, FLip, S:
 HK.3.13	sars-cov-2-variants/lineage-proposals	271	601	S:456, Multiple lineages, S:14, partially designated	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.3.13
 HK.3.14	sars-cov-2-variants/lineage-proposals	398	978	S:456, Multiple lineages, designated, S:52, S:475, EG.5.1	OPEN		XBB.1.9.2.5.1.1.3.14
 HK.3.2	sars-cov-2-variants/lineage-proposals	117	730	designated, S:14, FLip	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.3.2
-HK.3.2.1	sars-cov-2-variants/lineage-proposals	237	955	To be proposed, Rapid review needed, designated, partially designated, spike diversity, HK.3.2	OPEN		XBB.1.9.2.5.1.1.3.2.1
+HK.3.2.1	sars-cov-2-variants/lineage-proposals	237	955	To be proposed, Rapid review needed, designated, partially designated, spike diversity, HK.3.2	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.3.2.1
 HK.3.2.2	sars-cov-2-variants/lineage-proposals	250	867	Truncated Orf(3-10), designated, S:52, FLip, S:185	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.3.2.2
 HK.3.3	sars-cov-2-variants/lineage-proposals	114	744	designated, FLip, S:256	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.3.3
 HK.3.4	sars-cov-2-variants/lineage-proposals	190	764	designated, FLip	CLOSED	COMPLETED	XBB.1.9.2.5.1.1.3.4
