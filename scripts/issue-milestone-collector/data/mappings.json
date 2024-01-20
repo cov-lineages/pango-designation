@@ -13803,18 +13803,6 @@
       "unaliased": "XBB.1.9.2.5.1.6.1.1"
     }
   ],
-  "XBB.1.9.2.5.1.6.1.10": [
-    {
-      "pango": "HV.1.10",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 380,
-      "issue": 1044,
-      "labels": "Convergent evolution, S:456, Apparently slow, S:452, designated, s:157",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
-      "unaliased": "XBB.1.9.2.5.1.6.1.10"
-    }
-  ],
   "XBB.1.9.2.5.1.6.1.2": [
     {
       "pango": "HV.1.2",
