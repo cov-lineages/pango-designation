@@ -10726,8 +10726,8 @@
       "milestone": 178,
       "issue": 629,
       "labels": "S:478, Mutations outside spike, S:403, designated, combo, N dropout?",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
+      "state": "OPEN",
+      "reason": "REOPENED",
       "unaliased": "XBB.1.41.1.5"
     }
   ],

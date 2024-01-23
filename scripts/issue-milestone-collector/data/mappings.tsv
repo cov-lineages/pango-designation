@@ -897,7 +897,7 @@ XBB.1.41	cov-lineages/pango-designation	759	1997	designated	CLOSED	COMPLETED	XBB
 XBB.1.41	sars-cov-2-variants/lineage-proposals	298	38	To be proposed, Convergent evolution, S:403, designated	CLOSED	COMPLETED	XBB.1.41
 XBB.1.41.1	sars-cov-2-variants/lineage-proposals	9	150	Convergent evolution, S:478, designated	CLOSED	COMPLETED	XBB.1.41.1
 JC.2	sars-cov-2-variants/lineage-proposals	177	961	designated	CLOSED	COMPLETED	XBB.1.41.1.2
-JC.5	sars-cov-2-variants/lineage-proposals	178	629	S:478, Mutations outside spike, S:403, designated, combo, N dropout?	CLOSED	COMPLETED	XBB.1.41.1.5
+JC.5	sars-cov-2-variants/lineage-proposals	178	629	S:478, Mutations outside spike, S:403, designated, combo, N dropout?	OPEN	REOPENED	XBB.1.41.1.5
 XBB.1.41.2	sars-cov-2-variants/lineage-proposals	68	389	Convergent evolution, designated	CLOSED	COMPLETED	XBB.1.41.2
 XBB.1.42	cov-lineages/pango-designation	767	1954	designated, recombinant, XBB	CLOSED	COMPLETED	XBB.1.42
 XBB.1.42.1	sars-cov-2-variants/lineage-proposals	334	198	Convergent evolution, S:478, designated	CLOSED	COMPLETED	XBB.1.42.1
