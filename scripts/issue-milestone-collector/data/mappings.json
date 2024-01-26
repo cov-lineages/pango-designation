@@ -13938,16 +13938,6 @@
   "XBB.1.9.2.5.1.6.1.8": [
     {
       "pango": "HV.1.8",
-      "repo": "cov-lineages/pango-designation",
-      "milestone": 828,
-      "issue": 2432,
-      "labels": "",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
-      "unaliased": "XBB.1.9.2.5.1.6.1.8"
-    },
-    {
-      "pango": "HV.1.8",
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 268,
       "issue": 957,
@@ -14178,10 +14168,10 @@
       "pango": "GE.1.2",
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 70,
-      "issue": 200,
-      "labels": "S:478, Emerged in an undersampled area, designated",
+      "issue": 172,
+      "labels": "Reversions",
       "state": "CLOSED",
-      "reason": "COMPLETED",
+      "reason": "NOT_PLANNED",
       "unaliased": "XBB.2.3.10.1.2"
     }
   ],

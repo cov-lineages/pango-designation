@@ -741,10 +741,10 @@
       "pango": "GE.1.2",
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 70,
-      "issue": 200,
-      "labels": "S:478, Emerged in an undersampled area, designated",
+      "issue": 172,
+      "labels": "Reversions",
       "state": "CLOSED",
-      "reason": "COMPLETED"
+      "reason": "NOT_PLANNED"
     }
   ],
   "XBB.2.3.11.2": [
