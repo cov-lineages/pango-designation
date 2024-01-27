@@ -4592,7 +4592,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 390,
       "issue": 1089,
-      "labels": "Multiple lineages, Apparently slow, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1",
       "state": "OPEN",
       "reason": null
     }
@@ -4603,7 +4603,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 390,
       "issue": 1089,
-      "labels": "Multiple lineages, Apparently slow, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1",
       "state": "OPEN",
       "reason": null
     }
