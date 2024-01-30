@@ -1016,7 +1016,7 @@ HN.4.1.1	sars-cov-2-variants/lineage-proposals	365	1054	S:456, S:478, S:452, des
 HN.4.2	sars-cov-2-variants/lineage-proposals	364	971	S:456, S:478, Emerged in an undersampled area, designated, S:14	CLOSED	NOT_PLANNED	XBB.1.9.1.1.5.1.4.2
 HN.5	sars-cov-2-variants/lineage-proposals	204	936	S:456, S:478, Multiple lineages, partially designated, 554k	CLOSED	COMPLETED	XBB.1.9.1.1.5.1.5
 HN.8	cov-lineages/pango-designation	831	2438	monitor	CLOSED	COMPLETED	XBB.1.9.1.1.5.1.8
-HN.8	sars-cov-2-variants/lineage-proposals	392	996	To be proposed, S:456, S:478, Insertion, High local prevalence, Apparently slow, S:248, spike diversity	CLOSED	COMPLETED	XBB.1.9.1.1.5.1.8
+HN.8	sars-cov-2-variants/lineage-proposals	392	996	To be proposed, S:456, S:478, Insertion, High local prevalence, Apparently slow, designated, S:248, spike diversity	CLOSED	COMPLETED	XBB.1.9.1.1.5.1.8
 FL.1.5.2	sars-cov-2-variants/lineage-proposals	256	614	S:456, S:490, designated, combo	CLOSED	COMPLETED	XBB.1.9.1.1.5.2
 KC.1	sars-cov-2-variants/lineage-proposals	256	614	S:456, S:490, designated, combo	CLOSED	COMPLETED	XBB.1.9.1.1.5.2.1
 FL.1.6	sars-cov-2-variants/lineage-proposals	112	59	Multiple lineages, designated	CLOSED	NOT_PLANNED	XBB.1.9.1.1.6

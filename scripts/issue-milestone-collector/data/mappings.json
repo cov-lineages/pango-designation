@@ -12131,7 +12131,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 392,
       "issue": 996,
-      "labels": "To be proposed, S:456, S:478, Insertion, High local prevalence, Apparently slow, S:248, spike diversity",
+      "labels": "To be proposed, S:456, S:478, Insertion, High local prevalence, Apparently slow, designated, S:248, spike diversity",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.9.1.1.5.1.8"
