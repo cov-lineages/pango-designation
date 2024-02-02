@@ -1059,6 +1059,7 @@ JN.1.2.1	Alias of B.1.1.529.2.86.1.1.2.1, S:H1101Y, Ireland
 JN.1.3	Alias of B.1.1.529.2.86.1.1.3, ORF8:Q18*, Netherlands
 JN.1.4	Alias of B.1.1.529.2.86.1.1.4, ORF1a:T170I, Denmark/Singapore, from #2381
 JN.1.4.1	Alias of B.1.1.529.2.86.1.1.4.1, S:E654V, Ireland
+JN.1.4.2	Alias of B.1.1.529.2.86.1.1.4.2, S:N185D, USA, from #2462
 JN.1.5	Alias of B.1.1.529.2.86.1.1.5, ORF1b:V1271T, Singapore/Malaysia/Indonesia, from #2419
 JN.1.6	Alias of B.1.1.529.2.86.1.1.6, G22627A
 JN.1.6.1	Alias of B.1.1.529.2.86.1.1.6.1, S:R346T, Sweden, from sars-cov-2-variants/lineage-proposals#1089
