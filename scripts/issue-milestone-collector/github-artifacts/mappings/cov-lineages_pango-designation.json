@@ -9986,5 +9986,16 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "B.1.1.529.2.86.1.1.4.2": [
+    {
+      "pango": "JN.1.4.2",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 839,
+      "issue": 2462,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
