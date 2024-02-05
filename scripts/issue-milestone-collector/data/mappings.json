@@ -3427,6 +3427,18 @@
       "unaliased": "B.1.1.529.2.86.1.1.16"
     }
   ],
+  "B.1.1.529.2.86.1.1.18": [
+    {
+      "pango": "JN.1.18",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 390,
+      "issue": 1089,
+      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "B.1.1.529.2.86.1.1.18"
+    }
+  ],
   "B.1.1.529.2.86.1.1.2": [
     {
       "pango": "JN.1.2",
@@ -3449,6 +3461,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.2.1"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.21": [
+    {
+      "pango": "JN.1.21",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 415,
+      "issue": 1162,
+      "labels": "To be proposed, Multiple lineages, designated, BA.2.86, JN.1, S:1058",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "B.1.1.529.2.86.1.1.21"
     }
   ],
   "B.1.1.529.2.86.1.1.4": [
@@ -3575,6 +3599,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.9"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.9.1": [
+    {
+      "pango": "JN.1.9.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 389,
+      "issue": 1097,
+      "labels": "To be proposed, Multiple lineages, partially designated, BA.2.86, S:572, JN.1",
+      "state": "OPEN",
+      "reason": null,
+      "unaliased": "B.1.1.529.2.86.1.1.9.1"
     }
   ],
   "B.1.1.529.2.86.1.10": [
@@ -15905,6 +15941,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XDR"
+    }
+  ],
+  "XDS": [
+    {
+      "pango": "XDS",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 414,
+      "issue": 1267,
+      "labels": "recombinant, S:456, designated, BA.2.86",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDS"
     }
   ],
   "XE": [
