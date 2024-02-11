@@ -4725,8 +4725,8 @@
       "milestone": 398,
       "issue": 978,
       "labels": "S:456, Multiple lineages, designated, S:52, S:475, EG.5.1",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "COMPLETED"
     }
   ],
   "B.1.1.529.2.86.1.1.10": [
@@ -4735,7 +4735,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 399,
       "issue": 1135,
-      "labels": "Multiple lineages, designated, partially designated, BA.2.86, S:95",
+      "labels": "Multiple lineages, Apparently slow, designated, partially designated, BA.2.86, S:95",
       "state": "OPEN",
       "reason": null
     }
