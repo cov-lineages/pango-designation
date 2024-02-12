@@ -3201,6 +3201,7 @@ HK.12	Alias of XBB.1.9.2.5.1.1.12, S:K356T, China/Singapore
 HK.13	Alias of XBB.1.9.2.5.1.1.13, S:L455F (G22927C), China, from sars-cov-2-variants/lineage-proposals#537
 HK.13.1	Alias of XBB.1.9.2.5.1.1.13.1, C13378T, A24604G
 HK.13.2	Alias of XBB.1.9.2.5.1.1.13.2, S:F797L, S:D1153H, from sars-cov-2-variants/lineage-proposals#943
+HK.13.2.1	Alias of XBB.1.9.2.5.1.1.13.2.1, S:T250I, N:T379I, Greece, from #2480
 HK.14	Alias of XBB.1.9.2.5.1.1.14, S:L455F (G22927C), on C11779T branch, China, from sars-cov-2-variants/lineage-proposals#537
 HK.15	Alias of XBB.1.9.2.5.1.1.15, S:A262T, on C11779T branch, from sars-cov-2-variants/lineage-proposals#588
 HK.16	Alias of XBB.1.9.2.5.1.1.16, N:P67S, S:A684V, S:V1264L, from sars-cov-2-variants/lineage-proposals#841
