@@ -2639,6 +2639,28 @@
       "reason": "COMPLETED"
     }
   ],
+  "XBB.1.5.70.1.10.1.1": [
+    {
+      "pango": "KN.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 229,
+      "issue": 814,
+      "labels": "Rapid review needed, designated, partially designated, FLip, S:475, ORF9b",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.1.5.70.1.10.1.1.1": [
+    {
+      "pango": "KN.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 229,
+      "issue": 814,
+      "labels": "Rapid review needed, designated, partially designated, FLip, S:475, ORF9b",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
   "B.1.1.529.2.86.1.7": [
     {
       "pango": "JN.7",
@@ -4608,6 +4630,17 @@
       "reason": null
     }
   ],
+  "B.1.1.529.2.86.1.1.4.3": [
+    {
+      "pango": "JN.1.4.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 389,
+      "issue": 1097,
+      "labels": "To be proposed, Multiple lineages, partially designated, BA.2.86, S:572, JN.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
   "B.1.1.529.2.86.1.1.1.3": [
     {
       "pango": "JN.1.1.3",
@@ -4925,6 +4958,39 @@
       "labels": "To be proposed, Multiple lineages, designated, BA.2.86, JN.1, S:1058",
       "state": "OPEN",
       "reason": null
+    }
+  ],
+  "XDT": [
+    {
+      "pango": "XDT",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 416,
+      "issue": 1183,
+      "labels": "recombinant, designated, BA.2.86, S:174, XDT",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.1.1.4": [
+    {
+      "pango": "JN.1.1.4",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 417,
+      "issue": 1259,
+      "labels": "designated, S:455, BA.2.86, S:1264, JN.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.1.9.2.5.1.1.13.2.1": [
+    {
+      "pango": "HK.13.2.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 418,
+      "issue": 1151,
+      "labels": "designated, S:52, FLip, S:797, S:1153, S:250",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
     }
   ]
 }
