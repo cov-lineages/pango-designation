@@ -16096,8 +16096,8 @@
       "milestone": 416,
       "issue": 1183,
       "labels": "recombinant, designated, BA.2.86, S:174, XDT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XDT"
     }
   ],
