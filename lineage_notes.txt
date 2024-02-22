@@ -1073,6 +1073,7 @@ JN.1.9.1	Alias of B.1.1.529.2.86.1.1.9.1, S:T572I, ORF1a:A3143V
 JN.1.10	Alias of B.1.1.529.2.86.1.1.10, S:T95I, USA/Canada, from sars-cov-2-variants/lineage-proposals#1135
 JN.1.11	Alias of B.1.1.529.2.86.1.1.11, S:V1104L, G17334T, India, from #2446
 JN.1.11.1	Alias of B.1.1.529.2.86.1.1.11.1, S:F456L, India
+KP.1	Alias of B.1.1.529.2.86.1.1.11.1.1, S:K1086R
 JN.1.12	Alias of B.1.1.529.2.86.1.1.12, S:F456V, ORF7a:A8T
 JN.1.13	Alias of B.1.1.529.2.86.1.1.13, S:A1087S, USA
 JN.1.14	Alias of B.1.1.529.2.86.1.1.14, S:R346S, USA
