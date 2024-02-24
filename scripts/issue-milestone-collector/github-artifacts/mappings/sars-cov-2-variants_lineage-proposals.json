@@ -4992,5 +4992,16 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.1": [
+    {
+      "pango": "KP.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 419,
+      "issue": 1364,
+      "labels": "S:456, Emerged in an undersampled area, designated, JN.1, S:1104, S:1086",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
