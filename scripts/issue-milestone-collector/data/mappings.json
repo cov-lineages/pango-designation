@@ -10070,8 +10070,8 @@
       "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.16.6.1.1.1"
     }
   ],
@@ -10272,8 +10272,8 @@
       "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.19.1.5.1.1"
     }
   ],
@@ -11760,8 +11760,8 @@
       "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.5.70.1.11"
     }
   ],
@@ -11782,8 +11782,8 @@
       "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.5.70.1.2.1"
     }
   ],
@@ -11818,8 +11818,8 @@
       "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.5.70.1.6"
     }
   ],
@@ -11830,8 +11830,8 @@
       "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.5.70.1.6.1"
     }
   ],
@@ -11842,8 +11842,8 @@
       "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.5.70.1.8"
     }
   ],
@@ -11950,8 +11950,8 @@
       "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.5.70.3.1"
     }
   ],
@@ -11984,8 +11984,8 @@
       "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.5.70.4"
     }
   ],
@@ -12056,8 +12056,8 @@
       "milestone": 375,
       "issue": 643,
       "labels": "To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "XBB.1.5.70.8.1"
     }
   ],
