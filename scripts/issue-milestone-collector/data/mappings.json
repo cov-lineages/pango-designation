@@ -3714,8 +3714,8 @@
       "milestone": 234,
       "issue": 954,
       "labels": "Multiple lineages, designated, partially designated, S:475, BA.2.86",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.10"
     }
   ],
@@ -3725,7 +3725,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 404,
       "issue": 1303,
-      "labels": "S:455, partially designated, BA.2.86, S:1104, JN.1 Spike",
+      "labels": "Apparently slow, S:455, partially designated, BA.2.86, S:1104, JN.1 Spike",
       "state": "OPEN",
       "reason": "REOPENED",
       "unaliased": "B.1.1.529.2.86.1.11"
@@ -3886,8 +3886,8 @@
       "milestone": 234,
       "issue": 954,
       "labels": "Multiple lineages, designated, partially designated, S:475, BA.2.86",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.5.1"
     }
   ],
