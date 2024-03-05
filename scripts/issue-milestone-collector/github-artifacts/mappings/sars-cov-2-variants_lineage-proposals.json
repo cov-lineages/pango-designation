@@ -5025,5 +5025,27 @@
       "state": "OPEN",
       "reason": null
     }
+  ],
+  "XDQ.1": [
+    {
+      "pango": "XDQ.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 422,
+      "issue": 1370,
+      "labels": "To be proposed, designated, S:475, BA.2.86, XDQ",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDK.1": [
+    {
+      "pango": "XDK.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 423,
+      "issue": 1407,
+      "labels": "XDK, JN.1 Spike, Convergent Trio 346/456/572",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }

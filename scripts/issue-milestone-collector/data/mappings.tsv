@@ -1344,6 +1344,7 @@ XDG	sars-cov-2-variants/lineage-proposals	246	770	recombinant, S:456, Multiple l
 XDH	sars-cov-2-variants/lineage-proposals	284	128	recombinant, Emerged in an undersampled area, High local prevalence, XDH	CLOSED	COMPLETED	XDH
 XDJ	sars-cov-2-variants/lineage-proposals	285	997	recombinant, designated, S:52, FLip, s:157, XDJ	CLOSED	COMPLETED	XDJ
 XDK	sars-cov-2-variants/lineage-proposals	371	1126	recombinant, designated, BA.2.86, S:572, JN.1, XDK	CLOSED	COMPLETED	XDK
+XDK.1	sars-cov-2-variants/lineage-proposals	423	1407	XDK, JN.1 Spike, Convergent Trio 346/456/572	CLOSED	COMPLETED	XDK.1
 XDL	cov-lineages/pango-designation	827	2351		CLOSED	COMPLETED	XDL
 XDL	sars-cov-2-variants/lineage-proposals	379	914	recombinant, designated, FLip	CLOSED	COMPLETED	XDL
 XDM	sars-cov-2-variants/lineage-proposals	393	1163	recombinant, Rapid review needed, S:478, designated, FLip, s:182, 554k, recombinant squared, S:180, XDM	CLOSED	COMPLETED	XDM
@@ -1352,6 +1353,7 @@ XDN	sars-cov-2-variants/lineage-proposals	401	1158	recombinant, designated, JN.1
 XDP	cov-lineages/pango-designation	836	2451		CLOSED	COMPLETED	XDP
 XDP	sars-cov-2-variants/lineage-proposals	402	1177	recombinant, designated, ORF9b, JN.1, JN.1 Spike, XDP	CLOSED	COMPLETED	XDP
 XDQ	sars-cov-2-variants/lineage-proposals	411	1291	recombinant, Emerged in an undersampled area, designated, BA.2.86, orf8, XDQ	CLOSED	COMPLETED	XDQ
+XDQ.1	sars-cov-2-variants/lineage-proposals	422	1370	To be proposed, designated, S:475, BA.2.86, XDQ	CLOSED	COMPLETED	XDQ.1
 XDR	sars-cov-2-variants/lineage-proposals	412	1250	recombinant, designated, JN.1, JN.1 Spike, XDR	CLOSED	COMPLETED	XDR
 XDS	sars-cov-2-variants/lineage-proposals	414	1267	recombinant, S:456, designated, BA.2.86	CLOSED	COMPLETED	XDS
 XDT	cov-lineages/pango-designation	840	2485		CLOSED	COMPLETED	XDT
