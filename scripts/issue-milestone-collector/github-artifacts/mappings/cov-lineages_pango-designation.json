@@ -9997,5 +9997,93 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "XDT": [
+    {
+      "pango": "XDT",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 840,
+      "issue": 2485,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.1.9.2.5.1.1.13.2.1": [
+    {
+      "pango": "HK.13.2.1",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 841,
+      "issue": 2480,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.1.5.70.10.1": [
+    {
+      "pango": "GK.10.1",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 842,
+      "issue": 2479,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.1.5.70.1.10.1.1": [
+    {
+      "pango": "KN.1",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 842,
+      "issue": 2479,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XBB.1.5.70.1.10.1.1.1": [
+    {
+      "pango": "KN.1.1",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 842,
+      "issue": 2479,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.1.4": [
+    {
+      "pango": "JN.1.1.4",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 843,
+      "issue": 2476,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.13": [
+    {
+      "pango": "JN.1.13",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 844,
+      "issue": 2464,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.23": [
+    {
+      "pango": "JN.1.23",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 845,
+      "issue": 2488,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
