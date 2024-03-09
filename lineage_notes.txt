@@ -1099,6 +1099,7 @@ JN.1.24	Alias of B.1.1.529.2.86.1.1.24, S:C1243F, USA
 JN.1.25	Alias of B.1.1.529.2.86.1.1.25, C706T, A7708T, India
 JN.1.25.1	Alias of B.1.1.529.2.86.1.1.25.1, S:R346T, India
 JN.1.26	Alias of B.1.1.529.2.86.1.1.26, S:R346T, after C26894T, USA
+JN.1.27	Alias of B.1.1.529.2.86.1.1.27, S:M153I, after C26894T, C25680T, USA
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
 JN.2.1	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 JN.2.2	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433
