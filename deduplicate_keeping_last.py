@@ -34,6 +34,10 @@ while next:
         d.remove(current)
         print(f"Removed non-GISAID strain: {line}")
         continue
+    if split[0].startswith("env"):
+        d.remove(current)
+        print(f"Removed environmental strain: {line}")
+        continue
     hashset.add(split[0])
     
 
