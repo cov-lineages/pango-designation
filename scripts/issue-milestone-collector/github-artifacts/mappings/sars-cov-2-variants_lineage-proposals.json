@@ -4641,6 +4641,17 @@
       "reason": null
     }
   ],
+  "B.1.1.529.2.86.1.1.4.6": [
+    {
+      "pango": "JN.1.4.6",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 389,
+      "issue": 1097,
+      "labels": "To be proposed, Multiple lineages, partially designated, BA.2.86, S:572, JN.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
   "B.1.1.529.2.86.1.2.3": [
     {
       "pango": "JN.2.3",
@@ -5026,6 +5037,17 @@
       "reason": null
     }
   ],
+  "B.1.1.529.2.86.1.1.13.1.1": [
+    {
+      "pango": "KS.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 424,
+      "issue": 1253,
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
   "B.1.1.529.2.86.1.1.1.3": [
     {
       "pango": "JN.1.1.3",
@@ -5125,6 +5147,17 @@
       "reason": null
     }
   ],
+  "B.1.1.529.2.86.1.1.16.1": [
+    {
+      "pango": "JN.1.16.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 425,
+      "issue": 1089,
+      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
   "B.1.1.529.2.86.3.2": [
     {
       "pango": "JQ.2",
@@ -5165,6 +5198,39 @@
       "milestone": 429,
       "issue": 1403,
       "labels": "designated, S:153, JN.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.4.5": [
+    {
+      "pango": "JN.1.4.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 430,
+      "issue": 1171,
+      "labels": "To be proposed, designated, BA.2.86, JN.1",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.18.1": [
+    {
+      "pango": "JN.1.18.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 431,
+      "issue": 1414,
+      "labels": "designated, S:346, JN.1, S:250",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.31": [
+    {
+      "pango": "JN.1.31",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 432,
+      "issue": 1319,
+      "labels": "designated, Branch, JN.1",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
