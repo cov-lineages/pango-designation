@@ -4988,7 +4988,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 424,
       "issue": 1253,
-      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1",
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -4999,7 +4999,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 424,
       "issue": 1253,
-      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1",
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5010,7 +5010,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 424,
       "issue": 1253,
-      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1",
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5021,7 +5021,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 424,
       "issue": 1253,
-      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1",
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5032,7 +5032,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 424,
       "issue": 1253,
-      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1",
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5043,7 +5043,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 424,
       "issue": 1253,
-      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1",
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5054,7 +5054,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5065,7 +5065,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5076,7 +5076,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5087,7 +5087,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5098,7 +5098,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5109,7 +5109,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5120,7 +5120,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5131,7 +5131,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5142,7 +5142,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
@@ -5153,7 +5153,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1",
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
       "reason": null
     }
