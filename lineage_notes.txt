@@ -3652,7 +3652,8 @@ XBB.2.3.10	T5947C, India
 GE.1	Alias of XBB.2.3.10.1, S:K478R, from #1866
 GE.1.1	Alias of XBB.2.3.10.1.1, S:E554K, Bangladesh/Singapore, from sars-cov-2-variants/lineage-proposals#367
 GE.1.2	Alias of XBB.2.3.10.1.2, S:N148T, Kenya, from sars-cov-2-variants/lineage-proposals#200
-GE.1.2.1	Alias of XBB.2.3.10.1.2.1, S:478T, S:A376S, from sars-cov-2-variants/lineage-proposals#1103
+GE.1.2.1	Alias of XBB.2.3.10.1.2.1, S:478T, S:A376S, ORF7a-ORF8 possibly completely deleted, from sars-cov-2-variants/lineage-proposals#1103
+GE.1.2.2	Alias of XBB.2.3.10.1.2.2, S:S408N, ORF1b:A517V, ORF1b:D1899E, ORF7a-ORF8 possibly completed deleted, Kenya
 GE.1.3	Alias of XBB.2.3.10.1.3, S:T732I, from sars-cov-2-variants/lineage-proposals#102
 GE.1.4	Alias of XBB.2.3.10.1.4, ORF1a:P3359S
 GE.1.5	Alias of XBB.2.3.10.1.5, G6352A, C11653T, T16242A
