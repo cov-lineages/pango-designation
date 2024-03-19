@@ -3340,8 +3340,8 @@
       "milestone": 382,
       "issue": 1147,
       "labels": "S:456, Apparently slow, partially designated, BA.2.86, JN.1, S:181, SLip",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
       "unaliased": "B.1.1.529.2.86.1.1.1.2"
     }
   ],
@@ -3507,6 +3507,18 @@
       "state": "OPEN",
       "reason": null,
       "unaliased": "B.1.1.529.2.86.1.1.11.1.2"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.3": [
+    {
+      "pango": "KP.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 434,
+      "issue": 1410,
+      "labels": "S:456, Emerged in an undersampled area, designated, S:493, JN.1, S:1104",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.11.1.3"
     }
   ],
   "B.1.1.529.2.86.1.1.12": [
@@ -3675,6 +3687,42 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.31"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.33": [
+    {
+      "pango": "JN.1.33",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 435,
+      "issue": 1395,
+      "labels": "To be proposed, Emerged in an undersampled area, High local prevalence, JN.1, S:67",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.33"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.35": [
+    {
+      "pango": "JN.1.35",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 437,
+      "issue": 1362,
+      "labels": "designated, FCS, JN.1, S:680",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.35"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.36": [
+    {
+      "pango": "JN.1.36",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 436,
+      "issue": 1326,
+      "labels": "designated, s:677, FCS, JN.1, S:680",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.36"
     }
   ],
   "B.1.1.529.2.86.1.1.4": [
@@ -14420,6 +14468,16 @@
   "XBB.1.9.2.5.1.6.1.8": [
     {
       "pango": "HV.1.8",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 828,
+      "issue": 2432,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.9.2.5.1.6.1.8"
+    },
+    {
+      "pango": "HV.1.8",
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 268,
       "issue": 957,
@@ -14667,6 +14725,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.2.3.10.1.2.1"
+    }
+  ],
+  "XBB.2.3.10.1.2.2": [
+    {
+      "pango": "GE.1.2.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 433,
+      "issue": 1340,
+      "labels": "S:478, Deletions/Truncations/Frameshifted, designated, S:521, S:253, S:148, S:408, S:246",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.2.3.10.1.2.2"
     }
   ],
   "XBB.2.3.10.1.3": [
