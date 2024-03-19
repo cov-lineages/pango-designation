@@ -1117,7 +1117,7 @@ JN.1.30	Alias of B.1.1.529.2.86.1.1.30, G21255T
 JN.1.30.1	Alias of B.1.1.529.2.86.1.1.30.1, S:R346T, after T7789C, India
 JN.1.31	Alias of B.1.1.529.2.86.1.1.31, ORF3a:V13L, C19186T
 JN.1.32	Alias of B.1.1.529.2.86.1.1.32, S:T572I, directly on JN.1 polytomy
-JN.1.33	Alias of B.1.1.529.2.86.1.1.33, S:A67V, G2782T, C5512T, China
+JN.1.33	Alias of B.1.1.529.2.86.1.1.33, S:A67V, G2782T, C5512T, China from https://github.com/cov-lineages/pango-designation/issues/2498
 JN.1.34	Alias of B.1.1.529.2.86.1.1.34, S:S704L
 JN.1.35	Alias of B.1.1.529.2.86.1.1.35, S:S680Y, after T18471C, Australia/New Zealand
 JN.1.36	Alias of B.1.1.529.2.86.1.1.36, S:Q677H, after A29086T
