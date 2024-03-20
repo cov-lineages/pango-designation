@@ -3053,8 +3053,8 @@
       "milestone": 268,
       "issue": 957,
       "labels": "partially designated, spike diversity, HV.1",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
     }
   ],
   "XBB.1.9.2.5.1.6.1.5": [
@@ -3064,8 +3064,8 @@
       "milestone": 268,
       "issue": 957,
       "labels": "partially designated, spike diversity, HV.1",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
     }
   ],
   "XBB.1.9.2.5.1.6.1.6.1": [
@@ -3075,8 +3075,8 @@
       "milestone": 268,
       "issue": 957,
       "labels": "partially designated, spike diversity, HV.1",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
     }
   ],
   "XBB.1.9.2.5.1.6.1.7": [
@@ -3086,8 +3086,8 @@
       "milestone": 268,
       "issue": 957,
       "labels": "partially designated, spike diversity, HV.1",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
     }
   ],
   "XBB.1.9.2.5.1.6.1.4": [
@@ -3097,8 +3097,8 @@
       "milestone": 268,
       "issue": 957,
       "labels": "partially designated, spike diversity, HV.1",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
     }
   ],
   "XBB.1.9.2.5.1.6.1.8": [
@@ -3108,8 +3108,8 @@
       "milestone": 268,
       "issue": 957,
       "labels": "partially designated, spike diversity, HV.1",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
     }
   ],
   "XBB.1.9.2.5.1.6.1.9": [
@@ -3119,8 +3119,8 @@
       "milestone": 268,
       "issue": 957,
       "labels": "partially designated, spike diversity, HV.1",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
     }
   ],
   "XBB.1.9.2.5.1.1.32": [
@@ -5158,6 +5158,17 @@
       "reason": null
     }
   ],
+  "B.1.1.529.2.86.1.1.30.1": [
+    {
+      "pango": "JN.1.30.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 425,
+      "issue": 1089,
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
   "B.1.1.529.2.86.3.2": [
     {
       "pango": "JQ.2",
@@ -5286,6 +5297,28 @@
       "milestone": 437,
       "issue": 1362,
       "labels": "designated, FCS, JN.1, S:680",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.2.2": [
+    {
+      "pango": "KP.2.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 438,
+      "issue": 1446,
+      "labels": "Rapid review needed, designated, S:59, FLiRT, s:1266",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.2.1": [
+    {
+      "pango": "KP.2.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 439,
+      "issue": 1440,
+      "labels": "Emerged in an undersampled area, designated, Double Nuc mutations, S:1104, s:1201, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
