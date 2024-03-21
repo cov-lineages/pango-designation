@@ -5175,7 +5175,18 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 426,
       "issue": 1373,
-      "labels": "Rapid review needed, designated, S:346, S:455, BA.2.86, JN.1 Spike",
+      "labels": "designated, S:346, S:455, BA.2.86, JN.1 Spike",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.3.2.1": [
+    {
+      "pango": "JQ.2.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 426,
+      "issue": 1373,
+      "labels": "designated, S:346, S:455, BA.2.86, JN.1 Spike",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }

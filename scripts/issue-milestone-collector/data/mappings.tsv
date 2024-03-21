@@ -352,7 +352,8 @@ JN.5.1	sars-cov-2-variants/lineage-proposals	234	954	Multiple lineages, designat
 JN.7	sars-cov-2-variants/lineage-proposals	230	856	designated, BA.2.86, S:594	CLOSED	COMPLETED	B.1.1.529.2.86.1.7
 BA.2.86.2	sars-cov-2-variants/lineage-proposals	146	756	designated, BA.2.86	CLOSED	COMPLETED	B.1.1.529.2.86.2
 JQ.1	sars-cov-2-variants/lineage-proposals	144	906	designated, BA.2.86, S:95	CLOSED	COMPLETED	B.1.1.529.2.86.3.1
-JQ.2	sars-cov-2-variants/lineage-proposals	426	1373	Rapid review needed, designated, S:346, S:455, BA.2.86, JN.1 Spike	CLOSED	COMPLETED	B.1.1.529.2.86.3.2
+JQ.2	sars-cov-2-variants/lineage-proposals	426	1373	designated, S:346, S:455, BA.2.86, JN.1 Spike	CLOSED	COMPLETED	B.1.1.529.2.86.3.2
+JQ.2.1	sars-cov-2-variants/lineage-proposals	426	1373	designated, S:346, S:455, BA.2.86, JN.1 Spike	CLOSED	COMPLETED	B.1.1.529.2.86.3.2.1
 BA.2.86.4	sars-cov-2-variants/lineage-proposals	233	1032	designated, BA.2.86, S:222	CLOSED	COMPLETED	B.1.1.529.2.86.4
 BA.2.9	cov-lineages/pango-designation	236	432	designated	CLOSED	COMPLETED	B.1.1.529.2.9
 BA.2.9.1	cov-lineages/pango-designation	250	530	designated	CLOSED	COMPLETED	B.1.1.529.2.9.1
