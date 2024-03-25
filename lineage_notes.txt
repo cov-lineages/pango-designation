@@ -1,4 +1,4 @@
-Lineage	Description
+Lineage	Description 
 A	One of the two original haplotypes of the pandemic (A and B). Many sequences originating from China and many global exports; including to South East Asia Japan South Korea Australia the USA and Europe represented in this lineage
 A.1	USA lineage
 A.2	Mostly Spanish lineage now includes South and Central American sequences, other European countries and Kazakhstan.
@@ -1137,6 +1137,7 @@ JN.1.41	Alias of B.1.1.529.2.86.1.1.41, S:S1252F, on A29086T, USA
 JN.1.42	Alias of B.1.1.529.2.86.1.1.42, C5581A, South America
 JN.1.43	Alias of B.1.1.529.2.86.1.1.43, A25237G
 JN.1.43.1	Alias of B.1.1.529.2.86.1.1.43.1, C19488T, C29218T, Brazil
+JN.1.44	Alias of B.1.1.529.2.86.1.1.44, ORF6:P57L
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
 JN.2.1	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 JN.2.2	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433
