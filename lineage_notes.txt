@@ -1131,8 +1131,9 @@ JN.1.36.1	Alias of B.1.1.529.2.86.1.1.36.1, S:S680F, South Korea
 JN.1.37	Alias of B.1.1.529.2.86.1.1.37, S:S680F
 JN.1.38	Alias of B.1.1.529.2.86.1.1.38, ORF1b:R1736K, USA
 JN.1.39	Alias of B.1.1.529.2.86.1.1.39, G2782T
-JN.1.40	Alias of B.1.1.529.2.86.1.1.39, S:S31P, Mexico
-JN.1.41	Alias of B.1.1.529.2.86.1.1.39, S:S1252F, on A29086T, USA
+JN.1.40	Alias of B.1.1.529.2.86.1.1.40, S:S31P, Mexico
+JN.1.41	Alias of B.1.1.529.2.86.1.1.41, S:S1252F, on A29086T, USA
+JN.1.42	Alias of B.1.1.529.2.86.1.1.42, C5581A, South America
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
 JN.2.1	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 JN.2.2	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433
