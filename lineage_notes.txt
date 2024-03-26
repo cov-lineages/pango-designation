@@ -1141,6 +1141,7 @@ JN.1.44	Alias of B.1.1.529.2.86.1.1.44, ORF6:P57L
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
 JN.2.1	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 JN.2.2	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433
+JN.2.2.1	Alias of B.1.1.529.2.86.1.2.2.1, S:N487D, Netherlands
 JN.2.3	Alias of B.1.1.529.2.86.1.2.3, S:V193L, from #2442
 JN.2.4	Alias of B.1.1.529.2.86.1.2.4, S:L242F, Sweden
 JN.2.5	Alias of B.1.1.529.2.86.1.2.5, S:L455S, Canada, USA, Lithuania, from sars-cov-2-variants/lineage-proposals#1173
