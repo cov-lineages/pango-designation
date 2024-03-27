@@ -5067,7 +5067,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.6.1": [
@@ -5078,7 +5078,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.18": [
@@ -5089,7 +5089,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.1.5": [
@@ -5100,7 +5100,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.11.1.1.1": [
@@ -5111,7 +5111,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.11.1.2": [
@@ -5122,7 +5122,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.26": [
@@ -5133,7 +5133,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.4.4": [
@@ -5144,7 +5144,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.8.2": [
@@ -5155,7 +5155,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.16.1": [
@@ -5166,7 +5166,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.30.1": [
@@ -5177,7 +5177,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.30.1.2": [
@@ -5188,7 +5188,7 @@
       "issue": 1089,
       "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
       "state": "OPEN",
-      "reason": null
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.3.2": [
@@ -5429,6 +5429,28 @@
       "milestone": 447,
       "issue": 1244,
       "labels": "To be proposed, BA.2.86, PLPro, JN.1, S:t572I",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDU": [
+    {
+      "pango": "XDU",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 448,
+      "issue": 1084,
+      "labels": "recombinant, To be proposed, BA.2.86",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDP.1": [
+    {
+      "pango": "XDP.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 449,
+      "issue": 1358,
+      "labels": "To be proposed, S:455, JN.1 Spike, S:1092",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
