@@ -1069,7 +1069,7 @@ JN.1.4.3	Alias of B.1.1.529.2.86.1.1.4.3, S:T572I, USA, from #2487
 KQ.1	Alias of B.1.1.529.2.86.1.1.4.3.1, S:R346T, USA from #2487
 JN.1.4.4	Alias of B.1.1.529.2.86.1.1.4.4, S:R346T,from sars-cov-2-variants/lineage-proposals#1089
 JN.1.4.5	Alias of B.1.1.529.2.86.1.1.4.5, ORF8:S103L, after T18453C, from #2426
-KV.1	Alias of B.1.1.529.2.86.1.1.4.5, S:S680F,
+KV.1	Alias of B.1.1.529.2.86.1.1.4.5.1, S:S680F, after C28948T, A2356T
 JN.1.4.6	Alias of B.1.1.529.2.86.1.1.4.6, S:T572I, after T18453C
 JN.1.5	Alias of B.1.1.529.2.86.1.1.5, ORF1b:V1271T, Singapore/Malaysia/Indonesia, from #2419
 JN.1.6	Alias of B.1.1.529.2.86.1.1.6, G22627A
