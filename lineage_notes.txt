@@ -1080,6 +1080,7 @@ JN.1.7.2	Alias of B.1.1.529.2.86.1.1.7.2, ORF1b:C1563F, Americas
 JN.1.8	Alias of B.1.1.529.2.86.1.1.8, ORF7a:T28I
 JN.1.8.1	Alias of B.1.1.529.2.86.1.1.8.1, S:T572I, after A12928G, USA/Denmark, from sars-cov-2-variants/lineage-proposals#1097
 JN.1.8.2	Alias of B.1.1.529.2.86.1.1.8.2, S:R346T, after A12928G
+JN.1.8.3	Alias of B.1.1.529.2.86.1.1.8.3, C13821T, C14925T
 JN.1.9	Alias of B.1.1.529.2.86.1.1.9, S:Q183H, USA/UK/Canada, from #2410
 JN.1.9.1	Alias of B.1.1.529.2.86.1.1.9.1, S:T572I, ORF1a:A3143V, from sars-cov-2-variants/lineage-proposals#1097
 JN.1.10	Alias of B.1.1.529.2.86.1.1.10, S:T95I, USA/Canada, from sars-cov-2-variants/lineage-proposals#1135
