@@ -5454,5 +5454,16 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "B.1.1.529.2.86.1.14": [
+    {
+      "pango": "JN.14",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 450,
+      "issue": 1182,
+      "labels": "designated, FCS, BA.2.86, S:680",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
