@@ -5417,9 +5417,9 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 447,
       "issue": 1244,
-      "labels": "To be proposed, BA.2.86, PLPro, JN.1, S:t572I",
-      "state": "CLOSED",
-      "reason": "COMPLETED"
+      "labels": "Rapid review needed, S:456, designated, combo, PLPro, S:t572I",
+      "state": "OPEN",
+      "reason": "REOPENED"
     }
   ],
   "B.1.1.529.2.86.1.1.28.1.1": [
@@ -5428,9 +5428,9 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 447,
       "issue": 1244,
-      "labels": "To be proposed, BA.2.86, PLPro, JN.1, S:t572I",
-      "state": "CLOSED",
-      "reason": "COMPLETED"
+      "labels": "Rapid review needed, S:456, designated, combo, PLPro, S:t572I",
+      "state": "OPEN",
+      "reason": "REOPENED"
     }
   ],
   "XDU": [

@@ -310,8 +310,8 @@ JN.1.21	sars-cov-2-variants/lineage-proposals	415	1162	To be proposed, Multiple 
 JN.1.23	cov-lineages/pango-designation	845	2488		CLOSED	COMPLETED	B.1.1.529.2.86.1.1.23
 JN.1.26	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	OPEN	REOPENED	B.1.1.529.2.86.1.1.26
 JN.1.27	sars-cov-2-variants/lineage-proposals	429	1403	designated, S:153, JN.1	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.27
-JN.1.28.1	sars-cov-2-variants/lineage-proposals	447	1244	To be proposed, BA.2.86, PLPro, JN.1, S:t572I	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.28.1
-KW.1	sars-cov-2-variants/lineage-proposals	447	1244	To be proposed, BA.2.86, PLPro, JN.1, S:t572I	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.28.1.1
+JN.1.28.1	sars-cov-2-variants/lineage-proposals	447	1244	Rapid review needed, S:456, designated, combo, PLPro, S:t572I	OPEN	REOPENED	B.1.1.529.2.86.1.1.28.1
+KW.1	sars-cov-2-variants/lineage-proposals	447	1244	Rapid review needed, S:456, designated, combo, PLPro, S:t572I	OPEN	REOPENED	B.1.1.529.2.86.1.1.28.1.1
 JN.1.30.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	OPEN	REOPENED	B.1.1.529.2.86.1.1.30.1
 KU.2	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	OPEN	REOPENED	B.1.1.529.2.86.1.1.30.1.2
 JN.1.31	sars-cov-2-variants/lineage-proposals	432	1319	designated, Branch, JN.1	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.31
