@@ -1137,6 +1137,7 @@ JN.1.39	Alias of B.1.1.529.2.86.1.1.39, G2782T
 JN.1.40	Alias of B.1.1.529.2.86.1.1.40, S:S31P, Mexico
 JN.1.41	Alias of B.1.1.529.2.86.1.1.41, S:S1252F, on A29086T, USA
 JN.1.42	Alias of B.1.1.529.2.86.1.1.42, C5581A, South America
+JN.1.42.1	Alias of B.1.1.529.2.86.1.1.42.1, S:F59S
 JN.1.43	Alias of B.1.1.529.2.86.1.1.43, A25237G
 JN.1.43.1	Alias of B.1.1.529.2.86.1.1.43.1, C19488T, C29218T, Brazil
 JN.1.44	Alias of B.1.1.529.2.86.1.1.44, ORF6:P57L
