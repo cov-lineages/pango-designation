@@ -1142,6 +1142,7 @@ JN.1.43	Alias of B.1.1.529.2.86.1.1.43, A25237G
 JN.1.43.1	Alias of B.1.1.529.2.86.1.1.43.1, C19488T, C29218T, Brazil
 JN.1.44	Alias of B.1.1.529.2.86.1.1.44, ORF6:P57L
 JN.1.45	Alias of B.1.1.529.2.86.1.1.45, G18756T
+JN.1.46	Alias of B.1.1.529.2.86.1.1.46, ORF1a:L3116F, T4885C
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
 JN.2.1	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 JN.2.2	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433
