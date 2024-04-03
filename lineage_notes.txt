@@ -1091,7 +1091,7 @@ JN.1.11	Alias of B.1.1.529.2.86.1.1.11, S:V1104L, G17334T, India, from #2446
 JN.1.11.1	Alias of B.1.1.529.2.86.1.1.11.1, S:F456L, after ORF1a:T2283I, India, from sars-cov-2-variants/lineage-proposals#1253
 KP.1	Alias of B.1.1.529.2.86.1.1.11.1.1, S:K1086R, from sars-cov-2-variants/lineage-proposals#1364
 KP.1.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1, S:R346T, from sars-cov-2-variants/lineage-proposals#1089
-KP.1.1.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.1, S:K182N
+KP.1.1.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.1, S:K182N from #2510
 KP.2	Alias of B.1.1.529.2.86.1.1.11.1.2, S:R346T on JN.1.11.1 polytomy, from sars-cov-2-variants/lineage-proposals#1089
 KP.2.1	Alias of B.1.1.529.2.86.1.1.11.1.2.1, S:Q1201K
 KP.2.2	Alias of B.1.1.529.2.86.1.1.11.1.2.2, S:F59L, S:K1266R
