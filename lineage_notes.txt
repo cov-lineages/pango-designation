@@ -1058,6 +1058,9 @@ JN.1.1.4	Alias of B.1.1.529.2.86.1.1.1.4, S:V1264L on C9142T branch, from #2476
 JN.1.1.5	Alias of B.1.1.529.2.86.1.1.1.5, S:R346T on C9142T branch, from #2492
 KR.1	Alias of B.1.1.529.2.86.1.1.1.5.1, S:F456L, after C28498T
 JN.1.1.6	Alias of B.1.1.529.2.86.1.1.1.6, S:F456L,from sars-cov-2-variants/lineage-proposals#1253
+KZ.1	Alias of B.1.1.529.2.86.1.1.1.6.1, ORF1b:V1092F
+KZ.1.1	Alias of B.1.1.529.2.86.1.1.1.6.1.1, S:R346T
+KZ.1.1.1	Alias of B.1.1.529.2.86.1.1.1.6.1.1.1, S:T572I
 JN.1.1.7	Alias of B.1.1.529.2.86.1.1.1.7, S:S31F,from sars-cov-2-variants/lineage-proposals#1157
 JN.1.2	Alias of B.1.1.529.2.86.1.1.2, S:M1229I, USA/Canada, from sars-cov-2-variants/lineage-proposals#1087
 JN.1.2.1	Alias of B.1.1.529.2.86.1.1.2.1, S:H1101Y, Ireland, from sars-cov-2-variants/lineage-proposals#1322
