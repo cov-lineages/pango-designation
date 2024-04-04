@@ -3672,8 +3672,8 @@
       "milestone": 415,
       "issue": 1162,
       "labels": "To be proposed, Multiple lineages, designated, BA.2.86, JN.1, S:1058",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.21"
     }
   ],
@@ -3720,8 +3720,8 @@
       "milestone": 447,
       "issue": 1244,
       "labels": "Rapid review needed, S:456, designated, combo, PLPro, S:t572I",
-      "state": "OPEN",
-      "reason": "REOPENED",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.28.1"
     }
   ],
@@ -3732,9 +3732,21 @@
       "milestone": 447,
       "issue": 1244,
       "labels": "Rapid review needed, S:456, designated, combo, PLPro, S:t572I",
-      "state": "OPEN",
-      "reason": "REOPENED",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.28.1.1"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.28.1.1.1": [
+    {
+      "pango": "KW.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 447,
+      "issue": 1244,
+      "labels": "Rapid review needed, S:456, designated, combo, PLPro, S:t572I",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.28.1.1.1"
     }
   ],
   "B.1.1.529.2.86.1.1.30.1": [
