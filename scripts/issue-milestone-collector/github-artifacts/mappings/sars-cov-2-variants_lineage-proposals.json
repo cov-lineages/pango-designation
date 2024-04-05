@@ -5202,6 +5202,17 @@
       "reason": "REOPENED"
     }
   ],
+  "B.1.1.529.2.86.1.1.7.3": [
+    {
+      "pango": "JN.1.7.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 452,
+      "issue": 1343,
+      "labels": "S:346, S:455, S:572, JN.1, S:680",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
+    }
+  ],
   "B.1.1.529.2.86.3.2": [
     {
       "pango": "JQ.2",
