@@ -3236,7 +3236,7 @@ EG.3	Alias of XBB.1.9.2.3, ORF1a:L2778F on N:L219F branch
 EG.4	Alias of XBB.1.9.2.4, C28651T
 EG.4.1	Alias of XBB.1.9.2.4.1, S:I870V, N:A119S
 EG.4.2	Alias of XBB.1.9.2.4.2, S:A623V, T14652C, China, from sars-cov-2-variants/lineage-proposals#46
-EG.4.3	Alias of XBB.1.9.2.4.3, S:Q613H
+EG.4.3	Alias of XBB.1.9.2.4.3, S:Q613H (G23401C)
 EG.4.4	Alias of XBB.1.9.2.4.4, ORF1a:Y1465C, ORF1b:H873Y, Germany/Austria
 EG.4.5	Alias of XBB.1.9.2.4.5, S:478R, Indonesia/France
 EG.5	Alias of XBB.1.9.2.5, S:F456L (T22930A), ORF1a:A690V, ORF1a:A3143V, Indonesia, from #1918
