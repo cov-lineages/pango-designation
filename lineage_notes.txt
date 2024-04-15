@@ -1139,6 +1139,7 @@ JN.1.28	Alias of B.1.1.529.2.86.1.1.28, C24034T, A29700G, East Asia/Oceania
 JN.1.28.1	Alias of B.1.1.529.2.86.1.1.28.1, ORF1a:P1640L, C19545T, C24370T, from sars-cov-2-variants/lineage-proposals#1244
 KW.1	Alias of B.1.1.529.2.86.1.1.28.1.1, S:T572I, Australia, from sars-cov-2-variants/lineage-proposals#1244
 KW.1.1	Alias of B.1.1.529.2.86.1.1.28.1.1.1, S:F456L, ORF1b:R2009K, Australia/Japan, from sars-cov-2-variants/lineage-proposals#1244
+KW.1.2	Alias of B.1.1.529.2.86.1.1.28.1.1.2, S:K529T, Australia
 JN.1.29	Alias of B.1.1.529.2.86.1.1.29, ORF1a:T3224A, after C2644T, Brazil
 JN.1.30	Alias of B.1.1.529.2.86.1.1.30, G21255T
 JN.1.30.1	Alias of B.1.1.529.2.86.1.1.30.1, S:R346T, after T7789C, India, from sars-cov-2-variants/lineage-proposals#1089
