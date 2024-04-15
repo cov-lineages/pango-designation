@@ -929,7 +929,7 @@ JL.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.3.2.1, S:E1111Q, Japan, from #2168
 FK.1.4	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.4, S:S704L, on C27804>ORF7a:Y40H branch, Australia
 FK.1.4.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.4.1, S:G181A, Australia/Puerto Rico, from sars-cov-2-variants/lineage-proposals#88
 FK.1.5	Alias of B.1.1.529.2.75.3.4.1.1.1.1.17.1.5, G5155A, C12439T, Australia/New Zealand
-CH.1.1.18	Alias of B.1.1.529.2.75.3.4.1.1.1.1.18, S:K187T,from #1747
+CH.1.1.18	Alias of B.1.1.529.2.75.3.4.1.1.1.1.18, S:K187T, from #1747
 CH.1.1.19	Alias of B.1.1.529.2.75.3.4.1.1.1.1.19, C2773T, Europe
 FJ.1	Alias of B.1.1.529.2.75.3.4.1.1.1.1.19.1, ORF1a:A1204V, England
 CH.1.1.20	Alias of B.1.1.529.2.75.3.4.1.1.1.1.20, England, T299I, R403K, D1165G, from #1736
@@ -1057,11 +1057,11 @@ JN.1.1.3	Alias of B.1.1.529.2.86.1.1.1.3, S:R346T
 JN.1.1.4	Alias of B.1.1.529.2.86.1.1.1.4, S:V1264L on C9142T branch, from #2476
 JN.1.1.5	Alias of B.1.1.529.2.86.1.1.1.5, S:R346T on C9142T branch, from #2492
 KR.1	Alias of B.1.1.529.2.86.1.1.1.5.1, S:F456L, after C28498T, from sars-cov-2-variants/lineage-proposals#1253
-JN.1.1.6	Alias of B.1.1.529.2.86.1.1.1.6, S:F456L,from sars-cov-2-variants/lineage-proposals#1253
+JN.1.1.6	Alias of B.1.1.529.2.86.1.1.1.6, S:F456L, from sars-cov-2-variants/lineage-proposals#1253
 KZ.1	Alias of B.1.1.529.2.86.1.1.1.6.1, ORF1b:V1092F
 KZ.1.1	Alias of B.1.1.529.2.86.1.1.1.6.1.1, S:R346T from #2548
 KZ.1.1.1	Alias of B.1.1.529.2.86.1.1.1.6.1.1.1, S:T572I from #2548
-JN.1.1.7	Alias of B.1.1.529.2.86.1.1.1.7, S:S31F,from sars-cov-2-variants/lineage-proposals#1157
+JN.1.1.7	Alias of B.1.1.529.2.86.1.1.1.7, S:S31F, from sars-cov-2-variants/lineage-proposals#1157
 LC.1	Alias of B.1.1.529.2.86.1.1.1.7.1, S:R346T
 JN.1.2	Alias of B.1.1.529.2.86.1.1.2, S:M1229I, USA/Canada, from sars-cov-2-variants/lineage-proposals#1087
 JN.1.2.1	Alias of B.1.1.529.2.86.1.1.2.1, S:H1101Y, Ireland, from sars-cov-2-variants/lineage-proposals#1322
@@ -1071,7 +1071,7 @@ JN.1.4.1	Alias of B.1.1.529.2.86.1.1.4.1, S:E654V, Ireland, from sars-cov-2-vari
 JN.1.4.2	Alias of B.1.1.529.2.86.1.1.4.2, S:N185D, after T18453C, USA, from #2462
 JN.1.4.3	Alias of B.1.1.529.2.86.1.1.4.3, S:T572I, USA, from #2487
 KQ.1	Alias of B.1.1.529.2.86.1.1.4.3.1, S:R346T, USA from #2487
-JN.1.4.4	Alias of B.1.1.529.2.86.1.1.4.4, S:R346T,from sars-cov-2-variants/lineage-proposals#1089
+JN.1.4.4	Alias of B.1.1.529.2.86.1.1.4.4, S:R346T, from sars-cov-2-variants/lineage-proposals#1089
 JN.1.4.5	Alias of B.1.1.529.2.86.1.1.4.5, ORF8:S103L, after T18453C, from #2426
 KV.1	Alias of B.1.1.529.2.86.1.1.4.5.1, S:S680F, after C28948T then A2356T
 KV.2	Alias of B.1.1.529.2.86.1.1.4.5.2, S:T572I, ORF1a:P971L, C11956T, USA, from sars-cov-2-variants/lineage-proposals#1097
@@ -3993,7 +3993,7 @@ XDV.1	S:F456L (T22930A), on C11572T branch, Hong Kong
 *BA.5.2.15	Withdrawn: Redesignated as CF.1, being a child of BA.5.2.27, B.1.1.529.5.2.15, found in USA and Mexico, from #1054
 *BA.5.2.17	Withdrawn: Redesignated as BV.1, being a child of BA.5.2.20
 *BQ.1.1.33	Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, USA lineage, child of BQ.1.1.3
-*BA.5.4	Withdrawn: England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)),from #618
+*BA.5.4	Withdrawn: England, Denmark, Spain and Scotland. Sublineage of BA.5.2.1 (with G11837T (ORF1a:V3858L) (nsp6:V289L)), from #618
 *B.1.3.1	Withdrawn: South Korean lineage
 *B.1.3.2	Withdrawn: Argentinian lineage
 *B.1.3.3	Withdrawn: Israel lineage
