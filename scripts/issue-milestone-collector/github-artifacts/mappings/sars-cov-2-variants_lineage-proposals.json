@@ -5652,5 +5652,38 @@
       "state": "CLOSED",
       "reason": "NOT_PLANNED"
     }
+  ],
+  "XDW": [
+    {
+      "pango": "XDW",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 458,
+      "issue": 1471,
+      "labels": "recombinant, designated, S:346, recombinant squared, S:701, XDW",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDQ.2": [
+    {
+      "pango": "XDQ.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 459,
+      "issue": 1408,
+      "labels": "designated, S:222, S:487, XDQ",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDQ.3": [
+    {
+      "pango": "XDQ.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 460,
+      "issue": 1508,
+      "labels": "designated, S:681, XDQ",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
