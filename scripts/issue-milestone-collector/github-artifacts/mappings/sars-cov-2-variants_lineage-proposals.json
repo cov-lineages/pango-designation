@@ -4945,8 +4945,8 @@
       "milestone": 415,
       "issue": 1162,
       "labels": "To be proposed, Multiple lineages, designated, BA.2.86, JN.1, S:1058",
-      "state": "CLOSED",
-      "reason": "COMPLETED"
+      "state": "OPEN",
+      "reason": "REOPENED"
     }
   ],
   "XDT": [
