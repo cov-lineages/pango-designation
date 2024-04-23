@@ -16666,8 +16666,8 @@
       "milestone": 423,
       "issue": 1407,
       "labels": "designated, XDK, JN.1 Spike, Convergent Trio 346/456/572",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
+      "state": "OPEN",
+      "reason": "REOPENED",
       "unaliased": "XDK.1"
     }
   ],
