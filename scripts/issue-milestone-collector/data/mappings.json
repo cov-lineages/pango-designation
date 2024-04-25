@@ -3551,7 +3551,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 455,
       "issue": 1459,
-      "labels": "Deletions/Truncations/Frameshifted, partially designated, N Glycan, S:146, KP.2, DeFlirt",
+      "labels": "To be proposed, Deletions/Truncations/Frameshifted, partially designated, N Glycan, S:146, KP.2, DeFlirt",
       "state": "OPEN",
       "reason": null,
       "unaliased": "B.1.1.529.2.86.1.1.11.1.2.3"
@@ -16665,7 +16665,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 423,
       "issue": 1407,
-      "labels": "designated, XDK, JN.1 Spike, Convergent Trio 346/456/572",
+      "labels": "designated, S:475, XDK, JN.1 Spike, Convergent Trio 346/456/572",
       "state": "OPEN",
       "reason": "REOPENED",
       "unaliased": "XDK.1"
