@@ -5638,8 +5638,8 @@
       "milestone": 455,
       "issue": 1459,
       "labels": "To be proposed, Deletions/Truncations/Frameshifted, partially designated, N Glycan, S:146, KP.2, DeFlirt",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "COMPLETED"
     }
   ],
   "B.1.1.529.2.86.1.1.32.1": [

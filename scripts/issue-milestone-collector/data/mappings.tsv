@@ -296,7 +296,7 @@ KP.1.2	sars-cov-2-variants/lineage-proposals	389	1097	To be proposed, Multiple l
 KP.2	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	OPEN	REOPENED	B.1.1.529.2.86.1.1.11.1.2
 KP.2.1	sars-cov-2-variants/lineage-proposals	439	1440	Emerged in an undersampled area, designated, Double Nuc mutations, S:1104, s:1201, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11.1.2.1
 KP.2.2	sars-cov-2-variants/lineage-proposals	438	1446	Rapid review needed, designated, S:59, FLiRT, s:1266	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11.1.2.2
-KP.2.3	sars-cov-2-variants/lineage-proposals	455	1459	To be proposed, Deletions/Truncations/Frameshifted, partially designated, N Glycan, S:146, KP.2, DeFlirt	OPEN		B.1.1.529.2.86.1.1.11.1.2.3
+KP.2.3	sars-cov-2-variants/lineage-proposals	455	1459	To be proposed, Deletions/Truncations/Frameshifted, partially designated, N Glycan, S:146, KP.2, DeFlirt	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11.1.2.3
 KP.3	sars-cov-2-variants/lineage-proposals	434	1410	S:456, Emerged in an undersampled area, designated, S:493, JN.1, S:1104	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11.1.3
 KP.4.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	OPEN	REOPENED	B.1.1.529.2.86.1.1.11.1.4.1
 KP.4.2	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	OPEN	REOPENED	B.1.1.529.2.86.1.1.11.1.4.2
