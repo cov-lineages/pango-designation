@@ -3909,6 +3909,7 @@ XDP	Recombinant lineage of JN.1.4 and FL.15 (breakpoint between 26834 and 27809)
 XDP.1	S:E1092D, after ORF1a:L397P, ORF1a:H388Y, from sars-cov-2-variants/lineage-proposals#1358
 XDQ	Recombinant lineage of BA.2.86.1 and FL.15.1.1 (breakpoint between 23605 and 24377), most with T22846C, Vietnam/Japan/South Korea, from #2481
 XDQ.1	S:A475V, Japan/South Korea, from #2497
+XDQ.1.1	S:S60P, C1594T, Japan
 XDQ.2	S:N487D, Vietnam
 XDQ.3	S:681H, Indonesia
 XDR	Recombinant lineage of JD.1.1.1 and JN.1.1 (breakpoint between 11043 and 11726), Brazil, from #2477
