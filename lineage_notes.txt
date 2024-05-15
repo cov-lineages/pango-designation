@@ -1177,6 +1177,7 @@ JN.1.36.1	Alias of B.1.1.529.2.86.1.1.36.1, S:S680F, South Korea, from sars-cov-
 JN.1.37	Alias of B.1.1.529.2.86.1.1.37, S:S680F
 JN.1.38	Alias of B.1.1.529.2.86.1.1.38, ORF1b:R1736K, USA
 JN.1.39	Alias of B.1.1.529.2.86.1.1.39, G2782T
+JN.1.39.1	Alias of B.1.1.529.2.86.1.1.39.1, S:R346T, S:F456L, C21034T, T25631C, A16011G, T6913C
 JN.1.40	Alias of B.1.1.529.2.86.1.1.40, S:S31P, Mexico, from sars-cov-2-variants/lineage-proposals#1451
 JN.1.41	Alias of B.1.1.529.2.86.1.1.41, S:S1252F, on A29086T, USA, from sars-cov-2-variants/lineage-proposals#1256
 JN.1.42	Alias of B.1.1.529.2.86.1.1.42, C5581A, South America
