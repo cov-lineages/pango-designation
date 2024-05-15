@@ -1111,6 +1111,7 @@ KP.2.4	Alias of B.1.1.529.2.86.1.1.11.1.2.4, S:T250N
 KP.2.5	Alias of B.1.1.529.2.86.1.1.11.1.2.5, S:N185D
 KP.2.6	Alias of B.1.1.529.2.86.1.1.11.1.2.6, S:W64R
 KP.2.7	Alias of B.1.1.529.2.86.1.1.11.1.2.7, S:S31F
+KP.2.8	Alias of B.1.1.529.2.86.1.1.11.1.2.7, S:S60P
 KP.3	Alias of B.1.1.529.2.86.1.1.11.1.3, S:Q493E, from sars-cov-2-variants/lineage-proposals#1410
 KP.4	Alias of B.1.1.529.2.86.1.1.11.1.4, C6070T, India
 KP.4.1	Alias of B.1.1.529.2.86.1.1.11.1.4.1, S:R346T, C19884T
