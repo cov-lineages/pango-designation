@@ -3902,6 +3902,8 @@ XDH	Recombinant lineage of BN.1.2.8 and XBB.1.9.1 (or XBB.1.22) (breakpoint betw
 XDJ	Recombinant lineage of XBB.1.16.6 and HK.3.1 (breakpoint between 14857 and 16877), France, from sars-cov-2-variants/lineage-proposals#997
 XDK	Recombinant lineage of XBB.1.16.11 (likely) and JN.1.1.1 (breakpoint between 5315 and 6182), France, from #2415
 XDK.1	S:R346T, G11596A, from sars-cov-2-variants/lineage-proposals#1407
+XDK.1.1	S:K182R, S:E213G, India
+XDK.1.2	S:F456L
 XDL	Recombinant lineage of EG.5.1.1 and non-EG.5 (breakpoint between 25573-29624) with S:I1114T, most with S:L455F(G22927T), China, from #2351
 XDM	Recombinant lineage of XDA, GW.5, XDA (breakpoints between 22107-22926 and 24047-25838), from sars-cov-2-variants/lineage-proposals#1163
 XDN	Recombinant lineage of JN.1.1 and JD.1 (breakpoint between 24379 and 24989), from #2448
