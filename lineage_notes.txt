@@ -1193,7 +1193,7 @@ JN.1.47.1	Alias of B.1.1.529.2.86.1.1.47.1, S:S221L, USA/Mexico
 JN.1.47.2	Alias of B.1.1.529.2.86.1.1.47.2, S:T572I, S:R683Q, USA
 JN.1.48	Alias of B.1.1.529.2.86.1.1.48, G29134T, after T18471C, India
 JN.1.48.1	Alias of B.1.1.529.2.86.1.1.48.1, S:S60P, S:R346T, S:F456L, after ORF3a:A99V from #2547
-LD.1	Alias of B.1.1.529.2.86.1.1.48.1.1, S:T572I
+LD.1	Alias of B.1.1.529.2.86.1.1.48.1.1, S:T572I from #2547
 JN.1.48.2	Alias of B.1.1.529.2.86.1.1.48.2, S:R346T, ORF1a:A427V, A3829G, India
 JN.1.49	Alias of B.1.1.529.2.86.1.1.49, ORF3a:T89I, India
 JN.1.49.1	Alias of B.1.1.529.2.86.1.1.49.1, S:R346T
