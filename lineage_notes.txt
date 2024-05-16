@@ -1233,6 +1233,7 @@ JN.15	Alias of B.1.1.529.2.86.1.15, C24319T, Japan
 JN.16	Alias of B.1.1.529.2.86.1.16, ORF3a:T229I, Japan
 JN.17	Alias of B.1.1.529.2.86.1.17, C12781T, Japan
 JN.18	Alias of B.1.1.529.2.86.1.18, T11614C
+JN.19	Alias of B.1.1.529.2.86.1.19, A14601G, Japan
 BA.2.86.2	Alias of B.1.1.529.2.86.2, ORF7a:E22D, South Africa/Botswana，from sars-cov-2-variants/lineage-proposals/issues/756
 BA.2.86.3	Alias of B.1.1.529.2.86.3, C222T, C1960T, T12775C, South Africa
 JQ.1	Alias of B.1.1.529.2.86.3.1, S:T95I, Denmark/France/South Africa, from sars-cov-2-variants/lineage-proposals#906
