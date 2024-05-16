@@ -1224,6 +1224,7 @@ JN.8	Alias of B.1.1.529.2.86.1.8, S:T299I, Sweden/Denmark
 JN.9	Alias of B.1.1.529.2.86.1.9, S:M1229I, Netherlands
 JN.10	Alias of B.1.1.529.2.86.1.10, S:A475V, on T3565C branch with JN.1, Spain/France, from sars-cov-2-variants/lineage-proposals#954
 JN.11	Alias of B.1.1.529.2.86.1.11, S:V1104L, Asia, from sars-cov-2-variants/lineage-proposals#1303
+JN.11.1	Alias of B.1.1.529.2.86.1.11.1, S:L455S
 JN.12	Alias of B.1.1.529.2.86.1.12, S:F456V, ORF1a:A498G, from sars-cov-2-variants/lineage-proposals#1102
 JN.13	Alias of B.1.1.529.2.86.1.13, A14397G
 JN.13.1	Alias of B.1.1.529.2.86.1.13.1, S:A475V, USA/Malaysia, from sars-cov-2-variants/lineage-proposals#1386
