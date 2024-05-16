@@ -1173,7 +1173,6 @@ KU.2	Alias of B.1.1.529.2.86.1.1.30.1.2, S:F456L, from sars-cov-2-variants/linea
 JN.1.31	Alias of B.1.1.529.2.86.1.1.31, ORF3a:V13L, C19186T, from sars-cov-2-variants/lineage-proposals#1319
 JN.1.32	Alias of B.1.1.529.2.86.1.1.32, S:T572I, directly on JN.1 polytomy
 JN.1.32.1	Alias of B.1.1.529.2.86.1.1.32.1, S:Q183H
-JN.1.33	Alias of B.1.1.529.2.86.1.1.33, S:A67V, G2782T, C5512T, China from #2498
 JN.1.34	Alias of B.1.1.529.2.86.1.1.34, S:S704L
 JN.1.35	Alias of B.1.1.529.2.86.1.1.35, S:S680Y, after T18471C, Australia/New Zealand, from sars-cov-2-variants/lineage-proposals#1362
 JN.1.36	Alias of B.1.1.529.2.86.1.1.36, S:Q677H, after A29086T, from sars-cov-2-variants/lineage-proposals#1326
@@ -1183,6 +1182,7 @@ JN.1.38	Alias of B.1.1.529.2.86.1.1.38, ORF1b:R1736K, USA
 JN.1.39	Alias of B.1.1.529.2.86.1.1.39, G2782T
 JN.1.39.1	Alias of B.1.1.529.2.86.1.1.39.1, S:R346T, S:F456L, C21034T, T25631C, A16011G, T6913C
 JN.1.39.2	Alias of B.1.1.529.2.86.1.1.39.2, S:R346T, T111C
+JN.1.39.3	Alias of B.1.1.529.2.86.1.1.39.3, S:A67V, T111C, C5512T, China from #2498 (originally known as JN.1.33)
 JN.1.40	Alias of B.1.1.529.2.86.1.1.40, S:S31P, Mexico, from sars-cov-2-variants/lineage-proposals#1451
 JN.1.41	Alias of B.1.1.529.2.86.1.1.41, S:S1252F, on A29086T, USA, from sars-cov-2-variants/lineage-proposals#1256
 JN.1.42	Alias of B.1.1.529.2.86.1.1.42, C5581A, South America
@@ -4241,4 +4241,5 @@ XDW	Recombinant lineage of JN.2 (T1030C branch), XDA (breakpoint between 23424-2
 *HK.1.1	Withdrawn as smaller than thought (only 6 sequences have 257V and G22927T): Alias of XBB.1.9.2.5.1.1.1.1, S:L455F (G22927T), China (now considered as an HK.3+S:G257D branch being misplaced with HK.1+S:L455F)
 *HK.10	Withdrawn unless lineage grows: Alias of XBB.1.9.2.5.1.1.10, S:L455F (G22927T), on C19983T branch, China (now considered as HK.3 with homoplastic C19983T)
 *HK.3.11	Withdrawn, as part of 14988C sublineage of EG.5.1.1, not HK.3: Alias of XBB.1.9.2.5.1.1.3.11, S:A475V, Finland/Denmark/Sweden
+*JN.1.33	Redesignated as JN.1.39.3, Alias of B.1.1.529.2.86.1.1.33, S:A67V, G2782T, C5512T, China from #2498
 *KD.5	Withdrawn: Alias of XBC.1.3.1.5, S:L244F, Australia, indel artefact caused false S:L244F (#2405)
