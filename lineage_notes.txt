@@ -1239,6 +1239,7 @@ JQ.2	Alias of B.1.1.529.2.86.3.2, S:R346T, G2944A, South Africa, from #2505
 JQ.2.1	Alias of B.1.1.529.2.86.3.2.1, S:L455S, South Africa, from sars-cov-2-variants/lineage-proposals#1373
 BA.2.86.4	Alias of B.1.1.529.2.86.4, S:A222V, ORF1a:V3892A, from sars-cov-2-variants/lineage-proposals#1032
 BA.2.86.5	Alias of B.1.1.529.2.86.5, S:I197V, C5575T, T6085C, T23278C
+BA.2.86.6	Alias of B.1.1.529.2.86.6, C9226T
 BA.2.87	Alias of B.1.1.529.2.87, C18744T, no C9866T
 BA.2.87.1	Alias of B.1.1.529.2.87.1, saltation with 15+ spike AA mutations, South Africa, from #2484
 BA.3	Alias of B.1.1.529.3, from #367
