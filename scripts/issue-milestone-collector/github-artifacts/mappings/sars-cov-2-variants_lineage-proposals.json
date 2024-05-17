@@ -4696,6 +4696,17 @@
       "reason": "COMPLETED"
     }
   ],
+  "B.1.1.529.2.86.1.1.11.1.5": [
+    {
+      "pango": "KP.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 389,
+      "issue": 1097,
+      "labels": "To be proposed, Multiple lineages, partially designated, BA.2.86, S:572, JN.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
   "B.1.1.529.2.86.1.2.3": [
     {
       "pango": "JN.2.3",
@@ -4856,9 +4867,20 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 404,
       "issue": 1303,
-      "labels": "Emerged in an undersampled area, S:455, partially designated, BA.2.86, S:1104, JN.1 Spike",
-      "state": "OPEN",
-      "reason": "REOPENED"
+      "labels": "Emerged in an undersampled area, designated, S:455, partially designated, BA.2.86, S:1104, JN.1 Spike",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.11.1": [
+    {
+      "pango": "JN.11.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 404,
+      "issue": 1303,
+      "labels": "Emerged in an undersampled area, designated, S:455, partially designated, BA.2.86, S:1104, JN.1 Spike",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
     }
   ],
   "B.1.1.529.2.86.1.12": [
@@ -5370,6 +5392,28 @@
   "B.1.1.529.2.86.1.1.48.2": [
     {
       "pango": "JN.1.48.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 425,
+      "issue": 1089,
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.39.1": [
+    {
+      "pango": "JN.1.39.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 425,
+      "issue": 1089,
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "state": "OPEN",
+      "reason": "REOPENED"
+    }
+  ],
+  "B.1.1.529.2.86.3.2.1.1": [
+    {
+      "pango": "JQ.2.1.1",
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
@@ -5904,6 +5948,39 @@
       "labels": "To be proposed, Emerged in an undersampled area, designated, S:1263, FLiRT",
       "state": "OPEN",
       "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.3.3": [
+    {
+      "pango": "KP.3.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 475,
+      "issue": 1531,
+      "labels": "To be proposed, ORF9b, KP.3",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.28.1.1.1.1": [
+    {
+      "pango": "KW.1.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 476,
+      "issue": 1504,
+      "labels": "designated, S:95, Convergent Trio 346/456/572, FLIRT combo",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.28.1.1.1.1.1": [
+    {
+      "pango": "LG.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 476,
+      "issue": 1504,
+      "labels": "designated, S:95, Convergent Trio 346/456/572, FLIRT combo",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
     }
   ]
 }
