@@ -1126,7 +1126,7 @@ KP.2.13	Alias of B.1.1.529.2.86.1.1.11.1.2.13, S:K478E, N:P6T, C9565T, C24553T, 
 KP.3	Alias of B.1.1.529.2.86.1.1.11.1.3, S:Q493E, from sars-cov-2-variants/lineage-proposals#1410
 KP.3.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1, G15372T, A19722G
 KP.3.2	Alias of B.1.1.529.2.86.1.1.11.1.3.2, A2611C, C22858T
-KP.3.3	Alias of B.1.1.529.2.86.1.1.11.1.3.3, S:R204P
+KP.3.3	Alias of B.1.1.529.2.86.1.1.11.1.3.3, N:R204P
 KP.4	Alias of B.1.1.529.2.86.1.1.11.1.4, C6070T, India
 KP.4.1	Alias of B.1.1.529.2.86.1.1.11.1.4.1, S:R346T, C19884T
 KP.4.2	Alias of B.1.1.529.2.86.1.1.11.1.4.2, S:R346T, S:K187R
@@ -1183,8 +1183,8 @@ JN.1.37	Alias of B.1.1.529.2.86.1.1.37, S:S680F
 JN.1.38	Alias of B.1.1.529.2.86.1.1.38, ORF1b:R1736K, USA
 JN.1.39	Alias of B.1.1.529.2.86.1.1.39, G2782T
 JN.1.39.1	Alias of B.1.1.529.2.86.1.1.39.1, S:R346T, S:F456L, C21034T, T25631C, A16011G, T6913C
-JN.1.39.2	Alias of B.1.1.529.2.86.1.1.39.2, S:R346T, T111C
-JN.1.39.3	Alias of B.1.1.529.2.86.1.1.39.3, S:A67V, T111C, C5512T, China from #2498 (originally known as JN.1.33)
+JN.1.39.2	Alias of B.1.1.529.2.86.1.1.39.2, S:R346T, after T111C
+JN.1.39.3	Alias of B.1.1.529.2.86.1.1.39.3, S:A67V, C5512T, after T111C, China from #2498 (originally known as JN.1.33)
 JN.1.40	Alias of B.1.1.529.2.86.1.1.40, S:S31P, Mexico, from sars-cov-2-variants/lineage-proposals#1451
 JN.1.41	Alias of B.1.1.529.2.86.1.1.41, S:S1252F, on A29086T, USA, from sars-cov-2-variants/lineage-proposals#1256
 JN.1.42	Alias of B.1.1.529.2.86.1.1.42, C5581A, South America
@@ -3945,9 +3945,9 @@ XDG	Recombinant lineage of FL.37 and EG.5.2.4 (breakpoint at 6729-9693), from #2
 XDH	Recombinant lineage of BN.1.2.8 and XBB.1.9.1 (or XBB.1.22) (breakpoint between 22630-22663), Lithuania/Belarus, from sars-cov-2-variants/lineage-proposals#128
 XDJ	Recombinant lineage of XBB.1.16.6 and HK.3.1 (breakpoint between 14857 and 16877), France, from sars-cov-2-variants/lineage-proposals#997
 XDK	Recombinant lineage of XBB.1.16.11 (likely) and JN.1.1.1 (breakpoint between 5315 and 6182), France, from #2415
-XDK.1	S:R346T, G11596A, from sars-cov-2-variants/lineage-proposals#1407
-XDK.1.1	S:K182R, S:E213G, India
-XDK.1.2	S:F456L
+XDK.1	S:R346T, G11596A, most with S:E213G, from sars-cov-2-variants/lineage-proposals#1407
+XDK.1.1	S:K182R, India
+XDK.1.2	S:F456L, pre S:E213G
 XDK.2	S:K679R, T4996A, C11173T, A23598G, C27297T
 XDK.3	S:F456L, ORF1a:F3397L
 XDL	Recombinant lineage of EG.5.1.1 and non-EG.5 (breakpoint between 25573-29624) with S:I1114T, most with S:L455F(G22927T), China, from #2351
