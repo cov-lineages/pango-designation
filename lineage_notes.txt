@@ -1217,6 +1217,7 @@ JN.1.49.2	Alias of B.1.1.529.2.86.1.1.49.2, S:F456L
 JN.1.50	Alias of B.1.1.529.2.86.1.1.50, S:H445P,S:F456L, S:A67V, S:L249F, Europe from #2587
 JN.1.51	Alias of B.1.1.529.2.86.1.1.51, C4795T
 JN.1.51.1	Alias of B.1.1.529.2.86.1.1.51.1, S:F456L
+LJ.1	Alias of B.1.1.529.2.86.1.1.51.1.1, S:T22N
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
 JN.2.1	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 JN.2.2	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433
