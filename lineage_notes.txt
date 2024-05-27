@@ -3969,6 +3969,8 @@ XDK.1.1	S:K182R, S:E213G, India
 XDK.1.2	S:F456L
 XDK.2	S:K679R, T4996A, C11173T, A23598G, C27297T
 XDK.3	S:F456L, ORF1a:F3397L
+XDK.4	C25626T
+XDK.4.1	S:F456L, France/Luxembourg
 XDL	Recombinant lineage of EG.5.1.1 and non-EG.5 (breakpoint between 25573-29624) with S:I1114T, most with S:L455F(G22927T), China, from #2351
 XDM	Recombinant lineage of XDA, GW.5, XDA (breakpoints between 22107-22926 and 24047-25838), from sars-cov-2-variants/lineage-proposals#1163
 XDN	Recombinant lineage of JN.1.1 and JD.1 (breakpoint between 24379 and 24989), from #2448
