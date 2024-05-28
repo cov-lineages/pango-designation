@@ -1231,7 +1231,7 @@ JN.1.52	Alias of B.1.1.529.2.86.1.1.52, ORF1a:K3353R
 JN.1.53	Alias of B.1.1.529.2.86.1.1.53, C15720T, Senegal
 JN.1.53.1	Alias of B.1.1.529.2.86.1.1.53.1, C583T
 JN.1.54	Alias of B.1.1.529.2.86.1.1.54, A9085G
-JN.1.54.1	Alias of B.1.1.529.2.86.1.1.54.1, S:F456L, S:V407I, Spain
+JN.1.54.1	Alias of B.1.1.529.2.86.1.1.54.1, S:F456L, S:V407I, Spain, from #2584
 LN.1	Alias of B.1.1.529.2.86.1.1.53.1.1, S:R346T
 LN.1.1	Alias of B.1.1.529.2.86.1.1.53.1.1.1, S:F456L, S:478I
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
