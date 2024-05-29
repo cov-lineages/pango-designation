@@ -3593,6 +3593,18 @@
       "unaliased": "B.1.1.529.2.86.1.1.11.1.2.12"
     }
   ],
+  "B.1.1.529.2.86.1.1.11.1.2.14": [
+    {
+      "pango": "KP.2.14",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 481,
+      "issue": 1578,
+      "labels": "Rapid review needed, S:184, S:31, S:22, KP.2",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.11.1.2.14"
+    }
+  ],
   "B.1.1.529.2.86.1.1.11.1.2.2": [
     {
       "pango": "KP.2.2",
@@ -3689,6 +3701,18 @@
       "unaliased": "B.1.1.529.2.86.1.1.11.1.3"
     }
   ],
+  "B.1.1.529.2.86.1.1.11.1.3.1.1": [
+    {
+      "pango": "KP.3.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 480,
+      "issue": 1563,
+      "labels": "To be proposed, Deletions/Truncations/Frameshifted, designated, S:31, KP.3",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.11.1.3.1.1"
+    }
+  ],
   "B.1.1.529.2.86.1.1.11.1.3.3": [
     {
       "pango": "KP.3.3",
@@ -3771,6 +3795,18 @@
       "state": "OPEN",
       "reason": null,
       "unaliased": "B.1.1.529.2.86.1.1.13.1.1"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.13.1.1.1": [
+    {
+      "pango": "KS.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 482,
+      "issue": 1565,
+      "labels": "N Glycan, S:22, S:59, S:1087, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.13.1.1.1"
     }
   ],
   "B.1.1.529.2.86.1.1.16": [
@@ -3929,6 +3965,18 @@
       "unaliased": "B.1.1.529.2.86.1.1.23"
     }
   ],
+  "B.1.1.529.2.86.1.1.23.1": [
+    {
+      "pango": "JN.1.23.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 486,
+      "issue": 1552,
+      "labels": "S:1264, NSP3, JN.1.23, S:137",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.23.1"
+    }
+  ],
   "B.1.1.529.2.86.1.1.24.1": [
     {
       "pango": "JN.1.24.1",
@@ -3939,6 +3987,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.24.1"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.25.1.1": [
+    {
+      "pango": "LM.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 425,
+      "issue": 1089,
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.25.1.1"
     }
   ],
   "B.1.1.529.2.86.1.1.26": [
@@ -4439,6 +4499,30 @@
       "state": "OPEN",
       "reason": null,
       "unaliased": "B.1.1.529.2.86.1.1.7.4"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.7.5": [
+    {
+      "pango": "JN.1.7.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 483,
+      "issue": 1374,
+      "labels": "S:572, JN.1, Omicron defining mutated, NSP5",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.7.5"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.7.5.1": [
+    {
+      "pango": "LK.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 483,
+      "issue": 1374,
+      "labels": "S:572, JN.1, Omicron defining mutated, NSP5",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.7.5.1"
     }
   ],
   "B.1.1.529.2.86.1.1.8.1": [
@@ -16981,6 +17065,30 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XDK.3"
+    }
+  ],
+  "XDK.4.1": [
+    {
+      "pango": "XDK.4.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 478,
+      "issue": 1467,
+      "labels": "To be proposed, S:456, combo, S:572, XDK",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDK.4.1"
+    }
+  ],
+  "XDK.6": [
+    {
+      "pango": "XDK.6",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 479,
+      "issue": 1572,
+      "labels": "S:456, Small clusters ??, S:572, XDK",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDK.6"
     }
   ],
   "XDL": [
