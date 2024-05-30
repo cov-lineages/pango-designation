@@ -9998,6 +9998,17 @@
       "reason": "COMPLETED"
     }
   ],
+  "XBB.1.5.73.1.4": [
+    {
+      "pango": "GN.1.4",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 838,
+      "issue": 2349,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
   "B.1.1.529.2.86.1.1.4.2": [
     {
       "pango": "JN.1.4.2",

@@ -1094,6 +1094,7 @@ GK.7	sars-cov-2-variants/lineage-proposals	168	907	Rapid review needed, TRS??, p
 GK.8	sars-cov-2-variants/lineage-proposals	170	909	designated, partially designated, FLip, S:475, s:180-185	CLOSED	COMPLETED	XBB.1.5.70.8
 GK.8.1	sars-cov-2-variants/lineage-proposals	375	643	To be proposed, Rapid review needed, Multiple lineages, designated, partially designated, FLip, S:475	CLOSED	COMPLETED	XBB.1.5.70.8.1
 GN.1.3	sars-cov-2-variants/lineage-proposals	200	816	designated, FLip	CLOSED	COMPLETED	XBB.1.5.73.1.3
+GN.1.4	cov-lineages/pango-designation	838	2349		CLOSED	COMPLETED	XBB.1.5.73.1.4
 XBB.1.5.74	sars-cov-2-variants/lineage-proposals	308	45	New mutations, To be proposed, designated	CLOSED	COMPLETED	XBB.1.5.74
 HR.1	sars-cov-2-variants/lineage-proposals	45	323	designated	CLOSED	COMPLETED	XBB.1.5.77.1
 HR.1.1	sars-cov-2-variants/lineage-proposals	231	623	S:478, designated, S:304, combo	CLOSED	COMPLETED	XBB.1.5.77.1.1

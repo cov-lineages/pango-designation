@@ -13057,6 +13057,18 @@
       "unaliased": "XBB.1.5.73.1.3"
     }
   ],
+  "XBB.1.5.73.1.4": [
+    {
+      "pango": "GN.1.4",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 838,
+      "issue": 2349,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.5.73.1.4"
+    }
+  ],
   "XBB.1.5.74": [
     {
       "pango": "XBB.1.5.74",
