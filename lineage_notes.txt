@@ -1062,6 +1062,7 @@ KR.1.2	Alias of B.1.1.529.2.86.1.1.1.5.1.2, S:R683Q
 KR.2	Alias of B.1.1.529.2.86.1.1.1.5.2, S:F456V, L176F, USA/Canada
 KR.3	Alias of B.1.1.529.2.86.1.1.1.5.3, S:F456L (22930A)
 KR.4	Alias of B.1.1.529.2.86.1.1.1.5.4, S:Q218E
+KR.5	Alias of B.1.1.529.2.86.1.1.1.5.5, ORF1a:L642F, ORF1a:T2087I, Brazil
 JN.1.1.6	Alias of B.1.1.529.2.86.1.1.1.6, S:F456L, from sars-cov-2-variants/lineage-proposals#1253
 KZ.1	Alias of B.1.1.529.2.86.1.1.1.6.1, ORF1b:V1092F
 KZ.1.1	Alias of B.1.1.529.2.86.1.1.1.6.1.1, S:R346T from #2548
