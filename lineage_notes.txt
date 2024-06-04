@@ -1130,6 +1130,7 @@ KP.2.1	Alias of B.1.1.529.2.86.1.1.11.1.2.1, S:Q1201K, from sars-cov-2-variants/
 KP.2.2	Alias of B.1.1.529.2.86.1.1.11.1.2.2, S:F59L, S:K1266R, from sars-cov-2-variants/lineage-proposals#1446
 KP.2.3	Alias of B.1.1.529.2.86.1.1.11.1.2.3, S:H146Q, ORF3a:K67N, S:31del
 KP.2.3.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.1, S:A475V
+KP.2.3.2	Alias of B.1.1.529.2.86.1.1.11.1.2.3.2, S:G184V
 KP.2.4	Alias of B.1.1.529.2.86.1.1.11.1.2.4, S:T250N
 KP.2.5	Alias of B.1.1.529.2.86.1.1.11.1.2.5, S:N185D
 KP.2.6	Alias of B.1.1.529.2.86.1.1.11.1.2.6, S:W64R
