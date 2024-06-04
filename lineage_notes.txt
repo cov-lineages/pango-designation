@@ -1131,6 +1131,7 @@ KP.2.2	Alias of B.1.1.529.2.86.1.1.11.1.2.2, S:F59L, S:K1266R, from sars-cov-2-v
 KP.2.3	Alias of B.1.1.529.2.86.1.1.11.1.2.3, S:H146Q, ORF3a:K67N, S:31del
 KP.2.3.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.1, S:A475V
 KP.2.3.2	Alias of B.1.1.529.2.86.1.1.11.1.2.3.2, S:G184V
+KP.2.3.3	Alias of B.1.1.529.2.86.1.1.11.1.2.3.3, S:N185T
 KP.2.4	Alias of B.1.1.529.2.86.1.1.11.1.2.4, S:T250N
 KP.2.5	Alias of B.1.1.529.2.86.1.1.11.1.2.5, S:N185D
 KP.2.6	Alias of B.1.1.529.2.86.1.1.11.1.2.6, S:W64R
@@ -1143,6 +1144,7 @@ KP.2.12	Alias of B.1.1.529.2.86.1.1.11.1.2.12, S:V1176F, G25088T, Australia
 KP.2.13	Alias of B.1.1.529.2.86.1.1.11.1.2.13, S:K478E, N:P6T, C9565T, C24553T, USA/Canada
 KP.2.14	Alias of B.1.1.529.2.86.1.1.11.1.2.14, S:G184V, S:S31F
 KP.2.15	Alias of B.1.1.529.2.86.1.1.11.1.2.15, A10861G, S:31del, USA/Canada
+KP.2.16	Alias of B.1.1.529.2.86.1.1.11.1.2.16, ORF8:F6S
 KP.3	Alias of B.1.1.529.2.86.1.1.11.1.3, S:Q493E, from sars-cov-2-variants/lineage-proposals#1410
 KP.3.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1, G15372T, A19722G
 KP.3.1.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1, ORF1a:S4286C, C12616T, S:S31del, Spain
