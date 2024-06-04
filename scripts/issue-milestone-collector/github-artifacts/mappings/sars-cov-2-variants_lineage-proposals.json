@@ -6154,7 +6154,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 483,
       "issue": 1374,
-      "labels": "S:572, JN.1, Omicron defining mutated, NSP5",
+      "labels": "S:572, JN.1, Lineage defining mutation further mutated, NSP5",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6165,7 +6165,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 483,
       "issue": 1374,
-      "labels": "S:572, JN.1, Omicron defining mutated, NSP5",
+      "labels": "S:572, JN.1, Lineage defining mutation further mutated, NSP5",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
