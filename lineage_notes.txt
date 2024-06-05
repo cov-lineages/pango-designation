@@ -1099,8 +1099,9 @@ JN.1.7.2	Alias of B.1.1.529.2.86.1.1.7.2, ORF1b:C1563F, Americas
 JN.1.7.3	Alias of B.1.1.529.2.86.1.1.7.3, S:R346T, from sars-cov-2-variants/lineage-proposals#1343
 JN.1.7.4	Alias of B.1.1.529.2.86.1.1.7.4, S:F456L (T22928C)
 JN.1.7.5	Alias of B.1.1.529.2.86.1.1.7.5, ORF1a:H3395Y
-LK.1	Alias of B.1.1.529.2.86.1.1.7.5, S:445P, ORF1a:R1170C, USA/Canada
+LK.1	Alias of B.1.1.529.2.86.1.1.7.5.1, S:445P, ORF1a:R1170C, USA/Canada
 JN.1.7.6	Alias of B.1.1.529.2.86.1.1.7.6, S:S60P, ORF1a:P1609S, Wales
+JN.1.7.7	Alias of B.1.1.529.2.86.1.1.7.7, ORF1b:K2557R 
 JN.1.8	Alias of B.1.1.529.2.86.1.1.8, ORF7a:T28I
 JN.1.8.1	Alias of B.1.1.529.2.86.1.1.8.1, S:T572I, after A12928G, USA/Denmark, from sars-cov-2-variants/lineage-proposals#1097
 JN.1.8.2	Alias of B.1.1.529.2.86.1.1.8.2, S:R346T, after A12928G, from sars-cov-2-variants/lineage-proposals#1089
@@ -1280,11 +1281,12 @@ JN.1.56.1	Alias of B.1.1.529.2.86.1.1.56.1, S:G181R, S:R346T, S:F456V, ORF1a:T16
 JN.1.57	Alias of B.1.1.529.2.86.1.1.57, ORF1b:A1219S, A11947G
 JN.1.57.1	Alias of B.1.1.529.2.86.1.1.57.1, S:S60P, Taiwan/South Korea
 JN.1.58	Alias of B.1.1.529.2.86.1.1.58, ORF1b:K2557R
-JN.1.58.1	Alias of B.1.1.529.2.86.1.1.58, S:S60P
-JN.1.58.2	Alias of B.1.1.529.2.86.1.1.58, S:R346T
-LR.1	Alias of B.1.1.529.2.86.1.1.58.1, S:F456L (22928C)
-LR.2	Alias of B.1.1.529.2.86.1.1.58.2, S:F456V
+JN.1.58.1	Alias of B.1.1.529.2.86.1.1.58.1, S:S60P
+JN.1.58.2	Alias of B.1.1.529.2.86.1.1.58.2, S:R346T
+LR.1	Alias of B.1.1.529.2.86.1.1.58.2.1, S:F456L (22928C)
+LR.2	Alias of B.1.1.529.2.86.1.1.58.2.2, S:F456V
 JN.1.59	Alias of B.1.1.529.2.86.1.1.59, ORF1a:A1204S
+JN.1.60	Alias of B.1.1.529.2.86.1.1.60, C4543T
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
 JN.2.1	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 JN.2.2	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433
