@@ -6203,6 +6203,39 @@
       "reason": "COMPLETED"
     }
   ],
+  "B.1.1.529.2.86.1.1.16.1.2": [
+    {
+      "pango": "LF.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 485,
+      "issue": 1502,
+      "labels": "To be proposed, Deletions/Truncations/Frameshifted, Multiple lineages, S:346, S:31, DeFlirt, DelRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.1.1.3": [
+    {
+      "pango": "KP.1.1.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 485,
+      "issue": 1502,
+      "labels": "To be proposed, Deletions/Truncations/Frameshifted, Multiple lineages, S:346, S:31, DeFlirt, DelRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.16.1.1.1.1": [
+    {
+      "pango": "LF.1.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 485,
+      "issue": 1502,
+      "labels": "To be proposed, Deletions/Truncations/Frameshifted, Multiple lineages, S:346, S:31, DeFlirt, DelRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
   "B.1.1.529.2.86.1.1.23.1": [
     {
       "pango": "JN.1.23.1",
@@ -6331,6 +6364,28 @@
       "milestone": 497,
       "issue": 1460,
       "labels": "designated, S:60",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.9.2.1.2.1": [
+    {
+      "pango": "LB.1.2.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 498,
+      "issue": 1559,
+      "labels": "recombinant, S:190, S:1104, KP.2, DeFlirt, KP.3, LB.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDY": [
+    {
+      "pango": "XDY",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 498,
+      "issue": 1559,
+      "labels": "recombinant, S:190, S:1104, KP.2, DeFlirt, KP.3, LB.1",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
