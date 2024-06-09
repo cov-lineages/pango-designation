@@ -345,6 +345,7 @@ LQ.2	sars-cov-2-variants/lineage-proposals	431	1414	designated, S:346, JN.1, S:2
 JN.1.18.2	sars-cov-2-variants/lineage-proposals	441	1441	Convergent evolution, designated, S:346, S:59	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.18.2
 JN.1.18.3	sars-cov-2-variants/lineage-proposals	424	1253	S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT	OPEN		B.1.1.529.2.86.1.1.18.3
 JN.1.18.4	sars-cov-2-variants/lineage-proposals	424	1253	S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT	OPEN		B.1.1.529.2.86.1.1.18.4
+JN.1.18.5	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.18.5
 JN.1.2	sars-cov-2-variants/lineage-proposals	267	1087	designated, BA.2.86, S:1229, JN.1	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.2
 JN.1.2.1	sars-cov-2-variants/lineage-proposals	409	1322	designated, S:1229, JN.1, S:1101	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.2.1
 JN.1.21	sars-cov-2-variants/lineage-proposals	415	1162	To be proposed, Multiple lineages, designated, BA.2.86, JN.1, S:1058	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.21
@@ -396,6 +397,7 @@ JN.1.55.1	sars-cov-2-variants/lineage-proposals	424	1253	S:456, Multiple lineage
 JN.1.55.2	sars-cov-2-variants/lineage-proposals	424	1253	S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT	OPEN		B.1.1.529.2.86.1.1.55.2
 JN.1.57.1	sars-cov-2-variants/lineage-proposals	497	1460	designated, S:60	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.57.1
 JN.1.6.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.6.1
+JN.1.62	sars-cov-2-variants/lineage-proposals	424	1253	S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT	OPEN		B.1.1.529.2.86.1.1.62
 JN.1.7	sars-cov-2-variants/lineage-proposals	389	1097	To be proposed, Multiple lineages, partially designated, BA.2.86, S:572, JN.1	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.7
 JN.1.7.1	sars-cov-2-variants/lineage-proposals	420	1371	designated, S:346, S:572, JN.1	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.7.1
 JN.1.7.3	sars-cov-2-variants/lineage-proposals	452	1343	S:346, S:455, S:572, JN.1, S:680	CLOSED	NOT_PLANNED	B.1.1.529.2.86.1.1.7.3
