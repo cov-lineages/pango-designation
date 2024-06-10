@@ -5,13 +5,13 @@ The latest maintained Pango-lineage designations.
 ## Suggesting a new lineage
 Novel lineages or lineage refinements can be suggested by filing an issue with the respective sequence names, as found on GISAID, and any supporting information such as a phylogenetic tree for the putative lineage. 
 
-Full details on how to suggest a new lineage can be found in the [Pango lineage designation guide](https://www.pango.network/how-does-the-system-work/how-to-suggest-a-new-lineage/).
+Full details on how to suggest a new lineage can be found in the [Pango lineage designation guide](https://web.archive.org/web/20240116214048/https://www.pango.network/how-does-the-system-work/how-to-suggest-a-new-lineage/).
 
-Nomenclature rules can be found in the [Pango statement of nomenclature rules](https://www.pango.network/the-pango-nomenclature-system/statement-of-nomenclature-rules/).
+Nomenclature rules can be found in the [Pango statement of nomenclature rules](https://web.archive.org/web/20240116214031/https://www.pango.network/the-pango-nomenclature-system/statement-of-nomenclature-rules/).
 
 ## Resources available on this repository
 
-As detailed on the pango.network website, we host the lineage description list (LDL) and sequence designation list (SDL) in this repository. 
+As detailed on the former pango.network website, we host the lineage description list (LDL) and sequence designation list (SDL) in this repository. 
 ### Lineage description list: [lineage_notes.txt](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)
 ### Sequence designation list: [lineages.csv](https://github.com/cov-lineages/pango-designation/blob/master/lineages.csv)
 ### Alias record: [alias_key.json](https://github.com/cov-lineages/pango-designation/blob/master/pango_designation/alias_key.json)
