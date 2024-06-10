@@ -1054,12 +1054,12 @@ JN.1.1	Alias of B.1.1.529.2.86.1.1.1, ORF1a:F499L, C11747T, France, from sars-co
 JN.1.1.1	Alias of B.1.1.529.2.86.1.1.1.1, S:T572I on C9142T branch, France/Sweden/Poland, from sars-cov-2-variants/lineage-proposals#1097
 JN.1.1.2	Alias of B.1.1.529.2.86.1.1.1.2, S:G181E, France, from sars-cov-2-variants/lineage-proposals#1147
 JN.1.1.3	Alias of B.1.1.529.2.86.1.1.1.3, S:R346T
+LT.1	Alias of B.1.1.529.2.86.1.1.1.3.1, S:F456V, L176F, USA/Canada
 JN.1.1.4	Alias of B.1.1.529.2.86.1.1.1.4, S:V1264L on C9142T branch, from #2476
 JN.1.1.5	Alias of B.1.1.529.2.86.1.1.1.5, S:R346T on C9142T branch, from #2492
 KR.1	Alias of B.1.1.529.2.86.1.1.1.5.1, S:F456L (22928C), after C28498T, from sars-cov-2-variants/lineage-proposals#1253
 KR.1.1	Alias of B.1.1.529.2.86.1.1.1.5.1.1, S:F59L
 KR.1.2	Alias of B.1.1.529.2.86.1.1.1.5.1.2, S:R683Q
-KR.2	Alias of B.1.1.529.2.86.1.1.1.5.2, S:F456V, L176F, USA/Canada
 KR.3	Alias of B.1.1.529.2.86.1.1.1.5.3, S:F456L (22930A)
 KR.4	Alias of B.1.1.529.2.86.1.1.1.5.4, S:Q218E
 KR.5	Alias of B.1.1.529.2.86.1.1.1.5.5, ORF1a:L642F, ORF1a:T2087I, Brazil
@@ -4346,3 +4346,4 @@ XDY	Recombinant lineage of LB.1.2.1 and KP.3.2 (breakpoint between 22131-22599),
 *HK.3.11	Withdrawn, as part of 14988C sublineage of EG.5.1.1, not HK.3: Alias of XBB.1.9.2.5.1.1.3.11, S:A475V, Finland/Denmark/Sweden
 *JN.1.33	Redesignated as JN.1.39.3, Alias of B.1.1.529.2.86.1.1.33, S:A67V, G2782T, C5512T, China from #2498
 *KD.5	Withdrawn: Alias of XBC.1.3.1.5, S:L244F, Australia, indel artefact caused false S:L244F (#2405)
+*KR.2	Redesignated as LT.1 (JN.1.1.3.1) due to lack of C9142T
