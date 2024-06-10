@@ -5257,6 +5257,39 @@
       "reason": null
     }
   ],
+  "B.1.1.529.2.86.1.1.18.1.1": [
+    {
+      "pango": "LQ.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 424,
+      "issue": 1253,
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.1.18.1.1.1": [
+    {
+      "pango": "LQ.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 424,
+      "issue": 1253,
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.1.62": [
+    {
+      "pango": "JN.1.62",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 424,
+      "issue": 1253,
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
   "B.1.1.529.2.86.1.1.1.3": [
     {
       "pango": "JN.1.1.3",
@@ -5521,6 +5554,17 @@
       "reason": "COMPLETED"
     }
   ],
+  "B.1.1.529.2.86.1.1.18.5": [
+    {
+      "pango": "JN.1.18.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 425,
+      "issue": 1089,
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
   "B.1.1.529.2.86.3.2": [
     {
       "pango": "JQ.2",
@@ -5590,6 +5634,17 @@
   "B.1.1.529.2.86.1.1.18.1": [
     {
       "pango": "JN.1.18.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 431,
+      "issue": 1414,
+      "labels": "designated, S:346, JN.1, S:250",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.18.1.2": [
+    {
+      "pango": "LQ.2",
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 431,
       "issue": 1414,
@@ -6045,8 +6100,19 @@
       "milestone": 474,
       "issue": 1448,
       "labels": "To be proposed, Emerged in an undersampled area, designated, S:1263, FLiRT",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.16.1.1.1.1": [
+    {
+      "pango": "LF.1.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 474,
+      "issue": 1448,
+      "labels": "To be proposed, Emerged in an undersampled area, designated, S:1263, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
     }
   ],
   "B.1.1.529.2.86.1.1.11.1.3.3": [
@@ -6154,7 +6220,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 483,
       "issue": 1374,
-      "labels": "S:572, JN.1, Omicron defining mutated, NSP5",
+      "labels": "S:572, JN.1, Lineage defining mutation further mutated, NSP5",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6165,7 +6231,29 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 483,
       "issue": 1374,
-      "labels": "S:572, JN.1, Omicron defining mutated, NSP5",
+      "labels": "S:572, JN.1, Lineage defining mutation further mutated, NSP5",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.16.1.2": [
+    {
+      "pango": "LF.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 485,
+      "issue": 1502,
+      "labels": "To be proposed, Deletions/Truncations/Frameshifted, Multiple lineages, S:346, S:31, DeFlirt, DelRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.1.1.3": [
+    {
+      "pango": "KP.1.1.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 485,
+      "issue": 1502,
+      "labels": "To be proposed, Deletions/Truncations/Frameshifted, Multiple lineages, S:346, S:31, DeFlirt, DelRT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6199,6 +6287,127 @@
       "milestone": 488,
       "issue": 1545,
       "labels": "designated, ORF9b, S:59, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.9.2.1.5": [
+    {
+      "pango": "LB.1.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 489,
+      "issue": 1557,
+      "labels": "designated, 2nuc mutation, s:1143, DeFlirt, LB.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.16.1.3.1": [
+    {
+      "pango": "LF.3.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 490,
+      "issue": 1558,
+      "labels": "designated, Double Nuc mutations, S:445, FLiRT, s:1143, S:745",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.3.1.2": [
+    {
+      "pango": "KP.3.1.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 491,
+      "issue": 1589,
+      "labels": "S:151, KP.3",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.3.1.4": [
+    {
+      "pango": "KP.3.1.4",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 492,
+      "issue": 1562,
+      "labels": "To be proposed, Mutations outside spike, designated, KP.3",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.3.1.3": [
+    {
+      "pango": "KP.3.1.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 493,
+      "issue": 1576,
+      "labels": "Multiple lineages, designated, S:31, KP.3",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.1.1.4": [
+    {
+      "pango": "KP.1.1.4",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 494,
+      "issue": 1593,
+      "labels": "High local prevalence, designated, S:214, S:1104, S:1086, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.1.1.3.1": [
+    {
+      "pango": "LP.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 495,
+      "issue": 1591,
+      "labels": "designated, S:1229, DeFlirt",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.4.8": [
+    {
+      "pango": "JN.1.4.8",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 496,
+      "issue": 1495,
+      "labels": "To be proposed, designated, S:60",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.57.1": [
+    {
+      "pango": "JN.1.57.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 497,
+      "issue": 1460,
+      "labels": "designated, S:60",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.9.2.1.2.1": [
+    {
+      "pango": "LB.1.2.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 498,
+      "issue": 1559,
+      "labels": "recombinant, S:190, S:1104, KP.2, DeFlirt, KP.3, LB.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDY": [
+    {
+      "pango": "XDY",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 498,
+      "issue": 1559,
+      "labels": "recombinant, S:190, S:1104, KP.2, DeFlirt, KP.3, LB.1",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
