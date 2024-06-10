@@ -1207,7 +1207,7 @@ JN.1.18.4	Alias of B.1.1.529.2.86.1.1.18.4, S:F456L (T22930G), ORF6:I60T, T23036
 LH.1	Alias of B.1.1.529.2.86.1.1.18.4.1, S:K182I from #2567
 LH.2	Alias of B.1.1.529.2.86.1.1.18.4.2, S:I197V, S:P251H from #2567
 JN.1.18.5	Alias of B.1.1.529.2.86.1.1.18.5, S:F456L (T22930A)
-LS.1	Alias of B.1.1.529.2.86.1.1.18.5.1, S:Y28H, S:L189P, S:184-188del, ORF1a:E940D
+LS.1	Alias of B.1.1.529.2.86.1.1.18.5.1, S:Y28H, S:L189A, S:184-188del, ORF1a:E940D
 JN.1.19	Alias of B.1.1.529.2.86.1.1.19, ORF8:I71V
 JN.1.20	Alias of B.1.1.529.2.86.1.1.20, S:S31F, directly on JN.1 polytomy
 JN.1.21	Alias of B.1.1.529.2.86.1.1.21, S:H1058Y, from sars-cov-2-variants/lineage-proposals#1162
