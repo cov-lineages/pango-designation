@@ -3960,8 +3960,8 @@
       "milestone": 474,
       "issue": 1448,
       "labels": "To be proposed, Emerged in an undersampled area, designated, S:1263, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.16.1.1.1"
     }
   ],
@@ -3969,9 +3969,9 @@
     {
       "pango": "LF.1.1.1",
       "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 485,
-      "issue": 1502,
-      "labels": "To be proposed, Deletions/Truncations/Frameshifted, Multiple lineages, S:346, S:31, DeFlirt, DelRT",
+      "milestone": 474,
+      "issue": 1448,
+      "labels": "To be proposed, Emerged in an undersampled area, designated, S:1263, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.16.1.1.1.1"
