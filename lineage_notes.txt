@@ -1283,8 +1283,8 @@ JN.1.54.1	Alias of B.1.1.529.2.86.1.1.54.1, S:F456L, S:V407I, Spain, from #2584
 JN.1.55	Alias of B.1.1.529.2.86.1.1.55, ORF1a:K399R
 JN.1.55.1	Alias of B.1.1.529.2.86.1.1.55.1, S:F456L, ORF1a:T1017I, Thailand
 JN.1.55.2	Alias of B.1.1.529.2.86.1.1.55.2, S:F456L, ORF1b:P2321H, Brazil
-JN.1.56	Alias of B.1.1.529.2.86.1.1.56, ORF3a:K399R
-JN.1.56.1	Alias of B.1.1.529.2.86.1.1.56.1, S:G181R, S:R346T, S:F456V, ORF1a:T1638I, Sinapore/South Korea
+JN.1.56	Alias of B.1.1.529.2.86.1.1.56, Orf3a:Q213K
+JN.1.56.1	Alias of B.1.1.529.2.86.1.1.56.1, S:G181R, S:R346T, S:F456V, ORF1a:T1638I, Sinapore/South Korea from #2582
 JN.1.57	Alias of B.1.1.529.2.86.1.1.57, ORF1b:A1219S, A11947G
 JN.1.57.1	Alias of B.1.1.529.2.86.1.1.57.1, S:S60P, Taiwan/South Korea
 JN.1.58	Alias of B.1.1.529.2.86.1.1.58, ORF1b:K2557R
