@@ -4042,7 +4042,7 @@ XDK.2	S:K679R, T4996A, C11173T, A23598G, C27297T
 XDK.3	S:F456L, ORF1a:F3397L
 XDK.4	C25626T
 XDK.4.1	S:F456L, France/Luxembourg
-XDK.5	S:F456L, C22388T, Spain
+XDK.5	S:F456L, C22388T, Spain from #2611
 XDK.6	S:F456L, S:R237K, S:Q1201K, England
 XDL	Recombinant lineage of EG.5.1.1 and non-EG.5 (breakpoint between 25573-29624) with S:I1114T, most with S:L455F(G22927T), China, from #2351
 XDM	Recombinant lineage of XDA, GW.5, XDA (breakpoints between 22107-22926 and 24047-25838), from sars-cov-2-variants/lineage-proposals#1163
