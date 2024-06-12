@@ -5290,6 +5290,17 @@
       "reason": null
     }
   ],
+  "B.1.1.529.2.86.1.1.15.1": [
+    {
+      "pango": "JN.1.15.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 424,
+      "issue": 1253,
+      "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
+      "state": "OPEN",
+      "reason": null
+    }
+  ],
   "B.1.1.529.2.86.1.1.1.3": [
     {
       "pango": "JN.1.1.3",
@@ -5557,6 +5568,17 @@
   "B.1.1.529.2.86.1.1.18.5": [
     {
       "pango": "JN.1.18.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 425,
+      "issue": 1089,
+      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.15.1.1": [
+    {
+      "pango": "LU.1",
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
@@ -6419,6 +6441,17 @@
       "milestone": 499,
       "issue": 1604,
       "labels": "designated",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.1.9": [
+    {
+      "pango": "JN.1.1.9",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 500,
+      "issue": 1525,
+      "labels": "help wanted, Usher",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
