@@ -4053,6 +4053,8 @@ XDM	Recombinant lineage of XDA, GW.5, XDA (breakpoints between 22107-22926 and 2
 XDN	Recombinant lineage of JN.1.1 and JD.1 (breakpoint between 24379 and 24989), from #2448
 XDP	Recombinant lineage of JN.1.4+T18453C and FL.15 (breakpoint between 26834 and 27809), from #2451
 XDP.1	S:E1092D, after ORF1a:L397P, ORF1a:H388Y, from sars-cov-2-variants/lineage-proposals#1358
+XDP.2	S:E309Q, Brazil/Canada
+XDP.3	S:S255F, USA
 XDQ	Recombinant lineage of BA.2.86.1 and FL.15.1.1 (breakpoint between 23605 and 24377), most with T22846C, Vietnam/Japan/South Korea, from #2481
 XDQ.1	S:A475V, Japan/South Korea, from #2497
 XDQ.1.1	S:S60P, C1594T, Japan
