@@ -1297,6 +1297,8 @@ JN.1.59	Alias of B.1.1.529.2.86.1.1.59, ORF1a:A1204S
 JN.1.60	Alias of B.1.1.529.2.86.1.1.60, C4543T
 JN.1.61	Alias of B.1.1.529.2.86.1.1.61, S:K444R, Brazil
 JN.1.62	Alias of B.1.1.529.2.86.1.1.62, S:F456L (22928C), S:V62F, S:R681H
+JN.1.63	Alias of B.1.1.529.2.86.1.1.63, ORF1b:K82R
+JN.1.63.1	Alias of B.1.1.529.2.86.1.1.63.1, ORF1a:D1513E, ORF1a:A2529S, Asia
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
 JN.2.1	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 JN.2.2	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433
@@ -4066,6 +4068,7 @@ XDV.1	S:F456L (T22930A), on C11572T branch, Hong Kong
 XDW	Recombinant lineage of JN.2 (T1030C branch), XDA (breakpoint between 23424-23603), Japan, from sars-cov-2-variants/lineage-proposals#1471
 XDY	Recombinant lineage of LB.1.2.1 and KP.3.2 (breakpoint between 22131-22599), Sweden/Spain, from sars-cov-2-variants/lineage-proposals#1559
 XDZ	Recombinant lineage of JG.3 and JN.1.1.10 (breakpoint between 11043-12788), Europe/North America
+XEA	Recombinant lineage of JN.1.63.1 and EG.5 (breakpoint between 27057-27915), East Asia
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
