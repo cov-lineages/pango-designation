@@ -4623,6 +4623,18 @@
       "unaliased": "B.1.1.529.2.86.1.1.4.7.1.1"
     }
   ],
+  "B.1.1.529.2.86.1.1.4.7.1.3.1": [
+    {
+      "pango": "LE.1.3.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 503,
+      "issue": 1612,
+      "labels": "designated, S:84, S:173, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.4.7.1.3.1"
+    }
+  ],
   "B.1.1.529.2.86.1.1.4.8": [
     {
       "pango": "JN.1.4.8",
@@ -17577,6 +17589,18 @@
       "unaliased": "XDP.1"
     }
   ],
+  "XDP.2": [
+    {
+      "pango": "XDP.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 502,
+      "issue": 1432,
+      "labels": "designated, XDP, S:309",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
+      "unaliased": "XDP.2"
+    }
+  ],
   "XDQ": [
     {
       "pango": "XDQ",
@@ -17731,6 +17755,18 @@
       "unaliased": "XDY"
     }
   ],
+  "XDZ": [
+    {
+      "pango": "XDZ",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 504,
+      "issue": 1356,
+      "labels": "recombinant, Small clusters ??, designated, JN.1 Spike, XDZ",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
+      "unaliased": "XDZ"
+    }
+  ],
   "XE": [
     {
       "pango": "XE",
@@ -17741,6 +17777,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XE"
+    }
+  ],
+  "XEB": [
+    {
+      "pango": "XEB",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 501,
+      "issue": 1290,
+      "labels": "recombinant, recombinant squared, JN.1 Spike",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XEB"
     }
   ],
   "XF": [
