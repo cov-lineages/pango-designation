@@ -3852,8 +3852,8 @@
       "milestone": 487,
       "issue": 1556,
       "labels": "designated, S:31, KP.3, S:263",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.3.2.1"
     }
   ],

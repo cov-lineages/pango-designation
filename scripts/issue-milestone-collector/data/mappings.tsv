@@ -321,7 +321,7 @@ KP.3.1.2	sars-cov-2-variants/lineage-proposals	491	1589	S:151, KP.3	CLOSED	COMPL
 KP.3.1.3	sars-cov-2-variants/lineage-proposals	493	1576	Multiple lineages, designated, S:31, KP.3	OPEN		B.1.1.529.2.86.1.1.11.1.3.1.3
 KP.3.1.4	sars-cov-2-variants/lineage-proposals	492	1562	To be proposed, Mutations outside spike, designated, KP.3	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11.1.3.1.4
 KP.3.1.5	sars-cov-2-variants/lineage-proposals	506	1614	designated, S:556, KP.3	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11.1.3.1.5
-KP.3.2.1	sars-cov-2-variants/lineage-proposals	487	1556	designated, S:31, KP.3, S:263	OPEN		B.1.1.529.2.86.1.1.11.1.3.2.1
+KP.3.2.1	sars-cov-2-variants/lineage-proposals	487	1556	designated, S:31, KP.3, S:263	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11.1.3.2.1
 KP.3.2.5	sars-cov-2-variants/lineage-proposals	499	1604	designated	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11.1.3.2.5
 KP.3.3	sars-cov-2-variants/lineage-proposals	475	1531	To be proposed, ORF9b, KP.3	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11.1.3.3
 KP.4.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.11.1.4.1
