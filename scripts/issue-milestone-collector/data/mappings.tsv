@@ -338,6 +338,7 @@ KS.1	sars-cov-2-variants/lineage-proposals	424	1253	S:456, Multiple lineages, de
 KS.1.1	sars-cov-2-variants/lineage-proposals	482	1565	N Glycan, S:22, S:59, S:1087, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.13.1.1.1
 JN.1.15.1	sars-cov-2-variants/lineage-proposals	424	1253	S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT	OPEN		B.1.1.529.2.86.1.1.15.1
 LU.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.15.1.1
+LU.2	sars-cov-2-variants/lineage-proposals	515	1652	High local prevalence, designated, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.15.1.2
 JN.1.16	sars-cov-2-variants/lineage-proposals	424	1253	S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT	OPEN		B.1.1.529.2.86.1.1.16
 JN.1.16.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.16.1
 LF.1.1	sars-cov-2-variants/lineage-proposals	474	1448	To be proposed, Emerged in an undersampled area, designated, S:1263, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.16.1.1.1
@@ -378,11 +379,11 @@ JN.1.30.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:34
 KU.2	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.30.1.2
 JN.1.31	sars-cov-2-variants/lineage-proposals	432	1319	designated, Branch, JN.1	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.31
 JN.1.32.1	sars-cov-2-variants/lineage-proposals	456	1442	S:183, S:572	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.32.1
-JN.1.33	sars-cov-2-variants/lineage-proposals	435	1395	To be proposed, Emerged in an undersampled area, High local prevalence, JN.1, S:67	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.33
 JN.1.35	sars-cov-2-variants/lineage-proposals	437	1362	designated, FCS, JN.1, S:680	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.35
 JN.1.36	sars-cov-2-variants/lineage-proposals	443	1326	designated, s:677, FCS, JN.1, S:680	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.36
 JN.1.36.1	sars-cov-2-variants/lineage-proposals	443	1326	designated, s:677, FCS, JN.1, S:680	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.36.1
 JN.1.39.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, S:346, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.39.1
+JN.1.39.3	sars-cov-2-variants/lineage-proposals	435	1395	To be proposed, Emerged in an undersampled area, High local prevalence, JN.1, S:67	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.39.3
 JN.1.4	sars-cov-2-variants/lineage-proposals	378	987	Multiple lineages, designated, S:455, BA.2.86, Orf6, JN.1	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.4
 JN.1.4.1	sars-cov-2-variants/lineage-proposals	408	1175	designated, S:654, BA.2.86, JN.1	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.4.1
 JN.1.4.2	cov-lineages/pango-designation	839	2462		CLOSED	COMPLETED	B.1.1.529.2.86.1.1.4.2

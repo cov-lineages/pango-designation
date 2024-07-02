@@ -4049,6 +4049,18 @@
       "unaliased": "B.1.1.529.2.86.1.1.15.1.1"
     }
   ],
+  "B.1.1.529.2.86.1.1.15.1.2": [
+    {
+      "pango": "LU.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 515,
+      "issue": 1652,
+      "labels": "High local prevalence, designated, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.15.1.2"
+    }
+  ],
   "B.1.1.529.2.86.1.1.16": [
     {
       "pango": "JN.1.16",
@@ -4529,18 +4541,6 @@
       "unaliased": "B.1.1.529.2.86.1.1.32.1"
     }
   ],
-  "B.1.1.529.2.86.1.1.33": [
-    {
-      "pango": "JN.1.33",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 435,
-      "issue": 1395,
-      "labels": "To be proposed, Emerged in an undersampled area, High local prevalence, JN.1, S:67",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
-      "unaliased": "B.1.1.529.2.86.1.1.33"
-    }
-  ],
   "B.1.1.529.2.86.1.1.35": [
     {
       "pango": "JN.1.35",
@@ -4587,6 +4587,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.39.1"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.39.3": [
+    {
+      "pango": "JN.1.39.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 435,
+      "issue": 1395,
+      "labels": "To be proposed, Emerged in an undersampled area, High local prevalence, JN.1, S:67",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.39.3"
     }
   ],
   "B.1.1.529.2.86.1.1.4": [

@@ -5708,9 +5708,9 @@
       "reason": "COMPLETED"
     }
   ],
-  "B.1.1.529.2.86.1.1.33": [
+  "B.1.1.529.2.86.1.1.39.3": [
     {
-      "pango": "JN.1.33",
+      "pango": "JN.1.39.3",
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 435,
       "issue": 1395,
@@ -6617,6 +6617,17 @@
       "milestone": 514,
       "issue": 1590,
       "labels": "To be proposed, Rapid review needed, Truncated Orf(3-10), designated, orf8, DeFlirt",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.15.1.2": [
+    {
+      "pango": "LU.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 515,
+      "issue": 1652,
+      "labels": "High local prevalence, designated, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
