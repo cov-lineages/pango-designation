@@ -1134,6 +1134,7 @@ JN.1.11.1	Alias of B.1.1.529.2.86.1.1.11.1, S:F456L, after ORF1a:T2283I, India, 
 KP.1	Alias of B.1.1.529.2.86.1.1.11.1.1, S:K1086R, from sars-cov-2-variants/lineage-proposals#1364
 KP.1.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1, S:R346T, from sars-cov-2-variants/lineage-proposals#1089
 KP.1.1.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.1, S:K182N, after ORF1b:L2213F, from #2510
+MG.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.1.1, S:T572I, S:679N, ORF1a:V3091I
 KP.1.1.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.2, S:P1162S, T2152C
 KP.1.1.3	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3, C4999T, many with S:S31del
 LP.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.1, S:M1229I,from sars-cov-2-variants/lineage-proposals#1591
