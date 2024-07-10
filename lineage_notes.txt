@@ -1342,6 +1342,7 @@ MD.1.1	Alias of B.1.1.529.2.86.1.1.64.1.1.1, S:K679R
 MD.2	Alias of B.1.1.529.2.86.1.1.64.1.2, S:F456V, ORF1a:T2800I
 MD.3	Alias of B.1.1.529.2.86.1.1.64.1.3, C1060T, C9319T, C28657T
 MD.3.1	Alias of B.1.1.529.2.86.1.1.64.1.3.1, S:F456L (T22928C), ORF3a:L106F, C10138T, South Africa
+JN.1.65	Alias of B.1.1.529.2.86.1.1.65, S:T572I, after T23629C, G25647T, A5053G, Spain
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
 JN.2.1	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 JN.2.2	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433
