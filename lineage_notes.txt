@@ -1178,6 +1178,9 @@ KP.3.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.2, S:S151I，from sars-cov-2-varia
 KP.3.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.3, S:S31F,from sars-cov-2-variants/lineage-proposals#1576
 KP.3.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.4, ORF1b:P1675S,from #2627
 KP.3.1.5	Alias of B.1.1.529.2.86.1.1.11.1.3.1.5, S:N556K, ORF1a:Q998H, ORF3a:I186V, England
+KP.3.1.6	Alias of B.1.1.529.2.86.1.1.11.1.3.1.6, T19305C
+MK.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.6.1, S:S31F, UK
+MK.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.6.2, S:D745G, after E:L21F
 KP.3.2	Alias of B.1.1.529.2.86.1.1.11.1.3.2, A2611C, C22858T
 KP.3.2.1	Alias of B.1.1.529.2.86.1.1.11.1.3.2.1, S:A263V, Australia/Singapore
 KP.3.2.2	Alias of B.1.1.529.2.86.1.1.11.1.3.2.2, S:W258R
