@@ -3363,7 +3363,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.1.3"
@@ -3397,7 +3397,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.1.5"
@@ -3563,7 +3563,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.1.1"
@@ -3591,18 +3591,6 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.1.1.2"
-    }
-  ],
-  "B.1.1.529.2.86.1.1.11.1.1.1.3": [
-    {
-      "pango": "KP.1.1.3",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 485,
-      "issue": 1502,
-      "labels": "To be proposed, Deletions/Truncations/Frameshifted, Multiple lineages, S:346, S:31, DeFlirt, DelRT",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
-      "unaliased": "B.1.1.529.2.86.1.1.11.1.1.1.3"
     }
   ],
   "B.1.1.529.2.86.1.1.11.1.1.1.3.1": [
@@ -3659,7 +3647,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.2"
@@ -3827,7 +3815,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.2.9"
@@ -3887,7 +3875,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 493,
       "issue": 1576,
-      "labels": "Multiple lineages, designated, S:31, KP.3",
+      "labels": "Rapid review needed, Multiple lineages, designated, S:31, KP.3",
       "state": "OPEN",
       "reason": "REOPENED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.3.1.3"
@@ -4043,7 +4031,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 493,
       "issue": 1576,
-      "labels": "Multiple lineages, designated, S:31, KP.3",
+      "labels": "Rapid review needed, Multiple lineages, designated, S:31, KP.3",
       "state": "OPEN",
       "reason": "REOPENED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.3.4.1"
@@ -4067,7 +4055,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.4.1"
@@ -4091,7 +4079,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.4.2"
@@ -4187,7 +4175,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.15.1.1"
@@ -4223,7 +4211,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.16.1"
@@ -4251,18 +4239,6 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.16.1.1.1.1"
-    }
-  ],
-  "B.1.1.529.2.86.1.1.16.1.2": [
-    {
-      "pango": "LF.2",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 485,
-      "issue": 1502,
-      "labels": "To be proposed, Deletions/Truncations/Frameshifted, Multiple lineages, S:346, S:31, DeFlirt, DelRT",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
-      "unaliased": "B.1.1.529.2.86.1.1.16.1.2"
     }
   ],
   "B.1.1.529.2.86.1.1.16.1.3.1": [
@@ -4343,7 +4319,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.16.2.2"
@@ -4355,7 +4331,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.18"
@@ -4463,7 +4439,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.18.5"
@@ -4535,7 +4511,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.24.1"
@@ -4547,7 +4523,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.25.1.1"
@@ -4559,7 +4535,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.26"
@@ -4655,7 +4631,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.30.1"
@@ -4667,7 +4643,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.30.1.2"
@@ -4739,7 +4715,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.39.1"
@@ -4833,7 +4809,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.4.4"
@@ -4881,7 +4857,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.4.7.1"
@@ -4893,7 +4869,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.4.7.1.1"
@@ -5013,7 +4989,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.48.2"
@@ -5119,7 +5095,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.6.1"
@@ -5287,7 +5263,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.8.2"
@@ -5333,7 +5309,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.9.2.1"
@@ -5685,7 +5661,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 425,
       "issue": 1089,
-      "labels": "Multiple lineages, S:346, partially designated, JN.1, FLiRT",
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.3.2.1.1"
