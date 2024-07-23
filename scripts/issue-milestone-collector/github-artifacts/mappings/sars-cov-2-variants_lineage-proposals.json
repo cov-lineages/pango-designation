@@ -5956,7 +5956,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 455,
       "issue": 1459,
-      "labels": "To be proposed, Deletions/Truncations/Frameshifted, partially designated, N Glycan, S:146, KP.2, DeFlirt",
+      "labels": "To be proposed, Deletions/Truncations/Frameshifted, partially designated, N Glycan, S:146, KP.2, DeFLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6341,7 +6341,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 489,
       "issue": 1557,
-      "labels": "designated, 2nuc mutation, s:1143, DeFlirt, LB.1",
+      "labels": "designated, 2nuc mutation, s:1143, DeFLiRT, LB.1",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6429,7 +6429,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 495,
       "issue": 1591,
-      "labels": "designated, S:1229, DeFlirt",
+      "labels": "designated, S:1229, DeFLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6462,7 +6462,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 498,
       "issue": 1559,
-      "labels": "recombinant, S:190, S:1104, KP.2, DeFlirt, KP.3, LB.1",
+      "labels": "recombinant, S:190, S:1104, KP.2, DeFLiRT, KP.3, LB.1",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6473,7 +6473,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 498,
       "issue": 1559,
-      "labels": "recombinant, S:190, S:1104, KP.2, DeFlirt, KP.3, LB.1",
+      "labels": "recombinant, S:190, S:1104, KP.2, DeFLiRT, KP.3, LB.1",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6594,7 +6594,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 509,
       "issue": 1620,
-      "labels": "S:445, DeFlirt, LB.1",
+      "labels": "S:445, DeFLiRT, LB.1",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6605,7 +6605,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 510,
       "issue": 1596,
-      "labels": "Rapid review needed, designated, S:445, S:1104, S:146, KP.2, DeFlirt",
+      "labels": "Rapid review needed, designated, S:445, S:1104, S:146, KP.2, DeFLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6638,7 +6638,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 513,
       "issue": 1633,
-      "labels": "S.1229, S:255, DeFlirt",
+      "labels": "S.1229, S:255, DeFLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6649,7 +6649,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 514,
       "issue": 1590,
-      "labels": "To be proposed, Rapid review needed, Truncated Orf(3-10), designated, orf8, DeFlirt",
+      "labels": "To be proposed, Rapid review needed, Truncated Orf(3-10), designated, orf8, DeFLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6671,7 +6671,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 516,
       "issue": 1618,
-      "labels": "To be proposed, Deletions/Truncations/Frameshifted, S:185, orf8, S:146, KP.2, DeFlirt",
+      "labels": "To be proposed, Deletions/Truncations/Frameshifted, S:185, orf8, S:146, KP.2, DeFLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6814,7 +6814,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 530,
       "issue": 1641,
-      "labels": "Rapid review needed, designated, S:183, S:148, DeFlirt",
+      "labels": "Rapid review needed, designated, S:183, S:148, DeFLiRT",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
@@ -6825,7 +6825,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 531,
       "issue": 1555,
-      "labels": "Apparently slow, designated, NSP3, DeFlirt, LB.1, S:34",
+      "labels": "Apparently slow, designated, NSP3, DeFLiRT, LB.1, S:34",
       "state": "CLOSED",
       "reason": "NOT_PLANNED"
     }
