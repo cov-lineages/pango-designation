@@ -101,7 +101,7 @@ B.1.1.10	European lineage
 L.1	Alias of B.1.1.10.1, Canadian lineage
 L.2	Alias of B.1.1.10.2, Netherlands lineage
 L.3	Alias of B.1.1.10.3, Nigerian/ European lineage with long branch from B.1.1.10
-L.4	USA lineage, alias of B.1.1.10.4
+L.4	Alias of B.1.1.10.4, USA lineage
 B.1.1.12	England
 B.1.1.13	UK
 B.1.1.14	Scotland
