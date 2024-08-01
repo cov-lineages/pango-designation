@@ -6797,6 +6797,17 @@
       "reason": "COMPLETED"
     }
   ],
+  "B.1.1.529.2.86.1.1.18.7.1": [
+    {
+      "pango": "MN.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 528,
+      "issue": 1685,
+      "labels": "S:346, S:174, S:22, S:80, S:59, S:1260, S:689",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
   "B.1.1.529.2.86.1.1.11.1.3.5": [
     {
       "pango": "KP.3.5",
