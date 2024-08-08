@@ -1426,6 +1426,8 @@ BA.2.86.6	Alias of B.1.1.529.2.86.6, C9226T
 LV.1	Alias of B.1.1.529.2.86.6.1, ORF1b:D294N
 LV.2	Alias of B.1.1.529.2.86.6.2, S:R346T, S:L455S, S:F456L, ORF1a:E148G, ORF1a:W630C, ORF1a:G1069R, ORF1a:G3546D, ORF1b:A520V
 BA.2.86.7	Alias of B.1.1.529.2.86.7, ORF1b:Y1344H, T10819C, C28720T, South Africa
+MP.1	Alias of B.1.1.529.2.86.7.1, S:N487D, Southern Africa
+MP.1.1	Alias of B.1.1.529.2.86.7.1.1, S:R346T, S:A348P, Southern Africa
 BA.2.87	Alias of B.1.1.529.2.87, C18744T, no C9866T
 BA.2.87.1	Alias of B.1.1.529.2.87.1, saltation with 15+ spike AA mutations, South Africa, from #2484
 BA.3	Alias of B.1.1.529.3, from #367
