@@ -10107,5 +10107,16 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "XEC": [
+    {
+      "pango": "XEC",
+      "repo": "cov-lineages/pango-designation",
+      "milestone": 847,
+      "issue": 2717,
+      "labels": "",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
