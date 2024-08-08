@@ -1181,6 +1181,7 @@ KP.2.13	Alias of B.1.1.529.2.86.1.1.11.1.2.13, S:K478E, N:P6T, C9565T, C24553T, 
 KP.2.14	Alias of B.1.1.529.2.86.1.1.11.1.2.14, S:G184V, S:S31F, from sars-cov-2-variants/lineage-proposals#1578
 KP.2.14.1	Alias of B.1.1.529.2.86.1.1.11.1.2.14.1, S:T22N
 KP.2.15	Alias of B.1.1.529.2.86.1.1.11.1.2.15, A10861G, S:31del, USA/Canada
+KP.2.15.1	Alias of B.1.1.529.2.86.1.1.11.1.2.15.1, S:T572I, from #2711
 KP.2.16	Alias of B.1.1.529.2.86.1.1.11.1.2.16, ORF8:F6S
 KP.2.17	Alias of B.1.1.529.2.86.1.1.11.1.2.17, S:G35R, C23758T, C7765T, T14418C, Singapore
 KP.2.18	Alias of B.1.1.529.2.86.1.1.11.1.2.18, S:T22N, on T22795G branch
