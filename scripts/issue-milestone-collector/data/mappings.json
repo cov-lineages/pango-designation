@@ -4007,7 +4007,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 493,
       "issue": 1576,
-      "labels": "Rapid review needed, Multiple lineages, designated, S:31, KP.3",
+      "labels": "Multiple lineages, designated, S:31, KP.3",
       "state": "OPEN",
       "reason": "REOPENED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.3.1.3"
@@ -4199,7 +4199,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 493,
       "issue": 1576,
-      "labels": "Rapid review needed, Multiple lineages, designated, S:31, KP.3",
+      "labels": "Multiple lineages, designated, S:31, KP.3",
       "state": "OPEN",
       "reason": "REOPENED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1.3.4.1"
