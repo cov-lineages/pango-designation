@@ -5642,6 +5642,17 @@
       "reason": "COMPLETED"
     }
   ],
+  "B.1.1.529.2.86.1.1.18.2.2": [
+    {
+      "pango": "LZ.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 425,
+      "issue": 1089,
+      "labels": "Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
   "B.1.1.529.2.86.3.2": [
     {
       "pango": "JQ.2",
