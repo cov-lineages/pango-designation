@@ -1330,6 +1330,7 @@ JN.1.41	Alias of B.1.1.529.2.86.1.1.41, S:S1252F, on A29086T, USA, from sars-cov
 JN.1.42	Alias of B.1.1.529.2.86.1.1.42, C5581A, South America
 JN.1.42.1	Alias of B.1.1.529.2.86.1.1.42.1, S:F59S, from sars-cov-2-variants/lineage-proposals#1474
 JN.1.42.2	Alias of B.1.1.529.2.86.1.1.42.2, S:R346T, Peru from #2494
+MS.1	Alias of B.1.1.529.2.86.1.1.42.2.1, S:31del, ORF1a:E940G, USA/Guatemala
 JN.1.43	Alias of B.1.1.529.2.86.1.1.43, A25237G
 JN.1.43.1	Alias of B.1.1.529.2.86.1.1.43.1, C19488T, C29218T, Brazil
 JN.1.44	Alias of B.1.1.529.2.86.1.1.44, ORF6:P57L, from sars-cov-2-variants/lineage-proposals#987
