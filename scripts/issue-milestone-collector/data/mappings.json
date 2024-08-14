@@ -6,8 +6,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": ""
     }
   ],
@@ -3410,8 +3410,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.1.5.1"
     }
   ],
@@ -3446,8 +3446,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.1.5.2"
     }
   ],
@@ -3458,8 +3458,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.1.5.3"
     }
   ],
@@ -3470,8 +3470,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.1.6"
     }
   ],
@@ -3552,8 +3552,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.11.1"
     }
   ],
@@ -4272,8 +4272,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.12"
     }
   ],
@@ -4296,8 +4296,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.13.1.1"
     }
   ],
@@ -4332,8 +4332,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.15.1"
     }
   ],
@@ -4368,8 +4368,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.16"
     }
   ],
@@ -4464,8 +4464,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.16.2"
     }
   ],
@@ -4476,8 +4476,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.16.2.1"
     }
   ],
@@ -4524,8 +4524,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.18.1.1"
     }
   ],
@@ -4536,8 +4536,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.18.1.1.1"
     }
   ],
@@ -4584,8 +4584,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.18.3"
     }
   ],
@@ -4608,8 +4608,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.18.4"
     }
   ],
@@ -4812,8 +4812,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.29.1"
     }
   ],
@@ -4978,8 +4978,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.4.2.1"
     }
   ],
@@ -5170,8 +5170,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.48.1"
     }
   ],
@@ -5194,8 +5194,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.48.3"
     }
   ],
@@ -5252,8 +5252,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.55.1"
     }
   ],
@@ -5264,8 +5264,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.55.2"
     }
   ],
@@ -5300,8 +5300,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.62"
     }
   ],
@@ -5384,8 +5384,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.7.4"
     }
   ],
@@ -5456,8 +5456,8 @@
       "milestone": 424,
       "issue": 1253,
       "labels": "S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT",
-      "state": "OPEN",
-      "reason": null,
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.7.9"
     }
   ],
