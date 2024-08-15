@@ -1187,6 +1187,7 @@ KP.2.15.1	Alias of B.1.1.529.2.86.1.1.11.1.2.15.1, S:T572I, from #2711
 KP.2.16	Alias of B.1.1.529.2.86.1.1.11.1.2.16, ORF8:F6S
 KP.2.17	Alias of B.1.1.529.2.86.1.1.11.1.2.17, S:G35R, C23758T, C7765T, T14418C, Singapore
 KP.2.18	Alias of B.1.1.529.2.86.1.1.11.1.2.18, S:T22N, on T22795G branch
+KP.2.19	Alias of B.1.1.529.2.86.1.1.11.1.2.19, S:S31del, ORF1a:V28I, Guatemala, from #2720
 KP.3	Alias of B.1.1.529.2.86.1.1.11.1.3, S:Q493E, from sars-cov-2-variants/lineage-proposals#1410
 KP.3.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1, G15372T, A19722G
 KP.3.1.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1, ORF1a:S4286C, C12616T, S:S31del, Spain, from sars-cov-2-variants/lineage-proposals#1563
@@ -1260,6 +1261,7 @@ LF.3.1.1	Alias of B.1.1.529.2.86.1.1.16.1.3.1.1, S:L1143F, USA-CO, from sars-cov
 LF.4	Alias of B.1.1.529.2.86.1.1.16.1.4, N:R385K, ORF1a:T4368I
 LF.4.1	Alias of B.1.1.529.2.86.1.1.16.1.4.1, S:31del, ORF1a:G519S, ORF8:Q29*, from sars-cov-2-variants/lineage-proposals#1590
 LF.5	Alias of B.1.1.529.2.86.1.1.16.1.5, S:T33A, S:N185D, C28660T
+LF.6	Alias of B.1.1.529.2.86.1.1.16.1.6, T3172G, T17859C, Portugal/Spain, from #2589
 JN.1.16.2	Alias of B.1.1.529.2.86.1.1.16.2, C4777T, from sars-cov-2-variants/lineage-proposals#1253
 LA.1	Alias of B.1.1.529.2.86.1.1.16.2.1, S:R346T, from sars-cov-2-variants/lineage-proposals#1253
 LA.2	Alias of B.1.1.529.2.86.1.1.16.2.2, S:R346I, from sars-cov-2-variants/lineage-proposals#1089
