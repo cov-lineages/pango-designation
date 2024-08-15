@@ -1197,6 +1197,15 @@ MC.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.2, S:A845S
 MC.2.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.2.1, S:R237K
 MC.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.3, S:G72R, Spain
 MC.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.4, S:S98F, Spain
+MC.5	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.5, S:G1219C, Spain
+MC.6	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.6, ORF1a:P769S, ORF1a:G2091S
+MC.7	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.7, S:A397V
+MC.8	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.8, C9803T
+MC.8.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.8.1, S:T572I
+MC.9	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.9, ORF3a:K75N, ORF1b:A1219S
+MC.10	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10, C16332T
+MC.11	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11, C17430T
+MC.11.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.1, S:S256L, Europe
 KP.3.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.2, S:S151I，from sars-cov-2-variants/lineage-proposals#1589
 KP.3.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.3, S:S31F,from sars-cov-2-variants/lineage-proposals#1576
 KP.3.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.4, ORF1b:P1675S,from #2627
