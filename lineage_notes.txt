@@ -1378,6 +1378,8 @@ JN.1.49	Alias of B.1.1.529.2.86.1.1.49, ORF3a:T89I, India
 JN.1.49.1	Alias of B.1.1.529.2.86.1.1.49.1, S:R346T
 MB.1	Alias of B.1.1.529.2.86.1.1.49.1.1, S:F456V (T22928G), S:S31F
 MB.1.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1, S:T22N, S:K182N, from sars-cov-2-variants/lineage-proposals#1659
+MB.1.1.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1, ORF1a:T224I, India
+MV.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1, S:K478T, India
 JN.1.49.2	Alias of B.1.1.529.2.86.1.1.49.2, S:F456L (T22930A)
 JN.1.50	Alias of B.1.1.529.2.86.1.1.50, S:A67V, S:L249F, S:H445P, S:F456L (T22930G), Europe from #2587
 JN.1.50.1	Alias of B.1.1.529.2.86.1.1.50.1, S:R346T from #2587
