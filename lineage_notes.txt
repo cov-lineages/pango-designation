@@ -4241,7 +4241,7 @@ XEC	Recombinant lineage of KS.1.1 (JN.1.13.1.1.1) and KP.3.3 (breakpoint 21738-2
 XEC.1	S:K182R, ORF1a:L4182F, France/Ireland/Canada
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
-XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from #1855
+XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
