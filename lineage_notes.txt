@@ -1145,6 +1145,7 @@ LB.1.7.1	Alias of B.1.1.529.2.86.1.1.9.2.1.7.1, S:N148T, USA-NY
 LB.1.7.2	Alias of B.1.1.529.2.86.1.1.9.2.1.7.2, S:S680P
 LB.1.7.3	Alias of B.1.1.529.2.86.1.1.9.2.1.7.3, S:R34C
 LB.1.8	Alias of B.1.1.529.2.86.1.1.9.2.1.8, ORF1a:I785V
+LB.1.9	Alias of B.1.1.529.2.86.1.1.9.2.1.9, S:K478T (reversion), G20931T, T29194C, C15960T, India
 JN.1.10	Alias of B.1.1.529.2.86.1.1.10, S:T95I, USA/Canada, from sars-cov-2-variants/lineage-proposals#1135
 JN.1.11	Alias of B.1.1.529.2.86.1.1.11, S:V1104L, G17334T, India, from #2446
 JN.1.11.1	Alias of B.1.1.529.2.86.1.1.11.1, S:F456L (T22928C), after ORF1a:T2283I, India, from sars-cov-2-variants/lineage-proposals#1253
