@@ -5957,7 +5957,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 583,
       "issue": 1874,
-      "labels": "S:478, Reversions, LB.1",
+      "labels": "S:478, Reversions, designated, LB.1",
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.9.2.1.9"
@@ -18681,6 +18681,18 @@
       "unaliased": "XDR.1"
     }
   ],
+  "XDR.1.1": [
+    {
+      "pango": "XDR.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 586,
+      "issue": 1795,
+      "labels": "S:456, XDR, S:59, FLiRT, S:237",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDR.1.1"
+    }
+  ],
   "XDS": [
     {
       "pango": "XDS",
@@ -18915,6 +18927,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XEF"
+    }
+  ],
+  "XEG": [
+    {
+      "pango": "XEG",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 585,
+      "issue": 1428,
+      "labels": "recombinant, S:456, BA.2.86, 2nuc mutation, 3 BP, s:1143",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
+      "unaliased": "XEG"
     }
   ],
   "XF": [
