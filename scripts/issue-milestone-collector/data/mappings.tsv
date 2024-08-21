@@ -378,6 +378,7 @@ LU.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, designate
 LU.2	sars-cov-2-variants/lineage-proposals	515	1652	High local prevalence, designated, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.15.1.2
 LU.2.1	sars-cov-2-variants/lineage-proposals	559	1751	High local prevalence, designated, s:182, PLPro, S:186, S:688, S:176, S:60, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.15.1.2.1
 LU.2.1.1	sars-cov-2-variants/lineage-proposals	559	1751	High local prevalence, designated, s:182, PLPro, S:186, S:688, S:176, S:60, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.15.1.2.1.1
+LU.2.2	sars-cov-2-variants/lineage-proposals	589	1830	s:677, S:688, FLiRT	CLOSED	NOT_PLANNED	B.1.1.529.2.86.1.1.15.1.2.2
 JN.1.16	sars-cov-2-variants/lineage-proposals	424	1253	S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.16
 JN.1.16.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.16.1
 LF.1.1	sars-cov-2-variants/lineage-proposals	474	1448	To be proposed, Emerged in an undersampled area, designated, S:1263, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.16.1.1.1
@@ -1227,6 +1228,7 @@ XBB.1.6	cov-lineages/pango-designation	579	1428	designated, recombinant sublinea
 XBB.1.8	cov-lineages/pango-designation	598	1455	designated, XBB	CLOSED	COMPLETED	XBB.1.8
 FL..30.1	sars-cov-2-variants/lineage-proposals	179	232	Rapid review needed, designated, S:484K	CLOSED	COMPLETED	XBB.1.9.1..30.1
 FL.1	cov-lineages/pango-designation	728	1808	designated, XBB	CLOSED	COMPLETED	XBB.1.9.1.1
+FL.1.5.1	sars-cov-2-variants/lineage-proposals	588	139	To be proposed, S:456, S:478	CLOSED	COMPLETED	XBB.1.9.1.1.5.1
 HN.1	sars-cov-2-variants/lineage-proposals	35	408	New mutations, Rapid review needed, designated	CLOSED	COMPLETED	XBB.1.9.1.1.5.1.1
 HN.2	sars-cov-2-variants/lineage-proposals	213	676	To be proposed, S:456, S:478, Mutations outside spike, partially designated	CLOSED	COMPLETED	XBB.1.9.1.1.5.1.2
 HN.2.1	sars-cov-2-variants/lineage-proposals	213	676	To be proposed, S:456, S:478, Mutations outside spike, partially designated	CLOSED	COMPLETED	XBB.1.9.1.1.5.1.2.1

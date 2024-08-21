@@ -4529,6 +4529,18 @@
       "unaliased": "B.1.1.529.2.86.1.1.15.1.2.1.1"
     }
   ],
+  "B.1.1.529.2.86.1.1.15.1.2.2": [
+    {
+      "pango": "LU.2.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 589,
+      "issue": 1830,
+      "labels": "s:677, S:688, FLiRT",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
+      "unaliased": "B.1.1.529.2.86.1.1.15.1.2.2"
+    }
+  ],
   "B.1.1.529.2.86.1.1.16": [
     {
       "pango": "JN.1.16",
@@ -14649,6 +14661,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XBB.1.9.1.1"
+    }
+  ],
+  "XBB.1.9.1.1.5.1": [
+    {
+      "pango": "FL.1.5.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 588,
+      "issue": 139,
+      "labels": "To be proposed, S:456, S:478",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.9.1.1.5.1"
     }
   ],
   "XBB.1.9.1.1.5.1.1": [
