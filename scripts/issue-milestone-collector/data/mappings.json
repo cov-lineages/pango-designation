@@ -4289,6 +4289,18 @@
       "unaliased": "B.1.1.529.2.86.1.1.11.1.3.3.4"
     }
   ],
+  "B.1.1.529.2.86.1.1.11.1.3.3.4.1": [
+    {
+      "pango": "MR.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 551,
+      "issue": 1700,
+      "labels": "Rapid review needed, Multiple lineages, KP.3, S:31del",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
+      "unaliased": "B.1.1.529.2.86.1.1.11.1.3.3.4.1"
+    }
+  ],
   "B.1.1.529.2.86.1.1.11.1.3.4.1": [
     {
       "pango": "KP.3.4.1",
@@ -4515,6 +4527,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.15.1.2.1.1"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.15.1.2.2": [
+    {
+      "pango": "LU.2.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 589,
+      "issue": 1830,
+      "labels": "designated, s:677, S:688, FLiRT",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED",
+      "unaliased": "B.1.1.529.2.86.1.1.15.1.2.2"
     }
   ],
   "B.1.1.529.2.86.1.1.16": [
@@ -14639,6 +14663,18 @@
       "unaliased": "XBB.1.9.1.1"
     }
   ],
+  "XBB.1.9.1.1.5.1": [
+    {
+      "pango": "FL.1.5.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 588,
+      "issue": 139,
+      "labels": "To be proposed, S:456, S:478",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XBB.1.9.1.1.5.1"
+    }
+  ],
   "XBB.1.9.1.1.5.1.1": [
     {
       "pango": "HN.1",
@@ -18745,7 +18781,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 562,
       "issue": 1820,
-      "labels": "designated, S:60, XDV",
+      "labels": "designated, partially designated, S:60, XDV",
       "state": "OPEN",
       "reason": null,
       "unaliased": "XDV.1.1"
