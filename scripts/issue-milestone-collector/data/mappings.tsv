@@ -378,7 +378,7 @@ LU.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, designate
 LU.2	sars-cov-2-variants/lineage-proposals	515	1652	High local prevalence, designated, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.15.1.2
 LU.2.1	sars-cov-2-variants/lineage-proposals	559	1751	High local prevalence, designated, s:182, PLPro, S:186, S:688, S:176, S:60, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.15.1.2.1
 LU.2.1.1	sars-cov-2-variants/lineage-proposals	559	1751	High local prevalence, designated, s:182, PLPro, S:186, S:688, S:176, S:60, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.15.1.2.1.1
-LU.2.2	sars-cov-2-variants/lineage-proposals	589	1830	s:677, S:688, FLiRT	CLOSED	NOT_PLANNED	B.1.1.529.2.86.1.1.15.1.2.2
+LU.2.2	sars-cov-2-variants/lineage-proposals	589	1830	designated, s:677, S:688, FLiRT	CLOSED	NOT_PLANNED	B.1.1.529.2.86.1.1.15.1.2.2
 JN.1.16	sars-cov-2-variants/lineage-proposals	424	1253	S:456, Multiple lineages, designated, S:455, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.16
 JN.1.16.1	sars-cov-2-variants/lineage-proposals	425	1089	Multiple lineages, designated, S:346, partially designated, JN.1, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.16.1
 LF.1.1	sars-cov-2-variants/lineage-proposals	474	1448	To be proposed, Emerged in an undersampled area, designated, S:1263, FLiRT	CLOSED	COMPLETED	B.1.1.529.2.86.1.1.16.1.1.1

@@ -7573,7 +7573,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 589,
       "issue": 1830,
-      "labels": "s:677, S:688, FLiRT",
+      "labels": "designated, s:677, S:688, FLiRT",
       "state": "CLOSED",
       "reason": "NOT_PLANNED"
     }
