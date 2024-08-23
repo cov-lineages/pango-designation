@@ -7266,8 +7266,8 @@
       "milestone": 562,
       "issue": 1820,
       "labels": "designated, partially designated, S:60, XDV",
-      "state": "OPEN",
-      "reason": null
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
     }
   ],
   "XDV.1.2": [
