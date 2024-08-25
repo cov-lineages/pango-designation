@@ -5939,6 +5939,18 @@
       "unaliased": "B.1.1.529.2.86.1.1.9.2.1.3.3"
     }
   ],
+  "B.1.1.529.2.86.1.1.9.2.1.4.3": [
+    {
+      "pango": "LB.1.4.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 590,
+      "issue": 1911,
+      "labels": "designated, LB.1, S:845",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "B.1.1.529.2.86.1.1.9.2.1.4.3"
+    }
+  ],
   "B.1.1.529.2.86.1.1.9.2.1.5": [
     {
       "pango": "LB.1.5",
