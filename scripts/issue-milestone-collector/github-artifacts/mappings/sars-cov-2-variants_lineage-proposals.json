@@ -6605,7 +6605,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 505,
       "issue": 1611,
-      "labels": "designated, FLiRT, S:441",
+      "labels": "designated, FLiRT, S:441, C>G",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
