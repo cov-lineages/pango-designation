@@ -7588,5 +7588,27 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "B.1.1.529.2.86.1.1.16.1.9": [
+    {
+      "pango": "LF.9",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 591,
+      "issue": 1718,
+      "labels": "S:185, S:60, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.16.1.9.1": [
+    {
+      "pango": "LF.9.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 591,
+      "issue": 1718,
+      "labels": "S:185, S:60, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }
