@@ -7067,7 +7067,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 547,
       "issue": 1717,
-      "labels": "To be proposed, designated, s:182, S:183, S:148, DeFLiRT",
+      "labels": "designated, s:182, S:183, S:148, DeFLiRT",
       "state": "OPEN",
       "reason": "REOPENED"
     }
@@ -7078,7 +7078,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 548,
       "issue": 1791,
-      "labels": "To be proposed, designated, FULL QUAD, s:798",
+      "labels": "designated, FULL QUAD, s:798",
       "state": "OPEN",
       "reason": "REOPENED"
     }
@@ -7552,6 +7552,17 @@
       "milestone": 586,
       "issue": 1795,
       "labels": "S:456, XDR, S:59, FLiRT, S:237",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDV.1.10": [
+    {
+      "pango": "XDV.1.10",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 587,
+      "issue": 1849,
+      "labels": "S:456, S:478, Apparently slow, S:181, XDV",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
