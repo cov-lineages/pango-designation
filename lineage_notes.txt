@@ -1321,6 +1321,7 @@ JN.1.18.2	Alias of B.1.1.529.2.86.1.1.18.2, S:F59S, after C4331T, T22321C, from 
 LZ.1	Alias of B.1.1.529.2.86.1.1.18.2.1, S:F456L (T22930A), N:A152T, ORF1a:I740V from #2654
 LZ.1.1	Alias of B.1.1.529.2.86.1.1.18.2.1.1, S:P217S, S:N1125S from #2654
 LZ.2	Alias of B.1.1.529.2.86.1.1.18.2.2, S:F456L (T22928C), ORF1a:K1226E, China
+LZ.2.1	Alias of B.1.1.529.2.86.1.1.18.2.2.1, ORF10:Q29*
 JN.1.18.3	Alias of B.1.1.529.2.86.1.1.18.3, S:F456V (T22928G), from sars-cov-2-variants/lineage-proposals#1253
 MA.1	Alias of B.1.1.529.2.86.1.1.18.3.1, S:R190S, S:31del, from sars-cov-2-variants/lineage-proposals#1635
 MA.1.1	Alias of B.1.1.529.2.86.1.1.18.3.1.1, S:E780A
