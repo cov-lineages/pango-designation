@@ -4239,8 +4239,10 @@ XDV.1.4	S:I1114T
 XDV.1.5	S:G184S, S:K478I, China
 XDV.1.6	S:K478T, S:A263T, ORF1a:V1783I, ORF1a:E1209D
 XDV.1.7	ORF1a:D2980N, C8950T, China
+XDV.1.7.1	S:T22N, S:V62F
 XDV.1.8	T2551C, T9892G
 XDV.1.9	ORF1a:T2197I
+XDV.1.9.1	S:A435S
 XDV.1.10	ORF1a:T4175I, S:G181V, China-Hubei
 XDV.1.11	T4057C
 XDW	Recombinant lineage of JN.2 (T1030C branch), XDA (breakpoint between 23424-23603), Japan, from sars-cov-2-variants/lineage-proposals#1471
