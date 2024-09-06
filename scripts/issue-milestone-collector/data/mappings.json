@@ -18955,6 +18955,30 @@
       "unaliased": "XDV.1.5"
     }
   ],
+  "XDV.1.7.1": [
+    {
+      "pango": "XDV.1.7.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 592,
+      "issue": 1966,
+      "labels": "S:456, designated, N Glycan, S:22, XDV, S:62",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDV.1.7.1"
+    }
+  ],
+  "XDV.1.9.1": [
+    {
+      "pango": "XDV.1.9.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 593,
+      "issue": 1956,
+      "labels": "Rapid review needed, Deletions/Truncations/Frameshifted, S:32, S:435, S:31, S:30, XDV",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDV.1.9.1"
+    }
+  ],
   "XDW": [
     {
       "pango": "XDW",
