@@ -1584,7 +1584,7 @@ XDS	sars-cov-2-variants/lineage-proposals	414	1267	recombinant, S:456, designate
 XDT	cov-lineages/pango-designation	840	2485		CLOSED	COMPLETED	XDT
 XDT	sars-cov-2-variants/lineage-proposals	416	1183	recombinant, designated, BA.2.86, S:174, XDT	CLOSED	COMPLETED	XDT
 XDU	sars-cov-2-variants/lineage-proposals	448	1084	recombinant, designated, BA.2.86, XDU	CLOSED	COMPLETED	XDU
-XDV.1.1	sars-cov-2-variants/lineage-proposals	562	1820	designated, partially designated, S:60, XDV	CLOSED	NOT_PLANNED	XDV.1.1
+XDV.1.1	sars-cov-2-variants/lineage-proposals	562	1820	designated, partially designated, S:60, XDV	OPEN	REOPENED	XDV.1.1
 XDV.1.10	sars-cov-2-variants/lineage-proposals	587	1849	S:456, S:478, Apparently slow, S:181, XDV	CLOSED	COMPLETED	XDV.1.10
 XDV.1.2	sars-cov-2-variants/lineage-proposals	563	1617	designated, FLiRT, XDV	CLOSED	COMPLETED	XDV.1.2
 XDV.1.2.1	sars-cov-2-variants/lineage-proposals	563	1617	designated, FLiRT, XDV	CLOSED	COMPLETED	XDV.1.2.1
