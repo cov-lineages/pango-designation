@@ -18895,18 +18895,6 @@
       "unaliased": "XDV.1.1"
     }
   ],
-  "XDV.1.10": [
-    {
-      "pango": "XDV.1.10",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 587,
-      "issue": 1849,
-      "labels": "S:456, S:478, Apparently slow, S:181, XDV",
-      "state": "CLOSED",
-      "reason": "COMPLETED",
-      "unaliased": "XDV.1.10"
-    }
-  ],
   "XDV.1.2": [
     {
       "pango": "XDV.1.2",
