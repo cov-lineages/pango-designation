@@ -7369,17 +7369,6 @@
       "reason": "COMPLETED"
     }
   ],
-  "XDV.1.5": [
-    {
-      "pango": "XDV.1.5",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 565,
-      "issue": 1840,
-      "labels": "S:456, S:478, ORF9b, XDV",
-      "state": "CLOSED",
-      "reason": "COMPLETED"
-    }
-  ],
   "B.1.1.529.2.86.1.1.11.1.1.1.5.1": [
     {
       "pango": "MU.1",
