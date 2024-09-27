@@ -6030,8 +6030,8 @@
       "milestone": 547,
       "issue": 1717,
       "labels": "Apparently slow, designated, s:182, S:183, S:148, DeFLiRT",
-      "state": "OPEN",
-      "reason": "REOPENED",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
       "unaliased": "B.1.1.529.2.86.1.1.9.2.1.3.3"
     }
   ],
@@ -18889,7 +18889,7 @@
       "repo": "sars-cov-2-variants/lineage-proposals",
       "milestone": 562,
       "issue": 1820,
-      "labels": "designated, partially designated, S:60, XDV",
+      "labels": "Rapid review needed, designated, partially designated, S:60, XDV",
       "state": "OPEN",
       "reason": "REOPENED",
       "unaliased": "XDV.1.1"
@@ -18929,6 +18929,18 @@
       "state": "CLOSED",
       "reason": "COMPLETED",
       "unaliased": "XDV.1.3"
+    }
+  ],
+  "XDV.1.5": [
+    {
+      "pango": "XDV.1.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 565,
+      "issue": 1840,
+      "labels": "To be proposed, S:456, S:478, ORF9b, S:22, S:59, XDV",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XDV.1.5"
     }
   ],
   "XDV.1.7.1": [
