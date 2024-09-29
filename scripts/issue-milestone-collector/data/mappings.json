@@ -19061,6 +19061,18 @@
       "unaliased": "XEC.1"
     }
   ],
+  "XEC.2": [
+    {
+      "pango": "XEC.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 596,
+      "issue": 1908,
+      "labels": "To be proposed, designated, Branch, XEC",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XEC.2"
+    }
+  ],
   "XED": [
     {
       "pango": "XED",
@@ -19107,6 +19119,30 @@
       "state": "CLOSED",
       "reason": "NOT_PLANNED",
       "unaliased": "XEG"
+    }
+  ],
+  "XEH": [
+    {
+      "pango": "XEH",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 594,
+      "issue": 1838,
+      "labels": "To be proposed, designated, Orf6, S:1104, DeFLiRT, recomb?, DeFLuQE, XEH",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XEH"
+    }
+  ],
+  "XEJ": [
+    {
+      "pango": "XEJ",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 595,
+      "issue": 1984,
+      "labels": "recombinant, Emerged in an undersampled area, High local prevalence, designated, DeFLiRT, XEJ",
+      "state": "CLOSED",
+      "reason": "COMPLETED",
+      "unaliased": "XEJ"
     }
   ],
   "XF": [

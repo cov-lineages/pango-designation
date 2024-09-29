@@ -7698,5 +7698,38 @@
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
+  ],
+  "XEH": [
+    {
+      "pango": "XEH",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 594,
+      "issue": 1838,
+      "labels": "To be proposed, designated, Orf6, S:1104, DeFLiRT, recomb?, DeFLuQE, XEH",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XEJ": [
+    {
+      "pango": "XEJ",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 595,
+      "issue": 1984,
+      "labels": "recombinant, Emerged in an undersampled area, High local prevalence, designated, DeFLiRT, XEJ",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XEC.2": [
+    {
+      "pango": "XEC.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 596,
+      "issue": 1908,
+      "labels": "To be proposed, designated, Branch, XEC",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
   ]
 }

@@ -1599,10 +1599,13 @@ XEB	sars-cov-2-variants/lineage-proposals	501	1290	recombinant, recombinant squa
 XEC	cov-lineages/pango-designation	847	2717		CLOSED	COMPLETED	XEC
 XEC	sars-cov-2-variants/lineage-proposals	540	1827	recombinant, S:456, designated, S:493, S:22, S:1104, S:59, KP.3, KS.1.1, XEC	CLOSED	COMPLETED	XEC
 XEC.1	sars-cov-2-variants/lineage-proposals	555	1869	s:182, XEC	CLOSED	COMPLETED	XEC.1
+XEC.2	sars-cov-2-variants/lineage-proposals	596	1908	To be proposed, designated, Branch, XEC	CLOSED	COMPLETED	XEC.2
 XED	sars-cov-2-variants/lineage-proposals	553	1642	recombinant, To be proposed, designated, S:1263, DeFLiRT	CLOSED	COMPLETED	XED
 XEE	sars-cov-2-variants/lineage-proposals	578	1737	recombinant, To be proposed, S:1104, S:146, DeFLiRT	CLOSED	COMPLETED	XEE
 XEF	sars-cov-2-variants/lineage-proposals	575	1855	recombinant, Rapid review needed, designated, S:183, S:335, DeFLiRT, DeFLuQE, XEF	CLOSED	COMPLETED	XEF
 XEG	sars-cov-2-variants/lineage-proposals	585	1428	recombinant, S:456, BA.2.86, 2nuc mutation, 3 BP, s:1143	CLOSED	NOT_PLANNED	XEG
+XEH	sars-cov-2-variants/lineage-proposals	594	1838	To be proposed, designated, Orf6, S:1104, DeFLiRT, recomb?, DeFLuQE, XEH	CLOSED	COMPLETED	XEH
+XEJ	sars-cov-2-variants/lineage-proposals	595	1984	recombinant, Emerged in an undersampled area, High local prevalence, designated, DeFLiRT, XEJ	CLOSED	COMPLETED	XEJ
 XF	cov-lineages/pango-designation	221	445	designated	CLOSED	COMPLETED	XF
 XG	cov-lineages/pango-designation	223	447	designated	CLOSED	COMPLETED	XG
 XH	cov-lineages/pango-designation	224	448	designated	CLOSED	COMPLETED	XH
