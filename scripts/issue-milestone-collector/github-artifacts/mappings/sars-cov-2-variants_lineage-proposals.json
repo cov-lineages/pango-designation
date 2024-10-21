@@ -7369,17 +7369,6 @@
       "reason": "COMPLETED"
     }
   ],
-  "XDV.1.5": [
-    {
-      "pango": "XDV.1.5",
-      "repo": "sars-cov-2-variants/lineage-proposals",
-      "milestone": 565,
-      "issue": 1840,
-      "labels": "To be proposed, S:456, S:478, ORF9b, S:22, S:59, XDV",
-      "state": "CLOSED",
-      "reason": "COMPLETED"
-    }
-  ],
   "B.1.1.529.2.86.1.1.11.1.1.1.5.1": [
     {
       "pango": "MU.1",
@@ -7772,6 +7761,215 @@
       "milestone": 599,
       "issue": 1996,
       "labels": "To be proposed, Emerged in an undersampled area, S:444, ORF9b, s:182, PLPro, S:190, S:22, FLiRT, S:961",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.49.1.1.1.1.2": [
+    {
+      "pango": "MV.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 600,
+      "issue": 2039,
+      "labels": "S:67, MB.1.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.49.1.1.1.2": [
+    {
+      "pango": "MB.1.1.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 601,
+      "issue": 2142,
+      "labels": "S:444, s:182, S:31, S:22, FViRT, MB.1.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.49.1.1.1.2.1": [
+    {
+      "pango": "NA.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 601,
+      "issue": 2142,
+      "labels": "S:444, s:182, S:31, S:22, FViRT, MB.1.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.49.1.1.1.2.1.1": [
+    {
+      "pango": "NA.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 601,
+      "issue": 2142,
+      "labels": "S:444, s:182, S:31, S:22, FViRT, MB.1.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDV.1.5": [
+    {
+      "pango": "XDV.1.5",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 602,
+      "issue": 1840,
+      "labels": "To be proposed, S:456, S:478, designated, ORF9b, S:22, S:59, XDV",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XDV.1.5.1.1": [
+    {
+      "pango": "NB.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 602,
+      "issue": 1840,
+      "labels": "To be proposed, S:456, S:478, designated, ORF9b, S:22, S:59, XDV",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "XEL": [
+    {
+      "pango": "XEL",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 603,
+      "issue": 1806,
+      "labels": "recombinant, designated, S:22, S:59, FLiRT, XEL",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.13.1.1.1.1.1": [
+    {
+      "pango": "NC.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 604,
+      "issue": 1995,
+      "labels": "To be proposed, Emerged in an undersampled area, High local prevalence, S:190, S:22, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.16.1.8.1.1.1.1": [
+    {
+      "pango": "ND.1.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 606,
+      "issue": 1982,
+      "labels": "S:478, Emerged in an undersampled area, Reversions, designated, S:153, S:31, S:22, FLiRT",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.16.1.8.1.1.2": [
+    {
+      "pango": "ND.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 607,
+      "issue": 1929,
+      "labels": "Stepwise evolution, S:478, Emerged in an undersampled area, designated, 2nuc mutation, LF.8.1.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.16.1.8.1.1.3": [
+    {
+      "pango": "ND.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 608,
+      "issue": 2158,
+      "labels": "S:478, designated, LF.8.1.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.3.1.1.10.1": [
+    {
+      "pango": "MC.10.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 609,
+      "issue": 1946,
+      "labels": "designated, ORF9b, S:435, KP.3.1.1",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.2.2.1": [
+    {
+      "pango": "KP.2.2.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 610,
+      "issue": 1662,
+      "labels": "designated, N Glycan, S:22, KP.2.2",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.2.25.3": [
+    {
+      "pango": "KP.2.25.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 611,
+      "issue": 1649,
+      "labels": "Emerged in an undersampled area, Apparently slow, designated, PLPro, KP.2, s:793",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.2.25.1": [
+    {
+      "pango": "KP.2.25.1",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 612,
+      "issue": 1699,
+      "labels": "High local prevalence, designated, PLPro, S:30, KP.2, S:934",
+      "state": "CLOSED",
+      "reason": "COMPLETED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.64.1.3.1.4": [
+    {
+      "pango": "MD.3.1.4",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 613,
+      "issue": 1691,
+      "labels": "designated, S:31, FLiRT",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.64.1.3.1.3": [
+    {
+      "pango": "MD.3.1.3",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 614,
+      "issue": 1951,
+      "labels": "designated, s:182, FLiRT",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.64.1.1.2": [
+    {
+      "pango": "MD.1.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 615,
+      "issue": 1671,
+      "labels": "Insertion, Emerged in an undersampled area, designated, S:59, FLiRT, S:58",
+      "state": "CLOSED",
+      "reason": "NOT_PLANNED"
+    }
+  ],
+  "B.1.1.529.2.86.1.1.11.1.2.25.2": [
+    {
+      "pango": "KP.2.25.2",
+      "repo": "sars-cov-2-variants/lineage-proposals",
+      "milestone": 616,
+      "issue": 1768,
+      "labels": "Rapid review needed, Multiple lineages, designated, partially designated, N Glycan, DeFLiRT, S:32del",
       "state": "CLOSED",
       "reason": "COMPLETED"
     }
