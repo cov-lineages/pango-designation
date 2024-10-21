@@ -90,13 +90,13 @@ jobs:
             mkdir -p -v $SCRIPT_DIR/$STREAM_DIR $SCRIPT_DIR/$MAPPING_DIR
 
     - name: Download Stream Artifacts
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4.1.7
       with:
         name: ${{ env.STREAM_NAME }}
         path: ${{ env.SCRIPT_DIR }}/${{ env.STREAM_DIR }}
 
     - name: Download Mappings Artifacts
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4.1.7
       with:
         name: ${{ env.MAPPING_NAME }}
         path: ${{ env.SCRIPT_DIR }}/${{ env.MAPPING_DIR }}
@@ -209,13 +209,13 @@ jobs:
             mkdir -p -v $SCRIPT_DIR/$STREAM_DIR $SCRIPT_DIR/$MAPPING_DIR $SCRIPT_DIR/$DATA_DIR
 
     # - name: Download Stream Artifacts
-    #   uses: actions/download-artifact@v3
+    #   uses: actions/download-artifact@v4.1.7
     #   with:
     #     name: ${{ env.STREAM_NAME }}
     #     path: ${{ env.SCRIPT_DIR }}/${{ env.STREAM_DIR }}
 
     - name: Download Mapping Artifacts
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4.1.7
       with:
         name: ${{ env.MAPPING_NAME }}
         path: ${{ env.SCRIPT_DIR }}/${{ env.MAPPING_DIR }}     
