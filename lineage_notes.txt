@@ -1248,7 +1248,7 @@ KP.3.2.2	Alias of B.1.1.529.2.86.1.1.11.1.3.2.2, S:W258R
 KP.3.2.3	Alias of B.1.1.529.2.86.1.1.11.1.3.2.3, ORF3a:S40P, C11518T
 LW.1	Alias of B.1.1.529.2.86.1.1.11.1.3.2.3.1, S:K182E, England
 LW.1.1	Alias of B.1.1.529.2.86.1.1.11.1.3.2.3.1.1, S:T33I
-LW.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.2.3.1.1, S:T22N
+LW.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.2.3.1.2, S:T22N
 KP.3.2.4	Alias of B.1.1.529.2.86.1.1.11.1.3.2.4, ORF3a:L73F
 KP.3.2.5	Alias of B.1.1.529.2.86.1.1.11.1.3.2.5, S:V62F, from sars-cov-2-variants/lineage-proposals#1604
 KP.3.3	Alias of B.1.1.529.2.86.1.1.11.1.3.3, N:R204P, from sars-cov-2-variants/lineage-proposals#1531
@@ -1316,11 +1316,11 @@ LF.7.3	Alias of B.1.1.529.2.86.1.1.16.1.7.3, C17436T
 LF.7.4	Alias of B.1.1.529.2.86.1.1.16.1.7.4, S:T961M, G25494A
 LF.8	Alias of B.1.1.529.2.86.1.1.16.1.8, S:M153I, C3244T, A18432T, C27110T
 LF.8.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1, S:S31F
-LF.8.1.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1, S:T22N
-ND.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1.1, ORF1a:L4391F
-ND.1.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.1, S:K478T
-ND.2	Alias of B.1.1.529.2.86.1.1.16.1.8.1.2, S:K478E
-ND.3	Alias of B.1.1.529.2.86.1.1.16.1.8.1.3, S:K478I
+LF.8.1.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1.1, S:T22N
+ND.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.1, ORF1a:L4391F
+ND.1.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.1.1, S:K478T
+ND.2	Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.2, S:K478E
+ND.3	Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.3, S:K478I
 LF.9	Alias of B.1.1.529.2.86.1.1.16.1.9, S:S60P
 LF.9.1	Alias of B.1.1.529.2.86.1.1.16.1.9.1, S:N185D
 JN.1.16.2	Alias of B.1.1.529.2.86.1.1.16.2, C4777T, from sars-cov-2-variants/lineage-proposals#1253
