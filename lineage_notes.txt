@@ -1206,6 +1206,7 @@ KP.2.25.1	Alias of B.1.1.529.2.86.1.1.11.1.2.25.1, S:I934V, S:N30K, China
 KP.2.25.2	Alias of B.1.1.529.2.86.1.1.11.1.2.25.2, S:K558N
 KP.2.25.3	Alias of B.1.1.529.2.86.1.1.11.1.2.25.2, S:P793S
 KP.2.26	Alias of B.1.1.529.2.86.1.1.11.1.2.26, S:T22N, S:S31P, S:K478T (on T25039C branch)
+KP.2.27	Alias of B.1.1.529.2.86.1.1.11.1.2.27, S:T572I, C3811T, C9857T, A23080G
 KP.3	Alias of B.1.1.529.2.86.1.1.11.1.3, S:Q493E, from sars-cov-2-variants/lineage-proposals#1410
 KP.3.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1, G15372T, A19722G
 KP.3.1.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1, ORF1a:S4286C, C12616T, S:S31del, Spain, from sars-cov-2-variants/lineage-proposals#1563
