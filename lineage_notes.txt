@@ -1341,6 +1341,7 @@ JN.1.16.3	Alias of B.1.1.529.2.86.1.1.16.3, S:T572I
 JN.1.16.4	Alias of B.1.1.529.2.86.1.1.16.4, S:Q493E, ORF1a:G400S, ORF7a:F59K, East Asia
 MT.1	Alias of B.1.1.529.2.86.1.1.16.4.1, S:S31P, N:P279S
 JN.1.16.5	Alias of B.1.1.529.2.86.1.1.16.5, S:T22N, S:Q493E
+NF.1	Alias of B.1.1.529.2.86.1.1.16.5.1, S:S31P
 JN.1.17	Alias of B.1.1.529.2.86.1.1.17, S:A222V, USA
 JN.1.18	Alias of B.1.1.529.2.86.1.1.18, S:R346T, directly on JN.1 polytomy, from sars-cov-2-variants/lineage-proposals#1089
 JN.1.18.1	Alias of B.1.1.529.2.86.1.1.18.1, S:T250N, from sars-cov-2-variants/lineage-proposals#1414
