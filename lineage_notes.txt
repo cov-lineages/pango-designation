@@ -1188,6 +1188,8 @@ MW.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.7.1, S:Q239R, ORF1a:I785V, ORF6:L16I
 KP.2.3.8	Alias of B.1.1.529.2.86.1.1.11.1.2.3.8, S:T572, without C28714T
 KP.2.3.9	Alias of B.1.1.529.2.86.1.1.11.1.2.3.9, S:Q173R
 NG.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.9.1, S:T22N, ORF1a:I1215M, Brazil
+KP.2.3.10	Alias of B.1.1.529.2.86.1.1.11.1.2.3.10, S:K478T (rev), India
+NK.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.10.1, S:R190S, ORF8:S67F, India
 KP.2.4	Alias of B.1.1.529.2.86.1.1.11.1.2.4, S:T250N, from sars-cov-2-variants/lineage-proposals#1524
 KP.2.5	Alias of B.1.1.529.2.86.1.1.11.1.2.5, S:N185D, from sars-cov-2-variants/lineage-proposals#1527
 KP.2.6	Alias of B.1.1.529.2.86.1.1.11.1.2.6, S:W64R, S:F32del
