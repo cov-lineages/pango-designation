@@ -1289,6 +1289,7 @@ KP.3.4	Alias of B.1.1.529.2.86.1.1.11.1.3.4, ORF3a:L73F, C25521T, Asia
 KP.3.4.1	Alias of B.1.1.529.2.86.1.1.11.1.3.4.1, S:S31F, N:A134V, ORF1a:E1192K
 KP.3.5	Alias of B.1.1.529.2.86.1.1.11.1.3.5, S:G213E, most with C1420T, America
 KP.3.6	Alias of B.1.1.529.2.86.1.1.11.1.3.6, S:T22N, Canada
+KP.3.7	Alias of B.1.1.529.2.86.1.1.11.1.3.7, S:A435S, ORF8:E59*
 KP.4	Alias of B.1.1.529.2.86.1.1.11.1.4, C6070T, India
 KP.4.1	Alias of B.1.1.529.2.86.1.1.11.1.4.1, S:R346T, C19884T, from sars-cov-2-variants/lineage-proposals#1089
 KP.4.1.1	Alias of B.1.1.529.2.86.1.1.11.1.4.1.1, S:W258R, India from #2521
