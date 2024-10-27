@@ -1303,6 +1303,8 @@ KP.4.2	Alias of B.1.1.529.2.86.1.1.11.1.4.2, S:R346T, S:K187R, from sars-cov-2-v
 KP.4.2.1	Alias of B.1.1.529.2.86.1.1.11.1.4.2.1, S:S31F
 KP.4.2.2	Alias of B.1.1.529.2.86.1.1.11.1.4.2.2, S:F59I
 KP.4.2.3	Alias of B.1.1.529.2.86.1.1.11.1.4.2.3, S:G35R, ORF1a:G519S, ORF1a:I2227V
+KP.4.2.4	Alias of B.1.1.529.2.86.1.1.11.1.4.2.4, S:S31-, S:S256L, from #2759
+KP.4.2.5	Alias of B.1.1.529.2.86.1.1.11.1.4.2.5, S:S60P, S:I212T
 KP.5	Alias of B.1.1.529.2.86.1.1.11.1.5, S:T572I, from sars-cov-2-variants/lineage-proposals#1097
 KP.6	Alias of B.1.1.529.2.86.1.1.11.1.6, S:R346I
 JN.1.11.2	Alias of B.1.1.529.2.86.1.1.11.2, S:R346T, S:F59L, India
