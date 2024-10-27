@@ -1061,6 +1061,7 @@ KR.1	Alias of B.1.1.529.2.86.1.1.1.5.1, S:F456L (22928C), after C28498T, from sa
 KR.1.1	Alias of B.1.1.529.2.86.1.1.1.5.1.1, S:F59L, from sars-cov-2-variants/lineage-proposals#1545
 KR.1.2	Alias of B.1.1.529.2.86.1.1.1.5.1.2, S:R683Q
 KR.1.3	Alias of B.1.1.529.2.86.1.1.1.5.1.3, S:K304Q, S:S60P, Philippines
+KR.1.4	Alias of B.1.1.529.2.86.1.1.1.5.1.4, S:F59S
 KR.3	Alias of B.1.1.529.2.86.1.1.1.5.3, S:F456L (22930A), from sars-cov-2-variants/lineage-proposals#1253
 KR.4	Alias of B.1.1.529.2.86.1.1.1.5.4, S:Q218E
 KR.4.1	Alias of B.1.1.529.2.86.1.1.1.5.4.1, S:F456L (22928C), S:K478T, South Africa
@@ -1372,6 +1373,8 @@ LZ.1	Alias of B.1.1.529.2.86.1.1.18.2.1, S:F456L (T22930A), N:A152T, ORF1a:I740V
 LZ.1.1	Alias of B.1.1.529.2.86.1.1.18.2.1.1, S:P217S, S:N1125S from #2654
 LZ.2	Alias of B.1.1.529.2.86.1.1.18.2.2, S:F456L (T22928C), ORF1a:K1226E, China
 LZ.2.1	Alias of B.1.1.529.2.86.1.1.18.2.2.1, ORF10:Q29*
+LZ.2.1.1	Alias of B.1.1.529.2.86.1.1.18.2.2.1.1, S:K478E
+LZ.2.1.2	Alias of B.1.1.529.2.86.1.1.18.2.2.1.2, S:K478T (rev)
 JN.1.18.3	Alias of B.1.1.529.2.86.1.1.18.3, S:F456V (T22928G), from sars-cov-2-variants/lineage-proposals#1253
 MA.1	Alias of B.1.1.529.2.86.1.1.18.3.1, S:R190S, S:31del, from sars-cov-2-variants/lineage-proposals#1635
 MA.1.1	Alias of B.1.1.529.2.86.1.1.18.3.1.1, S:E780A
