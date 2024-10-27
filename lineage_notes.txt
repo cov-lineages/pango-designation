@@ -1133,7 +1133,7 @@ LB.1.2.2	Alias of B.1.1.529.2.86.1.1.9.2.1.2.2, S:T572I, C22075T
 LB.1.2.3	Alias of B.1.1.529.2.86.1.1.9.2.1.2.3, S:F175L, ORF1a:I1568F
 LB.1.3	Alias of B.1.1.529.2.86.1.1.9.2.1.3, ORF1b:T1555I
 LB.1.3.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1, S:445P, N:T379I, from sars-cov-2-variants/lineage-proposals#1620
-NL.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1, S:R190S, S:C1243F
+NL.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.1, S:R190S, S:C1243F
 LB.1.3.2	Alias of B.1.1.529.2.86.1.1.9.2.1.3.2, C25413T
 MH.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.2.1, S:T572I
 LB.1.3.3	Alias of B.1.1.529.2.86.1.1.9.2.1.3.3, S:K182R, from #2723
