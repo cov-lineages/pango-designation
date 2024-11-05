@@ -1366,6 +1366,7 @@ ND.2	Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.2, S:K478E
 ND.3	Alias of B.1.1.529.2.86.1.1.16.1.8.1.1.3, S:K478I, N:S23T, US/NZ
 LF.9	Alias of B.1.1.529.2.86.1.1.16.1.9, S:S60P, from sars-cov-2-variants/lineage-proposals#1718
 LF.9.1	Alias of B.1.1.529.2.86.1.1.16.1.9.1, S:N185D, from sars-cov-2-variants/lineage-proposals#1718
+LF.10	Alias of B.1.1.529.2.86.1.1.16.1.10, S:K182E, C15738T, T29785C, Senegal
 JN.1.16.2	Alias of B.1.1.529.2.86.1.1.16.2, C4777T, from sars-cov-2-variants/lineage-proposals#1253
 LA.1	Alias of B.1.1.529.2.86.1.1.16.2.1, S:R346T, from sars-cov-2-variants/lineage-proposals#1253
 LA.2	Alias of B.1.1.529.2.86.1.1.16.2.2, S:R346I, from sars-cov-2-variants/lineage-proposals#1089
@@ -1426,6 +1427,10 @@ KW.1.2	Alias of B.1.1.529.2.86.1.1.28.1.1.2, S:K529T, Australia
 JN.1.29	Alias of B.1.1.529.2.86.1.1.29, ORF1a:T3224A, after C2644T, Brazil
 JN.1.29.1	Alias of B.1.1.529.2.86.1.1.29.1, S:F456L, from sars-cov-2-variants/lineage-proposals#1253
 MJ.1	Alias of B.1.1.529.2.86.1.1.29.1.1, S:R346T, S:S31P, ORF1a:E2070K
+MJ.1.1	Alias of B.1.1.529.2.86.1.1.29.1.1.1, S:T22N
+MJ.2	Alias of B.1.1.529.2.86.1.1.29.1.2, C8917T, Brazil
+MJ.2.1	Alias of B.1.1.529.2.86.1.1.29.1.2.1, S:R346T, Brazil
+MJ.2.1.1	Alias of B.1.1.529.2.86.1.1.29.1.2.1.1, S:L56V, Brazil
 JN.1.30	Alias of B.1.1.529.2.86.1.1.30, G21255T
 JN.1.30.1	Alias of B.1.1.529.2.86.1.1.30.1, S:R346T, after T7789C, India, from sars-cov-2-variants/lineage-proposals#1089
 KU.1	Alias of B.1.1.529.2.86.1.1.30.1.1, S:K182Q
