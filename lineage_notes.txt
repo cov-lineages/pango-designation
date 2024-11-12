@@ -1280,6 +1280,7 @@ MC.19	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.19, S:R346T, from sars-cov-2-varian
 MC.20	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.20, S:K182E, ORF1a:K1655N, Australia, from sars-cov-2-variants/lineage-proposals#2085
 MC.21	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.21, C829T
 MC.21.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.21.1, S:A435S
+MC.22	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.22, C11020T
 KP.3.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.2, S:S151I，from sars-cov-2-variants/lineage-proposals#1589
 KP.3.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.3, S:S31F,from sars-cov-2-variants/lineage-proposals#1576
 KP.3.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.4, ORF1b:P1675S,from #2627
@@ -4361,6 +4362,7 @@ XDV.1.10	ORF1a:T4175I, S:G181V, China-Hubei, from sars-cov-2-variants/lineage-pr
 XDV.1.11	T4057C
 XDW	Recombinant lineage of JN.2 (T1030C branch), XDA (breakpoint between 23424-23603), Japan, from sars-cov-2-variants/lineage-proposals#1471
 XDY	Recombinant lineage of LB.1.2.1 and KP.3.2 (breakpoint between 22131-22599), Sweden/Spain, from sars-cov-2-variants/lineage-proposals#1559
+XDY.1	S:A435S, S:A1174T, N:R36Q, ORF7a:P34L, ORF9b:D33N, France, from sars-cov-2-variants/lineage-proposals#2014
 XDZ	Recombinant lineage of JG.3 and JN.1.1.10 (breakpoint between 11043-12788), Europe/North America, from sars-cov-2-variants/lineage-proposals#1356
 XEA	Recombinant lineage of JN.1.63.1 and EG.5 (breakpoint between 27057-27915), East Asia
 XEB	Recombinant lineage of FL.15, JN.1.4+T18453C, FL.15 (breakpoints at 774-896 and 26834-27809), USA, from sars-cov-2-variants/lineage-proposals#1290
