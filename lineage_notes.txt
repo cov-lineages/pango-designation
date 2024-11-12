@@ -1180,11 +1180,14 @@ LP.8.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1, S:R190S
 LP.8.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.2, S:M153I, S:L176F, on ORF1b:P1452L branch
 LP.9	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.9, S:L176F, ORF1a:L1191F
 LP.9.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.9.1, S:H445P
+LP.10	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.10, S:G75S, ORF3a:S74F
+LP.10.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.10.1, S:R190S, S:A475V
 KP.1.1.4	Alias of B.1.1.529.2.86.1.1.11.1.1.1.4, S:R214H, C11866T, C23929T, from sars-cov-2-variants/lineage-proposals#1593
 KP.1.1.5	Alias of B.1.1.529.2.86.1.1.11.1.1.1.5, S:F59S
 MU.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.1, S:T572I, ORF1a:P4339T, ORF1b:T1902I，from #2676
 MU.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.2, ORF1a:A2785V, ORF1a:A4357V
 MU.2.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.2.1, S:S680Y, from sars-cov-2-variants/lineage-proposals#1777
+MU.3	Alias of B.1.1.529.2.86.1.1.11.1.1.1.5.3, S:T22N, S:G72R, S:T572I, Australia/New Zealand/East Asia
 KP.1.1.6	Alias of B.1.1.529.2.86.1.1.11.1.1.1.6, S:S31F, after ORF1b:L2213F,S:N185del,S:F186I from #2649
 NE.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.6.1, S:K478T, S:F32S
 KP.1.2	Alias of B.1.1.529.2.86.1.1.11.1.1.2, S:T572I, from sars-cov-2-variants/lineage-proposals#1097
@@ -1195,6 +1198,7 @@ KP.2.2.1	Alias of B.1.1.529.2.86.1.1.11.1.2.2.1, S:T22N, ORF1b:K2660R, from sars
 NH.1	Alias of B.1.1.529.2.86.1.1.11.1.2.2.1.1, S:K478T (rev), S:K97E, on ORF1a:T1794I branch
 NH.2	Alias of B.1.1.529.2.86.1.1.11.1.2.2.1.2, S:K478Q, on ORF1a:T1794I branch
 NH.3	Alias of B.1.1.529.2.86.1.1.11.1.2.2.1.3, S:A475V, ORF1a:A776S
+NH.4	Alias of B.1.1.529.2.86.1.1.11.1.2.2.1.4, ORF1a:K3351R
 KP.2.2.2	Alias of B.1.1.529.2.86.1.1.11.1.2.2.2, S:T572I, from sars-cov-2-variants/lineage-proposals#1643
 KP.2.3	Alias of B.1.1.529.2.86.1.1.11.1.2.3, S:H146Q, ORF3a:K67N, S:31del, from sars-cov-2-variants/lineage-proposals#1459
 KP.2.3.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.1, S:A475V, from sars-cov-2-variants/lineage-proposals#1548
@@ -1311,6 +1315,7 @@ KP.3.2.8	Alias of B.1.1.529.2.86.1.1.11.1.3.2.8, S:S31-, C14790T, C21590T, C1898
 KP.3.2.9	Alias of B.1.1.529.2.86.1.1.11.1.3.2.9, ORF1b:K2557R
 KP.3.3	Alias of B.1.1.529.2.86.1.1.11.1.3.3, N:R204P, from sars-cov-2-variants/lineage-proposals#1531
 KP.3.3.1	Alias of B.1.1.529.2.86.1.1.11.1.3.3.1, S:T547K, ORF3a:F87S, from sars-cov-2-variants/lineage-proposals#1651
+NQ.1	Alias of B.1.1.529.2.86.1.1.11.1.3.3.1.1, S:S680P, S:A435S, ORF1b:Q1441H, South Korea/Japan
 KP.3.3.2	Alias of B.1.1.529.2.86.1.1.11.1.3.3.2, S:A435S, ORF1a:N4134T, England/Canada, from sars-cov-2-variants/lineage-proposals#1673
 NP.1	Alias of B.1.1.529.2.86.1.1.11.1.3.3.2.1, S:S446N, Canada
 NP.2	Alias of B.1.1.529.2.86.1.1.11.1.3.3.2.2, ORF3a:A110V, USA/Canada
