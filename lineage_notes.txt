@@ -4365,7 +4365,7 @@ XDV.1.7.1	S:T22N, S:V62F, from sars-cov-2-variants/lineage-proposals#1966
 XDV.1.8	T2551C, T9892G
 XDV.1.9	ORF1a:T2197I
 XDV.1.9.1	S:A435S, from sars-cov-2-variants/lineage-proposals#1956
-XDV.1.10	ORF1a:T4175I, S:G181V, China-Hubei, from sars-cov-2-variants/lineage-proposals#1849
+XDV.1.10	ORF1a:T4175I, S:G181V, China, from sars-cov-2-variants/lineage-proposals#1849
 XDV.1.11	T4057C
 XDW	Recombinant lineage of JN.2 (T1030C branch), XDA (breakpoint between 23424-23603), Japan, from sars-cov-2-variants/lineage-proposals#1471
 XDY	Recombinant lineage of LB.1.2.1 and KP.3.2 (breakpoint between 22131-22599), Sweden/Spain, from sars-cov-2-variants/lineage-proposals#1559
