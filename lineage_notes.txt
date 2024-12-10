@@ -4379,11 +4379,19 @@ XEB	Recombinant lineage of FL.15, JN.1.4+T18453C, FL.15 (breakpoints at 774-896 
 XEC	Recombinant lineage of KS.1.1 (JN.1.13.1.1.1) and KP.3.3 (breakpoint 21738-22599), Europe (Germany), from #2717
 XEC.1	S:K182R, ORF1a:L4182F, on ORF1a:A599T branch, France/Ireland/Canada, from sars-cov-2-variants/lineage-proposals#1869
 XEC.2	ORF1a:I1367L, lacking ORF1a:A599T, from sars-cov-2-variants/lineage-proposals#1908
+XEC.2.1	ORF1a:V3336F
+XEC.2.2	ORF1a:I280T
+XEC.2.3	N:T379I, T16476C
+XEC.2.3.1	S:G181V
 XEC.3	S:E1202Q, from sars-cov-2-variants/lineage-proposals#2088
 XEC.4	S:T572I, from sars-cov-2-variants/lineage-proposals#2087
 XEC.5	S:G72R, from sars-cov-2-variants/lineage-proposals#2088
 XEC.6	S:S680F, from sars-cov-2-variants/lineage-proposals#2088
 XEC.7	S:W152R, S:P1263Q, from sars-cov-2-variants/lineage-proposals#2088
+XEC.8	T24376C
+XEC.9	ORF1a:T2274I
+XEC.10	S:G75R
+XEC.11	S:K182N, C829T
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
 XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
