@@ -4392,6 +4392,7 @@ XEC.8	T24376C
 XEC.9	ORF1a:T2274I
 XEC.10	S:G75R
 XEC.11	S:K182N, C829T
+XEC.12	S:G252S, T25039C
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
 XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
