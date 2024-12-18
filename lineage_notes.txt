@@ -1235,10 +1235,13 @@ NN.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.13.1, S:H445P
 NN.1.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.13.1.1, S:P85Q
 NN.2	Alias of B.1.1.529.2.86.1.1.11.1.2.3.13.2, ORF1a:T340I, ORF1a:A2379V, ORF7a:A66V
 KP.2.3.14	Alias of B.1.1.529.2.86.1.1.11.1.2.3.14, S:K679R, ORF1a:T2016K, N:H145Y
+KP.2.3.15	Alias of B.1.1.529.2.86.1.1.11.1.2.3.15, ORF1a:T1682I
 KP.2.4	Alias of B.1.1.529.2.86.1.1.11.1.2.4, S:T250N, from sars-cov-2-variants/lineage-proposals#1524
 KP.2.5	Alias of B.1.1.529.2.86.1.1.11.1.2.5, S:N185D, from sars-cov-2-variants/lineage-proposals#1527
 KP.2.6	Alias of B.1.1.529.2.86.1.1.11.1.2.6, S:W64R, S:F32del
 KP.2.6.1	Alias of B.1.1.529.2.86.1.1.11.1.2.6.1, S:L441F, from sars-cov-2-variants/lineage-proposals#1757
+KP.2.6.2	Alias of B.1.1.529.2.86.1.1.11.1.2.6.2, S:V367A
+KP.2.6.3	Alias of B.1.1.529.2.86.1.1.11.1.2.6.3, S:T385I
 KP.2.7	Alias of B.1.1.529.2.86.1.1.11.1.2.7, S:S31F, after T22795G
 KP.2.8	Alias of B.1.1.529.2.86.1.1.11.1.2.8, S:S60P, from sars-cov-2-variants/lineage-proposals#1546
 KP.2.9	Alias of B.1.1.529.2.86.1.1.11.1.2.9, S:T572I, from sars-cov-2-variants/lineage-proposals#1089
@@ -4459,7 +4462,7 @@ XEN	Recombinant lineage of KP.1.1.6, JN.1.11.1 (breakpoint: 22620-24818), from #
 XEP	Recombinant lineage of KP.3.1.1, NP.2 (breakpoint: 21656-22864), from sars-cov-2-variants/lineage-proposals#2166
 XEQ	Recombinant lineage of KS.1.1.2, KP.3 (breakpoint: 22600-23038), from #2817
 XER	Recombinant lineage of KS.2, LF.7 (breakpoint: 18349-21626), from sars-cov-2-variants/lineage-proposals#2259
-XES	Recombinant lineage of KP.2.3, KP.3.3 (breakpoint: 22001-22598), from #2783
+XES	Recombinant lineage of KP.2.3.15, KP.3.3 (breakpoint: 22001-22598), from #2783
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
