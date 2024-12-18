@@ -1424,6 +1424,8 @@ LF.7.3	Alias of B.1.1.529.2.86.1.1.16.1.7.3, C17436T
 LF.7.3.1	Alias of B.1.1.529.2.86.1.1.16.1.7.3.1, S:A475V
 LF.7.4	Alias of B.1.1.529.2.86.1.1.16.1.7.4, S:T961M, from sars-cov-2-variants/lineage-proposals#1996
 LF.7.5	Alias of B.1.1.529.2.86.1.1.16.1.7.5, A15828G
+LF.7.6	Alias of B.1.1.529.2.86.1.1.16.1.7.6, C29119T
+LF.7.6.1	Alias of B.1.1.529.2.86.1.1.16.1.7.6.1, S:T385I, ORF1a:R3164H, ORF3a:A33S, ORF10:L16P
 LF.8	Alias of B.1.1.529.2.86.1.1.16.1.8, S:M153I, C3244T, A18432T, C27110T, from sars-cov-2-variants/lineage-proposals#1863
 LF.8.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1, S:S31F, from sars-cov-2-variants/lineage-proposals#1863
 LF.8.1.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1, S:T22N, from sars-cov-2-variants/lineage-proposals#1863
@@ -4406,6 +4408,7 @@ XDV.1.4	S:I1114T
 XDV.1.5	S:G184S, S:K478I, China, from sars-cov-2-variants/lineage-proposals#1840
 XDV.1.5.1	ORF1a:H1141Y, ORF1a:A1473V, ORF3a:R134H, China
 NB.1	Alias of XDV.1.5.1.1, S:T22N, S:F59S, ORF1a:I2709V, ORF1a:P4197S, China, from sars-cov-2-variants/lineage-proposals#1840
+NB.1.1	Alias of XDV.1.5.1.1, S:I478T (rev)
 XDV.1.6	S:K478T, S:A263T, ORF1a:V1783I, ORF1a:E1209D
 XDV.1.7	ORF1a:D2980N, C8950T, China
 XDV.1.7.1	S:T22N, S:V62F, from sars-cov-2-variants/lineage-proposals#1966
