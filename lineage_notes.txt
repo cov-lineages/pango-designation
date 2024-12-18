@@ -1575,6 +1575,7 @@ JN.1.54.1	Alias of B.1.1.529.2.86.1.1.54.1, S:F456L, S:V407I, Spain, from #2584
 JN.1.55	Alias of B.1.1.529.2.86.1.1.55, ORF1a:K399R
 JN.1.55.1	Alias of B.1.1.529.2.86.1.1.55.1, S:F456L, ORF1a:T1017I, Thailand, from sars-cov-2-variants/lineage-proposals#1253
 JN.1.55.2	Alias of B.1.1.529.2.86.1.1.55.2, S:F456L, ORF1b:P2321H, Brazil, from sars-cov-2-variants/lineage-proposals#1253
+NU.1	Alias of B.1.1.529.2.86.1.1.55.2, S:R346T, S:Q677H, ORF3a:L52F, Brazil
 JN.1.56	Alias of B.1.1.529.2.86.1.1.56, Orf3a:Q213K
 JN.1.56.1	Alias of B.1.1.529.2.86.1.1.56.1, S:G181R, S:R346T, S:F456V, ORF1a:T1638I, Sinapore/South Korea from #2582
 JN.1.57	Alias of B.1.1.529.2.86.1.1.57, ORF1b:A1219S, A11947G
@@ -4434,6 +4435,7 @@ XEC.12	S:G252S, T25039C
 XEC.13	S:S98F
 XEC.14	ORF1a:A138T
 XEC.15	ORF1b:M2322I, C9803T
+XEC.16	S:T678I
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
 XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
