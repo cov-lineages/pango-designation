@@ -1233,6 +1233,7 @@ KP.2.3.13	Alias of B.1.1.529.2.86.1.1.11.1.2.3.13, C26894T
 NN.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.13.1, S:H445P
 NN.1.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.13.1.1, S:P85Q
 NN.2	Alias of B.1.1.529.2.86.1.1.11.1.2.3.13.2, ORF1a:T340I, ORF1a:A2379V, ORF7a:A66V
+KP.2.3.14	Alias of B.1.1.529.2.86.1.1.11.1.2.3.14, S:K679R, ORF1a:T2016K, N:H145Y
 KP.2.4	Alias of B.1.1.529.2.86.1.1.11.1.2.4, S:T250N, from sars-cov-2-variants/lineage-proposals#1524
 KP.2.5	Alias of B.1.1.529.2.86.1.1.11.1.2.5, S:N185D, from sars-cov-2-variants/lineage-proposals#1527
 KP.2.6	Alias of B.1.1.529.2.86.1.1.11.1.2.6, S:W64R, S:F32del
@@ -1596,6 +1597,8 @@ JN.1.66	Alias of B.1.1.529.2.86.1.1.66, S:H445P, S:F456L (T22930A), S:T1117I, OR
 JN.1.67	Alias of B.1.1.529.2.86.1.1.67, M:L46F, from #2531
 JN.1.67.1	Alias of B.1.1.529.2.86.1.1.67.1, S:F456L, China, from #2531
 MZ.1	Alias of B.1.1.529.2.86.1.1.67.1.1, S:S31F
+JN.1.68	Alias of B.1.1.529.2.86.1.1.68, C19011T
+JN.1.68.1	Alias of B.1.1.529.2.86.1.1.68.1, S:K679R, C9836T
 JN.2	Alias of B.1.1.529.2.86.1.2, ORF1a:Y621C, Europe/North America, from #2284
 JN.2.1	Alias of B.1.1.529.2.86.1.2.1, S:S31F, Sweden/Australia
 JN.2.2	Alias of B.1.1.529.2.86.1.2.2, S:T572I, N:G25C, ORF1a:L3644F, Netherlands, from #2433
