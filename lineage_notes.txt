@@ -4417,6 +4417,8 @@ NB.1.1	Alias of XDV.1.5.1.1.1, S:I478T (rev), from sars-cov-2-variants/lineage-p
 NB.1.2	Alias of XDV.1.5.1.1.2, S:V1264L, China
 NB.1.3	Alias of XDV.1.5.1.1.3, G19824A
 NB.1.3.1	Alias of XDV.1.5.1.1.3.1, S:T572I
+NB.1.4	Alias of XDV.1.5.1.1.4, C26801T
+NB.1.5	Alias of XDV.1.5.1.1.5, ORF1a:A117T
 XDV.1.6	S:K478T, S:A263T, ORF1a:V1783I, ORF1a:E1209D
 XDV.1.7	ORF1a:D2980N, C8950T, China
 XDV.1.7.1	S:T22N, S:V62F, from sars-cov-2-variants/lineage-proposals#1966
