@@ -4430,6 +4430,14 @@ XDV.1.11	T4057C
 XDW	Recombinant lineage of JN.2 (T1030C branch), XDA (breakpoint between 23424-23603), Japan, from sars-cov-2-variants/lineage-proposals#1471
 XDY	Recombinant lineage of LB.1.2.1 and KP.3.2 (breakpoint between 22131-22599), Sweden/Spain, from sars-cov-2-variants/lineage-proposals#1559
 XDY.1	S:A435S, S:A1174T, N:R36Q, ORF7a:P34L, ORF9b:D33N, France, from sars-cov-2-variants/lineage-proposals#2014
+XDY.1.1	S:T572I
+XDY.2	S:Q677H, S:R346T
+XDY.3	S:A435S, ORF1a:T4129I
+XDY.4	S:R346T
+XDY.5	G18756A
+XDY.5.1	S:T572I, USA
+XDY.6	ORF3a:I35T
+XDY.7	C6781T
 XDZ	Recombinant lineage of JG.3 and JN.1.1.10 (breakpoint between 11043-12788), Europe/North America, from sars-cov-2-variants/lineage-proposals#1356
 XEA	Recombinant lineage of JN.1.63.1 and EG.5 (breakpoint between 27057-27915), East Asia
 XEB	Recombinant lineage of FL.15, JN.1.4+T18453C, FL.15 (breakpoints at 774-896 and 26834-27809), USA, from sars-cov-2-variants/lineage-proposals#1290
