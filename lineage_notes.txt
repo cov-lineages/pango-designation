@@ -4494,6 +4494,7 @@ XEW	Recombinant lineage of KP.3.1.1, XEC.8 (breakpoint: 13122-15371)
 XEY	Recombinant lineage of MC.29, XEC (breakpoint: 17335-18656)
 XEZ	Recombinant lineage of MC.6, XEC (breakpoint: 15373-17333)
 XFA	Recombinant lineage of MC.1.1.1, XEC.4.1 (breakpoint: 13297-15371), from #2878
+XFB	Recombinant lineage of MC.24, XDY.1.1, MC.24 (breakpoints: 19723-22110,23278-25081), from #2877
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
