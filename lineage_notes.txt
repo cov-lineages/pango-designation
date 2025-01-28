@@ -4476,7 +4476,8 @@ XET	Recombinant lineage of KP.1.1.1., KP.3.1.1 (breakpoint: 20105-21652), from s
 XEU	Recombinant lineage of XEK, XEC.8 (breakpoint: 3506-7112), from sars-cov-2-variants/lineage-proposals#2298
 XEV	Recombinant lineage of KP.3.1.1, XEC.18 (breakpoint: 12617-13120)
 XEW	Recombinant lineage of KP.3.1.1, XEC.8 (breakpoint: 13122-15371)
-XEY	Recombinant lineage of MC.29, XEC (breakpoint: 15373-17333)
+XEY	Recombinant lineage of MC.29, XEC (breakpoint: 17335-18656)
+XEZ	Recombinant lineage of MC.6, XEC (breakpoint: 15373-17333)
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
