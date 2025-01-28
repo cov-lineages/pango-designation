@@ -1314,6 +1314,7 @@ MC.26.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.26.1, S:T572I, from sars-cov-2-va
 MC.27	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.27, S:D111N, from sars-cov-2-variants/lineage-proposals#2108
 MC.28	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.28, T16224C
 MC.28.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.28.1, S:C1235F, S:A435S, from sars-cov-2-variants/lineage-proposals#2201
+MC.29	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.29, ORF1a:N615K
 KP.3.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.2, S:S151I，from sars-cov-2-variants/lineage-proposals#1589
 KP.3.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.3, S:S31F,from sars-cov-2-variants/lineage-proposals#1576
 KP.3.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.4, ORF1b:P1675S,from #2627
@@ -4475,6 +4476,7 @@ XET	Recombinant lineage of KP.1.1.1., KP.3.1.1 (breakpoint: 20105-21652), from s
 XEU	Recombinant lineage of XEK, XEC.8 (breakpoint: 3506-7112), from sars-cov-2-variants/lineage-proposals#2298
 XEV	Recombinant lineage of KP.3.1.1, XEC.18 (breakpoint: 12617-13120)
 XEW	Recombinant lineage of KP.3.1.1, XEC.8 (breakpoint: 13122-15371)
+XEY	Recombinant lineage of MC.29, XEC (breakpoint: 15373-17333)
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
