@@ -4447,6 +4447,7 @@ XEC.13	S:S98F, from sars-cov-2-variants/lineage-proposals#2088
 XEC.14	ORF1a:A138T
 XEC.15	ORF1b:M2322I, C9803T
 XEC.16	S:T678I, from sars-cov-2-variants/lineage-proposals#2088
+XEC.17	S:T95I, on ORF1a:A599T branch, Israel, from #2879
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
 XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
