@@ -1183,6 +1183,7 @@ LP.8	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8, S:H445R, S:Q493E, S:F186L, ORF3a:
 LP.8.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1, S:R190S, from sars-cov-2-variants/lineage-proposals#2199
 LP.8.1.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1, S:K679R, from sars-cov-2-variants/lineage-proposals#2199
 LP.8.1.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2, S:N487D, from sars-cov-2-variants/lineage-proposals#2199
+NW.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1, S:A1174V, ORF3a:L101F
 LP.8.1.3	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.3, S:Q677H, from #2876
 LP.8.1.4	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.4, C16308T, Brazil
 LP.8.1.5	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.5, ORF1a:K3353R
