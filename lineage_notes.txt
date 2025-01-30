@@ -1480,8 +1480,10 @@ NF.1.1	Alias of B.1.1.529.2.86.1.1.16.5.1.1, S:A899S
 JN.1.17	Alias of B.1.1.529.2.86.1.1.17, S:A222V, USA
 JN.1.18	Alias of B.1.1.529.2.86.1.1.18, S:R346T, directly on JN.1 polytomy, from sars-cov-2-variants/lineage-proposals#1089
 JN.1.18.1	Alias of B.1.1.529.2.86.1.1.18.1, S:T250N, from sars-cov-2-variants/lineage-proposals#1414
-LQ.1	Alias of B.1.1.529.2.86.1.1.18.1.1, S:F456L (22928C),from #2596
-LQ.1.1	Alias of B.1.1.529.2.86.1.1.18.1.1.1, S:P272H,from #2596
+LQ.1	Alias of B.1.1.529.2.86.1.1.18.1.1, S:F456L (22928C), from #2596
+LQ.1.1	Alias of B.1.1.529.2.86.1.1.18.1.1.1, S:P272H, from #2596
+LQ.1.1.1	Alias of B.1.1.529.2.86.1.1.18.1.1.1.1, S:K679R
+LQ.1.2	Alias of B.1.1.529.2.86.1.1.18.1.1.2, ORF3a: T221I
 LQ.2	Alias of B.1.1.529.2.86.1.1.18.1.2, S:N556K, China,from sars-cov-2-variants/lineage-proposals#1414
 LQ.3	Alias of B.1.1.529.2.86.1.1.18.1.3, ORF1a:T1761I, Russia
 JN.1.18.2	Alias of B.1.1.529.2.86.1.1.18.2, S:F59S, after C4331T, T22321C, from sars-cov-2-variants/lineage-proposals#1441
@@ -1491,6 +1493,10 @@ LZ.2	Alias of B.1.1.529.2.86.1.1.18.2.2, S:F456L (T22928C), ORF1a:K1226E, China,
 LZ.2.1	Alias of B.1.1.529.2.86.1.1.18.2.2.1, ORF10:Q29*
 LZ.2.1.1	Alias of B.1.1.529.2.86.1.1.18.2.2.1.1, S:K478E, from sars-cov-2-variants/lineage-proposals#2092
 LZ.2.1.2	Alias of B.1.1.529.2.86.1.1.18.2.2.1.2, S:K478T (rev), from sars-cov-2-variants/lineage-proposals#1909
+LZ.2.2	Alias of B.1.1.529.2.86.1.1.18.2.2.2, T2032C, C19041T, China
+LZ.3	Alias of B.1.1.529.2.86.1.1.18.2.3, S:T572I, on ORF1a:K1226E branch with LZ.2
+LZ.4	Alias of B.1.1.529.2.86.1.1.18.2.4, S:R190S, on T23377C branch with LZ.1
+LZ.5	Alias of B.1.1.529.2.86.1.1.18.2.5, C19185T
 JN.1.18.3	Alias of B.1.1.529.2.86.1.1.18.3, S:F456V (T22928G), from sars-cov-2-variants/lineage-proposals#1253
 MA.1	Alias of B.1.1.529.2.86.1.1.18.3.1, S:R190S, S:31del, from sars-cov-2-variants/lineage-proposals#1635
 MA.1.1	Alias of B.1.1.529.2.86.1.1.18.3.1.1, S:E780A, from sars-cov-2-variants/lineage-proposals#1761
@@ -1506,6 +1512,7 @@ LY.2	Alias of B.1.1.529.2.86.1.1.18.6.2, S:Q183H, C2143T
 JN.1.18.7	Alias of B.1.1.529.2.86.1.1.18.7, S:T22N, S:F59S, S:D1260Y from #2623
 MN.1	Alias of B.1.1.529.2.86.1.1.18.7.1, S:D80Y, S:P174S, S:S689N, England/Wales, from sars-cov-2-variants/lineage-proposals#1685
 JN.1.18.8	Alias of B.1.1.529.2.86.1.1.18.8, S:S31del, ORF1a:A690V, ORF1b:S2339F, France
+JN.1.18.9	Alias of B.1.1.529.2.86.1.1.18.9, C18348T
 JN.1.19	Alias of B.1.1.529.2.86.1.1.19, ORF8:I71V
 JN.1.20	Alias of B.1.1.529.2.86.1.1.20, S:S31F, directly on JN.1 polytomy
 JN.1.21	Alias of B.1.1.529.2.86.1.1.21, S:H1058Y, from sars-cov-2-variants/lineage-proposals#1162
@@ -1638,6 +1645,8 @@ MD.3.1.1	Alias of B.1.1.529.2.86.1.1.64.1.3.1.1, ORF9b:S50L (C28432T), South Afr
 MD.3.1.2	Alias of B.1.1.529.2.86.1.1.64.1.3.1.2, S:I19- (S:T19I rev + S:21- if aligned against Wuhan-Hu-1), C12049T
 MD.3.1.3	Alias of B.1.1.529.2.86.1.1.64.1.3.1.3, S:K182E, from sars-cov-2-variants/lineage-proposals#1951
 MD.3.1.4	Alias of B.1.1.529.2.86.1.1.64.1.3.1.4, S:S31F, from sars-cov-2-variants/lineage-proposals#1691
+MD.4	Alias of B.1.1.529.2.86.1.1.64.1.4, S:Y269N, Russia
+MD.4.1	Alias of B.1.1.529.2.86.1.1.64.1.4.1, S:F456L
 JN.1.65	Alias of B.1.1.529.2.86.1.1.65, S:T572I, after T23629C, G25647T, A5053G, Spain from #2461
 JN.1.65.1	Alias of B.1.1.529.2.86.1.1.65.1, S:F456L (22928C), A10420G, C5884T, C29149T, C20483T, Spain from #2461
 MF.1	Alias of B.1.1.529.2.86.1.1.65.1.1, S:R346T, T21673C, pre-22981T from #2461
@@ -4499,6 +4508,8 @@ XEK.1.1	S:S680P, from sars-cov-2-variants/lineage-proposals#2179
 XEK.2	ORF3a:A23S, from sars-cov-2-variants/lineage-proposals#2179
 XEK.3	ORF1b:P970L, ORF1b:T1511I
 XEK.4	S:S680F, from sars-cov-2-variants/lineage-proposals#2088
+XEK.5	C478T
+XEK.6	S:Y1155F
 XEL	Recombinant lineage of KS.1.1.2, JN.1 (breakpoint: 22929-24820), South Korea, from #2751
 XEM	Recombinant lineage of KS.1, KP.3.3.1 (breakpoint: 22600-23038), from sars-cov-2-variants/lineage-proposals#2105
 XEN	Recombinant lineage of KP.1.1.6, JN.1.11.1 (breakpoint: 22620-24818), from #2791
