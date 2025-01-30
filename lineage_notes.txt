@@ -1309,6 +1309,12 @@ MC.8.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.8.1, S:T572I, from sars-cov-2-vari
 MC.9	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.9, ORF3a:K75N, ORF1b:A1219S, from sars-cov-2-variants/lineage-proposals#1788
 MC.10	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10, C16332T
 MC.10.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1, S:A435S, ORF9b:R47H, from sars-cov-2-variants/lineage-proposals#1946
+MC.10.1.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1, T22501C
+MC.10.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.2, N:A90V
+MC.10.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.3, N:T379I
+MC.10.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.4, ORF7b:S31L, Europe
+MC.10.1.5	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.5, T22981C
+MC.10.1.6	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.6, S:R346T
 MC.10.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2, S:I101T, S:A376D, ORF1a:K3353R, from sars-cov-2-variants/lineage-proposals#2015
 MC.10.2.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1, S:K679R, ORf7a:A105S, Australia/New Zealand
 MC.11	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11, C17430T
