@@ -1272,6 +1272,8 @@ KP.2.11	Alias of B.1.1.529.2.86.1.1.11.1.2.11, S:F56V, ORF1a:T2093I, England, fr
 KP.2.12	Alias of B.1.1.529.2.86.1.1.11.1.2.12, S:V1176F, G25088T, Australia, from sars-cov-2-variants/lineage-proposals#1550
 KP.2.13	Alias of B.1.1.529.2.86.1.1.11.1.2.13, S:K478E, N:P6T, C9565T, C24553T, USA/Canada
 KP.2.14	Alias of B.1.1.529.2.86.1.1.11.1.2.14, S:T22N, S:S31F, S:G184V, from sars-cov-2-variants/lineage-proposals#1578
+KP.2.14.1	Alias of B.1.1.529.2.86.1.1.11.1.2.14.1, S:T572I
+KP.2.14.2	Alias of B.1.1.529.2.86.1.1.11.1.2.14.2, S:A435S
 KP.2.15	Alias of B.1.1.529.2.86.1.1.11.1.2.15, A10861G, S:31del, USA/Canada
 KP.2.15.1	Alias of B.1.1.529.2.86.1.1.11.1.2.15.1, S:T572I, from #2711
 KP.2.16	Alias of B.1.1.529.2.86.1.1.11.1.2.16, ORF8:F6S
@@ -4570,6 +4572,8 @@ XEL.5	S:M177T, ORF1a:F586S
 XEL.6	S:478E
 XEM	Recombinant lineage of KS.1, KP.3.3.1 (breakpoint: 22600-23038), from sars-cov-2-variants/lineage-proposals#2105
 XEN	Recombinant lineage of KP.1.1.6, JN.1.11.1 (breakpoint: 22620-24818), from #2791
+XEN.1	S:R683Q
+XEN.2	S:V622A
 XEP	Recombinant lineage of KP.3.1.1, NP.2 (breakpoint: 21656-22864), from sars-cov-2-variants/lineage-proposals#2166
 XEQ	Recombinant lineage of KS.1.1.2, KP.3 (breakpoint: 22600-23038), from #2817
 XER	Recombinant lineage of KS.2, LF.7 (breakpoint: 18349-21626), from sars-cov-2-variants/lineage-proposals#2259
