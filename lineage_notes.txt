@@ -1323,6 +1323,7 @@ MC.10.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.3, N:T379I
 MC.10.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.4, ORF7b:S31L, Europe
 MC.10.1.5	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.5, T22981C
 MC.10.1.6	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.6, S:R346T
+MC.10.1.7	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.7, ORF1a:D1228G, ORF1b:T1230I, Canada/US
 MC.10.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2, S:I101T, S:A376D, ORF1a:K3353R, from sars-cov-2-variants/lineage-proposals#2015
 MC.10.2.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1, S:K679R, ORf7a:A105S, Australia/New Zealand
 MC.11	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11, C17430T
@@ -1345,6 +1346,7 @@ MC.19.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.19.1, S:H445R
 MC.20	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.20, S:K182E, ORF1a:K1655N, Australia, from sars-cov-2-variants/lineage-proposals#2085
 MC.21	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.21, C829T
 MC.21.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.21.1, S:A435S, from sars-cov-2-variants/lineage-proposals#2077
+MC.21.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.21.2, S:P217T, ORF1a:N1922S, Brazil
 MC.22	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.22, C11020T
 MC.23	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.23, ORF1b:K2557R
 MC.24	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.24, ORF3a:R68I
@@ -1713,7 +1715,8 @@ MZ.1	Alias of B.1.1.529.2.86.1.1.67.1.1, S:S31F
 MZ.2	Alias of B.1.1.529.2.86.1.1.67.1.2, T177C, China
 MZ.3	Alias of B.1.1.529.2.86.1.1.67.1.3, S:R346T, S:F59S, China
 MZ.4	Alias of B.1.1.529.2.86.1.1.67.1.4, S:K478T (rev), N:T379A, China
-MZ.4.1	Alias of B.1.1.529.2.86.1.1.67.1.5, S:V1264L
+MZ.4.1	Alias of B.1.1.529.2.86.1.1.67.1.4.1, S:V1264L
+MZ.5	Alias of B.1.1.529.2.86.1.1.67.1.5, S:T572I
 JN.1.68	Alias of B.1.1.529.2.86.1.1.68, C19011T
 JN.1.68.1	Alias of B.1.1.529.2.86.1.1.68.1, S:K679R, C9836T, from sars-cov-2-variants/lineage-proposals#1350
 JN.1.69	Alias of B.1.1.529.2.86.1.1.69, C16329T
