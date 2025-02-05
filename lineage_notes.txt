@@ -4582,7 +4582,7 @@ XEL.4	S:R190S, S:S680F, from sars-cov-2-variants/lineage-proposals#2138
 XEL.5	S:M177T, ORF1a:F586S, from sars-cov-2-variants/lineage-proposals#2377
 XEL.6	S:478E, from sars-cov-2-variants/lineage-proposals#2191
 XEM	Recombinant lineage of KS.1, KP.3.3.1 (breakpoint: 22600-23038), from sars-cov-2-variants/lineage-proposals#2105
-XEN	Recombinant lineage of KP.1.1.6, JN.1.11.1 (breakpoint: 22620-24818), from #2791
+XEN	Recombinant lineage of KP.1.1.6, JN.1.11.1 (breakpoint: 22620-24818), most with further ORF3a:V13L, from #2791
 XEN.1	S:R683Q, from sars-cov-2-variants/lineage-proposals#2369
 XEN.2	S:V622A, from sars-cov-2-variants/lineage-proposals#2389
 XEP	Recombinant lineage of KP.3.1.1, NP.2 (breakpoint: 21656-22864), from sars-cov-2-variants/lineage-proposals#2166
