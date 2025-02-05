@@ -1270,11 +1270,11 @@ KP.2.9	Alias of B.1.1.529.2.86.1.1.11.1.2.9, S:T572I, from sars-cov-2-variants/l
 KP.2.10	Alias of B.1.1.529.2.86.1.1.11.1.2.10, S:F59S, Singapore, from sars-cov-2-variants/lineage-proposals#1553
 KP.2.11	Alias of B.1.1.529.2.86.1.1.11.1.2.11, S:F56V, ORF1a:T2093I, England, from sars-cov-2-variants/lineage-proposals#1520
 KP.2.12	Alias of B.1.1.529.2.86.1.1.11.1.2.12, S:V1176F, G25088T, Australia, from sars-cov-2-variants/lineage-proposals#1550
-KP.2.13	Alias of B.1.1.529.2.86.1.1.11.1.2.13, S:K478E, N:P6T, C9565T, C24553T, USA/Canada
+KP.2.13	Alias of B.1.1.529.2.86.1.1.11.1.2.13, S:K478E, N:P6T, ORF9b:D2E, C9565T, C24553T, USA/Canada
 KP.2.14	Alias of B.1.1.529.2.86.1.1.11.1.2.14, S:T22N, S:S31F, S:G184V, from sars-cov-2-variants/lineage-proposals#1578
 KP.2.14.1	Alias of B.1.1.529.2.86.1.1.11.1.2.14.1, S:T572I
-KP.2.14.2	Alias of B.1.1.529.2.86.1.1.11.1.2.14.2, S:A435S
-KP.2.15	Alias of B.1.1.529.2.86.1.1.11.1.2.15, A10861G, S:31del, USA/Canada
+KP.2.14.2	Alias of B.1.1.529.2.86.1.1.11.1.2.14.2, S:A435S, ORF1a:S443T, ORF1a:T2183I
+KP.2.15	Alias of B.1.1.529.2.86.1.1.11.1.2.15, A10861G, S:S31del, USA/Canada
 KP.2.15.1	Alias of B.1.1.529.2.86.1.1.11.1.2.15.1, S:T572I, from #2711
 KP.2.16	Alias of B.1.1.529.2.86.1.1.11.1.2.16, ORF8:F6S
 KP.2.17	Alias of B.1.1.529.2.86.1.1.11.1.2.17, S:G35R, C23758T, C7765T, T14418C, Singapore
@@ -1420,7 +1420,7 @@ KP.3.3.4	Alias of B.1.1.529.2.86.1.1.11.1.3.3.4, ORF1a:I1367L, from #2707
 MR.1	Alias of B.1.1.529.2.86.1.1.11.1.3.3.4.1, S:S31del, ORF1a:V1236I, from #2704
 KP.3.3.5	Alias of B.1.1.529.2.86.1.1.11.1.3.3.5, S:S31del, S:A435S, Chile, from #2844
 KP.3.3.6	Alias of B.1.1.529.2.86.1.1.11.1.3.3.6, S:S31del, S:D138H, Oceania
-KP.3.3.7	Alias of B.1.1.529.2.86.1.1.11.1.3.3.7, ORF1a:T2093I, ORF1a:L642F
+KP.3.3.7	Alias of B.1.1.529.2.86.1.1.11.1.3.3.7, ORF1a:T2093I, ORF1a:L642F, Japan
 KP.3.3.8	Alias of B.1.1.529.2.86.1.1.11.1.3.3.8, ORF1b:A1603S, S:F59S
 PB.1	Alias of B.1.1.529.2.86.1.1.11.1.3.3.8.1, S:T22N, ORF1a:L3201P, Japan
 PB.2	Alias of B.1.1.529.2.86.1.1.11.1.3.3.8.2, S:T22N, S:I794T
@@ -1542,15 +1542,15 @@ LQ.1.2	Alias of B.1.1.529.2.86.1.1.18.1.1.2, ORF3a: T221I
 LQ.2	Alias of B.1.1.529.2.86.1.1.18.1.2, S:N556K, China,from sars-cov-2-variants/lineage-proposals#1414
 LQ.3	Alias of B.1.1.529.2.86.1.1.18.1.3, ORF1a:T1761I, Russia
 JN.1.18.2	Alias of B.1.1.529.2.86.1.1.18.2, S:F59S, after C4331T, T22321C, from sars-cov-2-variants/lineage-proposals#1441
-LZ.1	Alias of B.1.1.529.2.86.1.1.18.2.1, S:F456L (T22930A), N:A152T, ORF1a:I740V from #2654
+LZ.1	Alias of B.1.1.529.2.86.1.1.18.2.1, S:F456L (T22930A), N:A152T, ORF1a:I740V, on T23377C branch, from #2654
 LZ.1.1	Alias of B.1.1.529.2.86.1.1.18.2.1.1, S:P217S, S:N1125S from #2654
-LZ.2	Alias of B.1.1.529.2.86.1.1.18.2.2, S:F456L (T22928C), ORF1a:K1226E, China, from sars-cov-2-variants/lineage-proposals#1089
+LZ.2	Alias of B.1.1.529.2.86.1.1.18.2.2, S:F456L (T22928C), on ORF1a:K1226E branch, China, from sars-cov-2-variants/lineage-proposals#1089
 LZ.2.1	Alias of B.1.1.529.2.86.1.1.18.2.2.1, ORF10:Q29*
 LZ.2.1.1	Alias of B.1.1.529.2.86.1.1.18.2.2.1.1, S:K478E, from sars-cov-2-variants/lineage-proposals#2092
 LZ.2.1.2	Alias of B.1.1.529.2.86.1.1.18.2.2.1.2, S:K478T (rev), from sars-cov-2-variants/lineage-proposals#1909
 LZ.2.2	Alias of B.1.1.529.2.86.1.1.18.2.2.2, T2032C, C19041T, China
-LZ.3	Alias of B.1.1.529.2.86.1.1.18.2.3, S:T572I, on ORF1a:K1226E branch with LZ.2
-LZ.4	Alias of B.1.1.529.2.86.1.1.18.2.4, S:R190S, on T23377C branch with LZ.1
+LZ.3	Alias of B.1.1.529.2.86.1.1.18.2.3, S:T572I, on ORF1a:K1226E branch
+LZ.4	Alias of B.1.1.529.2.86.1.1.18.2.4, S:R190S, on T23377C branch
 LZ.5	Alias of B.1.1.529.2.86.1.1.18.2.5, C19185T
 JN.1.18.3	Alias of B.1.1.529.2.86.1.1.18.3, S:F456V (T22928G), from sars-cov-2-variants/lineage-proposals#1253
 MA.1	Alias of B.1.1.529.2.86.1.1.18.3.1, S:R190S, S:31del, from sars-cov-2-variants/lineage-proposals#1635
@@ -4576,7 +4576,7 @@ XEK.5	C478T
 XEK.6	S:Y1155F
 XEL	Recombinant lineage of KS.1.1.2, JN.1 (breakpoint: 22929-24820), South Korea, from #2751
 XEL.1	S:V1264L
-XEL.2	S:V159I
+XEL.2	S:V159I, Russia
 XEL.3	ORF1a:P971L
 XEL.4	S:R190S, S:S680F
 XEL.5	S:M177T, ORF1a:F586S
