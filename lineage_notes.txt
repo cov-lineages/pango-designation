@@ -1389,6 +1389,7 @@ MC.37	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.37, C7609T
 MC.38	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.38, S:Q239R, ORF1a:L2146F, USA/HK
 MC.39	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.39, ORF3a:A39T, Japan
 MC.40	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.40, T16251C
+MC.40.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.40.1, S:T345S
 KP.3.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.2, S:S151I，from sars-cov-2-variants/lineage-proposals#1589
 KP.3.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.3, S:S31F,from sars-cov-2-variants/lineage-proposals#1576
 KP.3.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.4, ORF1b:P1675S,from #2627
@@ -1516,6 +1517,11 @@ LF.7.2.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1, S:A475V, from sars-cov-2-varian
 PC.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.1, S:N137K, from #2863
 LF.7.3	Alias of B.1.1.529.2.86.1.1.16.1.7.3, C17436T
 LF.7.3.1	Alias of B.1.1.529.2.86.1.1.16.1.7.3.1, S:A475V, from sars-cov-2-variants/lineage-proposals#2067
+LF.7.3.2	Alias of B.1.1.529.2.86.1.1.16.1.7.3.2, S:T385I
+LF.7.3.3	Alias of B.1.1.529.2.86.1.1.16.1.7.3.3, S:D228E 
+LF.7.3.4	Alias of B.1.1.529.2.86.1.1.16.1.7.3.4, S:445Q 
+LF.7.3.5	Alias of B.1.1.529.2.86.1.1.16.1.7.3.5, S:S680F
+LF.7.3.6	Alias of B.1.1.529.2.86.1.1.16.1.7.3.6, S:S680P
 LF.7.4	Alias of B.1.1.529.2.86.1.1.16.1.7.4, S:T961M, from sars-cov-2-variants/lineage-proposals#1996
 LF.7.5	Alias of B.1.1.529.2.86.1.1.16.1.7.5, A15828G
 LF.7.6	Alias of B.1.1.529.2.86.1.1.16.1.7.6, C29119T
@@ -4578,6 +4584,7 @@ XEC.5	S:G72R, from sars-cov-2-variants/lineage-proposals#2088
 XEC.6	S:S680F, from sars-cov-2-variants/lineage-proposals#2088
 XEC.7	S:W152R, S:P1263Q, from sars-cov-2-variants/lineage-proposals#2088
 XEC.8	T24376C
+XEC.8.1	S:G72R
 XEC.9	ORF1a:T2274I
 XEC.10	S:G75R, from sars-cov-2-variants/lineage-proposals#2088
 XEC.11	S:K182N, C829T, from sars-cov-2-variants/lineage-proposals#2088
@@ -4597,7 +4604,9 @@ XEC.21	S:T572I, C2788T, USA, from #2891
 XEC.22	S:K679R, C25521T
 XEC.23	T26540C
 XEC.24	C28849T
+XEC.24.1	S:T345S
 XEC.25	C10228T
+XEC.25.1	S:A435S, ORF1b:A2222V
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
 XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
@@ -4646,6 +4655,7 @@ XFD	Recombinant lineage of MC.36.1, XEC (breakpoint: 19723-21626)
 XFE	Recombinant lineage of MC.37, XEC.19 (breakpoint: 19723-21626)
 XFF	Recombinant lineage of LB.1.3, MZ.4.1 (breakpoint: 22599-22994), from sars-cov-2-variants/lineage-proposals#2373
 XFG	Recombinant lineage of LF.7, LP.8.1.2, LF.7 (breakpoints: 22894-22895, 23040-24818), from sars-cov-2-variants/lineage-proposals#2449
+XFH	Recombinant lineage of LF.7.1, XEF, LF.7.1 (breakpoints: 22133-22565, 23040-24871), from #2910
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
