@@ -1804,6 +1804,7 @@ BA.2.87	Alias of B.1.1.529.2.87, C18744T, no C9866T
 BA.2.87.1	Alias of B.1.1.529.2.87.1, saltation with 15+ spike AA mutations, South Africa, from #2484
 BA.3	Alias of B.1.1.529.3, from #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from #540
+BA.3.2	Alias of B.1.1.529.3.2, saltation with ~40 spike AA substitutions, South Africa, from #2909
 BA.4	Alias of B.1.1.529.4, from #517
 BA.4.1	Alias of B.1.1.529.4.1, mainly found in South Africa, from #548
 BA.4.1.1	Alias of B.1.1.529.4.1.1, mainly found in South Africa and Germany, from #667
