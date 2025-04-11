@@ -4671,7 +4671,8 @@ XFF	Recombinant lineage of LB.1.3, MZ.4.1 (breakpoint: 22599-22994), from sars-c
 XFG	Recombinant lineage of LF.7, LP.8.1.2, LF.7 (breakpoints: 22894-22895, 23040-24818), from sars-cov-2-variants/lineage-proposals#2449
 XFH	Recombinant lineage of LF.7.1, XEF, LF.7.1 (breakpoints: 22133-22565, 23040-24871), from #2910
 XFJ	Recombinant lineage of LF.7, LS.2 (breakpoints: 22600-22892), from #2928
-XFK	Recombinant lineage of KP.3.1.1, XEC.5 (breakpoints: 17503-19722), from #sars-cov-2-variants/lineage-proposals#2514
+XFK	Recombinant lineage of KP.3.1.1, XEC.5 (breakpoints: 17503-19722), from sars-cov-2-variants/lineage-proposals#2514
+XFL	Recombinant lineage of XEU, XEC.18 (breakpoint: 24193-27995), from sars-cov-2-variants/lineage-proposals#2528
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
