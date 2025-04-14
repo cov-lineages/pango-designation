@@ -1445,7 +1445,7 @@ MR.2	Alias of B.1.1.529.2.86.1.1.11.1.3.3.4.2, S:T22N, S:F59S, from sars-cov-2-v
 KP.3.3.5	Alias of B.1.1.529.2.86.1.1.11.1.3.3.5, S:S31del, S:A435S, Chile, from #2844
 PG.1	Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.1, S:N185D
 PG.2	Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.2, S:D215H
-PG.3	Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.3, S:R346T
+PG.3	Alias of B.1.1.529.2.86.1.1.11.1.3.3.5.3, S:R346T, from #2920
 KP.3.3.6	Alias of B.1.1.529.2.86.1.1.11.1.3.3.6, S:S31del, S:D138H, Oceania, from sars-cov-2-variants/lineage-proposals#2301
 KP.3.3.7	Alias of B.1.1.529.2.86.1.1.11.1.3.3.7, ORF1a:T2093I, ORF1a:L642F, Japan
 KP.3.3.8	Alias of B.1.1.529.2.86.1.1.11.1.3.3.8, ORF1b:A1603S, S:F59S, from #2771
