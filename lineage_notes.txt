@@ -1136,6 +1136,7 @@ LB.1.3.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1, S:445P, N:T379I, from sars-cov-2
 NL.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.1, S:R190S, S:C1243F, from sars-cov-2-variants/lineage-proposals#1771
 NL.1.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.1.1, S:D111N, from #2806
 NL.2	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.2, ORF1a:T1429I, ORF1a:D1600N, USA
+NL.2.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.2.1, S:H1101Y, C28603T
 NL.3	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.3, ORF1a:S2024L, Netherlands, Europe
 NL.3.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.3.1, S:A435S, from sars-cov-2-variants/lineage-proposals#2420
 NL.4	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.4, ORF1a:H81Y
@@ -1146,6 +1147,7 @@ NL.5	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.5, ORF1a:M731I, Israel
 NL.5.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.5.1, S:T572I
 NL.5.2	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.5.2, S:R190S, from sars-cov-2-variants/lineage-proposals#1771
 NL.6	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.6, S:V1176F, ORF1b:R1687C, from sars-cov-2-variants/lineage-proposals#2027
+NL.6.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.6.1, ORF1a:L3754
 NL.7	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.7, S:S256L, N:N47Y, from sars-cov-2-variants/lineage-proposals#2069
 NL.8	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.8, ORF3a:S171L
 NL.9	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.9, S:R237K, S:K478I, from sars-cov-2-variants/lineage-proposals#2429
@@ -1153,6 +1155,9 @@ NL.10	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.10, C1387T, USA
 NL.11	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.11, ORF1a:T4129I
 NL.12	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.12, ORF1b:K2557R
 NL.13	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.13, S:I934V, S:T572I, from sars-cov-2-variants/lineage-proposals#2440
+NL.14	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.14, ORF1a:H2092Y
+NL.15	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.15, C9532T, C29635T
+NL.16	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.16, ORF1b:M2024T, ORF3a:L41P
 LB.1.3.2	Alias of B.1.1.529.2.86.1.1.9.2.1.3.2, C25413T
 MH.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.2.1, S:T572I
 LB.1.3.3	Alias of B.1.1.529.2.86.1.1.9.2.1.3.3, S:K182R, from #2723
