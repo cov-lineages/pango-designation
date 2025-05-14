@@ -1538,12 +1538,21 @@ LF.7.1.4	Alias of B.1.1.529.2.86.1.1.16.1.7.1.4, S:K529R, from sars-cov-2-varian
 LF.7.1.5	Alias of B.1.1.529.2.86.1.1.16.1.7.1.5, S:K529T, from sars-cov-2-variants/lineage-proposals#2329
 LF.7.1.6	Alias of B.1.1.529.2.86.1.1.16.1.7.1.6, ORF1a:S994G, ORF3a:L85F
 LF.7.1.7	Alias of B.1.1.529.2.86.1.1.16.1.7.1.7, S:A475V, S:S680F, ORF1a:V2061F, from sars-cov-2-variants/lineage-proposals#2474
+LF.7.1.8	Alias of B.1.1.529.2.86.1.1.16.1.7.1.8, S:T572I
+LF.7.1.9	Alias of B.1.1.529.2.86.1.1.16.1.7.1.9, S:K478T (rev)
+LF.7.1.10	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10, S:H445P, C16767T
 LF.7.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2, T20799C
 LF.7.2.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1, S:A475V, from sars-cov-2-variants/lineage-proposals#2067
 PC.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.1, S:N137K, from #2863
 PC.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2, ORF3a:V13L, from sars-cov-2-variants/lineage-proposals#2456
+PC.2.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.1, ORF1a:P1921L, Singapore
+PC.2.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.2, ORF1a:P971L, ORF1b:Q2252K, Singapore
+PC.2.3	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.3, T4165C
 PC.3	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3, ORF1a:R287G
+PC.3.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3.1, N:R204Q
+PC.3.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3.2, S:F817L
 PC.4	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.4, ORF3a:K21N
+PC.4.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.4.1, C13620T
 LF.7.3	Alias of B.1.1.529.2.86.1.1.16.1.7.3, C17436T
 LF.7.3.1	Alias of B.1.1.529.2.86.1.1.16.1.7.3.1, S:A475V, from sars-cov-2-variants/lineage-proposals#2067
 LF.7.3.2	Alias of B.1.1.529.2.86.1.1.16.1.7.3.2, S:T385I, from sars-cov-2-variants/lineage-proposals#2371
@@ -1563,6 +1572,8 @@ LF.7.8	Alias of B.1.1.529.2.86.1.1.16.1.7.8, S:H445P, S:T676N, ORF1a:K3353R, T22
 LF.7.9	Alias of B.1.1.529.2.86.1.1.16.1.7.9, S:L441R, S:H445P, S:A475V, from sars-cov-2-variants/lineage-proposals#2473
 LF.7.9.1	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1, ORF3a:G44E, C9592T, C15660T, C4586T
 LF.7.9.2	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2, ORF1a:A2279T, ORF7a:F13L
+LF.7.10	Alias of B.1.1.529.2.86.1.1.16.1.7.10, C3688T, with T22993C reversion
+LF.7.10.1	Alias of B.1.1.529.2.86.1.1.16.1.7.10.1, S:H445P, S:T572I
 LF.8	Alias of B.1.1.529.2.86.1.1.16.1.8, S:M153I, C3244T, A18432T, C27110T, from sars-cov-2-variants/lineage-proposals#1863
 LF.8.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1, S:S31F, from sars-cov-2-variants/lineage-proposals#1863
 LF.8.1.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1, S:T22N, from sars-cov-2-variants/lineage-proposals#1863
