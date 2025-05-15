@@ -1547,6 +1547,7 @@ LF.7.1.7	Alias of B.1.1.529.2.86.1.1.16.1.7.1.7, S:A475V, S:S680F, ORF1a:V2061F,
 LF.7.1.8	Alias of B.1.1.529.2.86.1.1.16.1.7.1.8, S:T572I
 LF.7.1.9	Alias of B.1.1.529.2.86.1.1.16.1.7.1.9, S:K478T (rev)
 LF.7.1.10	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10, S:H445P, C16767T
+PL.1	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.1, S:A475V, C26873T
 LF.7.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2, T20799C
 LF.7.2.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1, S:A475V, from sars-cov-2-variants/lineage-proposals#2067
 PC.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.1, S:N137K, from #2863
@@ -4635,6 +4636,7 @@ XEC.2.2	ORF1a:I280T
 XEC.2.2.1	S:T572I, from sars-cov-2-variants/lineage-proposals#2088
 XEC.2.3	N:T379I, T16476C, from sars-cov-2-variants/lineage-proposals#2104
 XEC.2.3.1	S:G181V, from sars-cov-2-variants/lineage-proposals#2104
+XEC.2.4	S:T572I, S:R681H, Australia
 XEC.3	S:E1202Q, from sars-cov-2-variants/lineage-proposals#2088
 XEC.4	S:T572I, from sars-cov-2-variants/lineage-proposals#2087
 XEC.4.1	T23584C, C27294T, C29353T, on C6312T branch, Australia
@@ -4647,7 +4649,7 @@ XEC.8.1	S:G72R, from sars-cov-2-variants/lineage-proposals#2088
 XEC.9	ORF1a:T2274I
 XEC.10	S:G75R, from sars-cov-2-variants/lineage-proposals#2088
 XEC.11	S:K182N, C829T, from sars-cov-2-variants/lineage-proposals#2088
-XEC.11.1	S:V1264L(G25352C), ORF1a:V2090F, from sars-cov-2-variants/lineage-proposals#2088
+XEC.11.1	S:V1264L (G25352C), ORF1a:V2090F, from sars-cov-2-variants/lineage-proposals#2088
 XEC.11.1.1	S:G842S
 XEC.12	S:G252S, T25039C, from sars-cov-2-variants/lineage-proposals#1993
 XEC.13	S:S98F, from sars-cov-2-variants/lineage-proposals#2088
@@ -4679,6 +4681,7 @@ XEC.35	ORF1b:T310I
 XEC.35.1	S:N1187T, N:T379I
 XEC.36	C29200T
 XEC.37	S:V1264L (G25352C)
+XEC.38	S:V1264L (G25352T)
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
 XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
