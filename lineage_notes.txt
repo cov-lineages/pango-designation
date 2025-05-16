@@ -4665,6 +4665,8 @@ XEC.11.1.1	S:G842S
 XEC.12	S:G252S, T25039C, from sars-cov-2-variants/lineage-proposals#1993
 XEC.13	S:S98F, from sars-cov-2-variants/lineage-proposals#2088
 XEC.14	ORF1a:A138T
+XEC.14.1	C643T
+XEC.14.1.1	S:A435S, N:P326S
 XEC.15	ORF1b:M2322I, C9803T
 XEC.16	S:T678I, from sars-cov-2-variants/lineage-proposals#2088
 XEC.17	S:T95I, on ORF1a:A599T branch, Israel, from #2879
