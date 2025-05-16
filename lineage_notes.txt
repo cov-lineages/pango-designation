@@ -4640,6 +4640,17 @@ XEC.2.4	S:T572I, S:R681H, Australia
 XEC.3	S:E1202Q, from sars-cov-2-variants/lineage-proposals#2088
 XEC.4	S:T572I, from sars-cov-2-variants/lineage-proposals#2087
 XEC.4.1	T23584C, C27294T, C29353T, on C6312T branch, Australia
+XEC.4.1.1	C2716T, C12710T
+XEC.4.1.2	ORF1b:K82R
+XEC.4.1.3	ORF1a:F2881V
+XEC.4.1.4	C4586T
+XEC.4.1.5	S:R681H, A12820G
+XEC.4.1.6	C12484T
+XEC.4.2	ORF1b:D1869Y, Japan
+XEC.4.3	G7675A, C28603T
+XEC.4.4	ORF1a:V1025A
+XEC.4.5	ORF1b:A1884S
+XEC.4.6	C7844T
 XEC.5	S:G72R, from sars-cov-2-variants/lineage-proposals#2088
 XEC.5.1	S:R346K
 XEC.6	S:S680F, from sars-cov-2-variants/lineage-proposals#2088
