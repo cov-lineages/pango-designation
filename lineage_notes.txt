@@ -4669,6 +4669,7 @@ XEC.15	ORF1b:M2322I, C9803T
 XEC.16	S:T678I, from sars-cov-2-variants/lineage-proposals#2088
 XEC.17	S:T95I, on ORF1a:A599T branch, Israel, from #2879
 XEC.18	G28378T (ORF9b:R32L), from #2813
+XEC.18.1	S:S680Y, ORF1a:L1249F
 XEC.19	C4423T
 XEC.20	ORF1a:T1000I
 XEC.20.1	S:A435S, S:S704L, Japan, from sars-cov-2-variants/lineage-proposals#2088
@@ -4686,6 +4687,7 @@ XEC.29	C5812T
 XEC.30	T24022C
 XEC.31	ORF1a:L1249F
 XEC.32	ORF8:S67F
+XEC.32.1	S:A435S, S:K679R, on ORF1a:V2665I branch
 XEC.33	T10771C
 XEC.34	S:V1264L (G25352T), T23104A
 XEC.35	ORF1b:T310I
@@ -4693,6 +4695,7 @@ XEC.35.1	S:N1187T, N:T379I
 XEC.36	C29200T
 XEC.37	S:V1264L (G25352C)
 XEC.38	S:V1264L (G25352T)
+XEC.39	C24034T
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
 XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
