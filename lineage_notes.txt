@@ -1365,6 +1365,9 @@ MC.10.2.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1, S:K679R, ORf7a:A105S, A
 PE.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1, S:S673T, from sars-cov-2-variants/lineage-proposals#2409
 MC.11	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11, C17430T
 MC.11.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.1, S:S256L, Europe, from sars-cov-2-variants/lineage-proposals#1857
+MC.11.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.2, C186T
+MC.11.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.3, ORF1b:K50R
+MC.11.3.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.3.1, S:T572I, ORF1a:S1905F
 MC.12	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.12, S:G72E, from sars-cov-2-variants/lineage-proposals#1865
 MC.13	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.13, C10681T
 MC.13.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.13.1, S:S254F, USA
@@ -4716,6 +4719,8 @@ XEJ.3	C12778T
 XEK	Recombinant lineage of KP.2.3, XEC (breakpoint: 9286-15402), from #2774
 XEK.1	ORF1a:R1170H, from sars-cov-2-variants/lineage-proposals#2179
 XEK.1.1	S:S680P, from sars-cov-2-variants/lineage-proposals#2179
+XEK.1.2	ORF1a:P2144L
+XEK.1.2.1	S:R765L
 XEK.2	ORF3a:A23S, from sars-cov-2-variants/lineage-proposals#2179
 XEK.3	ORF1b:P970L, ORF1b:T1511I
 XEK.4	S:S680F, from sars-cov-2-variants/lineage-proposals#2088
@@ -4744,6 +4749,9 @@ XEY	Recombinant lineage of MC.29, XEC (breakpoint: 17746-18656)
 XEZ	Recombinant lineage of MC.6, XEC (breakpoint: 15373-17333), from sars-cov-2-variants/lineage-proposals#2272
 XFA	Recombinant lineage of MC.1.1.1, XEC.4.1 (breakpoint: 13298-14219), from #2878
 XFB	Recombinant lineage of MC.24, XDY.1.1, MC.24 (breakpoints: 19723-22110,23278-25081), from #2877
+XFB.1	ORF1a:E3906G
+XFB.2	S:R765H
+XFB.3	G29449T
 XFC	Recombinant lineage of LP.8.1.1, LF.7, LP.8.1.1 (breakpoints: 8818-12891,22120-22892), from sars-cov-2-variants/lineage-proposals#2323
 XFD	Recombinant lineage of MC.36.1, XEC (breakpoint: 19723-21626)
 XFE	Recombinant lineage of MC.37, XEC.19 (breakpoint: 19723-21626)
