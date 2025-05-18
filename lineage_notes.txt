@@ -1374,7 +1374,7 @@ PE.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1, S:S673T, from sars-cov-2-v
 MC.10.2.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.2, ORF1a:K2200R, T10033C
 MC.11	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11, C17430T
 MC.11.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.1, S:S256L, Europe, from sars-cov-2-variants/lineage-proposals#1857
-MC.11.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.2, C186T
+MC.11.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.2, C186T, T25473C
 MC.11.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.3, ORF1b:K50R
 MC.11.3.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.3.1, S:T572I, ORF1a:S1905F
 MC.12	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.12, S:G72E, from sars-cov-2-variants/lineage-proposals#1865
