@@ -1222,6 +1222,8 @@ NY.12	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.12, S:N185D, from #2926
 NY.13	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.13, C23638T
 NY.14	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.14, S:Y266H, on ORF1b:241V branch
 NY.15	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.15, ORF1a:S3344F, ORF3a:A103T
+NY.16	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.16, C12253T
+NY.16.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.16.1, S:T572I
 LP.8.1.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2, S:N487D, from sars-cov-2-variants/lineage-proposals#2199
 NW.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1, S:A1174V, ORF3a:L101F, from sars-cov-2-variants/lineage-proposals#2199
 NW.1.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.1, ORF1a:A540V, ORF1a:K1202N, Singapore
@@ -4781,6 +4783,7 @@ XEC.36	C29200T
 XEC.37	S:V1264L (G25352C)
 XEC.38	S:V1264L (G25352T)
 XEC.39	C24034T
+XEC.40	G2272A, C15540T
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
 XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
@@ -4836,12 +4839,17 @@ XFB.3	G29449T
 XFC	Recombinant lineage of LP.8.1.1, LF.7, LP.8.1.1 (breakpoints: 8818-12891,22120-22892), from sars-cov-2-variants/lineage-proposals#2323
 XFC.1	ORF1a:S1515F
 XFC.1.1	ORF1a:T283A
+XFC.1.1.1	S:K478E
+XFC.1.2	S:H207Y
+XFC.2	S:A475V
 XFD	Recombinant lineage of MC.36.1, XEC (breakpoint: 19723-21626)
 XFE	Recombinant lineage of MC.37, XEC.19 (breakpoint: 19723-21626)
 XFF	Recombinant lineage of LB.1.3, MZ.4.1 (breakpoint: 22599-22994), from sars-cov-2-variants/lineage-proposals#2373
 XFG	Recombinant lineage of LF.7, LP.8.1.2, LF.7 (breakpoints: 22894-22895, 23040-24818), from sars-cov-2-variants/lineage-proposals#2449
 XFG.1	S:R445P, from sars-cov-2-variants/lineage-proposals#2560
 XFG.2	N:V270L, ORF1b:K2557R, USA-NY, from sars-cov-2-variants/lineage-proposals#2553
+XFG.3	C13608T
+XFG.3.1	S:D1084G, ORF1a:L2122F
 XFH	Recombinant lineage of LF.7.1, XEF, LF.7.1 (breakpoints: 22133-22565, 23040-24871), from #2910
 XFH.1	C29719A, A949G
 XFH.2	C16575T, G24697A
