@@ -1307,6 +1307,7 @@ KP.2.3.3	Alias of B.1.1.529.2.86.1.1.11.1.2.3.3, S:N185T, from sars-cov-2-varian
 KP.2.3.4	Alias of B.1.1.529.2.86.1.1.11.1.2.3.4, S:445P, A15759G, C27804T, from sars-cov-2-variants/lineage-proposals#1596
 NM.1	Alias of B.1.1.529.2.86.1.1.11.1.2.3.4.1, S:G184V, S:S155I, from sars-cov-2-variants/lineage-proposals#1975
 NM.2	Alias of B.1.1.529.2.86.1.1.11.1.2.3.4.2, ORF1a:A4285V, ORF1a:T1538A
+NM.3	Alias of B.1.1.529.2.86.1.1.11.1.2.3.4.3, S:R190T, ORF1a:A540V, ORF1a:M2796I, ORF1b:V248F, ORF1b:T1230I, Brazil
 KP.2.3.5	Alias of B.1.1.529.2.86.1.1.11.1.2.3.5, S:K535T, A1087G, from sars-cov-2-variants/lineage-proposals#1645
 KP.2.3.6	Alias of B.1.1.529.2.86.1.1.11.1.2.3.6, S:T572I on a C28714T branch, from sars-cov-2-variants/lineage-proposals#1582
 KP.2.3.7	Alias of B.1.1.529.2.86.1.1.11.1.2.3.7, ORF1a:T2121A
