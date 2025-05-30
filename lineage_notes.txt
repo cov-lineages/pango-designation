@@ -4820,7 +4820,11 @@ XEK.2	ORF3a:A23S, from sars-cov-2-variants/lineage-proposals#2179
 XEK.3	ORF1b:P970L, ORF1b:T1511I
 XEK.4	S:S680F, from sars-cov-2-variants/lineage-proposals#2088
 XEK.5	C478T
+XEK.5.1	S:A262D
+XEK.5.2	S:R346T
 XEK.6	S:Y1155F, from sars-cov-2-variants/lineage-proposals#2088
+XEK.7	C27429T
+XEK.8	S:T572I
 XEL	Recombinant lineage of KS.1.1.2, JN.1 (breakpoint: 22929-24820), South Korea, from #2751
 XEL.1	S:V1264L(G25352T), from sars-cov-2-variants/lineage-proposals#2284
 XEL.2	S:V159I, Russia, from #2854
