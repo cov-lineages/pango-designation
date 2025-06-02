@@ -1804,7 +1804,6 @@ MB.1.1.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1, ORF1a:T224I, India
 MV.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1, S:K478T, India
 MV.1.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1, ORF1b:K2557R, from sars-cov-2-variants/lineage-proposals#2149
 MV.1.1.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1, S:M153I, S:P807S, S:H445P, from sars-cov-2-variants/lineage-proposals#2437
-MV.1.1.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1, S:M153I, S:P807S, S:H445P, from sars-cov-2-variants/lineage-proposals#2437
 PS.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1.1, S:A397V
 PS.2	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1.2, S:N149D, S:R683Q
 MV.1.2	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.2, S:Q183H
