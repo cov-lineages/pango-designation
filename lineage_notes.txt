@@ -1615,7 +1615,7 @@ LF.7.1.9	Alias of B.1.1.529.2.86.1.1.16.1.7.1.9, S:K478T (rev)
 LF.7.1.10	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10, S:H445P, C16767T, the non-PL.1 branch gains M>I mutation in insertion sector(S:ins16IPLF)
 PL.1	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.1, S:A475V, C26873T (S:ins16MPLF not mutated)
 PL.1.1	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.1.1, S:T345S, ORF1b:K469N
-PL.2	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.2, S:K478I, ORF1b:K2557R, on S:ins16IPLF branch
+PL.2	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.2, S:L5F, S:K478I, ORF1b:K2557R, on S:ins16IPLF branch
 LF.7.1.11	Alias of B.1.1.529.2.86.1.1.16.1.7.1.11, S:Q493E, ORF1a:G1125C
 LF.7.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2, T20799C
 LF.7.2.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1, S:A475V, from sars-cov-2-variants/lineage-proposals#2067
