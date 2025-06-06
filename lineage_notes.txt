@@ -4878,6 +4878,7 @@ XFJ	Recombinant lineage of LS.2, LF.7.2, LS.2, LF.7.2 (breakpoints: 8818-12892, 
 XFJ.1	G12769T
 XFJ.2	G18903A
 XFJ.3	S:V1264L
+XFJ.4	S:K150N, S:K478T (rev)
 XFK	Recombinant lineage of KP.3.1.1, XEC.5 (breakpoints: 17503-19722), from sars-cov-2-variants/lineage-proposals#2514
 XFL	Recombinant lineage of XEU, XEC.18 (breakpoint: 24377-27994), from sars-cov-2-variants/lineage-proposals#2528
 XFM	Recombinant lineage of LF.7.6.2, LS.2 (breakpoints: 22600-22892), from #2928
