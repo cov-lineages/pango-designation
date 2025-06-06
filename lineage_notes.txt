@@ -1159,6 +1159,7 @@ NL.13	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.13, S:I934V, S:T572I, from sars-cov-
 NL.14	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.14, ORF1a:H2092Y, on ORF1a:del82-86 branch
 NL.15	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.15, C9532T, C29635T, after ORF1a:T1429I, on ORF1a:del82-86 branch
 NL.16	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.16, ORF1b:M2024T, ORF3a:L41P
+NL.16.1	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.16.1, S:K478T (rev)
 NL.17	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.17, S:C1243F, ORF1b:K2557R
 NL.18	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.18, ORF8:S67F
 NL.19	Alias of B.1.1.529.2.86.1.1.9.2.1.3.1.19, S:T572I
@@ -1938,6 +1939,8 @@ BA.2.87.1	Alias of B.1.1.529.2.87.1, saltation with 15+ spike AA mutations, Sout
 BA.3	Alias of B.1.1.529.3, from #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from #540
 BA.3.2	Alias of B.1.1.529.3.2, saltation with ~40 spike AA substitutions, South Africa, from #2909
+BA.3.2.1	Alias of B.1.1.529.3.2.1, S:H681R, S:P1162R
+BA.3.2.2	Alias of B.1.1.529.3.2.2, S:K356T, S:A575S
 BA.4	Alias of B.1.1.529.4, from #517
 BA.4.1	Alias of B.1.1.529.4.1, mainly found in South Africa, from #548
 BA.4.1.1	Alias of B.1.1.529.4.1.1, mainly found in South Africa and Germany, from #667
