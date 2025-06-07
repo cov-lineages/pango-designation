@@ -1629,6 +1629,8 @@ LF.7.2.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1, S:A475V, from sars-cov-2-varian
 PC.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.1, S:N137K, from #2863
 PC.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2, ORF3a:V13L, from sars-cov-2-variants/lineage-proposals#2456
 PC.2.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.1, ORF1a:P1921L, Singapore
+PC.2.1.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.1.1, ORF1b:Q1393R
+PC.2.1.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.1.2, ORF1a:L3116F
 PC.2.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.2, ORF1a:P971L, ORF1b:Q2252K, Singapore
 PC.2.3	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.3, T4165C
 PC.3	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3, ORF1a:R287G
@@ -1636,6 +1638,7 @@ PC.3.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3.1, N:R204Q
 PC.3.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3.2, S:F817L
 PC.4	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.4, ORF3a:K21N
 PC.4.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.4.1, C13620T
+PC.4.1.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.4.1.1, S:R182T, Brazil
 LF.7.3	Alias of B.1.1.529.2.86.1.1.16.1.7.3, C17436T
 LF.7.3.1	Alias of B.1.1.529.2.86.1.1.16.1.7.3.1, S:A475V, from sars-cov-2-variants/lineage-proposals#2067
 LF.7.3.2	Alias of B.1.1.529.2.86.1.1.16.1.7.3.2, S:T385I, from sars-cov-2-variants/lineage-proposals#2371
