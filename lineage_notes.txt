@@ -1659,6 +1659,9 @@ LF.7.8	Alias of B.1.1.529.2.86.1.1.16.1.7.8, S:H445P, S:T676N, ORF1a:K3353R, T22
 LF.7.9	Alias of B.1.1.529.2.86.1.1.16.1.7.9, S:L441R, S:H445P, S:A475V, from sars-cov-2-variants/lineage-proposals#2473
 LF.7.9.1	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1, ORF3a:G44E, C9592T, C15660T, C4586T
 LF.7.9.2	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2, ORF1a:A2279T, ORF7a:F13L
+PW.1	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2.1, S:T572I
+PW.2	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2.2, ORF1a:S1221P, ORF1a:D2980G
+LF.7.9.3	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2, ORF1b:T310I, M:L29F
 LF.7.10	Alias of B.1.1.529.2.86.1.1.16.1.7.10, C3688T, with T22993C reversion
 LF.7.10.1	Alias of B.1.1.529.2.86.1.1.16.1.7.10.1, S:H445P, S:T572I
 LF.8	Alias of B.1.1.529.2.86.1.1.16.1.8, S:M153I, C3244T, A18432T, C27110T, from sars-cov-2-variants/lineage-proposals#1863
