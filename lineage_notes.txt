@@ -1399,6 +1399,9 @@ PA.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.1.3, C2416T, A10984G
 PA.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.1.4, T7153C, on branch with S:A899S
 PA.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.2, N:A155S, C21727T, C25276T
 PA.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.3, ORF1a:H3580Y
+PA.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.4, ORF1a:S212L
+PA.4.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.4.1, S:N658D
+PA.4.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1.4.2, S:E1202Q
 MC.10.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.2, N:A90V
 MC.10.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.3, N:T379I
 MC.10.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.4, ORF7b:S31L, Europe
@@ -1436,6 +1439,7 @@ MC.17.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.17.1, S:R346T, from #2782
 MC.18	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.18, S:N185D, ORF1a:G465S, Spain/Canada, from sars-cov-2-variants/lineage-proposals#2075
 MC.19	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.19, S:R346T, from sars-cov-2-variants/lineage-proposals#1809
 MC.19.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.19.1, S:H445R
+MC.19.1.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.19.1.1, S:R190S, Brazil
 MC.20	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.20, S:K182E, ORF1a:K1655N, Australia, from sars-cov-2-variants/lineage-proposals#2085
 MC.21	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.21, C829T
 MC.21.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.21.1, S:A435S, from sars-cov-2-variants/lineage-proposals#2077
@@ -1474,6 +1478,8 @@ MC.39	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.39, ORF3a:A39T, Japan
 MC.40	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.40, T16251C
 MC.40.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.40.1, S:T345S, from sars-cov-2-variants/lineage-proposals#2394
 MC.41	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.41, S:R346T, S:R765L, T6322C, G19962A
+MC.42	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.42, C19983T
+MC.43	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.43, T5188C
 KP.3.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.2, S:S151I，from sars-cov-2-variants/lineage-proposals#1589
 KP.3.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.3, S:S31F,from sars-cov-2-variants/lineage-proposals#1576
 KP.3.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.4, ORF1b:P1675S,from #2627
@@ -4777,6 +4783,9 @@ XEC.16	S:T678I, from sars-cov-2-variants/lineage-proposals#2088
 XEC.17	S:T95I, on ORF1a:A599T branch, Israel, from #2879
 XEC.18	G28378T (ORF9b:R32L), from #2813
 XEC.18.1	S:S680Y, ORF1a:L1249F
+XEC.18.2	S:A435S, ORF7a:L96P
+XEC.18.3	S:S680A
+XEC.18.4	S:K679T
 XEC.19	C4423T
 XEC.20	ORF1a:T1000I
 XEC.20.1	S:A435S, S:S704L, Japan, from sars-cov-2-variants/lineage-proposals#2088
