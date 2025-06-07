@@ -4689,7 +4689,13 @@ NB.1.7	Alias of XDV.1.5.1.1.7, S:T572I, from sars-cov-2-variants/lineage-proposa
 NB.1.8	Alias of XDV.1.5.1.1.8, S:Q493E, from sars-cov-2-variants/lineage-proposals#2431
 NB.1.8.1	Alias of XDV.1.5.1.1.8.1, S:A435S, from sars-cov-2-variants/lineage-proposals#2431
 PQ.1	Alias of XDV.1.5.1.1.8.1.1, ORF1b:S997P
+PQ.1.1	Alias of XDV.1.5.1.1.8.1.1.1, N:R204P
 PQ.2	Alias of XDV.1.5.1.1.8.1.2, ORF3a:W193R
+PQ.3	Alias of XDV.1.5.1.1.8.1.3, N:H300Y, N:G321S
+PQ.4	Alias of XDV.1.5.1.1.8.1.4, C2842T
+PQ.5	Alias of XDV.1.5.1.1.8.1.5, ORF3a:L94F
+PQ.6	Alias of XDV.1.5.1.1.8.1.6, C15720T
+PQ.7	Alias of XDV.1.5.1.1.8.1.7, ORF1b:P309L
 XDV.1.6	S:K478T, S:A263T, ORF1a:V1783I, ORF1a:E1209D
 XDV.1.7	ORF1a:D2980N, C8950T, China
 XDV.1.7.1	S:T22N, S:V62F, C5173T, from sars-cov-2-variants/lineage-proposals#1966
@@ -4821,6 +4827,7 @@ XEK.1.1	S:S680P, from sars-cov-2-variants/lineage-proposals#2179
 XEK.1.2	ORF1a:P2144L
 XEK.1.2.1	S:R765L
 XEK.2	ORF3a:A23S, from sars-cov-2-variants/lineage-proposals#2179
+XEK.2.1	S:V1264L
 XEK.3	ORF1b:P970L, ORF1b:T1511I
 XEK.4	S:S680F, from sars-cov-2-variants/lineage-proposals#2088
 XEK.5	C478T
