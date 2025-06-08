@@ -49,13 +49,13 @@ jobs:
             touch $SCRIPT_DIR/{$STREAM_DIR,$MAPPING_DIR}/{cov-lineages_pango-designation,sars-cov-2-variants_lineage-proposals}.json
             
     - name: Upload Stream Artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: ${{ env.STREAM_NAME }}
         path: ${{ env.SCRIPT_DIR }}/${{ env.STREAM_DIR }}
 
     - name: Upload Mapping Artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: ${{ env.MAPPING_NAME }}
         path: ${{ env.SCRIPT_DIR }}/${{ env.MAPPING_DIR }}
@@ -182,13 +182,13 @@ jobs:
             echo "Request Finished"
           
     - name: Upload Stream Artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: ${{ env.STREAM_NAME }}
         path: ${{ env.SCRIPT_DIR }}/${{ env.STREAM_DIR }}
 
     - name: Upload Mapping Artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: ${{ env.MAPPING_NAME }}
         path: ${{ env.SCRIPT_DIR }}/${{ env.MAPPING_DIR }}
