@@ -1398,6 +1398,7 @@ MC.8.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.8.1, S:T572I, from sars-cov-2-vari
 MC.9	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.9, ORF3a:K75N, ORF1b:A1219S, from sars-cov-2-variants/lineage-proposals#1788
 MC.9.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.9.1, S:T638R, from sars-cov-2-variants/lineage-proposals#2064
 MC.9.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.9.2, S:T572I, S:T345S
+MC.9.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.9.3, S:T430I, USA
 MC.10	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10, C16332T
 MC.10.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1, S:A435S, ORF9b:R47H, from sars-cov-2-variants/lineage-proposals#1946
 MC.10.1.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.1, T22501C
@@ -4780,6 +4781,9 @@ XEC.2.3.1	S:G181V, from sars-cov-2-variants/lineage-proposals#2104
 XEC.2.4	S:T572I, S:R681H, Australia
 XEC.2.5	S:R765L
 XEC.2.6	N:S37P, ORF1b:M1677I
+XEC.2.8	ORF1b:P1851S
+XEC.2.9	ORF1b:I1227M
+XEC.2.10	S:G75R
 XEC.3	S:E1202Q, from sars-cov-2-variants/lineage-proposals#2088
 XEC.4	S:T572I, most with ORF1a:T2016I, from sars-cov-2-variants/lineage-proposals#2087
 XEC.4.1	T23584C, C27294T, C29353T, Australia
@@ -4831,6 +4835,7 @@ XEC.20.1	S:A435S, S:S704L, Japan, from sars-cov-2-variants/lineage-proposals#208
 XEC.21	S:T572I, C2788T, USA, from #2891
 XEC.22	S:K679R, C25521T, from sars-cov-2-variants/lineage-proposals#2088
 XEC.23	T26540C
+XEC.23.1	S:T345S, ORF1a:A3620V, Wales
 XEC.24	C28849T
 XEC.24.1	S:T345S, from sars-cov-2-variants/lineage-proposals#2088
 XEC.25	C10228T
@@ -4859,6 +4864,7 @@ XEC.37	S:V1264L (G25352C)
 XEC.38	S:V1264L (G25352T)
 XEC.39	C24034T
 XEC.40	G2272A, C15540T
+XEC.41	ORF1a:E931D
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
 XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
