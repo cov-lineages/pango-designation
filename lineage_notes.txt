@@ -4948,10 +4948,13 @@ XFE	Recombinant lineage of MC.37, XEC.19 (breakpoint: 19723-21626)
 XFF	Recombinant lineage of LB.1.3, MZ.4.1 (breakpoint: 22599-22994), from sars-cov-2-variants/lineage-proposals#2373
 XFF.1	S:A435S
 XFG	Recombinant lineage of LF.7, LP.8.1.2, LF.7 (breakpoints: 22894-22895, 23040-24818), from sars-cov-2-variants/lineage-proposals#2449
-XFG.1	S:R445P, from sars-cov-2-variants/lineage-proposals#2560
-XFG.2	N:V270L, ORF1b:K2557R, USA-NY, from sars-cov-2-variants/lineage-proposals#2553
+XFG.1	S:E96D, S:R445P, from sars-cov-2-variants/lineage-proposals#2560
+XFG.2	N:V270L, ORF1b:K2557R, on C20178T branch, USA-NY, from sars-cov-2-variants/lineage-proposals#2553
 XFG.3	C13608T
 XFG.3.1	S:D1084G, ORF1a:L2122F
+XFG.4	C683T, on C20178T branch
+XFG.5	C10039T, on C20178T branch
+XFG.6	S:L441I, on C20178T branch
 XFH	Recombinant lineage of LF.7.1.13, XEF, LF.7.1.13 (breakpoints: 22133-22565, 23040-24871), from #2910
 XFH.1	C29719A, A949G
 XFH.2	C16575T, G24697A
