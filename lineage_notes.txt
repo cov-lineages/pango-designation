@@ -4965,6 +4965,7 @@ XFL	Recombinant lineage of XEU, XEC.18 (breakpoint: 24377-27994), from sars-cov-
 XFM	Recombinant lineage of LF.7.6.2, LS.2.1.1 (breakpoints: 22600-22892), from #2928
 XFN	Recombinant lineage of XEC.25.1, LF.7, XEC.25.1 (breakpoints: 16601-18656, 22600-22864), from sars-cov-2-variants/lineage-proposals#2562
 XFP	Recombinant lineage of LS.2.1.1, LF.7, LS.2.1.1 (breakpoints: 8819-12891, 22133-22883), from #2969
+XFP.1	S:N477D, India
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
