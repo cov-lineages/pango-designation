@@ -4783,6 +4783,13 @@ XDY.5	G18756A
 XDY.5.1	S:T572I, USA
 XDY.6	ORF3a:I35T
 XDY.7	C6781T
+XDY.8	C23086T
+XDY.9	ORF7a:L96F
+XDY.10	ORF1a:C720F, ORF1a:A1679V
+XDY.11	N:G18S
+XDY.12	ORF1a:V1866I
+XDY.12.1	S:A435S
+XDY.12.1.1	S:K150E
 XDZ	Recombinant lineage of JG.3 and JN.1.1.10 (breakpoint between 11043-12788), Europe/North America, from sars-cov-2-variants/lineage-proposals#1356
 XEA	Recombinant lineage of JN.1.63.1 and EG.5 (breakpoint between 27057-27915), East Asia
 XEB	Recombinant lineage of FL.15, JN.1.4+T18453C, FL.15 (breakpoints at 774-896 and 26834-27809), USA, from sars-cov-2-variants/lineage-proposals#1290
