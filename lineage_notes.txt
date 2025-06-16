@@ -1695,6 +1695,7 @@ LF.7.8	Alias of B.1.1.529.2.86.1.1.16.1.7.8, S:H445P, S:T676N, ORF1a:K3353R, T22
 LF.7.9	Alias of B.1.1.529.2.86.1.1.16.1.7.9, S:L441R, S:H445P, S:A475V, from sars-cov-2-variants/lineage-proposals#2473
 LF.7.9.1	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1, ORF3a:G44E, C9592T, C15660T, C4586T
 PY.1	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1, A10978T, C19029T, T27484C, India
+PY.1.1	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.1, S:K679R, ORF1a:A486V, G8863A, India
 PY.2	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.2, ORF1a:R226K, Pakistan/India
 PY.3	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.3, C17850T
 PY.4	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.4, S:L335F, C22624T
