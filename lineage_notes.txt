@@ -1688,6 +1688,7 @@ QC.1	Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.1 S:K478T (rev), C29675T
 QC.2	Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.2, S:D1153A, ORF1a:V2356A
 QC.3	Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.3, S:P251S
 QC.4	Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.4, N:R41Q
+QC.5	Alias of B.1.1.529.2.86.1.1.16.1.7.6.2.5, S:K478L, ORF1a:L747F, ORF1a:P1213L, ORF1a:S2500F, France
 LF.7.7	Alias of B.1.1.529.2.86.1.1.16.1.7.7, ORF1a:R1225I
 LF.7.7.1	Alias of B.1.1.529.2.86.1.1.16.1.7.7.1, S:T572I, Peru, from sars-cov-2-variants/lineage-proposals#2215
 PV.1	Alias of B.1.1.529.2.86.1.1.16.1.7.7.1.1, S:S680P, ORF1b:K134R
