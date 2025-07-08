@@ -4981,6 +4981,9 @@ XFG.4	C683T, on C20178T branch
 XFG.5	C10039T, on C20178T branch
 XFG.6	S:L441I, on C20178T branch, from sars-cov-2-variants/lineage-proposals#2621
 XFG.7	N:K65I, ORF9b:N62Y, on C20178T branch, from #3001
+XFG.8	T17610C, C19170T, A20163G
+XFG.9	ORF1a:G2499S
+XFG.10	T979A
 XFH	Recombinant lineage of LF.7.1.13, XEF, LF.7.1.13 (breakpoints: 22133-22565, 23040-24871), from #2910
 XFH.1	C29719A, A949G
 XFH.2	C16575T, G24697A
