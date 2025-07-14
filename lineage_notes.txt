@@ -4787,6 +4787,7 @@ PQ.20	Alias of XDV.1.5.1.1.8.1.20, S:G181A
 PQ.21	Alias of XDV.1.5.1.1.8.1.21, S:A234S, Malaysia/Singapore
 PQ.22	Alias of XDV.1.5.1.1.8.1.22, S:R681H
 PQ.23	Alias of XDV.1.5.1.1.8.1.23, S:A688V
+PQ.24	Alias of XDV.1.5.1.1.8.1.24, S:I210T, from #3013
 XDV.1.6	S:K478T, S:A263T, ORF1a:V1783I, ORF1a:E1209D
 XDV.1.7	ORF1a:D2980N, C8950T, China
 XDV.1.7.1	S:T22N, S:V62F, C5173T, from sars-cov-2-variants/lineage-proposals#1966
