@@ -1718,6 +1718,7 @@ PW.2	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2.2, ORF1a:S1221P, ORF1a:D2980G
 LF.7.9.3	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2, ORF1b:T310I, M:L29F
 LF.7.10	Alias of B.1.1.529.2.86.1.1.16.1.7.10, C3688T, with T22993C reversion
 LF.7.10.1	Alias of B.1.1.529.2.86.1.1.16.1.7.10.1, S:H445P, S:T572I, from sars-cov-2-variants/lineage-proposals#2542
+LF.7.11	Alias of B.1.1.529.2.86.1.1.16.1.7.11, S:H445P, S:K478T (rev), note: for now define broadly not requiring S:G946R
 LF.8	Alias of B.1.1.529.2.86.1.1.16.1.8, S:M153I, C3244T, A18432T, C27110T, from sars-cov-2-variants/lineage-proposals#1863
 LF.8.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1, S:S31F, from sars-cov-2-variants/lineage-proposals#1863
 LF.8.1.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1, S:T22N, from sars-cov-2-variants/lineage-proposals#1863
@@ -4767,7 +4768,9 @@ PQ.5	Alias of XDV.1.5.1.1.8.1.5, ORF3a:L94F, from sars-cov-2-variants/lineage-pr
 PQ.6	Alias of XDV.1.5.1.1.8.1.6, C15720T
 PQ.7	Alias of XDV.1.5.1.1.8.1.7, ORF1b:P309L
 PQ.8	Alias of XDV.1.5.1.1.8.1.8, C25836T
+PQ.8.1	Alias of XDV.1.5.1.1.8.1.8.1, S:I478T
 PQ.9	Alias of XDV.1.5.1.1.8.1.9, T15843A, C22987T, China
+PQ.9.1	Alias of XDV.1.5.1.1.8.1.9.1, S:I478T (rev)
 PQ.10	Alias of XDV.1.5.1.1.8.1.10, T7492C
 PQ.10.1	Alias of XDV.1.5.1.1.8.1.10.1, S:I478T (rev), from sars-cov-2-variants/lineage-proposals#2594
 PQ.11	Alias of XDV.1.5.1.1.8.1.11, ORF1a:D1229G
@@ -4778,6 +4781,12 @@ PQ.14	Alias of XDV.1.5.1.1.8.1.14, C3619T
 PQ.15	Alias of XDV.1.5.1.1.8.1.15, ORF1a:T1773I
 PQ.16	Alias of XDV.1.5.1.1.8.1.16, C10156T
 PQ.17	Alias of XDV.1.5.1.1.8.1.17, S:I478T (rev) on polytomy, from sars-cov-2-variants/lineage-proposals#2594
+PQ.18	Alias of XDV.1.5.1.1.8.1.18, S:S680F
+PQ.19	Alias of XDV.1.5.1.1.8.1.19, S:T51A, S:R346K
+PQ.20	Alias of XDV.1.5.1.1.8.1.20, S:G181A
+PQ.21	Alias of XDV.1.5.1.1.8.1.21, S:A234S, Malaysia/Singapore
+PQ.22	Alias of XDV.1.5.1.1.8.1.22, S:R681H
+PQ.23	Alias of XDV.1.5.1.1.8.1.23, S:A688V
 XDV.1.6	S:K478T, S:A263T, ORF1a:V1783I, ORF1a:E1209D
 XDV.1.7	ORF1a:D2980N, C8950T, China
 XDV.1.7.1	S:T22N, S:V62F, C5173T, from sars-cov-2-variants/lineage-proposals#1966
@@ -4996,6 +5005,7 @@ XFG.11	ORF7a:P34L
 XFG.12	ORF1b:T1453I
 XFG.13	S:A67V, ORF1a:T4090I, ORF1a:I4175V, ORF1b:L2017F
 XFG.14	S:K529T, S:V1264L, ORF1a:Q998H, ORF1a:H2092Y
+XFG.15	S:R681H, ORF1b:A1525S, ORF1b:T2432I
 XFH	Recombinant lineage of LF.7.1.13, XEF, LF.7.1.13 (breakpoints: 22133-22565, 23040-24871), from #2910
 XFH.1	C29719A, A949G
 XFH.2	C16575T, G24697A
