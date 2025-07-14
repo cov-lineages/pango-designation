@@ -4996,6 +4996,7 @@ XFG.3.3	S:S680F, on C10615T branch
 XFG.3.4	C18885T, T28822G, on C10615T branch
 XFG.3.4.1	S:S680P, on T15762C branch
 XFG.4	C683T, on C20178T branch
+XFG.4.1	ORF1b:S997L, India
 XFG.5	C10039T, on C20178T branch
 XFG.6	S:L441I, on C20178T branch, from sars-cov-2-variants/lineage-proposals#2621
 XFG.7	N:K65I, ORF9b:N62Y, on C20178T branch, from #3001
