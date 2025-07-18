@@ -1220,6 +1220,11 @@ NY.3	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3, S:R765L, from #2874
 NY.3.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1, ORF1a:T4311I
 NY.3.1.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.1, S:K444R, S:A475V, from sars-cov-2-variants/lineage-proposals#2615
 NY.3.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.2, S:K478E, from sars-cov-2-variants/lineage-proposals#2199
+NY.3.3	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.3, ORF1a:T1543I
+NY.3.3.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.3.1, S:T572I
+NY.3.4	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.4, T7297A
+NY.3.5	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.5, ORF1b:T217M
+NY.3.6	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.6, S:A262V, S:K478T (rev)
 NY.4	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.4, ORF1b:V1649I
 NY.4.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.4.1, S:R765S, from sars-cov-2-variants/lineage-proposals#2199
 NY.5	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.5, ORF1a:F843Y
@@ -4798,6 +4803,7 @@ PQ.21	Alias of XDV.1.5.1.1.8.1.21, S:A234S, Malaysia/Singapore
 PQ.22	Alias of XDV.1.5.1.1.8.1.22, S:R681H
 PQ.23	Alias of XDV.1.5.1.1.8.1.23, S:A688V
 PQ.24	Alias of XDV.1.5.1.1.8.1.24, S:I210T, from #3013
+PQ.25	Alias of XDV.1.5.1.1.8.1.25, S:I1114T
 XDV.1.6	S:K478T, S:A263T, ORF1a:V1783I, ORF1a:E1209D
 XDV.1.7	ORF1a:D2980N, C8950T, China
 XDV.1.7.1	S:T22N, S:V62F, C5173T, from sars-cov-2-variants/lineage-proposals#1966
