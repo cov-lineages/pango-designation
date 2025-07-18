@@ -1285,6 +1285,8 @@ LP.8.1.12	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.12, C27944T
 LP.8.1.13	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.13, T1075C, T1537C, C15540T, T25285C
 LP.8.1.14	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.14, T10387C
 LP.8.1.15	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.15, S:K478E, ORF1a:E553K, ORF1b:G977S, Philippines, from sars-cov-2-variants/lineage-proposals#2199
+LP.8.1.16	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.16, C13115T, South Africa/Portugal
+QE.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.16.1, S:A688V
 LP.8.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.2, S:M153I, S:L176F, on ORF1b:P1452L branch, from sars-cov-2-variants/lineage-proposals#2199
 LP.8.2.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.2.1, S:A475V, ORF1a:T1246I, from sars-cov-2-variants/lineage-proposals#2199
 LP.9	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.9, S:H445P, S:L176F, ORF1a:L1191F
