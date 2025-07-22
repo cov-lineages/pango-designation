@@ -1729,6 +1729,7 @@ PY.6	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.6, ORF3a:A23V, ORF7b:L11F
 LF.7.9.2	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2, ORF1a:A2279T, ORF7a:F13L
 PW.1	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2.1, S:T572I, from sars-cov-2-variants/lineage-proposals#2552
 PW.2	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2.2, ORF1a:S1221P, ORF1a:D2980G
+PW.3	Alias of B.1.1.529.2.86.1.1.16.1.7.9.2.3, S:Q52R, Spain
 LF.7.9.3	Alias of B.1.1.529.2.86.1.1.16.1.7.9.3, ORF1b:T310I, M:L29F
 LF.7.9.4	Alias of B.1.1.529.2.86.1.1.16.1.7.9.4, ORF1a:A2139V
 LF.7.9.5	Alias of B.1.1.529.2.86.1.1.16.1.7.9.5, C12100T
