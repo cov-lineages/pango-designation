@@ -4993,6 +4993,8 @@ XEP.3	N:P80T
 XEQ	Recombinant lineage of KS.1.1.2, KP.3 (breakpoint: 22600-23038), from #2817
 XER	Recombinant lineage of KS.2, LF.7 (breakpoint: 18349-21626), from sars-cov-2-variants/lineage-proposals#2259
 XES	Recombinant lineage of KP.2.3.15, KP.3.3 (breakpoint: 22001-22598), from #2783
+XES.1	S:R346T
+XES.1.1	S:A522P
 XET	Recombinant lineage of KP.1.1.1., KP.3.1.1 (breakpoint: 20105-21652), from sars-cov-2-variants/lineage-proposals#2302
 XEU	Recombinant lineage of XEK, XEC.8 (breakpoint: 3506-5700), from sars-cov-2-variants/lineage-proposals#2298
 XEV	Recombinant lineage of KP.3.1.1, XEC.18 (breakpoint: 12617-13120), from #2813
@@ -5011,6 +5013,11 @@ XFC.1.1.1	S:K478E, from sars-cov-2-variants/lineage-proposals#2573
 XFC.1.2	S:H207Y, from sars-cov-2-variants/lineage-proposals#2572
 XFC.1.3	ORF1a:A1473V
 XFC.1.4	S:K478E
+XFC.1.5	C9541T
+XFC.1.6	ORF1a:D5130
+XFC.1.7	C4084T
+XFC.1.8	G13201T
+XFC.1.9	T26756A
 XFC.2	S:A475V, from sars-cov-2-variants/lineage-proposals#2537
 XFC.3	ORF1a:A2128T
 XFD	Recombinant lineage of MC.36.1, XEC (breakpoint: 19723-21626)
