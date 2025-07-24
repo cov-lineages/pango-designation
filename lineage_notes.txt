@@ -1475,7 +1475,7 @@ MC.17	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.17, S:A575S, C5512T, from #2782
 MC.17.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.17.1, S:R346T, from #2782
 MC.18	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.18, S:N185D, ORF1a:G465S, Spain/Canada, from sars-cov-2-variants/lineage-proposals#2075
 MC.18.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.18.1, ORF1a:A181T, ORF1b:L2560F, Canada
-MC.18.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.18.2, S:R346T, ORF!a:Y1920H, South Africa
+MC.18.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.18.2, S:R346T, ORF1a:Y1920H, South Africa
 MC.19	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.19, S:R346T, from sars-cov-2-variants/lineage-proposals#1809
 MC.19.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.19.1, S:H445R
 MC.19.1.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.19.1.1, S:R190S, Brazil, from sars-cov-2-variants/lineage-proposals#2464
