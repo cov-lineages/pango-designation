@@ -5028,6 +5028,8 @@ XFF.1	S:A435S, from sars-cov-2-variants/lineage-proposals#2531
 XFG	Recombinant lineage of LF.7, LP.8.1.2, LF.7 (breakpoints: 22894-22895, 23040-24818), from sars-cov-2-variants/lineage-proposals#2449
 XFG.1	S:E96D, S:R445P, from sars-cov-2-variants/lineage-proposals#2560
 XFG.2	N:V270L, ORF1b:K2557R, on C20178T branch, USA-NY, from sars-cov-2-variants/lineage-proposals#2553
+XFG.2.1	S:A1070V
+XFG.2.2	S:P1263L
 XFG.3	C13608T
 XFG.3.1	S:D1084G, ORF1a:L2122F, from sars-cov-2-variants/lineage-proposals#2617
 XFG.3.2	ORF1a:H1500Y, ORF1a:V2047I
@@ -5036,6 +5038,7 @@ XFG.3.4	C18885T, T28822G, on C10615T branch
 XFG.3.4.1	S:S680P, on T15762C branch
 QF.1	Alias of XFG.3.4.1.1, S:L244S, C3695T, C9979T
 XFG.3.4.2	ORF1a:A372T
+XFG.3.4.3	T24289A, on T15762C branch
 XFG.4	C683T, on C20178T branch
 XFG.4.1	ORF1b:S997L, India
 XFG.5	C10039T, on C20178T branch
@@ -5056,6 +5059,9 @@ XFG.16	ORF1a:G507S, G4354A
 XFG.17	A9970T
 XFG.18	S:L922F, C1960T
 XFG.19	S:T286I, ORF1a:T2283I, ORF1b:T239I
+XFG.20	C10615T
+XFG.21	ORF1b:V2223L 
+XFG.22	S:A958S
 XFH	Recombinant lineage of LF.7.1.13, XEF, LF.7.1.13 (breakpoints: 22133-22565, 23040-24871), from #2910
 XFH.1	C29719A, A949G
 XFH.2	C16575T, G24697A
