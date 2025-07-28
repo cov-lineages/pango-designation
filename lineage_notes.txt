@@ -1747,6 +1747,8 @@ LF.7.10	Alias of B.1.1.529.2.86.1.1.16.1.7.10, C3688T, with T22993C reversion
 LF.7.10.1	Alias of B.1.1.529.2.86.1.1.16.1.7.10.1, S:H445P, S:T572I, from sars-cov-2-variants/lineage-proposals#2542
 LF.7.10.2	Alias of B.1.1.529.2.86.1.1.16.1.7.10.2, S:K478T (rev), T24523A, Kenya
 LF.7.11	Alias of B.1.1.529.2.86.1.1.16.1.7.11, S:H445P, S:K478T (rev), note: for now define broadly not requiring S:G946R
+LF.7.12	Alias of B.1.1.529.2.86.1.1.16.1.7.12, S:A475V, ORF1b:S997P
+LF.7.12.1	Alias of B.1.1.529.2.86.1.1.16.1.7.12.1, S:H445R, S:K529N, S:T604I
 LF.8	Alias of B.1.1.529.2.86.1.1.16.1.8, S:M153I, C3244T, A18432T, C27110T, from sars-cov-2-variants/lineage-proposals#1863
 LF.8.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1, S:S31F, from sars-cov-2-variants/lineage-proposals#1863
 LF.8.1.1	Alias of B.1.1.529.2.86.1.1.16.1.8.1, S:T22N, from sars-cov-2-variants/lineage-proposals#1863
