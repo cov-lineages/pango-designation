@@ -5059,7 +5059,6 @@ XFG.16	ORF1a:G507S, G4354A
 XFG.17	A9970T
 XFG.18	S:L922F, C1960T
 XFG.19	S:T286I, ORF1a:T2283I, ORF1b:T239I
-XFG.20	C10615T
 XFG.21	ORF1b:V2223L 
 XFG.22	S:A958S
 XFH	Recombinant lineage of LF.7.1.13, XEF, LF.7.1.13 (breakpoints: 22133-22565, 23040-24871), from #2910
@@ -5372,3 +5371,4 @@ XFQ	Recombinant lineage of LF.7.1.10, XFG.3.1 (breakpoint 13609-17453), from #30
 *KP.2.14.1	Redesignated as KP.2.14: there's no good evidence for KP.2.14 lacking S:T22N in any sequences. Hence make KP.2.14.1 -> KP.2.14 and require S:T22N
 *PC.2	Redesignated as LF.7.9, S:L441R, S:H445P, Wales/Scotland, from sars-cov-2-variants/lineage-proposals#2395
 *MC.34	Withdrawn: Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.34, A29716T (29716 in UTR masked by pangolin)
+*XFG.20	Withdrawn: C10615T (didn't realize it was a dropout branch of XFG.3 when designating)
