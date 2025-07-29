@@ -1675,6 +1675,8 @@ LF.7.1.4	Alias of B.1.1.529.2.86.1.1.16.1.7.1.4, S:K529R, from sars-cov-2-varian
 PZ.1	Alias of B.1.1.529.2.86.1.1.16.1.7.1.4.1, S:K478T (rev), ORF1b:A373V, Indonesia, from sars-cov-2-variants/lineage-proposals#2513
 LF.7.1.5	Alias of B.1.1.529.2.86.1.1.16.1.7.1.5, S:K529T, from sars-cov-2-variants/lineage-proposals#2329
 LF.7.1.6	Alias of B.1.1.529.2.86.1.1.16.1.7.1.6, ORF1a:S994G, ORF3a:L85F
+QJ.1	Alias of B.1.1.529.2.86.1.1.16.1.7.1.6.1, S:H445P, N:A398V
+QJ.2	Alias of B.1.1.529.2.86.1.1.16.1.7.1.6.2, S:A475V
 LF.7.1.7	Alias of B.1.1.529.2.86.1.1.16.1.7.1.7, S:A475V, S:S680F, ORF1a:V2061F, T17124C, from sars-cov-2-variants/lineage-proposals#2474
 LF.7.1.8	Alias of B.1.1.529.2.86.1.1.16.1.7.1.8, S:T572I, from sars-cov-2-variants/lineage-proposals#2215
 QD.1	Alias of B.1.1.529.2.86.1.1.16.1.7.1.8.1, S:K478I, S:N641K, ORF1a:L1853F, ORf1a:A4285V
