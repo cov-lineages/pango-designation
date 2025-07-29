@@ -4825,6 +4825,7 @@ PQ.24	Alias of XDV.1.5.1.1.8.1.24, S:I210T, from #3013
 PQ.25	Alias of XDV.1.5.1.1.8.1.25, S:I1114T
 PQ.26	Alias of XDV.1.5.1.1.8.1.26, N:S23P
 PQ.27	Alias of XDV.1.5.1.1.8.1.27, S:D253V
+PQ.28	Alias of XDV.1.5.1.1.8.1.28, S:S98F
 XDV.1.6	S:K478T, S:A263T, ORF1a:V1783I, ORF1a:E1209D
 XDV.1.7	ORF1a:D2980N, C8950T, China
 XDV.1.7.1	S:T22N, S:V62F, C5173T, from sars-cov-2-variants/lineage-proposals#1966
