@@ -5106,7 +5106,8 @@ XFP.2	ORF1a:K636R
 XFQ	Recombinant lineage of LF.7.1.10, XFG.3.1 (breakpoint 13609-17453), from #3018
 XFR	Recombinant lineage of LF.7.3, LB.1.11.1 (breakpoint 21654-22106)
 XFS	Recombinant lineage of LF.7.1, LP.8.1.9 (breakpoint 22108-22892)
-XFT	Recombinant lineage of LF.7.7.2, LP.8.1.1 (breakpoint 21654-22106)
+XFT	Recombinant lineage of LF.7.7.2, LP.8.1.1 (breakpoint 21654-22106), from sars-cov-2-variants/lineage-proposals#2710
+XFU	Recombinant lineage of LF.7.6.2, PG.3.1 (breakpoint 22896-23039), from sars-cov-2-variants/lineage-proposals#2757
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
