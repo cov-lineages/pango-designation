@@ -4814,6 +4814,9 @@ PQ.1.4	Alias of XDV.1.5.1.1.8.1.1.4, S:T1117I, on ORF1b:V222I branch
 PQ.2	Alias of XDV.1.5.1.1.8.1.2, ORF3a:W193R, from sars-cov-2-variants/lineage-proposals#2559
 PQ.2.1	Alias of XDV.1.5.1.1.8.1.2.1, S:I478T (rev), from sars-cov-2-variants/lineage-proposals#2594
 PQ.2.2	Alias of XDV.1.5.1.1.8.1.2.2, S:H1088R, Malaysia
+PQ.2.3	Alias of XDV.1.5.1.1.8.1.2.3, S:Q677H, T20310C
+PQ.2.4	Alias of XDV.1.5.1.1.8.1.2.4, T26890C, T17449C
+PQ.2.5	Alias of XDV.1.5.1.1.8.1.2.5, ORF3a:I20T
 PQ.3	Alias of XDV.1.5.1.1.8.1.3, N:H300Y, N:G321S, from sars-cov-2-variants/lineage-proposals#2578
 PQ.4	Alias of XDV.1.5.1.1.8.1.4, C2842T
 PQ.4.1	Alias of XDV.1.5.1.1.8.1.4.1, S:T572I, S:K679N
@@ -5066,6 +5069,7 @@ XFG.3	C13608T
 XFG.3.1	S:D1084G, ORF1a:L2122F, from sars-cov-2-variants/lineage-proposals#2617
 XFG.3.1.1	ORF1b:T2171N
 XFG.3.1.2	C11653T
+QK.1	S:Q218H
 XFG.3.1.3	T29026C
 XFG.3.2	ORF1a:H1500Y, ORF1a:V2047I
 XFG.3.3	S:S680F, on C10615T branch
