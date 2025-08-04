@@ -1526,6 +1526,10 @@ MC.40.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.40.1, S:T345S, from sars-cov-2-va
 MC.41	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.41, S:R346T, S:R765L, T6322C, G19962A, from sars-cov-2-variants/lineage-proposals#2388
 MC.42	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.42, C19983T
 MC.43	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.43, T5188C
+MC.44	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.44, A20712G, C21859T
+MC.45	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.45, ORF1a:T2274I
+MC.46	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.46, C26028T
+MC.46.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.46.1, S:A435S, ORF1a:T2274I, Canada
 KP.3.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.2, S:S151I，from sars-cov-2-variants/lineage-proposals#1589
 KP.3.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.3, S:S31F,from sars-cov-2-variants/lineage-proposals#1576
 KP.3.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.4, ORF1b:P1675S,from #2627
@@ -4810,6 +4814,9 @@ PQ.1.4	Alias of XDV.1.5.1.1.8.1.1.4, S:T1117I, on ORF1b:V222I branch
 PQ.2	Alias of XDV.1.5.1.1.8.1.2, ORF3a:W193R, from sars-cov-2-variants/lineage-proposals#2559
 PQ.2.1	Alias of XDV.1.5.1.1.8.1.2.1, S:I478T (rev), from sars-cov-2-variants/lineage-proposals#2594
 PQ.2.2	Alias of XDV.1.5.1.1.8.1.2.2, S:H1088R, Malaysia
+PQ.2.3	Alias of XDV.1.5.1.1.8.1.2.3, S:Q677H, T20310C
+PQ.2.4	Alias of XDV.1.5.1.1.8.1.2.4, T26890C, T17449C
+PQ.2.5	Alias of XDV.1.5.1.1.8.1.2.5, ORF3a:I20T
 PQ.3	Alias of XDV.1.5.1.1.8.1.3, N:H300Y, N:G321S, from sars-cov-2-variants/lineage-proposals#2578
 PQ.4	Alias of XDV.1.5.1.1.8.1.4, C2842T
 PQ.4.1	Alias of XDV.1.5.1.1.8.1.4.1, S:T572I, S:K679N
@@ -5062,6 +5069,7 @@ XFG.3	C13608T
 XFG.3.1	S:D1084G, ORF1a:L2122F, from sars-cov-2-variants/lineage-proposals#2617
 XFG.3.1.1	ORF1b:T2171N
 XFG.3.1.2	C11653T
+QK.1	S:Q218H
 XFG.3.1.3	T29026C
 XFG.3.2	ORF1a:H1500Y, ORF1a:V2047I
 XFG.3.3	S:S680F, on C10615T branch
@@ -5078,8 +5086,12 @@ XFG.3.7	ORF3a:L52F, on C10615T branch
 XFG.4	C683T, on C20178T branch
 XFG.4.1	ORF1b:S997L, India
 XFG.5	C10039T, on C20178T branch
+XFG.5.1	ORF1a:T2093I
+XFG.5.2	A9079G
+XFG.5.3	S:S254F, Canada
 XFG.6	S:L441I, on C20178T branch, from sars-cov-2-variants/lineage-proposals#2621
 XFG.7	N:K65I, ORF9b:N62Y, on C20178T branch, from #3001
+XFG.7.1	ORF1a:K2029R, ORF1a:S3242G
 XFG.8	T17610C, C19170T, A20163G, on C20178T branch
 XFG.9	ORF1a:G2499S, on C20178T branch
 XFG.9.1	S:A845S, ORF1a:E745D
@@ -5094,9 +5106,12 @@ XFG.15	S:R681H, ORF1b:A1525S, ORF1b:T2432I, on C20178T branch
 XFG.16	ORF1a:G507S, ORF9b:V30A, G4354A
 XFG.17	A9970T, most with A28877T,G28878C
 XFG.18	S:L922F, C1960T
+XFG.18.1	S:L335F
 XFG.19	S:T286I, ORF1a:T2283I, ORF1b:T239I
 XFG.21	ORF1b:V2223L, on T16224C branch
 XFG.22	S:A958S, on C20178T branch
+XFG.23	ORF1a:L1546I
+XFG.23.1	S:L335F, ORF1a:I114T
 XFH	Recombinant lineage of LF.7.1.13, XEF, LF.7.1.13 (breakpoints: 22133-22565, 23040-24871), from #2910
 XFH.1	C29719A, A949G
 XFH.2	C16575T, G24697A
