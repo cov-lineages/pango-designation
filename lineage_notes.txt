@@ -4832,6 +4832,7 @@ PQ.8	Alias of XDV.1.5.1.1.8.1.8, C25836T
 PQ.8.1	Alias of XDV.1.5.1.1.8.1.8.1, S:I478T
 PQ.9	Alias of XDV.1.5.1.1.8.1.9, T15843A, C22987T, China
 PQ.9.1	Alias of XDV.1.5.1.1.8.1.9.1, S:I478T (rev)
+PQ.9.1.1	Alias of XDV.1.5.1.1.8.1.9.1.1, S:R681H, S:F939L
 PQ.10	Alias of XDV.1.5.1.1.8.1.10, T7492C
 PQ.10.1	Alias of XDV.1.5.1.1.8.1.10.1, S:I478T (rev), from sars-cov-2-variants/lineage-proposals#2594
 PQ.11	Alias of XDV.1.5.1.1.8.1.11, ORF1a:D1229G
