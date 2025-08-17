@@ -5068,6 +5068,8 @@ XFG.1	S:E96D, S:R445P, on T16224C branch, from sars-cov-2-variants/lineage-propo
 XFG.2	N:V270L, ORF1b:K2557R, on C20178T branch, USA-NY, from sars-cov-2-variants/lineage-proposals#2553
 XFG.2.1	S:A1070V
 XFG.2.2	S:P1263L
+XFG.2.3	G27621A
+XFG.2.3.1	S:N417T
 XFG.3	C13608T
 XFG.3.1	S:D1084G, ORF1a:L2122F, from sars-cov-2-variants/lineage-proposals#2617
 XFG.3.1.1	ORF1b:T2171N
