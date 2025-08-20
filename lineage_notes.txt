@@ -1721,6 +1721,7 @@ PC.3.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3.2, S:F817L, from sars-cov-2-vari
 PC.4	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.4, ORF3a:K21N
 PC.4.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.4.1, C13620T
 PC.4.1.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.4.1.1, S:R182T, Brazil, from sars-cov-2-variants/lineage-proposals#2566
+LF.7.2.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.2, C16293T, C17745T
 LF.7.3	Alias of B.1.1.529.2.86.1.1.16.1.7.3, C17436T
 LF.7.3.1	Alias of B.1.1.529.2.86.1.1.16.1.7.3.1, S:A475V, from sars-cov-2-variants/lineage-proposals#2067
 LF.7.3.2	Alias of B.1.1.529.2.86.1.1.16.1.7.3.2, S:T385I, from sars-cov-2-variants/lineage-proposals#2371
@@ -5119,6 +5120,11 @@ XFG.3.6	ORF1a:L3086F, on C10615T branch
 XFG.3.7	ORF3a:L52F, on C10615T branch
 XFG.3.8	ORF3a:E19G
 XFG.3.8.1	S:V622A 
+XFG.3.9	T7999C
+XFG.3.10	C27893T
+XFG.3.11	C15738T, Myanmar
+XFG.3.12	C556T
+XFG.3.12.1	S:A376S, ORF1a:R560C
 XFG.4	C683T, on C20178T branch
 XFG.4.1	ORF1b:S997L, India
 XFG.5	C10039T, on C20178T branch
