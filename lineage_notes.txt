@@ -4875,6 +4875,8 @@ PQ.26	Alias of XDV.1.5.1.1.8.1.26, N:S23P
 PQ.27	Alias of XDV.1.5.1.1.8.1.27, S:D253V
 PQ.28	Alias of XDV.1.5.1.1.8.1.28, S:S98F
 PQ.29	Alias of XDV.1.5.1.1.8.1.29, S:H445P, ORF1a:A859T, ORF1b:N734H, ORF1b:A1443T
+PQ.30	Alias of XDV.1.5.1.1.8.1.30, ORF1a:A3697V, ORF3a:L101F
+PQ.31	Alias of XDV.1.5.1.1.8.1.31, C19662T, C23896T
 NB.1.9	Alias of XDV.1.5.1.1.9, S:L176F, S:H445P
 NB.1.10	Alias of XDV.1.5.1.1.10, S:S680F
 NB.1.11	Alias of XDV.1.5.1.1.11, S:A958S, N:A182S, ORF1a:R1163G
@@ -5125,6 +5127,7 @@ XFG.3.10	C27893T
 XFG.3.11	C15738T, Myanmar
 XFG.3.12	C556T
 XFG.3.12.1	S:A376S, ORF1a:R560C
+XFG.3.13	S:G946R, ORF1a:L3339F
 XFG.4	C683T, on C20178T branch
 XFG.4.1	ORF1b:S997L, India
 XFG.5	C10039T, on C20178T branch
@@ -5132,6 +5135,7 @@ XFG.5.1	ORF1a:T2093I
 XFG.5.2	A9079G
 XFG.5.3	S:S254F, Canada
 XFG.6	S:L441I, on C20178T branch, from sars-cov-2-variants/lineage-proposals#2621
+XFG.6.1	S:T678I
 XFG.7	N:K65I, ORF9b:N62Y, on C20178T branch, from #3001
 XFG.7.1	ORF1a:K2029R, ORF1a:S3242G
 XFG.8	T17610C, C19170T, A20163G, on C20178T branch
@@ -5165,6 +5169,7 @@ XFH.2	C16575T, G24697A
 XFJ	Recombinant lineage of LS.2.1.1, LF.7.2, LS.2.1.1, LF.7.2 (breakpoints: 8818-12892, 22792-22893, 27414-28297), from #2928
 XFJ.1	G12769T
 XFJ.2	G18903A
+XFJ.2.1	S:K478I
 XFJ.3	S:V1264L, from sars-cov-2-variants/lineage-proposals#2604
 XFJ.4	S:K150N, S:K478T (rev)
 XFK	Recombinant lineage of KP.3.1.1, XEC.5 (breakpoints: 17503-19722), from sars-cov-2-variants/lineage-proposals#2514
@@ -5183,6 +5188,7 @@ XFS	Recombinant lineage of LF.7.1, LP.8.1.9 (breakpoint 22108-22892)
 XFT	Recombinant lineage of LF.7.7.2, LP.8.1.1 (breakpoint 21654-22106), from sars-cov-2-variants/lineage-proposals#2710
 XFU	Recombinant lineage of LF.7.6.2, PG.3.1 (breakpoint 22896-23039), from sars-cov-2-variants/lineage-proposals#2757
 XFV	Recombinant lineage of LP.8.1, XFG.3.3.1 (breakpoint 5240-7112), from sars-cov-2-variants/lineage-proposals#2749
+XFV.1	S:G252S
 XFW	Recombinant lineage of XDY.3, LF.7, XDY.3 (breakpoints 8818-12651, 22132-22865), from sars-cov-2-variants/lineage-proposals#2740
 XFW.1	S:T676P, S:R681H, ORF1b:S997L
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
