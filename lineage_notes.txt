@@ -1849,6 +1849,7 @@ MA.1.2	Alias of B.1.1.529.2.86.1.1.18.3.1.2, A9604G, C27259A (rev)
 JN.1.18.4	Alias of B.1.1.529.2.86.1.1.18.4, S:F456L (T22930G), ORF6:I60T, T23036C, Ghana from #2567
 LH.1	Alias of B.1.1.529.2.86.1.1.18.4.1, S:K182I from #2567
 LH.2	Alias of B.1.1.529.2.86.1.1.18.4.2, S:I197V, S:P251H from #2567
+LH.3	Alias of B.1.1.529.2.86.1.1.18.4.3, S:S60P
 JN.1.18.5	Alias of B.1.1.529.2.86.1.1.18.5, S:F456L (T22930A), from sars-cov-2-variants/lineage-proposals#1089
 LS.1	Alias of B.1.1.529.2.86.1.1.18.5.1, S:Y28H, S:L189A, S:184-188del, ORF1a:E940D, Senegal
 LS.2	Alias of B.1.1.529.2.86.1.1.18.5.2, T4369C, C20178T, Senegal, from sars-cov-2-variants/lineage-proposals#2346
