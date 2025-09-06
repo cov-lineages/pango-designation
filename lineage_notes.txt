@@ -5205,6 +5205,7 @@ XFQ	Recombinant lineage of LF.7.1.10, XFG.3.1 (breakpoint 13609-17453), from #30
 XFR	Recombinant lineage of LF.7.3, LB.1.11.1 (breakpoint 21654-22106)
 XFS	Recombinant lineage of LF.7.1, LP.8.1.9 (breakpoint 22108-22892)
 XFT	Recombinant lineage of LF.7.7.2, LP.8.1.1 (breakpoint 21654-22106), from sars-cov-2-variants/lineage-proposals#2710
+XFT.1	S:A475V
 XFU	Recombinant lineage of LF.7.6.2, PG.3.1 (breakpoint 22896-23039), from sars-cov-2-variants/lineage-proposals#2757
 XFV	Recombinant lineage of LP.8.1, XFG.3.3.1 (breakpoint 5240-7112), from sars-cov-2-variants/lineage-proposals#2749
 XFV.1	S:G252S
