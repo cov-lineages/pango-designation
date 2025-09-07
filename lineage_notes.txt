@@ -4866,6 +4866,7 @@ PQ.14	Alias of XDV.1.5.1.1.8.1.14, C3619T
 PQ.15	Alias of XDV.1.5.1.1.8.1.15, ORF1a:T1773I
 PQ.16	Alias of XDV.1.5.1.1.8.1.16, C10156T
 PQ.17	Alias of XDV.1.5.1.1.8.1.17, S:I478T (rev) on polytomy, from sars-cov-2-variants/lineage-proposals#2594
+PQ.17.1	Alias of XDV.1.5.1.1.8.1.17.1, C7834T, C29708T
 PQ.18	Alias of XDV.1.5.1.1.8.1.18, S:S680F
 PQ.19	Alias of XDV.1.5.1.1.8.1.19, S:T51A, S:R346K
 PQ.20	Alias of XDV.1.5.1.1.8.1.20, S:G181A
