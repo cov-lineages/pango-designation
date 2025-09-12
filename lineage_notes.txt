@@ -4849,6 +4849,10 @@ PQ.2.5	Alias of XDV.1.5.1.1.8.1.2.5, ORF3a:I20T
 PQ.3	Alias of XDV.1.5.1.1.8.1.3, N:H300Y, N:G321S, from sars-cov-2-variants/lineage-proposals#2578
 PQ.4	Alias of XDV.1.5.1.1.8.1.4, C2842T
 PQ.4.1	Alias of XDV.1.5.1.1.8.1.4.1, S:T572I, S:K679N
+PQ.4.2	Alias of XDV.1.5.1.1.8.1.4.2, S:A522P
+PQ.4.3	Alias of XDV.1.5.1.1.8.1.4.3, S:V193L
+PQ.4.4	Alias of XDV.1.5.1.1.8.1.4.4, ORF1a:Y3685C
+PQ.4.5	Alias of XDV.1.5.1.1.8.1.4.5, ORF1a:P971L
 PQ.5	Alias of XDV.1.5.1.1.8.1.5, ORF3a:L94F, from sars-cov-2-variants/lineage-proposals#2577
 PQ.5.1	Alias of XDV.1.5.1.1.8.1.5.1, ORF3a:A99S, ORF8:T87I, after ORF3a:P42L
 PQ.5.1.1	Alias of XDV.1.5.1.1.8.1.5.1.1, S:K150N
@@ -5147,6 +5151,8 @@ XFG.3.15	G28681A
 XFG.3.16	C3565T (rev), C25096T
 XFG.4	C683T, on C20178T branch
 XFG.4.1	ORF1b:S997L, India
+XFG.4.1.1	S:S680Y
+XFG.4.2	S:K1191R
 XFG.5	C10039T, on C20178T branch
 XFG.5.1	ORF1a:T2093I
 XFG.5.1.1	S:A688V, ORF3a:I37T, England/Wales
