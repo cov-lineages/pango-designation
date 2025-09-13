@@ -1266,6 +1266,14 @@ NY.17.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.17.2, S:N477D, on ORF1a:E93
 NY.18	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.18, ORF1b:L1681F, T16077C, G26840A
 NY.18.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.18.1, S:K147N, ORF1a:D1639N, from sars-cov-2-variants/lineage-proposals#2199
 NY.19	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.19, S:T572I
+NY.20	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.20, ORF1a:S692F, ORF1a:A1049V, Spain
+NY.20.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.20.1, S:M153V, Spain
+NY.21	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.21, ORF1b:T2488M
+NY.22	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.22, ORF3a:S26L
+NY.23	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.23, ORF3a:L101F
+NY.24	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.24, ORF1b:A520V
+NY.25	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.25, C13255T
+NY.25.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.25.1, S:K147E, ORF1a:A967V
 LP.8.1.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2, S:N487D, from sars-cov-2-variants/lineage-proposals#2199
 NW.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1, S:A1174V, ORF3a:L101F, from sars-cov-2-variants/lineage-proposals#2199
 NW.1.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.1, ORF1a:A540V, ORF1a:K1202N, Singapore
@@ -1466,11 +1474,19 @@ MC.10.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2, S:I101T, S:A376D, ORF1a:K33
 MC.10.2.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1, S:K679R, ORf7a:A105S, Australia/New Zealand, from #2862
 PE.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1, S:S673T, from sars-cov-2-variants/lineage-proposals#2409
 PE.1.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.1, S:S255F, New Zealand/Australia
+PE.1.1.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.1.1, S:D253H
 PE.1.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.2, S:E1150D, Australia
 PE.1.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.3, ORF1a:E775K, ORF1a:L1191V, South Korea
-PE.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.4, S:H445P, ORF7a:T28I, ORF1a:del84-85, Australia, from sars-cov-2-variants/lineage-proposals#2650
+PE.1.4	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.4, S:H445P, ORF1a:del84-85, on ORF7a:T28I branch, Australia, from sars-cov-2-variants/lineage-proposals#2650
+PE.1.4.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.4.1, S:V1176F, Australia
+PE.1.4.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.4.2, ORF1a:H2659Y, ORF8:Q72H, Australia
 PE.1.5	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.5, S:T716I, New Zealand
+PE.1.6	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.6, C11050T, Australia
+PE.1.7	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.1.7, S:H445P, S:T547K, ORF1a:R77Q, ORF1a:A3454V, on ORF7a:T28I branch, Australia
+PE.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.2, ORF1a:E632G, New Zealand
+PE.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1.3, N:T362I, ORF1a:S1510F, ORF7a:T28I, New Zealand
 MC.10.2.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.2, ORF1a:K2200R, T10033C, from sars-cov-2-variants/lineage-proposals#2015
+QP.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.2.1, ORF1a:A3523V, T7402C, C17676T
 MC.10.2.3	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.3, S:Q1201H, ORF1b:P1427S, England
 MC.11	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11, C17430T
 MC.11.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.11.1, S:S256L, Europe, from sars-cov-2-variants/lineage-proposals#1857
@@ -5030,6 +5046,8 @@ XEC.38	S:V1264L (G25352T), from sars-cov-2-variants/lineage-proposals#2088
 XEC.39	C24034T
 XEC.40	G2272A, C15540T
 XEC.41	ORF1a:E931D
+XEC.42	N:G214S, ORF1a:M2365I, ORF1b:H1550R
+XEC.43	ORF1a:C2210F
 XED	Recombinant lineage of JN.1.4 and LF.1.1.1 (breakpoint 19210-21652), from #2691
 XEE	Recombinant lineage of KP.2.3.7 and JN.1* (breakpoint 24873-25592), from #2721
 XEF	Recombinant lineage of LB.1.4 and KP.3 (breakpoint 22600-23038), from sars-cov-2-variants/lineage-proposals#1855
@@ -5229,6 +5247,7 @@ XFW	Recombinant lineage of XDY.3, LF.7, XDY.3 (breakpoints 8818-12651, 22132-228
 XFW.1	S:T676P, S:R681H, ORF1b:S997L
 XFY	Recombinant lineage of XFG.5.1, NB.1.8.1 (breakpoint 25793-28432) with extra S:Q677H, from sars-cov-2-variants/lineage-proposals#2837
 XFZ	Recombinant lineage of XFC.3, PG.3.2 (breakpoint 23600-24818), from sars-cov-2-variants/lineage-proposals#2805
+XGA	Recombinant lineage of XFJ.4, PY.1, XFG.6 (breakpoints 15661-18251, 19030-20177), from #3077
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
