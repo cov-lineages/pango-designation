@@ -1290,6 +1290,10 @@ NW.1.4	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.4, S:L585F, ORF1b:P1727L, 
 NW.1.5	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.5, S:K679R, ORF7a:Q21H
 NW.1.6	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.6, C27741T
 NW.1.7	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7, ORF1b:I1611V, ORF9b:T79I  
+NW.1.7.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7.1, G8017T
+NW.1.7.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7.2, ORF3a:N82Y
+NW.1.7.3	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7.3, S:K679R, N:A134V, ORF1a:T2121I
+NW.1.7.4	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.1.7.4, ORF1a:E1047K
 NW.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.2, ORF1a:A2529V, Singapore
 NW.3	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.3, T22972C
 NW.3.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.2.3.1, S:L249F, S:V1128I, Brazil
@@ -5174,6 +5178,7 @@ XFG.3.4.1	S:S680P, on T15762C branch
 QF.1	Alias of XFG.3.4.1.1, S:L244S, C3695T, C9979T
 XFG.3.4.2	ORF1a:A372T
 XFG.3.4.3	T24289A, on T15762C branch
+QS.1	Alias of XFG.3.4.3.1, C8419T
 XFG.3.4.4	S:V367I, N:A152S, ORF1b:A520T
 XFG.3.5	ORF1b:M2025V, on C10615T branch
 XFG.3.5.1	S:A688V
@@ -5278,6 +5283,7 @@ XFW.1	S:T676P, S:R681H, ORF1b:S997L
 XFY	Recombinant lineage of XFG.5.1, NB.1.8.1 (breakpoint 25793-28432) with extra S:Q677H, from sars-cov-2-variants/lineage-proposals#2837
 XFZ	Recombinant lineage of XFC.3, PG.3.2 (breakpoint 23600-24818), from sars-cov-2-variants/lineage-proposals#2805
 XGA	Recombinant lineage of XFJ.4, PY.1, XFG.6.2 (breakpoints 15661-18251, 19030-20177), from #3077
+XGB	Recombinant lineage of NW.1.7.4, QS.1 (breakpoint 5239-6255), from sars-cov-2-variants/lineage-proposals#2916
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
