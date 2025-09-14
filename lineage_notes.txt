@@ -1646,6 +1646,8 @@ KP.4.2.5	Alias of B.1.1.529.2.86.1.1.11.1.4.2.5, S:S60P, S:I212T, from sars-cov-
 KP.4.2.6	Alias of B.1.1.529.2.86.1.1.11.1.4.2.6, S:R190S, from #2852
 KP.5	Alias of B.1.1.529.2.86.1.1.11.1.5, S:T572I, from sars-cov-2-variants/lineage-proposals#1097
 KP.6	Alias of B.1.1.529.2.86.1.1.11.1.6, S:R346I, from sars-cov-2-variants/lineage-proposals#1682
+KP.7	Alias of B.1.1.529.2.86.1.1.11.1.7, T1411C
+KP.7.1	Alias of B.1.1.529.2.86.1.1.11.1.7.1, M>I to S:ins16IPLF, ORF1a:L27F, Canada
 JN.1.11.2	Alias of B.1.1.529.2.86.1.1.11.2, S:R346T, S:F59L, India, from sars-cov-2-variants/lineage-proposals#1089
 NJ.1	Alias of B.1.1.529.2.86.1.1.11.2.1, S:F456L, S:K478T (rev), ORF3a:K16N, India, from sars-cov-2-variants/lineage-proposals#2068
 JN.1.12	Alias of B.1.1.529.2.86.1.1.12, S:F456V, ORF7a:A8T, from sars-cov-2-variants/lineage-proposals#1253
@@ -1720,8 +1722,11 @@ LF.7.1.9	Alias of B.1.1.529.2.86.1.1.16.1.7.1.9, S:K478T (rev), from sars-cov-2-
 LF.7.1.10	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10, S:H445P, C16767T, the non-PL.1 branch gains M>I mutation in insertion sector(S:ins16IPLF), from sars-cov-2-variants/lineage-proposals#2480
 PL.1	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.1, S:A475V, C26873T (S:ins16MPLF not mutated)
 PL.1.1	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.1.1, S:T345S, ORF1b:K469N, from sars-cov-2-variants/lineage-proposals#2613
-PL.2	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.2, S:L5F, S:K478I, ORF1b:K2557R, on S:ins16IPLF branch, from sars-cov-2-variants/lineage-proposals#2618
+PL.1.2	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.1.2, T23443C
+PL.2	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.2, S:L5F, S:K478I, on S:ins16IPLF branch, from sars-cov-2-variants/lineage-proposals#2618
 PL.3	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.3, S:L335F, S:K478T (rev), T1036C, G4936A, T24238A, on S:ins16IPLF branch
+PL.4	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.4, ORF1a:R24C, ORF1a:D2402N
+PL.5	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.5, ORF1a:T1638N, ORF1a:P2739S
 LF.7.1.11	Alias of B.1.1.529.2.86.1.1.16.1.7.1.11, S:Q493E, ORF1a:G1125C, from sars-cov-2-variants/lineage-proposals#2405
 LF.7.1.12	Alias of B.1.1.529.2.86.1.1.16.1.7.1.12, S:K478I, T17124C, from sars-cov-2-variants/lineage-proposals#2486
 LF.7.1.13	Alias of B.1.1.529.2.86.1.1.16.1.7.1.13, ORF1a:P1207S
@@ -5091,6 +5096,7 @@ XEK.5.1	S:A262D, from sars-cov-2-variants/lineage-proposals#2481
 XEK.5.2	S:R346T, from sars-cov-2-variants/lineage-proposals#2589
 XEK.6	S:Y1155F, from sars-cov-2-variants/lineage-proposals#2088
 XEK.7	S:ins16IPLF(M>I mutated based on S:ins16MPLF), C27429T, from sars-cov-2-variants/lineage-proposals#2088
+XEK.7.1	S:R346T
 XEK.8	S:T572I
 XEL	Recombinant lineage of KS.1.1.2, JN.1 (breakpoint: 22929-24820), South Korea, from #2751
 XEL.1	S:V1264L(G25352T), from sars-cov-2-variants/lineage-proposals#2284
