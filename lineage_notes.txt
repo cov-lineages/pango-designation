@@ -5202,7 +5202,7 @@ XFG.3.18	C11866T
 XFG.4	C683T, on C20178T branch
 XFG.4.1	ORF1b:S997L, India, from sars-cov-2-variants/lineage-proposals#2677
 XFG.4.1.1	S:S680Y
-XFG.4.2	S:K1191R, ORF3a:del24-27, F28I, on C29762T branch
+XFG.4.2	S:K1191R, ORF3a:del24-27, F28I
 XFG.5	C10039T, on C20178T branch
 XFG.5.1	ORF1a:T2093I
 XFG.5.1.1	S:A688V, ORF3a:I37T, England/Wales
