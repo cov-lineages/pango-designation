@@ -1980,12 +1980,20 @@ MV.1.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1, ORF1b:K2557R, from sars-cov-2
 MV.1.1.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1, S:M153I, S:P807S, S:H445P, from sars-cov-2-variants/lineage-proposals#2437
 PS.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1.1, S:A397V, from sars-cov-2-variants/lineage-proposals#2437
 PS.2	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1.2, S:N149D, S:R683Q, from sars-cov-2-variants/lineage-proposals#2595
+PS.3	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.1.1.3, S:N185T, ORF1a:T568I, ORF1a:P971L, ORF1a:P2079L, ORF1b:T2432A, USA
 MV.1.2	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.2, S:Q183H
 MV.1.3	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.3, S:V1264L(G25352T), ORF1b:S1003G, from sars-cov-2-variants/lineage-proposals#2341
+MV.1.3.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.3.1, S:H445P, C5497T, A15369G, C22675T, Malaysia
+MV.1.3.2	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.3.2, S:A1070V, Thailand
 MV.1.4	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.4, S:S680P, Singapore, from sars-cov-2-variants/lineage-proposals#2419
+MV.1.4.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.4.1, S:A688V, ORF1a:T1542I, Australia
 MV.1.5	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.5, S:L441R, from sars-cov-2-variants/lineage-proposals#2313
 MV.1.6	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.6, S:T572I, from sars-cov-2-variants/lineage-proposals#2391
+MV.1.7	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.7, C4234T
+MV.1.8	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.8, ORF1a:A2618V
+MV.1.9	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.1.9, ORF1a:V2604I, ORF1a:P3613S, C26873T, Ecuador
 MV.2	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.2, S:A67V, from sars-cov-2-variants/lineage-proposals#2039
+MV.3	Alias of B.1.1.529.2.86.1.1.49.1.1.1.1.3, S:K478R, G670A
 MB.1.1.2	Alias of B.1.1.529.2.86.1.1.49.1.1.1.2, T27288A
 NA.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.2.1, C19200T, A20079G
 NA.1.1	Alias of B.1.1.529.2.86.1.1.49.1.1.1.2.1.1, S:K444R, from sars-cov-2-variants/lineage-proposals#2142
@@ -5249,6 +5257,7 @@ XFG.19	S:T286I, ORF1a:T2283I, ORF1b:T239I, from sars-cov-2-variants/lineage-prop
 XFG.21	ORF1b:V2223L, on T16224C branch
 XFG.22	S:A958S, on C20178T branch
 XFG.22.1	S:A263S
+XFG.22.2	C7834T, G28878C, A28877T
 XFG.23	ORF1a:L1546I
 XFG.23.1	S:L335F, ORF1a:I114T, from sars-cov-2-variants/lineage-proposals#2586
 XFG.24	S:G75V, on ORF1b:P1821S branch
