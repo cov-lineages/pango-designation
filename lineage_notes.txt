@@ -5063,6 +5063,8 @@ XEC.26	S:V1176F, ORF3a:T89I, from #2932
 XEC.27	S:T240I, S:R346T, S:H445R, G13441A, from sars-cov-2-variants/lineage-proposals#2443
 XEC.27.1	S:N148S, N:P162H, Mexico, from sars-cov-2-variants/lineage-proposals#2646
 XEC.27.2	S:K182N, from sars-cov-2-variants/lineage-proposals#2647
+XEC.27.2.1	ORF7a:I100V
+XEC.27.2.2	S:K478T (rev), T6763C
 XEC.28	ORF1a:A1679V
 XEC.29	C5812T
 XEC.30	T24022C
