@@ -5276,10 +5276,19 @@ XFH.1	C29719A, A949G
 XFH.2	C16575T, G24697A
 XFJ	Recombinant lineage of LS.2.1.1, LF.7.2, LS.2.1.1, LF.7.2 (breakpoints: 8818-12892, 22792-22893, 27414-28297), from #2928
 XFJ.1	G12769T
+XFJ.1.1	A12928G, C29200T, on A15036G branch
+XFJ.1.2	S:K150E, on A15036G branch
 XFJ.2	G18903A
 XFJ.2.1	S:K478I
+XFJ.2.2	C7768T, C29386T
 XFJ.3	S:V1264L, from sars-cov-2-variants/lineage-proposals#2604
 XFJ.4	S:K150N, S:K478T (rev)
+XFJ.4.1	T1501C, A27300T
+XFJ.5	S:A262S, ORF1a:P2260L
+XFJ.6	C7006T
+XFJ.7	ORF6:L4P
+XFJ.8	ORF1a:L552F, ORF1b:Q2335K
+XFJ.9	T2308C, T10273C
 XFK	Recombinant lineage of KP.3.1.1, XEC.5 (breakpoints: 17503-19722), from sars-cov-2-variants/lineage-proposals#2514
 XFL	Recombinant lineage of XEU, XEC.18 (breakpoint: 24377-27994), from sars-cov-2-variants/lineage-proposals#2528
 XFM	Recombinant lineage of LF.7.6.2, LS.2.1.1 (breakpoints: 22600-22892), from #2928
