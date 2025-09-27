@@ -5175,12 +5175,14 @@ XFG.3	C13608T
 XFG.3.1	S:D1084G, ORF1a:L2122F, from sars-cov-2-variants/lineage-proposals#2617
 XFG.3.1.1	ORF1b:T2171N
 XFG.3.1.2	C11653T
-QK.1	Alias of XFG.3.1.2.1, S:Q218H, from sars-cov-2-variants/lineage-proposals#2785
+QK.1	Alias of XFG.3.1.2.1, S:Q218H, on ORF1b:D161G branch, from sars-cov-2-variants/lineage-proposals#2785
 QK.2	Alias of XFG.3.1.2.2, S:S680P, ORF1a:A1060T, ORF1a:H1113Y
 QK.3	Alias of XFG.3.1.2.3, S:L8F
+QK.4	Alias of XFG.3.1.2.4, ORF1a:P2018L, on ORF1b:D161G branch
 XFG.3.1.3	T29026C
 XFG.3.1.4	S:D936Y, ORF1b:S1779I
 XFG.3.1.5	S:V308L
+XFG.3.1.6	ORF3a:K16R, Singapore
 XFG.3.2	ORF1a:H1500Y, ORF1a:V2047I
 XFG.3.3	S:S680F, on C10615T branch, from sars-cov-2-variants/lineage-proposals#2609
 XFG.3.3.1	ORF1a:L2062F
@@ -5218,6 +5220,8 @@ XFG.3.19	C2143T, on A28877T, G28878C branch
 XFG.3.20	C6040T, on A28877T, G28878C branch
 XFG.3.21	G2185A, on A28877T, G28878C branch
 XFG.3.22	ORF1a:E670K, C2455T, on A28877T, G28878C branch
+XFG.3.23	ORF1a:S944L
+XFG.3.24	A15189G
 XFG.4	C683T, on C20178T branch
 XFG.4.1	ORF1b:S997L, India, from sars-cov-2-variants/lineage-proposals#2677
 XFG.4.1.1	S:S680Y
