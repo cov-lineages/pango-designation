@@ -5222,6 +5222,8 @@ XFG.5	C10039T, on C20178T branch
 XFG.5.1	ORF1a:T2093I
 XFG.5.1.1	S:A688V, ORF3a:I37T, England/Wales
 XFG.5.2	A9079G
+XFG.5.2.1	S:S680F
+XFG.5.2.2	T26972C
 XFG.5.3	S:S254F, Canada
 XFG.6	S:L441I, on C20178T branch, from sars-cov-2-variants/lineage-proposals#2621
 XFG.6.1	S:T678I
