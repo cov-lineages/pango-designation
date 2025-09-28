@@ -1225,13 +1225,19 @@ NY.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.2, ORF1a:T2846I
 NY.3	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3, S:R765L, from #2874
 NY.3.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1, ORF1a:T4311I
 NY.3.1.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.1, S:K444R, S:A475V, from sars-cov-2-variants/lineage-proposals#2615
+NY.3.1.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.2, ORF7b:L19F (rev), C16092T
+QU.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.2.1, S:A475V
+QU.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.2.2, ORF1a:V3420L
+NY.3.1.3	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.1.3, ORF1a:M3129T
 NY.3.2	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.2, S:K478E, from sars-cov-2-variants/lineage-proposals#2199
 NY.3.3	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.3, ORF1a:T1543I
 NY.3.3.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.3.1, S:T572I, from sars-cov-2-variants/lineage-proposals#2661
 NY.3.4	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.4, T7297A
 NY.3.5	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.5, ORF1b:T217M, on Orf1b:C688S branch
 NY.3.6	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.6, S:A262V, S:K478T (rev), on Orf1b:C688S branch
-NY.3.7	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.7, S:N137K, S:D138H
+NY.3.7	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.7, S:N137K, S:D138H, on C6250T branch
+NY.3.7.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.7.1, S:K150E, ORF1b:A1521V, Spain/France
+NY.3.8	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.3.8, ORF1a:V3091I, ORF7a:V74I, on C6250T branch
 NY.4	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.4, ORF1b:V1649I
 NY.4.1	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.4.1, S:R765S, from sars-cov-2-variants/lineage-proposals#2199
 NY.5	Alias of B.1.1.529.2.86.1.1.11.1.1.1.3.8.1.1.5, ORF1a:F843Y
@@ -1745,6 +1751,7 @@ PC.2.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.1, ORF1a:P1921L, Singapore
 PC.2.1.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.1.1, ORF1b:Q1393R
 PC.2.1.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.1.2, ORF1a:L3116F
 PC.2.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.2, ORF1a:P971L, ORF1b:Q2252K, S:S680P Singapore
+PC.2.2.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.2.1, S:G75V, ORF1b:D2183Y, Singapore
 PC.2.3	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.2.3, T4165C
 PC.3	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3, ORF1a:R287G
 PC.3.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.3.1, N:R204Q, from sars-cov-2-variants/lineage-proposals#2422
