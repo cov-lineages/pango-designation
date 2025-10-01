@@ -21,6 +21,11 @@ repos:
         entry: python tests/test_tree_one_lines.py
         language: python
         files: lineages.csv
+      - id: check-lineages-notes
+        name: Check lineages.csv and lineage_notes.txt are in sync
+        entry: python utils/check_lineages_notes.py
+        language: python
+        files: ^(lineages\.csv|lineage_notes\.txt)$
   - repo: https://github.com/rhysd/actionlint
     rev: v1.6.26
     hooks:
