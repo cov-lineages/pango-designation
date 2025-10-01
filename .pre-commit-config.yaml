@@ -16,6 +16,11 @@ repos:
         entry: python tests/test_duplicate_lineage_in_notes.py
         language: python
         files: lineage_notes.txt
+      - id: tree-one-lines
+        name: Test lineages.csv for erroneous tree one lines
+        entry: python tests/test_tree_one_lines.py
+        language: python
+        files: lineages.csv
   - repo: https://github.com/rhysd/actionlint
     rev: v1.6.26
     hooks:
