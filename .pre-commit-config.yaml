@@ -30,3 +30,4 @@ repos:
     rev: v1.6.26
     hooks:
       - id: actionlint
+        exclude: ^\.github/workflows/issue-milestone-collector\.yml$
