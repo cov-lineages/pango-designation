@@ -1,0 +1,15 @@
+name: Check for tree one lines
+
+on:
+  push:
+    paths:
+      - lineages.csv
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python tests/test_tree_one_lines.py
