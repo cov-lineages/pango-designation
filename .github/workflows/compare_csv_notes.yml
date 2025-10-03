@@ -1,0 +1,19 @@
+name: Compare lineages.csv and lineage_notes.txt
+on:
+  push:
+    paths:
+      - 'lineages.csv'
+      - 'lineage_notes.txt'
+  pull_request:
+    paths:
+      - 'lineages.csv'
+      - 'lineage_notes.txt'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Search for lineages in lineages_notes.txt but not in lineages.csv and vice versa
+        run: python utils/check_lineages_notes.py
