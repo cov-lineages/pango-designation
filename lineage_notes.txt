@@ -4915,7 +4915,6 @@ PQ.4.2	Alias of XDV.1.5.1.1.8.1.4.2, S:A522P
 PQ.4.3	Alias of XDV.1.5.1.1.8.1.4.3, S:V193L
 PQ.4.4	Alias of XDV.1.5.1.1.8.1.4.4, ORF1a:Y3685C
 PQ.4.5	Alias of XDV.1.5.1.1.8.1.4.5, ORF1a:P971L
-PQ.4.6	Alias of XDV.1.5.1.1.8.1.4.6, S:S680P, ORF1a:V2061F, M:L29F
 PQ.5	Alias of XDV.1.5.1.1.8.1.5, ORF3a:L94F, from sars-cov-2-variants/lineage-proposals#2577
 PQ.5.1	Alias of XDV.1.5.1.1.8.1.5.1, ORF3a:A99S, ORF8:T87I, after ORF3a:P42L, from sars-cov-2-variants/lineage-proposals#2577
 PQ.5.1.1	Alias of XDV.1.5.1.1.8.1.5.1.1, S:K150N
@@ -4971,6 +4970,7 @@ PQ.34	Alias of XDV.1.5.1.1.8.1.34, S:R683Q
 PQ.34.1	Alias of XDV.1.5.1.1.8.1.34.1, S:T572I
 PQ.35	Alias of XDV.1.5.1.1.8.1.35, ORF3a:T151I
 PQ.36	Alias of XDV.1.5.1.1.8.1.36, T13120C
+PQ.37	Alias of XDV.1.5.1.1.8.1.37, S:S680P, ORF1a:V2061F, M:L29F
 NB.1.9	Alias of XDV.1.5.1.1.9, S:L176F, S:H445P
 NB.1.10	Alias of XDV.1.5.1.1.10, S:S680F
 NB.1.11	Alias of XDV.1.5.1.1.11, S:A958S, N:A182S, ORF1a:R1163G
@@ -5297,7 +5297,6 @@ XFG.14.1.2	S:A942T
 XFG.14.1.3	C10798T
 XFG.14.2	S:Q677L, from sars-cov-2-variants/lineage-proposals#2747
 XFG.14.3	S:K147E, ORF1a:D1440G, ORF1b:P970L, pre-ORF7a:E121Q
-XFG.14.3	S:K147E, ORF1a:D1440G, ORF1b:P5371L, pre-ORF7a:E121Q
 XFG.15	S:R681H, ORF1b:A1525S, ORF1b:T2432I, on C20178T branch
 XFG.16	ORF1a:G507S, ORF9b:V30A, G4354A, from sars-cov-2-variants/lineage-proposals#2666
 XFG.17	A9970T, most with A28877T, G28878C
