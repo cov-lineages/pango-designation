@@ -5364,7 +5364,9 @@ XFV	Recombinant lineage of LP.8.1, XFG.3.3.1 (breakpoint 5240-7112), from sars-c
 XFV.1	S:G252S
 XFV.2	S:A688V
 XFW	Recombinant lineage of XDY.3, LF.7, XDY.3 (breakpoints 8818-12651, 22132-22865), from sars-cov-2-variants/lineage-proposals#2740
-XFW.1	S:T676P, S:R681H, ORF1b:S997L
+XFW.1	S:R681H, ORF1b:S997L
+XFW.1.1	S:T676P
+XFW.1.2	S:Q677R, ORF7a:T39I
 XFY	Recombinant lineage of XFG.5.1, NB.1.8.1 (breakpoint 25793-28432) with extra S:Q677H, from sars-cov-2-variants/lineage-proposals#2837
 XFZ	Recombinant lineage of XFC.3, PG.3.2 (breakpoint 23600-24818), from sars-cov-2-variants/lineage-proposals#2805
 XGA	Recombinant lineage of XFJ.4, PY.1, XFG.6.2 (breakpoints 15661-18251, 19030-20177), from #3077
