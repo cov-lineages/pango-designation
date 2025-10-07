@@ -5072,6 +5072,7 @@ XEC.16	S:T678I, from sars-cov-2-variants/lineage-proposals#2088
 XEC.17	S:T95I, on ORF1a:A599T branch, Israel, from #2879
 XEC.18	G28378T (ORF9b:R32L), from #2813
 XEC.18.1	S:S680Y, ORF1a:L1249F, from sars-cov-2-variants/lineage-proposals#2088
+XEC.18.1.1	S:K478E, S:V1264L, ORF1a:E1801D, ORF3a:Q38R, Malaysia/Thailand
 XEC.18.2	S:A435S, ORF7a:L96P
 XEC.18.3	S:S680A, from sars-cov-2-variants/lineage-proposals#2088
 XEC.18.4	S:K679T
