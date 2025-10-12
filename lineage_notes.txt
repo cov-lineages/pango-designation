@@ -1738,11 +1738,13 @@ PL.2	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.2, S:L5F, S:K478I, ORF1b:K2557R, on
 PL.3	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.3, S:L335F, S:K478T (rev), T1036C, G4936A, T24238A, on S:ins16IPLF branch, from sars-cov-2-variants/lineage-proposals#2719
 PL.4	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.4, ORF1a:R24C, ORF1a:D2402N, on S:ins16IPLF branch
 PL.5	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.5, ORF1a:T1638N, ORF1a:P2739S, on S:ins16IPLF branch
+PL.6	Alias of B.1.1.529.2.86.1.1.16.1.7.1.10.6, S:K478T (rev), S:T500A
 LF.7.1.11	Alias of B.1.1.529.2.86.1.1.16.1.7.1.11, S:Q493E, ORF1a:G1125C, from sars-cov-2-variants/lineage-proposals#2405
 LF.7.1.12	Alias of B.1.1.529.2.86.1.1.16.1.7.1.12, S:K478I, T17124C, from sars-cov-2-variants/lineage-proposals#2486
 LF.7.1.13	Alias of B.1.1.529.2.86.1.1.16.1.7.1.13, ORF1a:P1207S
 QB.1	Alias of B.1.1.529.2.86.1.1.16.1.7.1.13.1, S:A475V
 LF.7.1.14	Alias of B.1.1.529.2.86.1.1.16.1.7.1.14, S:K478R, from sars-cov-2-variants/lineage-proposals#2361
+LF.7.1.15	Alias of B.1.1.529.2.86.1.1.16.1.7.1.15, ORF1a:L2146I
 LF.7.2	Alias of B.1.1.529.2.86.1.1.16.1.7.2, T20799C
 LF.7.2.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1, S:A475V, from sars-cov-2-variants/lineage-proposals#2067
 PC.1	Alias of B.1.1.529.2.86.1.1.16.1.7.2.1.1, S:N137K, from #2863
