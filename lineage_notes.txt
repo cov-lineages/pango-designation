@@ -5398,6 +5398,7 @@ XFJ	Recombinant lineage of LS.2.1.1, LF.7.2, LS.2.1.1, LF.7.2 (breakpoints: 8818
 XFJ.1	G12769T
 XFJ.1.1	A12928G, C29200T, on A15036G branch
 XFJ.1.2	S:K150E, on A15036G branch, from sars-cov-2-variants/lineage-proposals#2622
+XFJ.1.3	S:I105V, S:K444R, ORF1a:T708I, USA
 XFJ.2	G18903A
 XFJ.2.1	S:K478I, from sars-cov-2-variants/lineage-proposals#2599
 XFJ.2.2	C7768T, C29386T
@@ -5416,6 +5417,7 @@ XFM	Recombinant lineage of LF.7.6.2, LS.2.1.1 (breakpoints: 22600-22892), from #
 XFN	Recombinant lineage of XEC.25.1, LF.7, XEC.25.1 (breakpoints: 16601-18656, 22600-22864), from sars-cov-2-variants/lineage-proposals#2562
 XFN.1	T28600C
 XFN.2	ORF1b:G1772S
+XFN.2.1	S:K484R, ORf1a:P1921S, ORF1b:A374S, UK
 XFP	Recombinant lineage of LS.2.1.1, LF.7, LS.2.1.1 (breakpoints: 8819-12891, 22133-22883), from #2969
 XFP.1	S:N477D, India, from sars-cov-2-variants/lineage-proposals#2642
 XFP.1.1	ORF1a:E457D
