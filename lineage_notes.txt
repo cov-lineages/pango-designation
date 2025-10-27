@@ -5290,6 +5290,7 @@ XFG.3.26	S:K679R, ORF1b:Y2329H, from sars-cov-2-variants/lineage-proposals#2795
 XFG.3.27	ORF3a:R134H, A1588G, from sars-cov-2-variants/lineage-proposals#2891
 XFG.3.27.1	ORF1a:K1753R, on A4624G branch
 XFG.3.27.2	C11339T, C12085T, on A4624G branch
+XFG.3.28	S:G184A, ORF1a:S2500F, N:P67S
 XFG.4	C683T, on C20178T branch
 XFG.4.1	ORF1b:S997L, India, from sars-cov-2-variants/lineage-proposals#2677
 XFG.4.1.1	S:S680Y, from sars-cov-2-variants/lineage-proposals#2826
