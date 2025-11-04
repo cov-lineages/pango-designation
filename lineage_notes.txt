@@ -5295,6 +5295,11 @@ XFG.3.27.1	ORF1a:K1753R, on A4624G branch
 XFG.3.27.2	C11339T, C12085T, on A4624G branch
 XFG.3.28	S:G184A, ORF1a:S2500F, N:P67S, on C10615T branch
 XFG.3.29	S:N532S, T15330C, on C10615T branch
+XFG.3.28	S:G184A, ORF1a:S2500F, N:P67S
+XFG.3.29	S:N532S, T15330C
+XFG.3.30	C10207T
+XFG.3.30.1	S:G219D
+XFG.3.30.2	S:K679T, ORF1a:T1638N, ORF1a:L4126F
 XFG.4	C683T, on C20178T branch
 XFG.4.1	ORF1b:S997L, India, from sars-cov-2-variants/lineage-proposals#2677
 XFG.4.1.1	S:S680Y, from sars-cov-2-variants/lineage-proposals#2826
@@ -5306,6 +5311,7 @@ XFG.4.1.5	S:A67V, ORF10:A8V, from sars-cov-2-variants/lineage-proposals#2836
 XFG.4.2	S:K1191R, ORF3a:del24-27, F28I, from sars-cov-2-variants/lineage-proposals#2734
 XFG.4.3	T28474A
 XFG.4.4	G8017T
+XFG.4.5	S:G219D, ORF1a:N854D
 XFG.5	C10039T, on C20178T branch
 XFG.5.1	ORF1a:T2093I
 XFG.5.1.1	S:A688V, ORF3a:I37T, England/Wales
