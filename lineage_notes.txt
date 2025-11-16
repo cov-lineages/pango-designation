@@ -5334,6 +5334,8 @@ XFG.6.1	S:T678I, from sars-cov-2-variants/lineage-proposals#2829
 XFG.6.2	N:I379T (rev)
 XFG.6.2.1	S:D253G, from sars-cov-2-variants/lineage-proposals#2962
 XFG.6.3	T8359C
+XFG.6.3.1	C920T
+XFG.6.3.2	S:K679R
 XFG.6.4	ORF1a:T2611I
 XFG.6.5	C23758T
 XFG.6.5.1	S:S680Y, UK
@@ -5344,6 +5346,7 @@ XFG.7	N:K65I, ORF9b:N62Y, on C20178T branch, from #3001
 XFG.7.1	ORF1a:K2029R, ORF1a:S3242G
 XFG.7.1.1	S:K150E, G28079T
 QZ.1	S:A688V, from sars-cov-2-variants/lineage-proposals#2906
+XFG.7.1.2	S:V90I, S:W152R
 XFG.8	T17610C, C19170T, A20163G, on C20178T branch
 XFG.8.1	C15024T
 XFG.8.2	ORF1a:T1597I
