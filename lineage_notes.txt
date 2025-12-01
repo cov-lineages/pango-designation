@@ -5435,7 +5435,9 @@ XFJ.2.2	C7768T, C29386T
 XFJ.3	S:V1264L, from sars-cov-2-variants/lineage-proposals#2604
 XFJ.3.1	S:I19V, ORF1a:T1543I, from sars-cov-2-variants/lineage-proposals#2604
 XFJ.3.1.1	S:K679N (rev)
+RA.1	Alias of XFJ.3.1.1.1, S:T236S
 XFJ.3.1.2	N:A152S, N:K229T
+XFJ.3.1.3	ORF1a:H1108Y
 XFJ.3.2	ORF1b:A241T
 XFJ.4	S:K150N, S:K478T (rev)
 XFJ.4.1	T1501C, A27300T
@@ -5443,7 +5445,9 @@ XFJ.5	S:A262S, ORF1a:P2260L
 XFJ.6	C7006T
 XFJ.7	ORF6:L4P
 XFJ.8	ORF1a:L552F, ORF1b:Q2335K
+XFJ.8.1	S:V1264L, ORF1a:N434D
 XFJ.9	T2308C, T10273C
+XFJ.10	C21682T
 XFK	Recombinant lineage of KP.3.1.1, XEC.5 (breakpoints: 17503-19722), from sars-cov-2-variants/lineage-proposals#2514
 XFL	Recombinant lineage of XEU, XEC.18 (breakpoint: 24377-27994), from sars-cov-2-variants/lineage-proposals#2528
 XFM	Recombinant lineage of LF.7.6.2, LS.2.1.1 (breakpoints: 22600-22892), from #2928
@@ -5475,6 +5479,7 @@ XFZ.1	S:M153V, A22486G
 XGA	Recombinant lineage of XFJ.4.1, PY.1, XFG.6.2 (breakpoints 15661-18251, 19030-20177), from #3077
 XGB	Recombinant lineage of NW.1.7.4, QS.1 (breakpoint 5239-6255), from sars-cov-2-variants/lineage-proposals#2916
 XGC	Recombinant lineage of PY.2, XFG.4 (breakpoints 12892-15660), from sars-cov-2-variants/lineage-proposals#2651
+XGD	Recombinant lineage of XFJ.4, XFJ.3.1.3 (breakpoints 6278-18252)
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
