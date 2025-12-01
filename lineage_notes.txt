@@ -5241,6 +5241,7 @@ QF.1	Alias of XFG.3.4.1.1, S:L244S, C3695T, C9979T
 QF.1.1	Alias of XFG.3.4.1.1.1, ORF8:G66V
 QF.1.1.1	Alias of XFG.3.4.1.1.1.1, S:A1174V
 QF.2	Alias of XFG.3.4.1.2, C27812T
+QF.2.1	Alias of XFG.3.4.1.2, S:N641K
 QF.3	Alias of XFG.3.4.1.3, ORF1a:P1921L
 QF.4	Alias of XFG.3.4.1.4, C15960A, C28651T
 QF.5	Alias of XFG.3.4.1.5, C5284T
@@ -5273,6 +5274,7 @@ XFG.3.8	ORF3a:E19G, on A28877T, G28878C branch, from sars-cov-2-variants/lineage
 XFG.3.8.1	S:V622A , from sars-cov-2-variants/lineage-proposals#2784
 XFG.3.9	T7999C
 XFG.3.10	C27893T
+XFG.3.10.1	T3616C, C6445T, A29125G
 XFG.3.11	C15738T, Myanmar
 XFG.3.12	C556T
 XFG.3.12.1	S:A376S, ORF1a:R560C, from sars-cov-2-variants/lineage-proposals#2746
