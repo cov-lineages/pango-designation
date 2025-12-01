@@ -5190,18 +5190,24 @@ XFC.1	ORF1a:S1515F
 XFC.1.1	ORF1a:T283A
 XFC.1.1.1	S:K478E, from sars-cov-2-variants/lineage-proposals#2573
 XFC.1.2	S:H207Y, from sars-cov-2-variants/lineage-proposals#2572
+XFC.1.2.1	S:R445P, ORF1a:S1561A, ORF1a:T2280I
 XFC.1.3	ORF1a:A1473V
+XFC.1.3.1	S:A435S, S:A475V
 XFC.1.4	S:K478E
 XFC.1.5	C9541T
 XFC.1.6	ORF1b:D729E
 XFC.1.7	C4084T
 XFC.1.8	G13201T
 XFC.1.9	T26756A
+XFC.1.10	ORF1a:Y947H
+XFC.1.11	ORF1b:Q1546H, ORF7a:I103V
+XFC.1.12	T1771A
 XFC.2	S:A475V, from sars-cov-2-variants/lineage-proposals#2537
 XFC.3	ORF1a:A2128T
 XFC.3.1	S:K478E, C5020T, C21697T, T25072C, C28732T, Costa Rica
 XFC.3.2	S:K478T (rev), ORF3a:R134C
 XFC.3.3	ORF1b:A2431V
+XFC.4	A1393G, C15720T
 XFD	Recombinant lineage of MC.36.1, XEC (breakpoint: 19723-21626)
 XFE	Recombinant lineage of MC.37, XEC.19 (breakpoint: 19723-21626)
 XFF	Recombinant lineage of LB.1.3, MZ.4.1 (breakpoint: 22599-22994), from sars-cov-2-variants/lineage-proposals#2373
