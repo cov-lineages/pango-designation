@@ -2139,7 +2139,15 @@ BA.3	Alias of B.1.1.529.3, from #367
 BA.3.1	Alias of B.1.1.529.3.1, mainly found in Poland, from #540
 BA.3.2	Alias of B.1.1.529.3.2, saltation with ~40 spike AA substitutions, South Africa, from #2909
 BA.3.2.1	Alias of B.1.1.529.3.2.1, S:H681R, S:P1162R
+RD.1	Alias of B.1.1.529.3.2.1.1, A10978G
+RD.1.1	Alias of B.1.1.529.3.2.1.1.1, S:V227L
+RD.1.2	Alias of B.1.1.529.3.2.1.1.2, N:T296I
 BA.3.2.2	Alias of B.1.1.529.3.2.2, S:K356T, S:A575S
+RE.1	Alias of B.1.1.529.3.2.2.1, ORF1a:G227S, ORF1a:A776V
+RE.1.1	Alias of B.1.1.529.3.2.2.1.1, ORF1a:R24H, ORF1a:A131V, ORF1a:K3353R, ORF1b:R276C, Australia
+RE.2	Alias of B.1.1.529.3.2.2.2, ORF1a:E1015G
+RE.2.1	Alias of B.1.1.529.3.2.2.2.1, N:T296I, on ORF1a:T1896I branch
+RE.2.2	Alias of B.1.1.529.3.2.2.2.2, C5884T, A10864G
 BA.4	Alias of B.1.1.529.4, from #517
 BA.4.1	Alias of B.1.1.529.4.1, mainly found in South Africa, from #548
 BA.4.1.1	Alias of B.1.1.529.4.1.1, mainly found in South Africa and Germany, from #667
