@@ -5286,6 +5286,11 @@ XFG.2.2	S:P1263L, from sars-cov-2-variants/lineage-proposals#2667
 XFG.2.3	G27621A, from sars-cov-2-variants/lineage-proposals#2738
 XFG.2.3.1	S:N417T, from sars-cov-2-variants/lineage-proposals#2738
 XFG.2.4	S:L176F, from sars-cov-2-variants/lineage-proposals#3011
+XFG.2.5	ORF7b:E33V
+XFG.2.6	C29311T
+XFG.2.7	C4897T
+XFG.2.8	C13426T, C26091T
+XFG.2.8.1	S:K679R, ORF1b:T2488M, from #3139
 XFG.3	C13608T
 XFG.3.1	S:D1084G, ORF1a:L2122F, 29770-29775del, from sars-cov-2-variants/lineage-proposals#2617
 XFG.3.1.1	ORF1b:T2171N
