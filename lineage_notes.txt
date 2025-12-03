@@ -4985,6 +4985,7 @@ PQ.10.1.1	Alias of XDV.1.5.1.1.8.1.10.1.1, S:S221L
 PQ.10.1.2	Alias of XDV.1.5.1.1.8.1.10.1.2, S:P174S, from sars-cov-2-variants/lineage-proposals#2943
 PQ.10.1.3	Alias of XDV.1.5.1.1.8.1.10.1.3, ORF3a:A103S, New Zealand, from sars-cov-2-variants/lineage-proposals#2597
 PQ.10.1.4	Alias of XDV.1.5.1.1.8.1.10.1.4, ORF1a:G519C
+RH.1	Alias of XDV.1.5.1.1.8.1.10.1.4.1, S:I569V, S:V1264L
 PQ.11	Alias of XDV.1.5.1.1.8.1.11, ORF1a:D1229G
 PQ.12	Alias of XDV.1.5.1.1.8.1.12, C13968T
 PQ.13	Alias of XDV.1.5.1.1.8.1.13, T13764C
@@ -5004,6 +5005,11 @@ PQ.17.1	Alias of XDV.1.5.1.1.8.1.17.1, C7834T, C29708T
 PQ.17.2	Alias of XDV.1.5.1.1.8.1.17.2, ORF1a:A4257V
 PQ.17.3	Alias of XDV.1.5.1.1.8.1.17.3, S:S680F, from sars-cov-2-variants/lineage-proposals#2912
 PQ.17.4	Alias of XDV.1.5.1.1.8.1.17.4, S:R683Q, from sars-cov-2-variants/lineage-proposals#2953
+PQ.17.5	Alias of XDV.1.5.1.1.8.1.17.5, N:P279S
+PQ.17.6	Alias of XDV.1.5.1.1.8.1.17.6, ORF3a:A72S
+PQ.17.7	Alias of XDV.1.5.1.1.8.1.17.7, ORF1b:I2626V
+PQ.17.7.1	Alias of XDV.1.5.1.1.8.1.17.7.1, S:S680F, South Korea
+PQ.17.7.2	Alias of XDV.1.5.1.1.8.1.17.7.2, S:H445P, South Korea
 PQ.18	Alias of XDV.1.5.1.1.8.1.18, S:S680F, from sars-cov-2-variants/lineage-proposals#2706
 PQ.19	Alias of XDV.1.5.1.1.8.1.19, S:T51A, S:R346K, from sars-cov-2-variants/lineage-proposals#2633
 PQ.20	Alias of XDV.1.5.1.1.8.1.20, S:G181A, from sars-cov-2-variants/lineage-proposals#2696
