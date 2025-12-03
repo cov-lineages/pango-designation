@@ -5041,6 +5041,7 @@ PQ.36	Alias of XDV.1.5.1.1.8.1.36, T13120C
 PQ.37	Alias of XDV.1.5.1.1.8.1.37, S:S680P, ORF1a:V2061F, M:L29F, from sars-cov-2-variants/lineage-proposals#2835
 PQ.38	Alias of XDV.1.5.1.1.8.1.38, ORF1a:T1840I, C27513T
 PQ.39	Alias of XDV.1.5.1.1.8.1.39, S:H445P
+PQ.39.1	Alias of XDV.1.5.1.1.8.1.39.1, S:Q677H
 NB.1.9	Alias of XDV.1.5.1.1.9, S:L176F, S:H445P, from sars-cov-2-variants/lineage-proposals#2460
 NB.1.10	Alias of XDV.1.5.1.1.10, S:S680F
 NB.1.11	Alias of XDV.1.5.1.1.11, S:A958S, N:A182S, ORF1a:R1163G, from sars-cov-2-variants/lineage-proposals#2321
@@ -5276,6 +5277,7 @@ XFF.1	S:A435S, from sars-cov-2-variants/lineage-proposals#2531
 XFG	Recombinant lineage of LF.7, LP.8.1.2, LF.7 (breakpoints: 22894-22895, 23040-24818), from sars-cov-2-variants/lineage-proposals#2449
 XFG.1	S:E96D, S:R445P, on T16224C branch, from sars-cov-2-variants/lineage-proposals#2560
 XFG.1.1	S:W452R (rev), ORF7a:V8A (rev), M:V104L, from sars-cov-2-variants/lineage-proposals#2796
+XFG.1.1.1	ORF7a:A13S
 XFG.1.2	C16111T
 XFG.1.3	ORF7a:I10V
 XFG.2	N:V270L, ORF1b:K2557R, on C20178T branch, USA-NY, from sars-cov-2-variants/lineage-proposals#2553
@@ -5413,6 +5415,7 @@ XFG.6.2.1	S:D253G, from sars-cov-2-variants/lineage-proposals#2962
 XFG.6.3	T8359C
 XFG.6.3.1	C920T
 XFG.6.3.2	S:K679R
+XFG.6.3.3	S:S446N
 XFG.6.4	ORF1a:T2611I
 XFG.6.5	C23758T
 XFG.6.5.1	S:S680Y, UK
@@ -5552,6 +5555,7 @@ XFU	Recombinant lineage of LF.7.6.2, PG.3.1 (breakpoint 22896-23039), from sars-
 XFV	Recombinant lineage of LP.8.1, XFG.3.3.1 (breakpoint 5240-7112), from sars-cov-2-variants/lineage-proposals#2749
 XFV.1	S:G252S, from sars-cov-2-variants/lineage-proposals#2841
 XFV.2	S:A688V, from sars-cov-2-variants/lineage-proposals#2950
+XFV.3	S:S446N
 XFW	Recombinant lineage of XDY.3, LF.7, XDY.3 (breakpoints 8818-12651, 22132-22865), from sars-cov-2-variants/lineage-proposals#2740
 XFW.1	S:R681H, ORF1b:S997L, from sars-cov-2-variants/lineage-proposals#2740
 XFW.1.1	S:T676P, from sars-cov-2-variants/lineage-proposals#2740
