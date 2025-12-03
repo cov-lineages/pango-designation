@@ -5312,7 +5312,9 @@ QF.1	Alias of XFG.3.4.1.1, S:L244S, C3695T, C9979T
 QF.1.1	Alias of XFG.3.4.1.1.1, ORF8:G66V
 QF.1.1.1	Alias of XFG.3.4.1.1.1.1, S:A1174V
 QF.2	Alias of XFG.3.4.1.2, C27812T
-QF.2.1	Alias of XFG.3.4.1.2, S:N641K
+QF.2.1	Alias of XFG.3.4.1.2.1, S:N641K
+QF.2.2	Alias of XFG.3.4.1.2.2, G29044A
+QF.2.2.1	Alias of XFG.3.4.1.2.2, S:I326V, from #3140
 QF.3	Alias of XFG.3.4.1.3, ORF1a:P1921L
 QF.4	Alias of XFG.3.4.1.4, C15960A, C28651T
 QF.5	Alias of XFG.3.4.1.5, C5284T
