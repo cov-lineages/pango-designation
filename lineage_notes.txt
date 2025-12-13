@@ -4972,7 +4972,7 @@ PQ.4.4	Alias of XDV.1.5.1.1.8.1.4.4, ORF1a:Y3685C
 PQ.4.5	Alias of XDV.1.5.1.1.8.1.4.5, ORF1a:P971L
 PQ.4.6	Alias of XDV.1.5.1.1.8.1.4.6, ORF1b:V818M
 PQ.4.6.1	Alias of XDV.1.5.1.1.8.1.4.6.1, S:S446N
-PQ.4.6.2	Alias of XDV.1.5.1.1.8.1.4.6.2, ORF8:8*
+PQ.4.6.2	Alias of XDV.1.5.1.1.8.1.4.6.2, ORF8:G8*
 RJ.1	Alias of XDV.1.5.1.1.8.1.4.6.2.1, S:K150N
 PQ.4.7	Alias of XDV.1.5.1.1.8.1.4.7, ORF1b:V165I
 PQ.4.8	Alias of XDV.1.5.1.1.8.1.4.8, A17409G, C26013T
