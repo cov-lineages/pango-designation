@@ -5050,6 +5050,7 @@ PQ.37	Alias of XDV.1.5.1.1.8.1.37, S:S680P, ORF1a:V2061F, M:L29F, from sars-cov-
 PQ.38	Alias of XDV.1.5.1.1.8.1.38, ORF1a:T1840I, C27513T
 PQ.39	Alias of XDV.1.5.1.1.8.1.39, S:H445P
 PQ.39.1	Alias of XDV.1.5.1.1.8.1.39.1, S:Q677H
+PQ.40	Alias of XDV.1.5.1.1.8.1.40, S:R214L, S:K478T (rev), S:N556K, Hong Kong
 NB.1.9	Alias of XDV.1.5.1.1.9, S:L176F, S:H445P, from sars-cov-2-variants/lineage-proposals#2460
 NB.1.10	Alias of XDV.1.5.1.1.10, S:S680F
 NB.1.11	Alias of XDV.1.5.1.1.11, S:A958S, N:A182S, ORF1a:R1163G, from sars-cov-2-variants/lineage-proposals#2321
@@ -5299,6 +5300,7 @@ XFG.2.3	G27621A, from sars-cov-2-variants/lineage-proposals#2738
 XFG.2.3.1	S:N417T, from sars-cov-2-variants/lineage-proposals#2738
 XFG.2.4	S:L176F, from sars-cov-2-variants/lineage-proposals#3011
 XFG.2.5	ORF7b:E33V
+XFG.2.5.1	S:L335F, S:N417T, USA
 XFG.2.6	C29311T
 XFG.2.7	C4897T
 XFG.2.8	C13426T, C26091T
