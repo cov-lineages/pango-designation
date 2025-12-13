@@ -5473,6 +5473,7 @@ XFG.10.1	ORF1a:L2122F
 XFG.10.2	ORF1a:T1847I
 XFG.10.3	C11416T
 XFG.10.4	S:A435S, from sars-cov-2-variants/lineage-proposals#2936
+XFG.10.5	C11962T
 XFG.11	ORF7a:P34L, on C20178T branch
 XFG.12	ORF1b:T1453I, on C20178T branch
 XFG.13	S:A67V, ORF1a:T4090I, ORF1a:I4175V, ORF1b:L2017F, on C20178T branch
@@ -5481,6 +5482,8 @@ XFG.14.1	S:T604I
 XFG.14.1.1	C9598T, C12754T
 XFG.14.1.2	S:A942T
 XFG.14.1.3	C10798T
+XFG.14.1.4	C19983T
+XFG.14.1.5	C817T, C10183T
 XFG.14.2	S:Q677L, from sars-cov-2-variants/lineage-proposals#2747
 XFG.14.2.1	S:P1162L, ORf1a:L3694F, ORF3a:I35T, from sars-cov-2-variants/lineage-proposals#2954
 XFG.14.3	S:K147E, ORF1a:D1440G, ORF1b:P970L, pre-ORF7a:E121Q, from sars-cov-2-variants/lineage-proposals#2624
@@ -5488,6 +5491,7 @@ XFG.14.4	ORF1a:A3548V, C25680T, C28744T
 XFG.14.5	ORF7a:E39*, C5002T, C5365T, C9166T, T10819C
 XFG.14.6	C5884T
 XFG.14.7	C17463T
+XFG.14.8	C9565T
 XFG.15	S:R681H, ORF1b:A1525S, ORF1b:T2432I, on C20178T branch
 XFG.16	ORF1a:G507S, ORF9b:V30A, G4354A, from sars-cov-2-variants/lineage-proposals#2666
 XFG.17	A9970T, most with A28877T, G28878C
@@ -5575,6 +5579,9 @@ XFV	Recombinant lineage of LP.8.1, XFG.3.3.1 (breakpoint 5240-7112), from sars-c
 XFV.1	S:G252S, from sars-cov-2-variants/lineage-proposals#2841
 XFV.2	S:A688V, from sars-cov-2-variants/lineage-proposals#2950
 XFV.3	S:S446N
+XFV.4	ORF1b:T1621I
+XFV.5	ORF1a:H2092Y
+XFV.6	S:V1129I
 XFW	Recombinant lineage of XDY.3, LF.7, XDY.3 (breakpoints 8818-12651, 22132-22865), from sars-cov-2-variants/lineage-proposals#2740
 XFW.1	S:R681H, ORF1b:S997L, from sars-cov-2-variants/lineage-proposals#2740
 XFW.1.1	S:T676P, from sars-cov-2-variants/lineage-proposals#2740
