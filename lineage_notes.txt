@@ -5499,6 +5499,8 @@ XFG.17.1	S:F59S, from sars-cov-2-variants/lineage-proposals#2701
 XFG.17.2	S:K679R, from sars-cov-2-variants/lineage-proposals#2828
 XFG.17.2.1	S:G219S, from sars-cov-2-variants/lineage-proposals#2828
 QQ.1	Alias of XFG.17.2.1.1, S:Q677H, N:F307L, from sars-cov-2-variants/lineage-proposals#2988
+QQ.2	Alias of XFG.17.2.1.2, ORF3a:K16R
+QQ.3	Alias of XFG.17.2.1.3, ORF1a:S1510F
 XFG.17.3	S:L335F, Orf9b:A82V  , from sars-cov-2-variants/lineage-proposals#2586
 XFG.17.4	S:G219D, S:T345S, from sars-cov-2-variants/lineage-proposals#2867
 XFG.18	S:L922F, C1960T
