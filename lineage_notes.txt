@@ -5394,6 +5394,8 @@ XFG.4.1.1	S:S680Y, from sars-cov-2-variants/lineage-proposals#2826
 XFG.4.1.2	S:P1263L
 XFG.4.1.3	C2509T
 QY.1	Alias of XFG.4.1.3.1, S:R683Q, ORF7a:L12H, India
+QY.2	Alias of XFG.4.1.3.2, C18981T
+QY.3	Alias of XFG.4.1.3.3, ORF1a:A690V
 XFG.4.1.4	T25139C
 XFG.4.1.5	S:A67V, ORF10:A8V, from sars-cov-2-variants/lineage-proposals#2836
 XFG.4.2	S:K1191R, ORF3a:del24-27, F28I, on C16887T, C29762T branch, from sars-cov-2-variants/lineage-proposals#2734
@@ -5587,6 +5589,7 @@ XGD	Recombinant lineage of XFJ.4, XFJ.3.1.3 (breakpoints 6278-18252)
 XGE	Recombinant lineage of XFG.2, XFG.14.1 (breakpoint 6542-17006)
 XGF	Recombinant lineage of XFG.3.13, XFG.14.1 (breakpoint 13609-17006)
 XGG	Recombinant lineage of PY.1, XFG.21 (breakpoint 10979-15659), from sars-cov-2-variants/lineage-proposals#2952
+XGH	Recombinant lineage of QY.3, PY.1.4, QY.3 (breakpoints 4215-4585, 19030-20177)
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
