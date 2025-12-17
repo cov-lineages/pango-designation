@@ -5028,8 +5028,8 @@ PQ.21	Alias of XDV.1.5.1.1.8.1.21, S:A234S, Malaysia/Singapore, from sars-cov-2-
 PQ.22	Alias of XDV.1.5.1.1.8.1.22, S:R681H
 PQ.23	Alias of XDV.1.5.1.1.8.1.23, S:A688V
 PQ.24	Alias of XDV.1.5.1.1.8.1.24, S:I210T, from #3013
-PQ.25	Alias of XDV.1.5.1.1.8.1.25, S:I1114T, from sars-cov-2-variants/lineage-proposals#2668
-PQ.25.1	Alias of XDV.1.5.1.1.8.1.25.1, T29524C
+PQ.25	Alias of XDV.1.5.1.1.8.1.25, S:I1114T, most with C28957T, from sars-cov-2-variants/lineage-proposals#2668
+PQ.25.1	Alias of XDV.1.5.1.1.8.1.25.1, T29524C, pre-C28957T
 PQ.25.2	Alias of XDV.1.5.1.1.8.1.25.2, S:I478T (rev), ORF1a:L204F, ORF1b:P1570S
 PQ.25.3	Alias of XDV.1.5.1.1.8.1.25.3, C22498T
 PQ.25.3.1	Alias of XDV.1.5.1.1.8.1.25.3.1, S:T95I
