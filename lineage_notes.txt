@@ -5297,6 +5297,9 @@ XFG	Recombinant lineage of LF.7, LP.8.1.2, LF.7 (breakpoints: 22894-22895, 23040
 XFG.1	S:E96D, S:R445P, on T16224C branch, from sars-cov-2-variants/lineage-proposals#2560
 XFG.1.1	S:W452R (rev), ORF7a:V8A (rev), M:V104L, from sars-cov-2-variants/lineage-proposals#2796
 XFG.1.1.1	ORF7a:A13S
+RP.1	Alias of XFG.1.1.1.1, S:D1146G, C2065T, A16890G
+RP.2	Alias of XFG.1.1.1.2, S:T307I
+XFG.1.1.2	S:A688V
 XFG.1.2	C16111T
 XFG.1.3	ORF7a:I10V
 XFG.2	N:V270L, ORF1b:K2557R, on C20178T branch, USA-NY, from sars-cov-2-variants/lineage-proposals#2553
@@ -5309,8 +5312,12 @@ XFG.2.5	ORF7b:E33V
 XFG.2.5.1	S:L335F, S:N417T, USA
 XFG.2.6	C29311T
 XFG.2.7	C4897T
+XFG.2.7.1	T1570C, A2410G, T18099A, T27546C
+XFG.2.7.2	T14415C, C19572T, C25607T
 XFG.2.8	C13426T, C26091T
 XFG.2.8.1	S:K679R, ORF1b:T2488M, from #3139
+XFG.2.9	C25413T
+XFG.2.10	ORF1a:N3537T
 XFG.3	C13608T
 XFG.3.1	S:D1084G, ORF1a:L2122F, 29770-29775del, from sars-cov-2-variants/lineage-proposals#2617
 XFG.3.1.1	ORF1b:T2171N
@@ -5328,6 +5335,7 @@ XFG.3.1.7	S:G268S, S:A376S, from sars-cov-2-variants/lineage-proposals#2746
 XFG.3.1.8	ORF1a:D996N, ORF1a:T1240I
 XFG.3.1.9	N:I379T (rev)
 XFG.3.1.10	S:S704L, C5167T, from sars-cov-2-variants/lineage-proposals#2768
+XFG.3.1.11	C1288T, C29119T
 XFG.3.2	ORF1a:H1500Y, ORF1a:V2047I
 XFG.3.3	S:S680F, on C10615T branch, from sars-cov-2-variants/lineage-proposals#2609
 XFG.3.3.1	ORF1a:L2062F
@@ -5357,6 +5365,9 @@ QS.2	Alias of XFG.3.4.3.2, S:K679R, from sars-cov-2-variants/lineage-proposals#2
 XFG.3.4.4	S:V367I, N:A152S, ORF1b:A520T, on T15762C branch, from sars-cov-2-variants/lineage-proposals#2816
 XFG.3.4.5	S:S680P, S:A1174V, N:G5E
 XFG.3.4.6	C15763T
+RN.1	Alias of XFG.3.4.6.1, ORF1a:G519S, ORF3a:L106F
+RN.2	Alias of XFG.3.4.6.2, N:T24I
+RN.2.1	Alias of XFG.3.4.6.2.1, S:K679R
 XFG.3.4.7	ORF1b:P2169S, T580A
 XFG.3.4.8	C29200T
 XFG.3.4.9	ORF1a:V2766F
