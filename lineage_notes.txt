@@ -2163,13 +2163,29 @@ BA.3.2	Alias of B.1.1.529.3.2, saltation with ~40 spike AA substitutions, South 
 BA.3.2.1	Alias of B.1.1.529.3.2.1, S:H681R, S:P1162R
 RD.1	Alias of B.1.1.529.3.2.1.1, A10978G
 RD.1.1	Alias of B.1.1.529.3.2.1.1.1, S:V227L
+RD.1.1.1	Alias of B.1.1.529.3.2.1.1.1.1, N:T271I, Netherlands/Denmark
 RD.1.2	Alias of B.1.1.529.3.2.1.1.2, N:T296I
 BA.3.2.2	Alias of B.1.1.529.3.2.2, S:K356T, S:A575S
 RE.1	Alias of B.1.1.529.3.2.2.1, ORF1a:G227S, ORF1a:A776V
 RE.1.1	Alias of B.1.1.529.3.2.2.1.1, ORF1a:R24H, ORF1a:A131V, ORF1a:K3353R, ORF1b:R276C, Australia
+RE.1.1.1	Alias of B.1.1.529.3.2.2.1.1.1, ORF1b:H1897Y, on C18747T branch, Australia
+RE.1.1.2	Alias of B.1.1.529.3.2.2.1.1.2, S:H49Y, ORF1a:R1467K, Australia
+RE.1.1.3	Alias of B.1.1.529.3.2.2.1.1.3, S:P1162L, Australia
 RE.2	Alias of B.1.1.529.3.2.2.2, ORF1a:E1015G
-RE.2.1	Alias of B.1.1.529.3.2.2.2.1, N:T296I, on ORF1a:T1896I branch
-RE.2.2	Alias of B.1.1.529.3.2.2.2.2, C5884T, A10864G
+RE.2.1	Alias of B.1.1.529.3.2.2.2.1, N:T296I, on ORF1a:T1896I branch, Europe
+RE.2.1.1	Alias of B.1.1.529.3.2.2.2.1.1, C4891T, T8803C
+RE.2.1.2	Alias of B.1.1.529.3.2.2.2.1.2, ORF3a:I63T, on C10594T branch
+RE.2.1.3	Alias of B.1.1.529.3.2.2.2.1.3, ORF1a:P1640L, on C10594T branch
+RE.2.2	Alias of B.1.1.529.3.2.2.2.2, N:A173V, C5884T, on A10864G branch
+RE.2.2.1	Alias of B.1.1.529.3.2.2.2.2.1, ORF1a:G30D, C1663T, on T1177C branch
+RE.2.2.2	Alias of B.1.1.529.3.2.2.2.2.2, ORF1a:G3578S, ORF1a:A3889T, on T1177C branch
+RE.2.2.3	Alias of B.1.1.529.3.2.2.2.2.3, C11020T, on T1177C branch
+RE.2.2.4	Alias of B.1.1.529.3.2.2.2.2.4, ORF1a:S2500F, on T1177C branch
+RE.2.2.5	Alias of B.1.1.529.3.2.2.2.2.5, C4438T
+RE.2.2.6	Alias of B.1.1.529.3.2.2.2.2.6, ORF1a:Q998H
+RE.2.3	Alias of B.1.1.529.3.2.2.2.3, ORF1a:T2648N, ORF1a:T4065I, on A10864G branch
+RE.3	Alias of B.1.1.529.3.2.2.3, ORF1b:T2084I
+RE.3.1	Alias of B.1.1.529.3.2.2.3.1, ORF1a:L3796I, ORF1b:L1681F
 BA.4	Alias of B.1.1.529.4, from #517
 BA.4.1	Alias of B.1.1.529.4.1, mainly found in South Africa, from #548
 BA.4.1.1	Alias of B.1.1.529.4.1.1, mainly found in South Africa and Germany, from #667
