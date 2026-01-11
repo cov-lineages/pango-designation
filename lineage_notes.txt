@@ -5006,6 +5006,8 @@ RJ.1	Alias of XDV.1.5.1.1.8.1.4.6.2.1, S:K150N
 PQ.4.7	Alias of XDV.1.5.1.1.8.1.4.7, ORF1b:V165I, on C11833T branch
 PQ.4.8	Alias of XDV.1.5.1.1.8.1.4.8, A17409G, C26013T
 PQ.4.9	Alias of XDV.1.5.1.1.8.1.4.9, ORF1a:V757F, ORF1a:T1597I, on C11833T branch
+PQ.4.10	Alias of XDV.1.5.1.1.8.1.4.10, A5536G, C20235T, T21820C
+PQ.4.10.1	Alias of XDV.1.5.1.1.8.1.4.10.1, S:V1264L
 PQ.5	Alias of XDV.1.5.1.1.8.1.5, ORF3a:L94F, from sars-cov-2-variants/lineage-proposals#2577
 PQ.5.1	Alias of XDV.1.5.1.1.8.1.5.1, ORF3a:A99S, ORF8:T87I, after ORF3a:P42L, from sars-cov-2-variants/lineage-proposals#2577
 PQ.5.1.1	Alias of XDV.1.5.1.1.8.1.5.1.1, S:K150N
@@ -5053,6 +5055,12 @@ PQ.17.7.1	Alias of XDV.1.5.1.1.8.1.17.7.1, S:S680F, on A26046G branch, South Kor
 PQ.17.7.2	Alias of XDV.1.5.1.1.8.1.17.7.2, S:H445P, on A26046G branch, South Korea
 RK.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1, S:D420N
 PQ.17.8	Alias of XDV.1.5.1.1.8.1.17.8, S:A701V, S:P809S, ORF7a:L20F, from #3125
+PQ.17.9	Alias of XDV.1.5.1.1.8.1.17.9, ORF3a:P240L, T15009C
+PQ.17.10	Alias of XDV.1.5.1.1.8.1.17.10, T4441C
+PQ.17.10.1	Alias of XDV.1.5.1.1.8.1.17.10.1, S:T572I
+PQ.17.11	Alias of XDV.1.5.1.1.8.1.17.11, S:T572I
+PQ.17.11.1	Alias of XDV.1.5.1.1.8.1.17.11.1, S:R346K, ORF3a:V112I, from #3163
+PQ.17.12	Alias of XDV.1.5.1.1.8.1.17.12, ORF1a:A4257V, C1102G
 PQ.18	Alias of XDV.1.5.1.1.8.1.18, S:S680F, from sars-cov-2-variants/lineage-proposals#2706
 PQ.19	Alias of XDV.1.5.1.1.8.1.19, S:T51A, S:R346K, from sars-cov-2-variants/lineage-proposals#2633
 PQ.20	Alias of XDV.1.5.1.1.8.1.20, S:G181A, from sars-cov-2-variants/lineage-proposals#2696
@@ -5394,6 +5402,7 @@ QF.4	Alias of XFG.3.4.1.4, C15960A, C28651T
 QF.5	Alias of XFG.3.4.1.5, C5284T
 QF.5.1	Alias of XFG.3.4.1.5.1, S:S704L
 QF.6	Alias of XFG.3.4.1.6, S:A958S, UK
+QF.7	Alias of XFG.3.4.1.7, ORF3a:A72T, from #3154
 XFG.3.4.2	ORF1a:A372T
 QT.1	Alias of XFG.3.4.2.1, C3817T
 QT.1.1	Alias of XFG.3.4.2.1.1, S:S680P, on ORF1b:T1637I branch, from sars-cov-2-variants/lineage-proposals#2779
@@ -5686,6 +5695,7 @@ XGK	Recombinant lineage of XFG.2.12, XFG.17.2.1 (breakpoint 11173-20178), from s
 XGL	Recombinant lineage of XFG.3.1.12, XFG.17.2.1 (breakpoint 11173-13608), from sars-cov-2-variants/lineage-proposals#3065
 XGM	Recombinant lineage of NY.3.3, LF.7.3, NY.3.3 (breakpoints 7114-7868, 21654-22119), from sars-cov-2-variants/lineage-proposals#2958
 XGN	Recombinant lineage of XFG.3.5.2, RG.3, XFG.3.5.2 (breakpoints 23277-23598, 27649-28032), from sars-cov-2-variants/lineage-proposals#3212
+XGP	Recombinant lineage of NY.3.3, XFG.26 (breakpoint 16601-17459), from sars-cov-2-variants/lineage-proposals#3196
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
