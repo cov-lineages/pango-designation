@@ -2184,6 +2184,7 @@ RE.2.2.4	Alias of B.1.1.529.3.2.2.2.2.4, ORF1a:S2500F, on T1177C branch
 RE.2.2.5	Alias of B.1.1.529.3.2.2.2.2.5, C4438T
 RE.2.2.6	Alias of B.1.1.529.3.2.2.2.2.6, ORF1a:Q998H
 RE.2.3	Alias of B.1.1.529.3.2.2.2.3, ORF1a:T2648N, ORF1a:T4065I, on A10864G branch
+RE.2.4	Alias of B.1.1.529.3.2.2.2.4, N:N126K
 RE.3	Alias of B.1.1.529.3.2.2.3, ORF1b:T2084I
 RE.3.1	Alias of B.1.1.529.3.2.2.3.1, ORF1a:L3796I, ORF1b:L1681F
 BA.4	Alias of B.1.1.529.4, from #517
