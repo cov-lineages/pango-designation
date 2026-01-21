@@ -5515,6 +5515,7 @@ XFG.5.4	T2698C
 XFG.5.4.1	ORF3a:D155Y
 QW.1	Alias of XFG.5.4.1.1, S:Q677R, ORF1a:G400S, from sars-cov-2-variants/lineage-proposals#2896
 QW.1.1	Alias of XFG.5.4.1.1.1, S:L176F, C7834T
+QW.2	Alias of XFG.5.4.1.2, C1420T, T16695C, G24199A, T27484C, A29617G
 XFG.6	S:L441I, on C20178T branch, from sars-cov-2-variants/lineage-proposals#2621
 XFG.6.1	S:T678I, from sars-cov-2-variants/lineage-proposals#2829
 XFG.6.2	N:I379T (rev)
