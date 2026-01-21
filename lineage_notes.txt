@@ -5682,6 +5682,8 @@ XFW.1.1	S:T676P, from sars-cov-2-variants/lineage-proposals#2740
 XFW.1.1.1	S:Q677R, ORF7a:T39I
 XFY	Recombinant lineage of XFG.5.1, NB.1.8.1 (breakpoint 25793-28432) with extra S:Q677H, from sars-cov-2-variants/lineage-proposals#2837
 XFY.1	S:I1169V, C4456T, ORF1b:K1537R
+XFY.2	C8626T
+XFY.3	C29272T
 XFZ	Recombinant lineage of XFC.3, PG.3.2 (breakpoint 23600-24818), from sars-cov-2-variants/lineage-proposals#2805
 XFZ.1	S:M153V, A22486G
 XFZ.2	N:K237R
