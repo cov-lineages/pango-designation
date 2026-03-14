@@ -5517,6 +5517,7 @@ XFG.5.2.5	ORF1a:P2079S, N:T24I, ORF7a:A66V, ORF7b:Y10C, ORF10:I27M
 RM.1	Alias of XFG.5.2.5.1, S:I1172V, from sars-cov-2-variants/lineage-proposals#3162
 RM.2	Alias of XFG.5.2.5.2, S:A67V
 XFG.5.2.6	S:S704L, C12295T, from sars-cov-2-variants/lineage-proposals#2768
+XFG.5.2.7	S:L335S, S:A376S, on ORF3a:L95F branch
 XFG.5.3	S:S254F, Canada
 XFG.5.4	T2698C
 XFG.5.4.1	ORF3a:D155Y
@@ -5704,6 +5705,8 @@ XFY.3	C29272T
 XFZ	Recombinant lineage of XFC.3, PG.3.2 (breakpoint 23600-24818), from sars-cov-2-variants/lineage-proposals#2805
 XFZ.1	S:M153V, A22486G, from sars-cov-2-variants/lineage-proposals#3046
 XFZ.2	N:K237R
+XFZ.2.1	S:D1146G, Canada
+XFZ.3	ORF1a:T1638I, C19170T, T4330C, C2221T, A7864G
 XGA	Recombinant lineage of XFJ.4.1, PY.1, XFG.6.2 (breakpoints 15661-18251, 19030-20177), from #3077
 XGA.1	C25578T
 XGA.2	C8140T
