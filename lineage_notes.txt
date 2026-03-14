@@ -4965,6 +4965,9 @@ PQ.2.1.4	Alias of XDV.1.5.1.1.8.1.2.1.4, C2788T
 PQ.2.1.5	Alias of XDV.1.5.1.1.8.1.2.1.5, T24194C
 PQ.2.1.6	Alias of XDV.1.5.1.1.8.1.2.1.6, C7420T
 PQ.2.1.7	Alias of XDV.1.5.1.1.8.1.2.1.7, ORF1b:T2432I
+RZ.1	Alias of XDV.1.5.1.1.8.1.2.1.7.1, S:R445P, England
+RZ.2	Alias of XDV.1.5.1.1.8.1.2.1.7.2, S:E156V
+RZ.2.1	Alias of XDV.1.5.1.1.8.1.2.1.7.2.1, S:R346T
 PQ.2.1.8	Alias of XDV.1.5.1.1.8.1.2.1.8, ORF1a:L4391F, ORF1b:V1092F, ORF1b:S2359F
 PQ.2.1.9	Alias of XDV.1.5.1.1.8.1.2.1.9, C10369T
 PQ.2.1.10	Alias of XDV.1.5.1.1.8.1.2.1.10, C27149T
@@ -4995,8 +4998,8 @@ RC.2	Alias of XDV.1.5.1.1.8.1.2.8.1.2, ORF1a:K958R
 RC.2.1	Alias of XDV.1.5.1.1.8.1.2.8.1.2.1, S:S680Y, from sars-cov-2-variants/lineage-proposals#3045
 RC.3	Alias of XDV.1.5.1.1.8.1.2.8.1.3, C21952T
 RC.4	Alias of XDV.1.5.1.1.8.1.2.8.1.4, T3802C
-RC.5	Alias of XDV.1.5.1.1.8.1.2.8.1.5, ORF1a:T654I
-RC.6	Alias of XDV.1.5.1.1.8.1.2.8.1.6, S:S:680Y, ORF1a:T333M, Japan/Canada
+RC.5	Alias of XDV.1.5.1.1.8.1.2.8.1.5, ORF1a:T654I, many with S:S943G
+RC.6	Alias of XDV.1.5.1.1.8.1.2.8.1.6, S:680Y, ORF1a:T333M, Japan/Canada
 PQ.2.8.2	Alias of XDV.1.5.1.1.8.1.2.8.2, S:V289I
 PQ.2.9	Alias of XDV.1.5.1.1.8.1.2.9, C18814T
 PQ.2.10	Alias of XDV.1.5.1.1.8.1.2.10, ORF8:M1V, T13668C, from sars-cov-2-variants/lineage-proposals#2736
@@ -5018,6 +5021,8 @@ PQ.4.8	Alias of XDV.1.5.1.1.8.1.4.8, A17409G, C26013T
 PQ.4.9	Alias of XDV.1.5.1.1.8.1.4.9, ORF1a:V757F, ORF1a:T1597I, on C11833T branch
 PQ.4.10	Alias of XDV.1.5.1.1.8.1.4.10, A5536G, C20235T, T21820C
 PQ.4.10.1	Alias of XDV.1.5.1.1.8.1.4.10.1, S:V1264L, from sars-cov-2-variants/lineage-proposals#3211
+RY.1	Alias of XDV.1.5.1.1.8.1.4.10.1.1, S:K478T (rev)
+RY.1.1	Alias of XDV.1.5.1.1.8.1.4.10.1.1.1, S:T547I, on G19326A (rev) branch
 PQ.5	Alias of XDV.1.5.1.1.8.1.5, ORF3a:L94F, from sars-cov-2-variants/lineage-proposals#2577
 PQ.5.1	Alias of XDV.1.5.1.1.8.1.5.1, ORF3a:A99S, ORF8:T87I, after ORF3a:P42L, from sars-cov-2-variants/lineage-proposals#2577
 PQ.5.1.1	Alias of XDV.1.5.1.1.8.1.5.1.1, S:K150N
