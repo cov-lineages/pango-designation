@@ -5023,7 +5023,7 @@ RJ.1	Alias of XDV.1.5.1.1.8.1.4.6.2.1, S:K150N
 PQ.4.7	Alias of XDV.1.5.1.1.8.1.4.7, ORF1b:V165I, on C11833T branch
 PQ.4.8	Alias of XDV.1.5.1.1.8.1.4.8, A17409G, C26013T
 PQ.4.9	Alias of XDV.1.5.1.1.8.1.4.9, ORF1a:V757F, ORF1a:T1597I, on C11833T branch
-PQ.4.10	Alias of XDV.1.5.1.1.8.1.4.10, A5536G, C20235T, T21820C
+PQ.4.10	Alias of XDV.1.5.1.1.8.1.4.10, A5536G, C20235T, T21820C, ORF7b:del13-14 out of frame
 PQ.4.10.1	Alias of XDV.1.5.1.1.8.1.4.10.1, S:V1264L, from sars-cov-2-variants/lineage-proposals#3211
 RY.1	Alias of XDV.1.5.1.1.8.1.4.10.1.1, S:K478T (rev)
 RY.1.1	Alias of XDV.1.5.1.1.8.1.4.10.1.1.1, S:T547I, on G19326A (rev), ORF3a:ins103PP branch
