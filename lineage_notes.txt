@@ -6043,3 +6043,4 @@ XGU	Recombinant lineage of XFG.5.2, XFZ (breakpoint 20179-22791), from sars-cov-
 *MC.34	Withdrawn: Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.34, A29716T (29716 in UTR masked by pangolin)
 *XFG.20	Withdrawn: C10615T (didn't realize it was a dropout branch of XFG.3 when designating)
 *XFG.3.31.1	Withdrawn: only one sequence had S:K554E
+*QW.2  Redesignated as XFG.5.4.2
