@@ -5549,7 +5549,7 @@ XFG.6.2.1	S:D253G, from sars-cov-2-variants/lineage-proposals#2962
 SC.1	Alias of XFG.6.2.1, C10228T
 XFG.6.2.2	A18585T
 SB.1	Alias of XFG.6.2.2.1, T21414C
-SB.1.1	Alias of XFG.6.2.2.1, S:A435S
+SB.1.1	Alias of XFG.6.2.2.1, S:A435S, S:ins16KPLF
 XFG.6.2.3	C9226T
 XFG.6.3	T8359C
 XFG.6.3.1	C920T
