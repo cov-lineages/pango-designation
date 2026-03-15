@@ -564,6 +564,8 @@
     "XGR": ["NW.1.7.4","RN.1"],
     "XGS": ["XFG","PY.1","XFG"],
     "XGT": ["QF.2","PQ.17","QF.2"],
-    "XGU": ["XFG.5.2","XFZ"]
+    "XGU": ["XFG.5.2","XFZ"],
+    "XGV": ["NW.1.2","XFV"],
+    "XGW": ["NY.3.3","XFG.6.2.1"]
 }
 
