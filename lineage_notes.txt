@@ -5008,6 +5008,7 @@ RC.10	Alias of XDV.1.5.1.1.8.1.2.8.1.10, ORF1a:K1980R, ORF1a:T2056I
 PQ.2.8.2	Alias of XDV.1.5.1.1.8.1.2.8.2, S:V289I
 PQ.2.9	Alias of XDV.1.5.1.1.8.1.2.9, C18814T
 PQ.2.10	Alias of XDV.1.5.1.1.8.1.2.10, ORF8:M1V, T13668C, from sars-cov-2-variants/lineage-proposals#2736
+PQ.2.10.1	Alias of XDV.1.5.1.1.8.1.2.10.1, S:K679R, ORF1b:T2514I
 PQ.2.11	Alias of XDV.1.5.1.1.8.1.2.11, ORF1b:N79S
 PQ.2.11.1	Alias of XDV.1.5.1.1.8.1.2.11.1, S:I478T (rev), T4640C
 PQ.2.12	Alias of XDV.1.5.1.1.8.1.2.12, T712A
