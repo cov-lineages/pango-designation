@@ -5000,6 +5000,9 @@ RC.3	Alias of XDV.1.5.1.1.8.1.2.8.1.3, C21952T
 RC.4	Alias of XDV.1.5.1.1.8.1.2.8.1.4, T3802C
 RC.5	Alias of XDV.1.5.1.1.8.1.2.8.1.5, ORF1a:T654I, many with S:S943G
 RC.6	Alias of XDV.1.5.1.1.8.1.2.8.1.6, S:680Y, ORF1a:T333M, Japan/Canada
+RC.7	Alias of XDV.1.5.1.1.8.1.2.8.1.7, ORF1a:T1840I
+RC.7.1	Alias of XDV.1.5.1.1.8.1.2.8.1.7.1, S:S256L
+RC.8	Alias of XDV.1.5.1.1.8.1.2.8.1.8, ORF1a:H1113Y
 PQ.2.8.2	Alias of XDV.1.5.1.1.8.1.2.8.2, S:V289I
 PQ.2.9	Alias of XDV.1.5.1.1.8.1.2.9, C18814T
 PQ.2.10	Alias of XDV.1.5.1.1.8.1.2.10, ORF8:M1V, T13668C, from sars-cov-2-variants/lineage-proposals#2736
