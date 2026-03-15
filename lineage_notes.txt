@@ -5429,7 +5429,10 @@ QF.1.1.1	Alias of XFG.3.4.1.1.1.1, S:A1174V, from sars-cov-2-variants/lineage-pr
 QF.2	Alias of XFG.3.4.1.2, C27812T
 QF.2.1	Alias of XFG.3.4.1.2.1, S:N641K, from sars-cov-2-variants/lineage-proposals#2908
 QF.2.2	Alias of XFG.3.4.1.2.2, G29044A
-QF.2.2.1	Alias of XFG.3.4.1.2.2, S:I326V, from #3140
+QF.2.2.1	Alias of XFG.3.4.1.2.2.1, S:I326V, from #3140
+SD.1	Alias of XFG.3.4.1.2.2.1.1, ORF1b:V2371L
+SD.1.1	Alias of XFG.3.4.1.2.2.1.1.1, T7441C, C20148T
+QF.2.2.2	Alias of XFG.3.4.1.2.2.2, C26873T
 QF.2.3	Alias of XFG.3.4.1.2.3, C13247T
 QF.2.4	Alias of XFG.3.4.1.2.4, C21811T
 QF.2.5	Alias of XFG.3.4.1.2.5, C23191T
