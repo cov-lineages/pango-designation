@@ -2212,6 +2212,7 @@ RE.2.2.6	Alias of B.1.1.529.3.2.2.2.2.6, ORF1a:Q998H
 RE.2.2.7	Alias of B.1.1.529.3.2.2.2.2.7, S:K300R, on ORF1a:G30D branch, after T1177C, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.2.8	Alias of B.1.1.529.3.2.2.2.2.8, S:T827I, on C10726T branch, after T1177C, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.2.9	Alias of B.1.1.529.3.2.2.2.2.9, T17007C
+RE.2.2.10	Alias of B.1.1.529.3.2.2.2.2.10, C25069T
 RE.2.3	Alias of B.1.1.529.3.2.2.2.3, ORF1a:T2648N, ORF1a:T4065I, on A10864G branch, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.4	Alias of B.1.1.529.3.2.2.2.4, N:N126K, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.5	Alias of B.1.1.529.3.2.2.2.5, ORF1a:A2593V, ORF1a:A2785V, ORF1a:P3504L, USA
