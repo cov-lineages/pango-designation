@@ -2179,6 +2179,7 @@ RS.1.3	Alias of B.1.1.529.3.2.2.1.1.1.1.3, C4891T
 RS.1.4	Alias of B.1.1.529.3.2.2.1.1.1.1.4, C10252T
 RS.2	Alias of B.1.1.529.3.2.2.1.1.1.2, ORF1a:D2060N
 RS.3	Alias of B.1.1.529.3.2.2.1.1.1.3, S:A1078S
+RS.4	Alias of B.1.1.529.3.2.2.1.1.1.4, N:H241Y, New Zealand
 RE.1.1.2	Alias of B.1.1.529.3.2.2.1.1.2, S:H49Y, ORF1a:R1467K, Australia, from sars-cov-2-variants/lineage-proposals#3164
 SJ.1	Alias of B.1.1.529.3.2.2.1.1.2.1, S:V1228L, ORF1a:G133C, Europe
 RE.1.1.3	Alias of B.1.1.529.3.2.2.1.1.3, S:P1162L, Australia, from sars-cov-2-variants/lineage-proposals#3093
