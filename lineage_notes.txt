@@ -5008,6 +5008,7 @@ RC.5	Alias of XDV.1.5.1.1.8.1.2.8.1.5, ORF1a:T654I, many with S:S943G
 RC.6	Alias of XDV.1.5.1.1.8.1.2.8.1.6, S:680Y, ORF1a:T333M, Japan/Canada
 RC.7	Alias of XDV.1.5.1.1.8.1.2.8.1.7, ORF1a:T1840I
 RC.7.1	Alias of XDV.1.5.1.1.8.1.2.8.1.7.1, S:S256L
+RC.7.1.1	Alias of XDV.1.5.1.1.8.1.2.8.1.7.1.1, S:A684T
 RC.8	Alias of XDV.1.5.1.1.8.1.2.8.1.8, ORF1a:H1113Y
 RC.9	Alias of XDV.1.5.1.1.8.1.2.8.1.9, C26882T
 RC.10	Alias of XDV.1.5.1.1.8.1.2.8.1.10, ORF1a:K1980R, ORF1a:T2056I
