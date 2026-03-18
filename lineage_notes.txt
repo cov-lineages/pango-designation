@@ -5127,6 +5127,8 @@ PQ.17.10	Alias of XDV.1.5.1.1.8.1.17.10, T4441C
 PQ.17.10.1	Alias of XDV.1.5.1.1.8.1.17.10.1, S:T572I, from sars-cov-2-variants/lineage-proposals#3076
 PQ.17.11	Alias of XDV.1.5.1.1.8.1.17.11, S:T572I, from sars-cov-2-variants/lineage-proposals#3120
 PQ.17.11.1	Alias of XDV.1.5.1.1.8.1.17.11.1, S:R346K, ORF3a:V112I, from #3163
+PQ.17.11.2	Alias of XDV.1.5.1.1.8.1.17.11.2, M:D190E
+PQ.17.11.3	Alias of XDV.1.5.1.1.8.1.17.11.3, S:F186L, ORF1a:E1217G, ORF1a:T2877I
 PQ.17.12	Alias of XDV.1.5.1.1.8.1.17.12, S:R346T, ORF7a:T28I
 PQ.17.12.1	Alias of XDV.1.5.1.1.8.1.17.12.1, S:E654K
 PQ.18	Alias of XDV.1.5.1.1.8.1.18, S:S680F, from sars-cov-2-variants/lineage-proposals#2706
@@ -5183,6 +5185,8 @@ PQ.47	Alias of XDV.1.5.1.1.8.1.47, S:S446N, ORF1a:M2254I
 PQ.48	Alias of XDV.1.5.1.1.8.1.48, ORF1a:T4175I
 PQ.48.1	Alias of XDV.1.5.1.1.8.1.48.1, S:Q677H, from sars-cov-2-variants/lineage-proposals#2819
 PQ.49	Alias of XDV.1.5.1.1.8.1.49, C28657T
+PQ.50	Alias of XDV.1.5.1.1.8.1.50, C29555T
+PQ.50.1	Alias of XDV.1.5.1.1.8.1.50.1, S:K478T (rev)
 NB.1.9	Alias of XDV.1.5.1.1.9, S:L176F, S:H445P, from sars-cov-2-variants/lineage-proposals#2460
 NB.1.10	Alias of XDV.1.5.1.1.10, S:S680F
 NB.1.11	Alias of XDV.1.5.1.1.11, S:A958S, N:A182S, ORF1a:R1163G, from sars-cov-2-variants/lineage-proposals#2321
