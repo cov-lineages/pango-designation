@@ -2199,6 +2199,7 @@ RE.2.1.5	Alias of B.1.1.529.3.2.2.2.1.5, C5144T, C16293T, C25339T
 RE.2.1.6	Alias of B.1.1.529.3.2.2.2.1.6, ORF1b:T1655I, Scotland
 RE.2.2	Alias of B.1.1.529.3.2.2.2.2, N:A173V, C5884T, on A10864G branch, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.2.1	Alias of B.1.1.529.3.2.2.2.2.1, C1663T, on ORF1a:G30D branch, after T1177C
+SN.1	Alias of B.1.1.529.3.2.2.2.2.1.1, S:L26F, ORF1a:M2365I, Netherlands
 RE.2.2.2	Alias of B.1.1.529.3.2.2.2.2.2, ORF1a:G3578S, ORF1a:A3889T, on T1177C branch, from sars-cov-2-variants/lineage-proposals#3093
 RU.1	Alias of B.1.1.529.3.2.2.2.2.2.1, N:L219F, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.2.3	Alias of B.1.1.529.3.2.2.2.2.3, C11020T, on T1177C branch
