@@ -5498,6 +5498,7 @@ QF.5	Alias of XFG.3.4.1.5, C5284T
 QF.5.1	Alias of XFG.3.4.1.5.1, S:S704L, from sars-cov-2-variants/lineage-proposals#2768
 QF.6	Alias of XFG.3.4.1.6, S:A958S, UK, from sars-cov-2-variants/lineage-proposals#3030
 QF.7	Alias of XFG.3.4.1.7, ORF3a:A72T, from #3154
+QF.7.1	Alias of XFG.3.4.1.7.1, S:S704L
 XFG.3.4.2	ORF1a:A372T
 QT.1	Alias of XFG.3.4.2.1, C3817T
 QT.1.1	Alias of XFG.3.4.2.1.1, S:S680P, on ORF1b:T1637I branch, from sars-cov-2-variants/lineage-proposals#2779
