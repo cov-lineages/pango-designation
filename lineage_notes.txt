@@ -5651,6 +5651,8 @@ XFG.14.1.5	C817T, C10183T
 XFG.14.1.6	S:V705F, USA, from sars-cov-2-variants/lineage-proposals#2991
 XFG.14.1.7	S:R346I, Canada
 XFG.14.1.8	ORF1b:T250I
+XFG.14.1.9	S:S704L, C27944T
+XFG.14.1.10	A6058G
 XFG.14.2	S:Q677L, from sars-cov-2-variants/lineage-proposals#2747
 XFG.14.2.1	S:P1162L, ORf1a:L3694F, ORF3a:I35T, from sars-cov-2-variants/lineage-proposals#2954
 XFG.14.3	S:K147E, ORF1a:D1440G, ORF1b:P970L, pre-ORF7a:E121Q, from sars-cov-2-variants/lineage-proposals#2624
