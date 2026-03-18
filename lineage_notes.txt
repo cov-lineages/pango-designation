@@ -2189,8 +2189,13 @@ RE.1.2	Alias of B.1.1.529.3.2.2.1.2, C203T, C5654T, C9836T, C22594T, C28987T, So
 RE.2	Alias of B.1.1.529.3.2.2.2, ORF1a:E1015G, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.1	Alias of B.1.1.529.3.2.2.2.1, N:T296I, on ORF1a:T1896I branch, Europe, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.1.1	Alias of B.1.1.529.3.2.2.2.1.1, C4891T, T8803C
+SK.1	Alias of B.1.1.529.3.2.2.2.1.1.1, A16095G, A29086T, Ireland
 RE.2.1.2	Alias of B.1.1.529.3.2.2.2.1.2, ORF3a:I63T, on C10594T branch, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.1.3	Alias of B.1.1.529.3.2.2.2.1.3, ORF1a:P1640L, on C10594T branch, from sars-cov-2-variants/lineage-proposals#3093
+SL.1	Alias of B.1.1.529.3.2.2.2.1.3.1, S:A1070V
+RE.2.1.4	Alias of B.1.1.529.3.2.2.2.1.4, ORF1a:T2069N, Italy
+RE.2.1.5	Alias of B.1.1.529.3.2.2.2.1.5, C5144T, C16293T, C25339T
+RE.2.1.6	Alias of B.1.1.529.3.2.2.2.1.6, ORF1b:T1655I, Scotland
 RE.2.2	Alias of B.1.1.529.3.2.2.2.2, N:A173V, C5884T, on A10864G branch, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.2.1	Alias of B.1.1.529.3.2.2.2.2.1, C1663T, on ORF1a:G30D branch, after T1177C
 RE.2.2.2	Alias of B.1.1.529.3.2.2.2.2.2, ORF1a:G3578S, ORF1a:A3889T, on T1177C branch, from sars-cov-2-variants/lineage-proposals#3093
@@ -2204,6 +2209,7 @@ RE.2.2.7	Alias of B.1.1.529.3.2.2.2.2.7, S:K300R, on ORF1a:G30D branch, after T1
 RE.2.2.8	Alias of B.1.1.529.3.2.2.2.2.8, S:T827I, on C10726T branch, after T1177C, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.3	Alias of B.1.1.529.3.2.2.2.3, ORF1a:T2648N, ORF1a:T4065I, on A10864G branch, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.4	Alias of B.1.1.529.3.2.2.2.4, N:N126K, from sars-cov-2-variants/lineage-proposals#3093
+RE.2.5	Alias of B.1.1.529.3.2.2.2.5, ORF1a:A2593V, ORF1a:A2785V, ORF1a:P3504L, USA
 RE.3	Alias of B.1.1.529.3.2.2.3, ORF1b:T2084I, from sars-cov-2-variants/lineage-proposals#3093
 RE.3.1	Alias of B.1.1.529.3.2.2.3.1, ORF1a:L3796I, ORF1b:L1681F
 RE.4	Alias of B.1.1.529.3.2.2.4, S:D1084Y, N:H300Y, South Africa/Portugal
