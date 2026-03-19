@@ -2180,6 +2180,7 @@ RS.1.4	Alias of B.1.1.529.3.2.2.1.1.1.1.4, C10252T
 RS.2	Alias of B.1.1.529.3.2.2.1.1.1.2, ORF1a:D2060N
 RS.3	Alias of B.1.1.529.3.2.2.1.1.1.3, S:A1078S
 RS.4	Alias of B.1.1.529.3.2.2.1.1.1.4, N:H241Y, New Zealand
+RS.5	Alias of B.1.1.529.3.2.2.1.1.1.5, S:L26F, ORF3a:S60C
 RE.1.1.2	Alias of B.1.1.529.3.2.2.1.1.2, S:H49Y, ORF1a:R1467K, Australia, from sars-cov-2-variants/lineage-proposals#3164
 SJ.1	Alias of B.1.1.529.3.2.2.1.1.2.1, S:V1228L, ORF1a:G133C, Europe
 RE.1.1.3	Alias of B.1.1.529.3.2.2.1.1.3, S:P1162L, Australia, from sars-cov-2-variants/lineage-proposals#3093
@@ -5605,6 +5606,7 @@ XFG.5.2.4	ORF1a:D2980G
 XFG.5.2.5	ORF1a:P2079S, N:T24I, ORF7a:A66V, ORF7b:Y10C, ORF10:I27M
 RM.1	Alias of XFG.5.2.5.1, S:I1172V, from sars-cov-2-variants/lineage-proposals#3162
 RM.2	Alias of XFG.5.2.5.2, S:A67V
+RM.3	Alias of XFG.5.2.5.3, S:H146Q, S:N148T, S:N641K
 XFG.5.2.6	S:S704L, C12295T, from sars-cov-2-variants/lineage-proposals#2768
 XFG.5.2.7	S:L335S, S:A376S, on ORF3a:L95F branch
 XFG.5.3	S:S254F, Canada
