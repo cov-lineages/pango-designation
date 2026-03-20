@@ -5051,7 +5051,7 @@ PQ.2.12.1	Alias of XDV.1.5.1.1.8.1.2.12.1, S:S446T
 PQ.2.13	Alias of XDV.1.5.1.1.8.1.2.13, C27513T
 PQ.2.13.1	Alias of XDV.1.5.1.1.8.1.2.13.1, S:S221L, S:S446T
 PQ.2.14	Alias of XDV.1.5.1.1.8.1.2.14, C16293T
-PQ.2.14.1	Alias of XDV.1.5.1.1.8.1.2.14.1, S:I478T (rev), S:K679R, 
+PQ.2.14.1	Alias of XDV.1.5.1.1.8.1.2.14.1, S:I478T (rev), S:K679R 
 PQ.3	Alias of XDV.1.5.1.1.8.1.3, N:H300Y, N:G321S, from sars-cov-2-variants/lineage-proposals#2578
 PQ.4	Alias of XDV.1.5.1.1.8.1.4, C2842T
 PQ.4.1	Alias of XDV.1.5.1.1.8.1.4.1, S:T572I, S:K679N, from sars-cov-2-variants/lineage-proposals#2773
@@ -5066,10 +5066,10 @@ RJ.1	Alias of XDV.1.5.1.1.8.1.4.6.2.1, S:K150N
 PQ.4.7	Alias of XDV.1.5.1.1.8.1.4.7, ORF1b:V165I, on C11833T branch
 PQ.4.8	Alias of XDV.1.5.1.1.8.1.4.8, A17409G, C26013T
 PQ.4.9	Alias of XDV.1.5.1.1.8.1.4.9, ORF1a:V757F, ORF1a:T1597I, on C11833T branch
-PQ.4.10	Alias of XDV.1.5.1.1.8.1.4.10, A5536G, C20235T, T21820C
+PQ.4.10	Alias of XDV.1.5.1.1.8.1.4.10, A5536G, C20235T, T21820C, ORF7b:del13-14 out of frame
 PQ.4.10.1	Alias of XDV.1.5.1.1.8.1.4.10.1, S:V1264L, from sars-cov-2-variants/lineage-proposals#3211
 RY.1	Alias of XDV.1.5.1.1.8.1.4.10.1.1, S:K478T (rev)
-RY.1.1	Alias of XDV.1.5.1.1.8.1.4.10.1.1.1, S:T547I, on G19326A (rev) branch
+RY.1.1	Alias of XDV.1.5.1.1.8.1.4.10.1.1.1, S:T547I, on G19326A (rev), ORF3a:ins103PP branch
 PQ.5	Alias of XDV.1.5.1.1.8.1.5, ORF3a:L94F, from sars-cov-2-variants/lineage-proposals#2577
 PQ.5.1	Alias of XDV.1.5.1.1.8.1.5.1, ORF3a:A99S, ORF8:T87I, after ORF3a:P42L, from sars-cov-2-variants/lineage-proposals#2577
 PQ.5.1.1	Alias of XDV.1.5.1.1.8.1.5.1.1, S:K150N
@@ -5133,7 +5133,7 @@ PQ.17.11	Alias of XDV.1.5.1.1.8.1.17.11, S:T572I, from sars-cov-2-variants/linea
 PQ.17.11.1	Alias of XDV.1.5.1.1.8.1.17.11.1, S:R346K, ORF3a:V112I, from #3163
 PQ.17.11.2	Alias of XDV.1.5.1.1.8.1.17.11.2, M:D190E
 PQ.17.11.3	Alias of XDV.1.5.1.1.8.1.17.11.3, S:F186L, ORF1a:E1217G, ORF1a:T2877I
-PQ.17.12	Alias of XDV.1.5.1.1.8.1.17.12, S:R346T, ORF7a:T28I
+PQ.17.12	Alias of XDV.1.5.1.1.8.1.17.12, S:R346T, ORF7a:T28I, ORF1a:del82-84,M85V
 PQ.17.12.1	Alias of XDV.1.5.1.1.8.1.17.12.1, S:E654K
 PQ.18	Alias of XDV.1.5.1.1.8.1.18, S:S680F, from sars-cov-2-variants/lineage-proposals#2706
 PQ.19	Alias of XDV.1.5.1.1.8.1.19, S:T51A, S:R346K, from sars-cov-2-variants/lineage-proposals#2633
@@ -5632,10 +5632,10 @@ XFG.6	S:L441I, on C20178T branch, from sars-cov-2-variants/lineage-proposals#262
 XFG.6.1	S:T678I, from sars-cov-2-variants/lineage-proposals#2829
 XFG.6.2	N:I379T (rev)
 XFG.6.2.1	S:D253G, from sars-cov-2-variants/lineage-proposals#2962
-SC.1	Alias of XFG.6.2.1, C10228T
+SC.1	Alias of XFG.6.2.1.1, C10228T
 XFG.6.2.2	A18585T
 SB.1	Alias of XFG.6.2.2.1, T21414C
-SB.1.1	Alias of XFG.6.2.2.1, S:A435S
+SB.1.1	Alias of XFG.6.2.2.1, S:A435S, S:ins16KPLF
 XFG.6.2.3	C9226T
 XFG.6.3	T8359C
 XFG.6.3.1	C920T
@@ -6142,3 +6142,4 @@ XGW	Recombinant lineage of NY.3.3, SC.1 (breakpoint 8818-10227), from sars-cov-2
 *MC.34	Withdrawn: Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.34, A29716T (29716 in UTR masked by pangolin)
 *XFG.20	Withdrawn: C10615T (didn't realize it was a dropout branch of XFG.3 when designating)
 *XFG.3.31.1	Withdrawn: only one sequence had S:K554E
+*QW.2  Redesignated as XFG.5.4.2
