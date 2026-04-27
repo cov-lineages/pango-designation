@@ -5653,6 +5653,7 @@ XFG.6.3.3	S:S446N, from sars-cov-2-variants/lineage-proposals#3138
 XFG.6.4	ORF1a:T2611I
 XFG.6.5	C23758T
 XFG.6.5.1	S:S680Y, UK
+ST.1	Alias of XFG.6.5.1.1, S:A435S
 XFG.6.6	ORF1a:T1881I, ORF3a:L94F, ORF3a:A110V, ORF10:N22D, from sars-cov-2-variants/lineage-proposals#2987
 XFG.6.7	ORF1b:A1291V, USA
 XFG.6.8	C583T, T6673C
