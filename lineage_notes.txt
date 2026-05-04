@@ -5659,6 +5659,7 @@ XFG.6.3	T8359C
 XFG.6.3.1	C920T
 XFG.6.3.2	S:K679R, from sars-cov-2-variants/lineage-proposals#3048
 XFG.6.3.3	S:S446N, from sars-cov-2-variants/lineage-proposals#3138
+SW.1	Alias of XFG.6.3.3.1, S:A435S, M:H148Y
 XFG.6.4	ORF1a:T2611I
 XFG.6.5	C23758T
 XFG.6.5.1	S:S680Y, UK
