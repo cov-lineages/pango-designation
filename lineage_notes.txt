@@ -5134,6 +5134,9 @@ PQ.17.7	Alias of XDV.1.5.1.1.8.1.17.7, ORF1b:I2626V
 PQ.17.7.1	Alias of XDV.1.5.1.1.8.1.17.7.1, S:S680F, on A26046G branch, South Korea
 PQ.17.7.2	Alias of XDV.1.5.1.1.8.1.17.7.2, S:H445P, on A26046G branch, South Korea, from sars-cov-2-variants/lineage-proposals#2980
 RK.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1, S:D420N, from sars-cov-2-variants/lineage-proposals#2980
+RK.1.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.1, N:G238V
+RK.1.2	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2, G7561A, T25345C
+RK.1.3	Alias of XDV.1.5.1.1.8.1.17.7.2.1.3, C16806T
 PQ.17.8	Alias of XDV.1.5.1.1.8.1.17.8, S:A701V, S:P809S, ORF7a:L20F, from #3125
 PQ.17.9	Alias of XDV.1.5.1.1.8.1.17.9, ORF3a:P240L, T15009C, from sars-cov-2-variants/lineage-proposals#2597
 PQ.17.10	Alias of XDV.1.5.1.1.8.1.17.10, T4441C
