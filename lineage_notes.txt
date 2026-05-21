@@ -4999,6 +4999,7 @@ PQ.2.1.2	Alias of XDV.1.5.1.1.8.1.2.1.2, S:Q677H, on C10969T, C18814T branch
 PQ.2.1.3	Alias of XDV.1.5.1.1.8.1.2.1.3, C19263T
 SH.1	Alias of XDV.1.5.1.1.8.1.2.1.3.1, ORF1a:S911A, Canada
 PQ.2.1.4	Alias of XDV.1.5.1.1.8.1.2.1.4, C2788T
+SY.1	Alias of XDV.1.5.1.1.8.1.2.1.4.1, S:A522P
 PQ.2.1.5	Alias of XDV.1.5.1.1.8.1.2.1.5, T24194C
 PQ.2.1.6	Alias of XDV.1.5.1.1.8.1.2.1.6, C7420T
 PQ.2.1.7	Alias of XDV.1.5.1.1.8.1.2.1.7, ORF1b:T2432I
@@ -5508,6 +5509,7 @@ XFG.3.3.1	ORF1a:L2062F
 SE.1	Alias of XFG.3.3.1.1, ORF1a:T1429I
 SE.2	Alias of XFG.3.3.1.2, C13264T
 SE.2.1	Alias of XFG.3.3.1.2.1, S:A435S, S:N532D, from sars-cov-2-variants/lineage-proposals#3335
+SE.2.1.1	Alias of XFG.3.3.1.2.1.1, S:K147Q
 XFG.3.3.2	C1426T, C4331T, C10718A
 XFG.3.3.3	S:L335F, ORF1a:V4102I, from sars-cov-2-variants/lineage-proposals#2586
 XFG.3.4	C18885T, T28822G, on C10615T branch
