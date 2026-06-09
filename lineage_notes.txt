@@ -5010,6 +5010,7 @@ PQ.2.1.8	Alias of XDV.1.5.1.1.8.1.2.1.8, ORF1a:L4391F, ORF1b:V1092F, ORF1b:S2359
 PQ.2.1.9	Alias of XDV.1.5.1.1.8.1.2.1.9, C10369T
 PQ.2.1.10	Alias of XDV.1.5.1.1.8.1.2.1.10, C27149T
 PQ.2.1.11	Alias of XDV.1.5.1.1.8.1.2.1.11, S:S680P, S:H954Y, from sars-cov-2-variants/lineage-proposals#3071
+SZ.1	Alias of XDV.1.5.1.1.8.1.2.1.11.1, S:I569V
 PQ.2.1.12	Alias of XDV.1.5.1.1.8.1.2.1.12, C6268T, T6376C
 PQ.2.1.13	Alias of XDV.1.5.1.1.8.1.2.1.13, S:S98F, S:W152R, Canada
 PQ.2.1.14	Alias of XDV.1.5.1.1.8.1.2.1.14, T10612G
@@ -5052,6 +5053,7 @@ RC.8	Alias of XDV.1.5.1.1.8.1.2.8.1.8, ORF1a:H1113Y
 RC.9	Alias of XDV.1.5.1.1.8.1.2.8.1.9, C26882T
 RC.10	Alias of XDV.1.5.1.1.8.1.2.8.1.10, ORF1a:K1980R, ORF1a:T2056I
 RC.11	Alias of XDV.1.5.1.1.8.1.2.8.1.11, S:R346K, T12985C, C20436T, from sars-cov-2-variants/lineage-proposals#3434
+RC.12	Alias of XDV.1.5.1.1.8.1.2.8.1.12, S:Q677R, ORF1a:S2030L, ORF1a:T2495A, Australia
 PQ.2.8.2	Alias of XDV.1.5.1.1.8.1.2.8.2, S:V289I
 PQ.2.9	Alias of XDV.1.5.1.1.8.1.2.9, C18814T
 PQ.2.10	Alias of XDV.1.5.1.1.8.1.2.10, ORF8:M1V, T13668C, from sars-cov-2-variants/lineage-proposals#2736
