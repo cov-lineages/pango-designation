@@ -5641,6 +5641,7 @@ XFG.5.1.4	C2485T
 XFG.5.1.5	S:L441I, C24034T, from sars-cov-2-variants/lineage-proposals#2861
 XFG.5.1.6	S:A688T
 XFG.5.1.7	S:K679R, ORF8:D63G, from sars-cov-2-variants/lineage-proposals#2973
+XFG.5.1.8	S:A435S, ORF1a:A4285V, Europe
 XFG.5.2	A9079G
 XFG.5.2.1	S:S680F, from sars-cov-2-variants/lineage-proposals#2808
 XFG.5.2.2	T26972C
