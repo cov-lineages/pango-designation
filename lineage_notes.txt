@@ -5820,6 +5820,9 @@ RA.1	Alias of XFJ.3.1.1.1, S:T236S, from sars-cov-2-variants/lineage-proposals#3
 XFJ.3.1.2	N:A152S, N:K229T
 RW.1	Alias of XFJ.3.1.2.1, S:K478T (rev), from sars-cov-2-variants/lineage-proposals#3337
 RW.1.1	Alias of XFJ.3.1.2.1.1, S:A435S, from sars-cov-2-variants/lineage-proposals#3337
+RW.1.1.1	Alias of XFJ.3.1.2.1.1.1, ORF1a:V2276G
+RW.1.1.2	Alias of XFJ.3.1.2.1.1.2, T8719C
+RW.1.1.3	Alias of XFJ.3.1.2.1.1.3, C25413T
 XFJ.3.1.3	ORF1a:H1108Y
 XFJ.3.1.4	A19890G
 XFJ.3.2	ORF1b:A241T
