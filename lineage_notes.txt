@@ -5011,6 +5011,8 @@ PQ.2.1.9	Alias of XDV.1.5.1.1.8.1.2.1.9, C10369T
 PQ.2.1.10	Alias of XDV.1.5.1.1.8.1.2.1.10, C27149T
 PQ.2.1.11	Alias of XDV.1.5.1.1.8.1.2.1.11, S:S680P, S:H954Y, from sars-cov-2-variants/lineage-proposals#3071
 SZ.1	Alias of XDV.1.5.1.1.8.1.2.1.11.1, S:I569V
+SZ.2	Alias of XDV.1.5.1.1.8.1.2.1.11.2, C1594T on C28657T branch
+SZ.3	Alias of XDV.1.5.1.1.8.1.2.1.11.3, S:H445P
 PQ.2.1.12	Alias of XDV.1.5.1.1.8.1.2.1.12, C6268T, T6376C
 PQ.2.1.13	Alias of XDV.1.5.1.1.8.1.2.1.13, S:S98F, S:W152R, Canada
 PQ.2.1.14	Alias of XDV.1.5.1.1.8.1.2.1.14, T10612G
