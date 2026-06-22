@@ -5009,7 +5009,7 @@ RZ.2.1	Alias of XDV.1.5.1.1.8.1.2.1.7.2.1, S:R346T
 PQ.2.1.8	Alias of XDV.1.5.1.1.8.1.2.1.8, ORF1a:L4391F, ORF1b:V1092F, ORF1b:S2359F
 PQ.2.1.9	Alias of XDV.1.5.1.1.8.1.2.1.9, C10369T
 PQ.2.1.10	Alias of XDV.1.5.1.1.8.1.2.1.10, C27149T
-PQ.2.1.11	Alias of XDV.1.5.1.1.8.1.2.1.11, S:S680P, S:H954Y, from sars-cov-2-variants/lineage-proposals#3071
+PQ.2.1.11	Alias of XDV.1.5.1.1.8.1.2.1.11, S:S680P, S:H954Y, most with ORF1a:Y2171F, from sars-cov-2-variants/lineage-proposals#3071
 SZ.1	Alias of XDV.1.5.1.1.8.1.2.1.11.1, S:I569V
 SZ.2	Alias of XDV.1.5.1.1.8.1.2.1.11.2, C1594T on C28657T branch
 SZ.3	Alias of XDV.1.5.1.1.8.1.2.1.11.3, S:H445P
