@@ -5644,6 +5644,7 @@ XFG.5.1.5	S:L441I, C24034T, from sars-cov-2-variants/lineage-proposals#2861
 XFG.5.1.6	S:A688T
 XFG.5.1.7	S:K679R, ORF8:D63G, from sars-cov-2-variants/lineage-proposals#2973
 TB.1	Alias of XFG.5.1.7.1, S:A435S, ORF1a:L552F,  ORF1a:L642F, Singapore
+TB.2	Alias of XFG.5.1.7.2, S:V1264L, ORF1a:S771N, from sars-cov-2-variants/lineage-proposals#3460
 XFG.5.1.8	S:A435S, ORF1a:A4285V, Europe
 XFG.5.2	A9079G
 XFG.5.2.1	S:S680F, from sars-cov-2-variants/lineage-proposals#2808
@@ -5906,6 +5907,7 @@ XGV	Recombinant lineage of NW.1.2, XFG.3 (breakpoint 10615-11941), from sars-cov
 XGW	Recombinant lineage of NY.3.3, SC.1 (breakpoint 8818-10227), from sars-cov-2-variants/lineage-proposals#3312
 XGY	Recombinant lineage of XFG.3, PQ.17.7, XFG.3 (breakpoints 2096-3430, 23278-25616), from sars-cov-2-variants/lineage-proposals#3316
 XGZ	Recombinant lineage of XFG, QF.7.1 (breakpoint 15763-18884), from #3204
+XHA	Recombinant lineage of TB.2, RV.1.1.1, TB.2 (breakpoints 5240-5811, 22890-23597), from sars-cov-2-variants/lineage-proposals#3460
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
