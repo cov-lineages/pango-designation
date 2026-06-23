@@ -5643,6 +5643,7 @@ XFG.5.1.4	C2485T
 XFG.5.1.5	S:L441I, C24034T, from sars-cov-2-variants/lineage-proposals#2861
 XFG.5.1.6	S:A688T
 XFG.5.1.7	S:K679R, ORF8:D63G, from sars-cov-2-variants/lineage-proposals#2973
+TB.1	Alias of XFG.5.1.7.1, S:A435S, ORF1a:L552F,  ORF1a:L642F, Singapore
 XFG.5.1.8	S:A435S, ORF1a:A4285V, Europe
 XFG.5.2	A9079G
 XFG.5.2.1	S:S680F, from sars-cov-2-variants/lineage-proposals#2808
@@ -5747,6 +5748,8 @@ XFG.14.5	ORF7a:E39*, C5002T, C5365T, C9166T, T10819C, from sars-cov-2-variants/l
 XFG.14.6	C5884T
 XFG.14.7	C17463T
 XFG.14.8	C9565T
+XFG.14.8.1	S:N532S
+TA.1	Alias of XFG.14.8.1.1, S:Q613H
 XFG.14.9	S:A1070T, on C203T branch
 XFG.14.10	S:V642G
 XFG.15	S:R681H, ORF1b:A1525S, ORF1b:T2432I, on C20178T branch
@@ -5777,6 +5780,7 @@ XFG.23.1.2	C5944T, C18912T, C21676T, C29546T
 XFG.23.1.3	S:A1174V, on C29137T branch, from sars-cov-2-variants/lineage-proposals#3053
 RV.1	Alias of XFG.23.1.3.1, S:S446N, from sars-cov-2-variants/lineage-proposals#3053
 RV.1.1	Alias of XFG.23.1.3.1.1, T14961C, C24865T, A29700G
+RV.1.1.1	Alias of XFG.23.1.3.1.1.1, N:A152S
 RV.1.2	Alias of XFG.23.1.3.1.2, N:T271I, ORF1a:V2100I
 RV.1.3	Alias of XFG.23.1.3.1.3, ORF1b:V839I, ORF1a:T2087I, from sars-cov-2-variants/lineage-proposals#3388
 RV.1.4	Alias of XFG.23.1.3.1.4, ORF1a:V757I, ORF1b:M1719T
