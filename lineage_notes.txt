@@ -1839,6 +1839,8 @@ RF.5	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.1.1.5, S:M153I, S:K478T (rev), fro
 RF.5.1	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.1.1.5.1, ORF1a:K1763N, ORF1a:A3901V
 RF.5.2	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.1.1.5.2, N:T362I, ORF1a:P1640S, ORF1a:A2850V
 RF.5.3	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.1.1.5.3, ORF3a:L52F, from sars-cov-2-variants/lineage-proposals#3362
+RF.5.4	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.1.1.5.4, ORF1a:T1638N, ORF1b:T730I
+RF.6	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.1.1.6, C1997T, T23047C
 PY.1.2	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.2, ORF1a:F2173L, ORF8:A51V
 PY.1.3	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.3, T24163C
 PY.1.4	Alias of B.1.1.529.2.86.1.1.16.1.7.9.1.1.4, ORF1b:S638I
@@ -2192,10 +2194,17 @@ SJ.1	Alias of B.1.1.529.3.2.2.1.1.2.1, S:V1228L, ORF1a:G133C, Europe, from sars-
 RE.1.1.3	Alias of B.1.1.529.3.2.2.1.1.3, S:P1162L, Australia, from sars-cov-2-variants/lineage-proposals#3093
 RE.1.1.4	Alias of B.1.1.529.3.2.2.1.1.4, ORF1b:T253A, from sars-cov-2-variants/lineage-proposals#3093
 SS.1	Alias of B.1.1.529.3.2.2.1.1.4.1, S:G257V, ORF1b:I1488V
+SS.1.1	Alias of B.1.1.529.3.2.2.1.1.4.1.1, ORF1a:C2210F, South Korea
 SS.2	Alias of B.1.1.529.3.2.2.1.1.4.2, ORF1a:L3201P, ORF3a:A31V, from sars-cov-2-variants/lineage-proposals#3368
 RE.1.1.5	Alias of B.1.1.529.3.2.2.1.1.5, ORF1a:A3143V, from sars-cov-2-variants/lineage-proposals#3093
 RE.1.1.6	Alias of B.1.1.529.3.2.2.1.1.6, ORF1a:S1857L, Australia, from sars-cov-2-variants/lineage-proposals#3093
+RE.1.1.7	Alias of B.1.1.529.3.2.2.1.1.7, A8143G
+RE.1.1.8	Alias of B.1.1.529.3.2.2.1.1.8, A15486G
+RE.1.1.9	Alias of B.1.1.529.3.2.2.1.1.9, G526A, T7816C
 RE.1.2	Alias of B.1.1.529.3.2.2.1.2, C203T, C5654T, C9836T, C22594T, C28987T, South Africa, from sars-cov-2-variants/lineage-proposals#3093
+RE.1.2.1	Alias of B.1.1.529.3.2.2.1.2.1, C21952T, C24337T, on ORF1a:T821I branch, Canada/USA
+RE.1.2.2	Alias of B.1.1.529.3.2.2.1.2.2, C6310T, on ORF1a:T821I branch, South Africa
+RE.1.3	Alias of B.1.1.529.3.2.2.1.3, S:A262S, ORF1b:L1513F, ORF1b:P2321S
 RE.2	Alias of B.1.1.529.3.2.2.2, ORF1a:E1015G, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.1	Alias of B.1.1.529.3.2.2.2.1, N:T296I, on ORF1a:T1896I branch, Europe, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.1.1	Alias of B.1.1.529.3.2.2.2.1.1, C4891T, T8803C
@@ -2227,10 +2236,13 @@ SQ.2	Alias of B.1.1.529.3.2.2.2.2.9.2, C25069T, from sars-cov-2-variants/lineage
 SQ.3	Alias of B.1.1.529.3.2.2.2.2.9.3, ORF3a:A72T, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.3	Alias of B.1.1.529.3.2.2.2.3, ORF1a:T2648N, ORF1a:T4065I, on A10864G branch, from sars-cov-2-variants/lineage-proposals#3093
 RE.2.4	Alias of B.1.1.529.3.2.2.2.4, N:N126K, from sars-cov-2-variants/lineage-proposals#3093
+RE.2.4.1	Alias of B.1.1.529.3.2.2.2.4.1, C4276T, C4540T, C8311T, C15240T, C23185T, C29769T
 RE.2.5	Alias of B.1.1.529.3.2.2.2.5, ORF1a:A2593V, ORF1a:A2785V, ORF1a:P3504L, USA, from sars-cov-2-variants/lineage-proposals#3093
 RE.3	Alias of B.1.1.529.3.2.2.3, ORF1b:T2084I, from sars-cov-2-variants/lineage-proposals#3093
 RE.3.1	Alias of B.1.1.529.3.2.2.3.1, ORF1a:L3796I, ORF1b:L1681F
 RE.4	Alias of B.1.1.529.3.2.2.4, S:D1084Y, N:H300Y, South Africa/Portugal, from sars-cov-2-variants/lineage-proposals#3093
+RE.4.1	Alias of B.1.1.529.3.2.2.4.1, C4331T, G7954A, C19386T, C21811T, on ORF1a:P971A branch, Spain/Portugal
+RE.4.2	Alias of B.1.1.529.3.2.2.4.2, ORF1a:S944L, on ORF1a:P971A branch, South Africa 
 BA.4	Alias of B.1.1.529.4, from #517
 BA.4.1	Alias of B.1.1.529.4.1, mainly found in South Africa, from #548
 BA.4.1.1	Alias of B.1.1.529.4.1.1, mainly found in South Africa and Germany, from #667
