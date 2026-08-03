@@ -5078,6 +5078,7 @@ RC.9	Alias of XDV.1.5.1.1.8.1.2.8.1.9, C26882T
 RC.10	Alias of XDV.1.5.1.1.8.1.2.8.1.10, ORF1a:K1980R, ORF1a:T2056I
 RC.11	Alias of XDV.1.5.1.1.8.1.2.8.1.11, S:R346K, T12985C, C20436T, from sars-cov-2-variants/lineage-proposals#3434
 RC.12	Alias of XDV.1.5.1.1.8.1.2.8.1.12, S:Q677R, ORF1a:S2030L, ORF1a:T2495A, Australia
+RC.13	Alias of XDV.1.5.1.1.8.1.2.8.1.13, S:D420N, S:S1170P
 PQ.2.8.2	Alias of XDV.1.5.1.1.8.1.2.8.2, S:V289I
 PQ.2.9	Alias of XDV.1.5.1.1.8.1.2.9, C18814T
 PQ.2.10	Alias of XDV.1.5.1.1.8.1.2.10, ORF8:M1V, T13668C, from sars-cov-2-variants/lineage-proposals#2736
