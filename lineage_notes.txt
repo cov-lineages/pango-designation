@@ -5509,6 +5509,7 @@ XFG.2.3.1	S:N417T, from sars-cov-2-variants/lineage-proposals#2738
 XFG.2.4	S:L176F, from sars-cov-2-variants/lineage-proposals#3011
 XFG.2.5	ORF7b:E33V
 XFG.2.5.1	S:L335F, S:N417T, USA, from sars-cov-2-variants/lineage-proposals#3108
+XFG.2.5.2	ORF1b:T634I
 XFG.2.6	C29311T
 XFG.2.7	C4897T
 XFG.2.7.1	T1570C, A2410G, T18099A, T27546C
