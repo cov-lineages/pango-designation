@@ -5744,7 +5744,9 @@ XFG.6.11	ORF1b:G1772S
 XFG.6.12	G2875A
 XFG.6.13	S:K529T, S:N532K, Australia, from sars-cov-2-variants/lineage-proposals#3302
 XFG.6.13.1	S:K679N, from sars-cov-2-variants/lineage-proposals#3302
+TH.1	Alias of XFG.6.13.1, S:Q675H
 XFG.6.13.2	S:S680P, ORF1a:A2832V, from sars-cov-2-variants/lineage-proposals#3471
+TG.1	Alias of XFG.6.13.2.1, S:K147E
 XFG.6.14	S:S680P, ORF1a:S538L, from sars-cov-2-variants/lineage-proposals#3202
 XFG.6.14.1	S:S446N, from sars-cov-2-variants/lineage-proposals#3441
 TC.1	Alias of XFG.6.14.1.1, S:D936H, from sars-cov-2-variants/lineage-proposals#3476
