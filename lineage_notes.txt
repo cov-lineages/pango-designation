@@ -5721,6 +5721,7 @@ SC.1	Alias of XFG.6.2.1.1, C10228T
 XFG.6.2.2	A18585T
 SB.1	Alias of XFG.6.2.2.1, T21414C, from sars-cov-2-variants/lineage-proposals#3228
 SB.1.1	Alias of XFG.6.2.2.1, S:A435S, S:ins16KPLF, from sars-cov-2-variants/lineage-proposals#3275
+SB.1.1.1	Alias of XFG.6.2.2.1.1, S:K679R
 XFG.6.2.3	C9226T
 SU.1	Alias of XFG.6.2.3.1, S:S680P, N:T282I, from sars-cov-2-variants/lineage-proposals#3381
 XFG.6.3	T8359C
