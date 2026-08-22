@@ -5976,6 +5976,7 @@ XGZ	Recombinant lineage of XFG, QF.7.1 (breakpoint 15763-18884), from #3204
 XHA	Recombinant lineage of TB.2, RV.1.1.1, TB.2 (breakpoints 5240-5811, 22890-23597), from sars-cov-2-variants/lineage-proposals#3460
 XHB	Recombinant lineage of PY.1.1, RV.1.1.1 (breakpoint 4902-5811), from sars-cov-2-variants/lineage-proposals#3460
 XHC	Recombinant lineage of XFG.5.4.1, RF.5.2 (breakpoint 9593-10038), from sars-cov-2-variants/lineage-proposals#3479
+XHD	Recombinant lineage of XFG.3.4.1, NB.1.8.1 (breakpoint 25793–28432)
 *A.2.1	Withdrawn: Lineage with sequences predominantly from Panama
 *A.8	Withdrawn: Indian lineage merged with A.9
 *A.10	Withdrawn: Spanish lineage reassigned to A.5
