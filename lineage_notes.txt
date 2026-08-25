@@ -5173,6 +5173,8 @@ SV.2.3	Alias of XDV.1.5.1.1.8.1.16.1.1.2.3, C15024T, Singapore
 SV.2.4	Alias of XDV.1.5.1.1.8.1.16.1.1.2.4, S:H445Q
 SV.2.5	Alias of XDV.1.5.1.1.8.1.16.1.1.2.5, S:R346T, ORF1a:P1803H
 SV.2.6	Alias of XDV.1.5.1.1.8.1.16.1.1.2.6, ORF1b:P2256S, ORF10:Q29*
+SV.2.6.1	Alias of XDV.1.5.1.1.8.1.16.1.1.2.6.1, S:R346K
+SV.2.7	Alias of XDV.1.5.1.1.8.1.16.1.1.2.7, S:P793S
 SV.3	Alias of XDV.1.5.1.1.8.1.16.1.1.3, ORF1b:P1664T, ORF1b:G1903S, ORF1b:K2063N, from sars-cov-2-variants/lineage-proposals#3386
 SV.4	Alias of XDV.1.5.1.1.8.1.16.1.1.4, ORF1a:T1001I, from sars-cov-2-variants/lineage-proposals#3386
 SV.4.1	Alias of XDV.1.5.1.1.8.1.16.1.1.4.1, S:S256L, ORF1a:T2166I, from sars-cov-2-variants/lineage-proposals#3386
