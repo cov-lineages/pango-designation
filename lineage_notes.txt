@@ -5194,9 +5194,13 @@ RK.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1, S:D420N, most with A12088G, from sars-co
 RK.1.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.1, N:G238V, pre-A12088G
 RK.1.2	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2, G7561A, T25345C
 RK.1.2.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.1, S:S446N, C11620T
+RK.1.2.2	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.2, C1909T, C4999T
+RK.1.2.3	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.3, C5281T
 RK.1.3	Alias of XDV.1.5.1.1.8.1.17.7.2.1.3, C16806T
+RK.1.3.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.3.1, S:A1174V
 RK.1.4	Alias of XDV.1.5.1.1.8.1.17.7.2.1.4, ORF1a:R724S, C1288T, G24928T
 RK.1.5	Alias of XDV.1.5.1.1.8.1.17.7.2.1.5, ORF3a:Q57H
+RK.1.6	Alias of XDV.1.5.1.1.8.1.17.7.2.1.6, N:R40C, ORF1a:G3578S, ORF1b:V1706I, ORF1b:T1896S
 PQ.17.8	Alias of XDV.1.5.1.1.8.1.17.8, S:A701V, S:P809S, ORF7a:L20F, from #3125
 PQ.17.9	Alias of XDV.1.5.1.1.8.1.17.9, ORF3a:P240L, T15009C, from sars-cov-2-variants/lineage-proposals#2597
 PQ.17.10	Alias of XDV.1.5.1.1.8.1.17.10, T4441C
@@ -5850,6 +5854,8 @@ RV.1.5	Alias of XFG.23.1.3.1.5, S:V1264L, ORF1b:H1854Y
 RV.2	Alias of XFG.23.1.3.2, T24412C
 RV.2.1	Alias of XFG.23.1.3.2.1, S:V1264L, from sars-cov-2-variants/lineage-proposals#3285
 RV.2.1.1	Alias of XFG.23.1.3.2.1.1, S:S446D (A22898G, G22899A), ORF1b:T794I
+TK.1	Alias of XFG.23.1.3.2.1.1.1, S:K679N, A26148G
+RV.3	Alias of XFG.23.1.3.3, N:E136D
 XFG.23.1.4	S:W258R, ORF1a:A2855V, ORF3a:T89I, from sars-cov-2-variants/lineage-proposals#3039
 XFG.23.1.5	ORF1a:S944L, ORF3a:S74F, from sars-cov-2-variants/lineage-proposals#2968
 XFG.23.2	S:Y796H
