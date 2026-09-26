@@ -1502,8 +1502,8 @@ MC.10.1.6	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.6, S:R346T, from sars-cov-
 PH.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.6.1, S:V1264L (G25352T), ORF1a:V627F, from sars-cov-2-variants/lineage-proposals#2374
 MC.10.1.7	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.7, ORF1a:D1228G, ORF1b:T1230I, Canada/US
 PJ.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.7.1, S:R346T, ORF1b:T76I, Canada, from sars-cov-2-variants/lineage-proposals#2523
-PJ.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.7.2, S:T22N, S:N439K, S:H445P, S:Q675K, Canada, from #3237
-PJ.2.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.7.2.1, S:R190S, S:S446T, S:T547K, S:S621P, S:A623S, S:D839K, S:A958S, S:D1146G, S:I1169F, on branch with S:R346T, S:W452K, S:V1264L, from #3237
+PJ.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.7.2, S:T22N, S:N439K, S:H445P, S:Q675K, S:ins791P, Canada, from #3237
+PJ.2.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.7.2.1, S:R190S, S:S446T, S:T547K, S:del622-623, S:N641del, S:V642I, S:ins643PMA, S:Q644E, S:D839K, S:A958S, S:D1146G, S:I1169F, on branch with S:R346T, S:W452K, S:V1264L, from #3237
 MC.10.1.8	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.1.8, G18960A, T28094A
 MC.10.2	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2, S:I101T, S:A376D, ORF1a:K3353R, from sars-cov-2-variants/lineage-proposals#2015
 MC.10.2.1	Alias of B.1.1.529.2.86.1.1.11.1.3.1.1.10.2.1, S:K679R, ORf7a:A105S, Australia/New Zealand, from #2862
@@ -5202,9 +5202,9 @@ PQ.17.7.2	Alias of XDV.1.5.1.1.8.1.17.7.2, S:H445P, on A26046G branch, South Kor
 RK.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1, S:D420N, most with A12088G, from sars-cov-2-variants/lineage-proposals#2980
 RK.1.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.1, N:G238V, pre-A12088G
 RK.1.2	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2, G7561A, T25345C
-RK.1.2.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.1, S:S446N, C11620T
-RK.1.2.2	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.2, C1909T, C4999T
-RK.1.2.3	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.3, C5281T
+RK.1.2.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.1, S:S446N, C11620T, on C7006T, T15264C, C18804T branch
+RK.1.2.2	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.2, C1909T, C4999T, on C7006T, T15264C, C18804T branch
+RK.1.2.3	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.3, C5281T, on C7006T, T15264C, C18804T branch
 RK.1.3	Alias of XDV.1.5.1.1.8.1.17.7.2.1.3, C16806T
 RK.1.3.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.3.1, S:A1174V
 RK.1.4	Alias of XDV.1.5.1.1.8.1.17.7.2.1.4, ORF1a:R724S, C1288T, G24928T
