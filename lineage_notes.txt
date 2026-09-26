@@ -5202,9 +5202,9 @@ PQ.17.7.2	Alias of XDV.1.5.1.1.8.1.17.7.2, S:H445P, on A26046G branch, South Kor
 RK.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1, S:D420N, most with A12088G, from sars-cov-2-variants/lineage-proposals#2980
 RK.1.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.1, N:G238V, pre-A12088G
 RK.1.2	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2, G7561A, T25345C
-RK.1.2.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.1, S:S446N, C11620T
-RK.1.2.2	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.2, C1909T, C4999T
-RK.1.2.3	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.3, C5281T
+RK.1.2.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.1, S:S446N, C11620T, on C7006T, T15264C, C18804T branch
+RK.1.2.2	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.2, C1909T, C4999T, on C7006T, T15264C, C18804T branch
+RK.1.2.3	Alias of XDV.1.5.1.1.8.1.17.7.2.1.2.3, C5281T, on C7006T, T15264C, C18804T branch
 RK.1.3	Alias of XDV.1.5.1.1.8.1.17.7.2.1.3, C16806T
 RK.1.3.1	Alias of XDV.1.5.1.1.8.1.17.7.2.1.3.1, S:A1174V
 RK.1.4	Alias of XDV.1.5.1.1.8.1.17.7.2.1.4, ORF1a:R724S, C1288T, G24928T
