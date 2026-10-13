@@ -5032,6 +5032,10 @@ SZ.1	Alias of XDV.1.5.1.1.8.1.2.1.11.1, S:I569V on C28657T branch, from sars-cov
 SZ.2	Alias of XDV.1.5.1.1.8.1.2.1.11.2, C1594T on C28657T branch
 SZ.3	Alias of XDV.1.5.1.1.8.1.2.1.11.3, S:H445P, from sars-cov-2-variants/lineage-proposals#3459
 SZ.3.1	Alias of XDV.1.5.1.1.8.1.2.1.11.3.1, S:D420N, from sars-cov-2-variants/lineage-proposals#3459
+SZ.3.1.1	Alias of XDV.1.5.1.1.8.1.2.1.11.3.1.1, ORF1a:T1788M, C25854T, on ORF1a:R1464W branch
+TN.1	Alias of XDV.1.5.1.1.8.1.2.1.11.3.1.1.1, S:I934V
+SZ.3.1.2	Alias of XDV.1.5.1.1.8.1.2.1.11.3.1.2, ORF1a:E444V, on ORF1a:P2046S branch
+SZ.3.1.3	Alias of XDV.1.5.1.1.8.1.2.1.11.3.1.3, ORF1b:P1821S, on ORF1a:P2046S branch
 SZ.4	Alias of XDV.1.5.1.1.8.1.2.1.11.4, S:Q1201H
 PQ.2.1.12	Alias of XDV.1.5.1.1.8.1.2.1.12, C6268T, T6376C
 PQ.2.1.13	Alias of XDV.1.5.1.1.8.1.2.1.13, S:S98F, S:W152R, Canada
